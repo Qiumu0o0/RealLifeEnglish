@@ -2,6 +2,10 @@
 
 在线使用：[打开背词应用](https://qiumu0o0.github.io/RealLifeEnglish/)。
 
+Android：[下载 APK](downloads/RealLifeEnglish.apk)（Android 6.0 及以上；离线可用，调试签名版本）。下载后在手机上打开安装，按系统提示允许此来源安装。
+
+APK 进度保存在应用内，与网页独立；卸载应用会清除。构建说明见 [Android 项目](android/README.md)。
+
 支持图片词卡、中文翻面、待记复习、JSON 词库导入和本地进度保存；已掌握词不会继续出现。
 
 词库：`ColesFruitVocabulary.json`；图片：`images/`。商品图片来自 Coles，来源记录在 `images/sources.json`。

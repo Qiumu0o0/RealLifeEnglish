@@ -1,0 +1,9 @@
+# Android APK
+
+离线 WebView 应用，内置网页和商品图，支持 JSON 导入。进度保存在应用 WebView 的 localStorage，与浏览器进度独立；卸载会清除。
+
+需要 Java 17、Android SDK（android-35）及 Build Tools 36.0.0。
+
+运行 `powershell -ExecutionPolicy Bypass -File android/build-apk.ps1`，可通过 `-SdkPath`、`-BuildToolsVersion` 指定安装路径和版本。脚本直接使用 SDK 编译、打包和签名，不需要下载 Gradle 依赖。
+
+输出：`downloads/RealLifeEnglish.apk`，为可安装的调试签名版本，非应用商店发行版。可运行 `adb install -r downloads/RealLifeEnglish.apk` 安装。

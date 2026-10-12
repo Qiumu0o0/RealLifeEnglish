@@ -1,0 +1,6 @@
+/.worktree
+/android/.gradle/
+/android/app/build/
+/android/app/src/main/assets/
+/android/local.properties
+/android/.signing/
