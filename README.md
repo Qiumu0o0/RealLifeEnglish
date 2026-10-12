@@ -2,7 +2,7 @@
 
 在线使用：[打开背词应用](https://qiumu0o0.github.io/RealLifeEnglish/)。
 
-Android：[下载 APK](downloads/RealLifeEnglish.apk)（Android 6.0 及以上；离线可用，调试签名版本）。下载后在手机上打开安装，按系统提示允许此来源安装。
+Android：[下载最新 APK](https://github.com/Qiumu0o0/RealLifeEnglish/releases/latest/download/RealLifeEnglish.apk)｜[版本记录](https://github.com/Qiumu0o0/RealLifeEnglish/releases)（Android 6.0 及以上；离线可用，调试签名版本）。下载后在手机上打开安装，按系统提示允许此来源安装。
 
 APK 进度保存在应用内，与网页独立；卸载应用会清除。构建说明见 [Android 项目](android/README.md)。
 
