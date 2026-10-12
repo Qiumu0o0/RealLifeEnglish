@@ -1,6 +1,6 @@
 ## 背词应用
 
-打开 `index.html` 即可学习，也可在项目目录运行 `python -m http.server 8765`，访问 http://localhost:8765/。
+在线使用：[打开背词应用](https://qiumu0o0.github.io/RealLifeEnglish/)。
 
 支持图片词卡、中文翻面、待记复习、JSON 词库导入和本地进度保存；已掌握词不会继续出现。
 
