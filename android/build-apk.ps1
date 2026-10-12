@@ -21,8 +21,13 @@ function Invoke-BuildTool {
 }
 Invoke-BuildTool (Join-Path $toolsDir 'aapt2.exe') @('compile','--dir',(Join-Path $PSScriptRoot 'app\src\main\res'),'-o',(Join-Path $buildDir 'resources.zip'))
 $unsigned = Join-Path $buildDir 'unsigned.apk'
-Invoke-BuildTool (Join-Path $toolsDir 'aapt2.exe') @('link','-o',$unsigned,'--manifest',(Join-Path $PSScriptRoot 'app\src\main\AndroidManifest.xml'),'-I',$platformJar,'-A',$assetsDir,'--min-sdk-version','23','--target-sdk-version','35','--version-code','1','--version-name','1.0.0',(Join-Path $buildDir 'resources.zip'))
-Invoke-BuildTool 'javac' @('-source','8','-target','8','-bootclasspath',$platformJar,'-d',$classesDir,(Join-Path $PSScriptRoot 'app\src\main\java\com\qiumu\reallifeenglish\MainActivity.java'))
+$appConfig = Get-Content -Raw -LiteralPath (Join-Path $PSScriptRoot 'app\build.gradle')
+$versionCode = [regex]::Match($appConfig, 'versionCode\s+(\d+)').Groups[1].Value
+$versionName = [regex]::Match($appConfig, "versionName\s+'([^']+)'").Groups[1].Value
+if (-not $versionCode -or -not $versionName) { throw 'Missing app version' }
+Invoke-BuildTool (Join-Path $toolsDir 'aapt2.exe') @('link','-o',$unsigned,'--manifest',(Join-Path $PSScriptRoot 'app\src\main\AndroidManifest.xml'),'-I',$platformJar,'-A',$assetsDir,'--min-sdk-version','23','--target-sdk-version','35','--version-code',$versionCode,'--version-name',$versionName,(Join-Path $buildDir 'resources.zip'))
+$javaFiles = @(Get-ChildItem -LiteralPath (Join-Path $PSScriptRoot 'app\src\main\java') -Recurse -Filter '*.java' | ForEach-Object FullName)
+Invoke-BuildTool 'javac' (@('-encoding','UTF-8','-source','8','-target','8','-bootclasspath',$platformJar,'-d',$classesDir) + $javaFiles)
 $classFiles = @(Get-ChildItem -LiteralPath $classesDir -Recurse -Filter '*.class' | ForEach-Object FullName)
 Invoke-BuildTool (Join-Path $toolsDir 'd8.bat') (@('--lib',$platformJar,'--min-api','23','--output',$dexDir) + $classFiles)
 Invoke-BuildTool 'jar' @('uf',$unsigned,'-C',$dexDir,'classes.dex')

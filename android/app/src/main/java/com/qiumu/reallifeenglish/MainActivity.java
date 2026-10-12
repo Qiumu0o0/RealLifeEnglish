@@ -15,6 +15,7 @@ import java.io.IOException;
 
 public class MainActivity extends Activity {
     private WebView webView;
+    private AppUpdater updater;
     private ValueCallback<Uri[]> fileCallback;
     private static final int PICK_FILE = 100;
     private static final String HOST = "appassets.androidplatform.net";
@@ -35,6 +36,8 @@ public class MainActivity extends Activity {
         webView.getSettings().setDomStorageEnabled(true);
         webView.getSettings().setAllowFileAccess(false);
         webView.getSettings().setAllowContentAccess(true);
+        updater = new AppUpdater(this);
+        webView.addJavascriptInterface(updater, "AndroidApp");
         webView.setWebViewClient(new WebViewClient() {
             @Override public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) {
                 Uri uri = request.getUrl();
@@ -70,6 +73,7 @@ public class MainActivity extends Activity {
 
     @Override protected void onActivityResult(int request, int result, Intent data) {
         super.onActivityResult(request, result, data);
+        if (request == AppUpdater.INSTALL_PERMISSION) updater.permissionReturned();
         if (request == PICK_FILE && fileCallback != null) {
             fileCallback.onReceiveValue(result == RESULT_OK && data != null && data.getData() != null ? new Uri[]{data.getData()} : null);
             fileCallback = null;

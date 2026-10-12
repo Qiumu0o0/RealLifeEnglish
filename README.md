@@ -6,6 +6,8 @@ Android：[下载最新 APK](https://github.com/Qiumu0o0/RealLifeEnglish/release
 
 APK 进度保存在应用内，与网页独立；卸载应用会清除。构建说明见 [Android 项目](android/README.md)。
 
+v1.1.0 起可点击“检查更新”，发现 GitHub 新版本后在应用内下载，并由系统确认安装。v1.0.0 用户需先手动下载安装新版；覆盖安装无需卸载。
+
 支持图片词卡、中文翻面、待记复习、JSON 词库导入和本地进度保存；已掌握词不会继续出现。
 
 词库：`ColesFruitVocabulary.json`；图片：`images/`。商品图片来自 Coles，来源记录在 `images/sources.json`。
