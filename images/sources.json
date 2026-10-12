@@ -1,0 +1,176 @@
+[
+  {
+    "key": "avocados",
+    "product_url": "https://www.coles.com.au/product/coles-hass-avocados-1-each-5900530",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/0/5900530-zm.jpg",
+    "file": "images/avocados.jpg"
+  },
+  {
+    "key": "raspberries",
+    "product_url": "https://www.coles.com.au/product/coles-raspberries-125g-134029",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/4/134029-zm.jpg",
+    "file": "images/raspberries.jpg"
+  },
+  {
+    "key": "blackberries",
+    "product_url": "https://www.coles.com.au/product/coles-blackberries-125g-134040",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/4/134040-zm.jpg",
+    "file": "images/blackberries.jpg"
+  },
+  {
+    "key": "mangoes",
+    "product_url": "https://www.coles.com.au/product/coles-kensington-pride-mangoes-medium-1-each-409772",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409772-zm.jpg",
+    "file": "images/mangoes.jpg"
+  },
+  {
+    "key": "apples",
+    "product_url": "https://www.coles.com.au/product/coles-granny-smith-apples-1kg-4438740",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/3/4438740-zm.jpg",
+    "file": "images/apples.jpg"
+  },
+  {
+    "key": "mandarins",
+    "product_url": "https://www.coles.com.au/product/coles-mini-pack-mandarins-850g-5211604",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/1/5211604-zm.jpg",
+    "file": "images/mandarins.jpg"
+  },
+  {
+    "key": "lemons",
+    "product_url": "https://www.coles.com.au/product/coles-lemons-1-each-5318302",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5318302-zm.jpg",
+    "file": "images/lemons.jpg"
+  },
+  {
+    "key": "limes",
+    "product_url": "https://www.coles.com.au/product/coles-limes-medium-loose-1-each-197594",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/7/197594-zm.jpg",
+    "file": "images/limes.jpg"
+  },
+  {
+    "key": "kiwifruit",
+    "product_url": "https://www.coles.com.au/product/coles-gold-kiwifruit-1-each-6979376",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/7/6979376-zm.jpg",
+    "file": "images/kiwifruit.jpg"
+  },
+  {
+    "key": "oranges",
+    "product_url": "https://www.coles.com.au/product/coles-prepacked-oranges-2kg-1866973",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/6/1866973-zm.jpg",
+    "file": "images/oranges.jpg"
+  },
+  {
+    "key": "blueberries",
+    "product_url": "https://www.coles.com.au/product/coles-blueberries-170g-3571948",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3571948-zm.jpg",
+    "file": "images/blueberries.jpg"
+  },
+  {
+    "key": "grapes",
+    "product_url": "https://www.coles.com.au/product/coles-red-seedless-grapes-approx.-1kg-8133562",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/3/8133562-zm.jpg",
+    "file": "images/grapes.jpg"
+  },
+  {
+    "key": "honeydew-melon",
+    "product_url": "https://www.coles.com.au/product/coles-honeydew-melon-whole-1-each-5945620",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/4/5945620-zm.jpg",
+    "file": "images/honeydew-melon.jpg"
+  },
+  {
+    "key": "papaya",
+    "product_url": "https://www.coles.com.au/product/coles-papaya-loose-1-each-6950578",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/5/6950578-zm.jpg",
+    "file": "images/papaya.jpg"
+  },
+  {
+    "key": "grapefruit",
+    "product_url": "https://www.coles.com.au/product/coles-large-grapefruit-ruby-red-approx.-380g-5323153",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/2/5323153-zm.jpg",
+    "file": "images/grapefruit.jpg"
+  },
+  {
+    "key": "bananas",
+    "product_url": "https://www.coles.com.au/product/coles-bananas-approx.-170g-409499",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409499-zm.jpg",
+    "file": "images/bananas.jpg"
+  },
+  {
+    "key": "watermelon",
+    "product_url": "https://www.coles.com.au/product/coles-seedless-watermelon-cut-approx.-1.8kg-7508229",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/0/7508229-zm.jpg",
+    "file": "images/watermelon.jpg"
+  },
+  {
+    "key": "pears",
+    "product_url": "https://www.coles.com.au/product/coles-packham-pears-1kg-9006662",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/0/9006662-zm.jpg",
+    "file": "images/pears.jpg"
+  },
+  {
+    "key": "pineapple",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-cut-fruit-pineapple-350g-7864380",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/6/7864380-zm.jpg",
+    "file": "images/pineapple.jpg"
+  },
+  {
+    "key": "melon",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-diced-melon-and-pineapple-mix-600g-8851679",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/5/8851679-zm.jpg",
+    "file": "images/melon.jpg"
+  },
+  {
+    "key": "fruit-salad",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-fruit-salad-selection-550g-8851646",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/5/8851646-zm.jpg",
+    "file": "images/fruit-salad.jpg"
+  },
+  {
+    "key": "rockmelon",
+    "product_url": "https://www.coles.com.au/product/coles-rockmelon-whole-1-each-428915",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/8/428915-zm.jpg",
+    "file": "images/rockmelon.jpg"
+  },
+  {
+    "key": "pomegranate-arils",
+    "product_url": "https://www.coles.com.au/product/coles-pomegranate-arils-75g-1859027",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/5/1859027-zm.jpg",
+    "file": "images/pomegranate-arils.jpg"
+  },
+  {
+    "key": "nashi-pears",
+    "product_url": "https://www.coles.com.au/product/coles-brown-nashi-pears-1-each-7063042",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/6/7063042-zm.jpg",
+    "file": "images/nashi-pears.jpg"
+  },
+  {
+    "key": "dragonfruit",
+    "product_url": "https://www.coles.com.au/product/coles-white-dragonfruit-fresh-1-each-6866880",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/6/6866880-zm.jpg",
+    "file": "images/dragonfruit.jpg"
+  },
+  {
+    "key": "coconut",
+    "product_url": "https://www.coles.com.au/product/coles-drinking-coconut-1-each-5582887",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5582887-zm.jpg",
+    "file": "images/coconut.jpg"
+  },
+  {
+    "key": "strawberries",
+    "product_url": "https://www.coles.com.au/product/coles-strawberries-250g-5191256",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/9/5191256-zm.jpg",
+    "file": "images/strawberries.jpg"
+  },
+  {
+    "key": "pomegranate",
+    "product_url": "https://www.coles.com.au/product/coles-pomegranate-medium-1-each-4519320",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/1/4519320-zm.jpg",
+    "file": "images/pomegranate.jpg"
+  },
+  {
+    "key": "passionfruit",
+    "product_url": "https://www.coles.com.au/product/coles-panama-passionfruit-1-each-5415852",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/1/5415852-zm.jpg",
+    "file": "images/passionfruit.jpg"
+  }
+]
