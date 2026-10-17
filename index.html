@@ -4,8 +4,10 @@
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Real Life English · 水果词卡</title>
 <style>
-:root{font-family:system-ui,"Microsoft YaHei",sans-serif;color:#20392c;background:#f5f7f1}*{box-sizing:border-box}body{margin:0}main{max-width:760px;margin:auto;padding:36px 20px}header{display:flex;justify-content:space-between;align-items:center;gap:12px}h1{font-size:25px;margin:0}p{line-height:1.6;color:#64766a}button,.import{font:inherit;border:1px solid #cdd8ce;border-radius:12px;padding:12px 16px;cursor:pointer;background:white;color:#20392c}button:disabled{opacity:.45;cursor:default}button:hover:not(:disabled),.import:hover{background:#eaf0e5}button.primary{background:#285c3c;color:white;border-color:#285c3c}.toolbar,.actions,.stats{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}.stats{justify-content:space-between;font-size:14px}progress{width:100%;height:9px;accent-color:#285c3c}.card{display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;min-height:320px;background:#fff;border:1px solid #dbe2d7;border-radius:24px;padding:30px;box-shadow:0 10px 35px #264b3110;text-align:center}.card:hover:not(:disabled){background:#fff}.label{font-size:13px;letter-spacing:2px;color:#718473}.word{font-size:clamp(26px,6vw,46px);font-weight:650;margin:22px 0}.context{font-size:15px;color:#687b6d;line-height:1.8}.hint{font-size:13px;color:#87938a;margin-top:24px}.actions{justify-content:center}.status{min-height:24px;font-size:14px}details{margin-top:35px}summary{cursor:pointer}input[type=search]{width:100%;padding:13px;border:1px solid #cdd8ce;border-radius:10px;font:inherit;margin:15px 0}ul{list-style:none;padding:0}li{padding:12px 0;border-bottom:1px solid #dbe2d7}li small{display:block;color:#718473;margin-top:5px}footer{font-size:12px;color:#718473;margin-top:25px}@media(max-width:480px){header{align-items:flex-start;flex-direction:column}.card{min-height:290px}.actions button{flex:1}}
+:root{font-family:system-ui,"Microsoft YaHei",sans-serif;color:#20392c;background:#f5f7f1}*{box-sizing:border-box}body{margin:0}main{max-width:760px;margin:auto;padding:36px 20px}header{display:flex;justify-content:space-between;align-items:center;gap:12px}h1{font-size:25px;margin:0}p{line-height:1.6;color:#64766a}button,.import{font:inherit;border:1px solid #cdd8ce;border-radius:12px;padding:12px 16px;cursor:pointer;background:white;color:#20392c}button:disabled{opacity:.45;cursor:default}button.primary{background:#285c3c;color:white;border-color:#285c3c}.toolbar,.actions,.stats{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}.stats{justify-content:space-between;font-size:14px}progress{width:100%;height:9px;accent-color:#285c3c}.card{display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;min-height:320px;background:#fff;border:1px solid #dbe2d7;border-radius:24px;padding:30px;box-shadow:0 10px 35px #264b3110;text-align:center}.label{font-size:13px;letter-spacing:2px;color:#718473}.word{font-size:clamp(26px,6vw,46px);font-weight:650;margin:22px 0}.context{font-size:15px;color:#687b6d;line-height:1.8}.hint{font-size:13px;color:#87938a;margin-top:24px}.actions{justify-content:center}.status{min-height:24px;font-size:14px}details{margin-top:35px}summary{cursor:pointer}input[type=search]{width:100%;padding:13px;border:1px solid #cdd8ce;border-radius:10px;font:inherit;margin:15px 0}ul{list-style:none;padding:0}li{padding:12px 0;border-bottom:1px solid #dbe2d7}li small{display:block;color:#718473;margin-top:5px}footer{font-size:12px;color:#718473;margin-top:25px}@media(max-width:480px){header{align-items:flex-start;flex-direction:column}.card{min-height:290px}.actions button{flex:1}}
 .product-image{width:230px;height:230px;max-width:100%;object-fit:contain;margin:12px 0}.product-image[hidden]{display:none}
+@media (hover:hover) and (pointer:fine){button:hover:not(:disabled),.import:hover{background:#eaf0e5}.card:hover:not(:disabled){background:#fff}}
+button:focus-visible{outline:2px solid #285c3c;outline-offset:3px}
 </style>
 </head>
 <body>
@@ -69,8 +71,12 @@ function render(){
  $("label").textContent=flipped?"中文释义":"ENGLISH";
  $("word").textContent=c?(flipped?c.chinese:c.english):"这一轮完成了";
  const picture=$("picture"),imagePath=c?wordImages[c.key]:null;
- picture.hidden=!imagePath;
- if(imagePath){picture.src=imagePath;picture.alt=c.chinese+"商品图片"}else{picture.removeAttribute("src");picture.alt=""}
+ const imageSource=imagePath&&window.appImages?window.appImages[imagePath]||imagePath:imagePath;
+ picture.hidden=!imageSource;
+ if(imageSource){
+  if(picture.getAttribute("src")!==imageSource)picture.src=imageSource;
+  picture.alt=c.chinese+"商品图片";
+ }else{picture.removeAttribute("src");picture.alt=""}
  $("context").textContent=c?"":"可切换学习未掌握，或导入新的词库。";
  $("hint").textContent=c?(flipped?"按 1 标记待记 · 按 2 标记掌握":"点击卡片查看中文 · 空格翻面"):"";
  $("card").disabled=!c;
@@ -94,6 +100,7 @@ function renderList(){
  }
 }
 try{if(saved.vocabulary){const previous=Array.isArray(saved.vocabulary)?saved.vocabulary:saved.vocabulary.products.flatMap(p=>p.terms);parseVocabulary(previous);vocabulary=previous}}catch{}
+$("picture").onload=()=>{$("picture").hidden=false};
 $("picture").onerror=()=>{$("picture").hidden=true};
 cards=parseVocabulary(vocabulary);buildDeck();renderList();
 $("card").onclick=()=>{flipped=!flipped;render()};

@@ -6,7 +6,14 @@ $ErrorActionPreference = 'Stop'
 $projectDir = Split-Path -Parent $PSScriptRoot
 $assetsDir = Join-Path $PSScriptRoot 'app\src\main\assets'
 New-Item -ItemType Directory -Path $assetsDir -Force | Out-Null
-Copy-Item -LiteralPath (Join-Path $projectDir 'index.html') -Destination $assetsDir
+$imageMap = @{}
+Get-ChildItem -LiteralPath (Join-Path $projectDir 'images') -Filter '*.jpg' | ForEach-Object {
+    $imageMap['images/' + $_.Name] = 'data:image/jpeg;base64,' + [Convert]::ToBase64String([IO.File]::ReadAllBytes($_.FullName))
+}
+$imageJson = $imageMap | ConvertTo-Json -Compress
+$html = [IO.File]::ReadAllText((Join-Path $projectDir 'index.html'))
+$html = $html.Replace('</head>', ('<script>window.appImages=' + $imageJson + ';</script></head>'))
+[IO.File]::WriteAllText((Join-Path $assetsDir 'index.html'), $html, (New-Object Text.UTF8Encoding($false)))
 Copy-Item -LiteralPath (Join-Path $projectDir 'images') -Destination $assetsDir -Recurse -Force
 $toolsDir = Join-Path $SdkPath "build-tools\$BuildToolsVersion"
 $platformJar = Join-Path $SdkPath 'platforms\android-35\android.jar'
