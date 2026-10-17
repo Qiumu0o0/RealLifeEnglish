@@ -45,9 +45,10 @@
 
 各类别独立保留语境，例如零食类 Potato Chips 译为薯片，冷冻类则译为薯条。图片是对应商品包装或商品实物，不一定为纯食材照片。Melon 沿用已有 Rockmelon 代表图，因此果蔬类49个词共48张图。
 
-本次生成的是分类数据；现有 APP 仍使用原内置水果词库。导入 `vocabulary.json` 可显示新词中英文，但新增图片映射和分类选择尚未接入 APP。
+v1.2.0 起，网页版及 Android APP 已接入所有分类数据和对应图片。可切换分类或选择全部学习；相同英文及中文释义共用掌握状态，全部分类中合并重复卡片。烟草分类显示暂无词条。导入已知词汇时会自动匹配图片，未知词汇仍可文字学习。
+
+运行 `node scripts/build-catalog.mjs` 生成 `data/app-catalog.js`，网页通过 `app.js` 使用此词库；Android 构建会自动生成并将词库和图片打包离线使用。
 
 ## 维护
 
 `node scripts/download-category-images.mjs` 可按已核实商品链接生成的下载清单补齐图片；脚本不获取实时商品列表。`python scripts/validate-category-data.py` 校验词库结构、重复词和图片可解码性（需要 Pillow）。
-

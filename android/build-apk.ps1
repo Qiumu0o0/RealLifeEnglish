@@ -4,17 +4,23 @@ param(
 )
 $ErrorActionPreference = 'Stop'
 $projectDir = Split-Path -Parent $PSScriptRoot
-$assetsDir = Join-Path $PSScriptRoot 'app\src\main\assets'
+$assetsDir = Join-Path $PSScriptRoot ('app\build\web-assets-' + [guid]::NewGuid().ToString('N'))
+& node (Join-Path $projectDir 'scripts\build-catalog.mjs')
+if ($LASTEXITCODE -ne 0) { throw 'Catalog build failed' }
 New-Item -ItemType Directory -Path $assetsDir -Force | Out-Null
-$imageMap = @{}
-Get-ChildItem -LiteralPath (Join-Path $projectDir 'images') -Filter '*.jpg' | ForEach-Object {
-    $imageMap['images/' + $_.Name] = 'data:image/jpeg;base64,' + [Convert]::ToBase64String([IO.File]::ReadAllBytes($_.FullName))
+Copy-Item -LiteralPath (Join-Path $projectDir 'index.html'),(Join-Path $projectDir 'app.js') -Destination $assetsDir
+$assetData = Join-Path $assetsDir 'data'
+New-Item -ItemType Directory -Path $assetData -Force | Out-Null
+Copy-Item -LiteralPath (Join-Path $projectDir 'data\app-catalog.js') -Destination $assetData
+$catalogIndex = Get-Content -Raw -Encoding utf8 -LiteralPath (Join-Path $projectDir 'data\index.json') | ConvertFrom-Json
+foreach ($category in $catalogIndex.categories) {
+    $imageDir = Join-Path $projectDir ('data\' + $category.category + '\images')
+    if (Test-Path -LiteralPath $imageDir) {
+        $targetDir = Join-Path $assetData ($category.category + '\images')
+        New-Item -ItemType Directory -Path $targetDir -Force | Out-Null
+        Get-ChildItem -LiteralPath $imageDir -File | ForEach-Object { Copy-Item -LiteralPath $_.FullName -Destination $targetDir }
+    }
 }
-$imageJson = $imageMap | ConvertTo-Json -Compress
-$html = [IO.File]::ReadAllText((Join-Path $projectDir 'index.html'))
-$html = $html.Replace('</head>', ('<script>window.appImages=' + $imageJson + ';</script></head>'))
-[IO.File]::WriteAllText((Join-Path $assetsDir 'index.html'), $html, (New-Object Text.UTF8Encoding($false)))
-Copy-Item -LiteralPath (Join-Path $projectDir 'images') -Destination $assetsDir -Recurse -Force
 $toolsDir = Join-Path $SdkPath "build-tools\$BuildToolsVersion"
 $platformJar = Join-Path $SdkPath 'platforms\android-35\android.jar'
 $buildDir = Join-Path $PSScriptRoot 'app\build\manual'

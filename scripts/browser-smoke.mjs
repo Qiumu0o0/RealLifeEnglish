@@ -1,0 +1,50 @@
+import {spawn} from 'node:child_process';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {pathToFileURL} from 'node:url';
+const root=path.resolve(import.meta.dirname,'..');
+const output=path.join(root,'android/app/build');
+await fs.mkdir(output,{recursive:true});
+const browser=spawn('C:/Program Files/Google/Chrome/Application/chrome.exe',[
+  '--headless','--disable-gpu','--disable-background-networking','--no-first-run',
+  '--remote-debugging-port=0','--user-data-dir='+path.join(output,'smoke-profile-'+Date.now())
+],{windowsHide:true,stdio:['ignore','ignore','pipe']});
+let socket;
+try {
+  const address=await new Promise((resolve,reject)=>{
+    const timeout=setTimeout(()=>reject(Error('Browser start timeout')),15000);
+    browser.on('error',reject);
+    browser.stderr.on('data',chunk=>{const match=chunk.toString().match(/DevTools listening on (ws:\/\/\S+)/);if(match){clearTimeout(timeout);resolve(match[1]);}});
+  });
+  socket=new WebSocket(address);
+  await new Promise((resolve,reject)=>{socket.onopen=resolve;socket.onerror=reject;});
+  let counter=0;const pending=new Map(),events=[];
+  socket.onmessage=event=>{
+    const message=JSON.parse(event.data);
+    if(message.id){const request=pending.get(message.id);if(request){pending.delete(message.id);message.error?request.reject(Error(message.error.message)):request.resolve(message.result);}}
+    else events.push(message);
+  };
+  function send(method,params={},sessionId){return new Promise((resolve,reject)=>{const id=++counter;pending.set(id,{resolve,reject});socket.send(JSON.stringify({id,method,params,sessionId}));});}
+  const {targetId}=await send('Target.createTarget',{url:'about:blank'});
+  const {sessionId}=await send('Target.attachToTarget',{targetId,flatten:true});
+  await send('Page.enable',{},sessionId);
+  await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true},sessionId);
+  await send('Page.navigate',{url:pathToFileURL(path.join(root,'index.html')).href},sessionId);
+  async function evaluate(expression){const result=await send('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true},sessionId);if(result.exceptionDetails)throw Error(JSON.stringify(result.exceptionDetails));return result.result.value;}
+  const deadline=Date.now()+10000;
+  while(!events.some(e=>e.sessionId===sessionId&&e.method==='Page.loadEventFired')){
+    if(Date.now()>deadline)throw Error('Page load timeout');
+    await new Promise(resolve=>setTimeout(resolve,50));
+  }
+  await evaluate('document.getElementById("picture").decode()');
+  const first=await evaluate('({options:document.getElementById("category").options.length,count:document.getElementById("count").textContent,width:innerWidth,scroll:document.documentElement.scrollWidth})');
+  if(first.options!==19||first.scroll>first.width)throw Error('Mobile layout or catalog mismatch: '+JSON.stringify(first));
+  const screenshot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:false},sessionId);
+  await fs.writeFile(path.join(output,'mobile-smoke.png'),Buffer.from(screenshot.data,'base64'));
+  await evaluate('document.getElementById("category").value="meat-seafood";document.getElementById("category").dispatchEvent(new Event("change"));');
+  await evaluate('document.getElementById("picture").decode()');
+  const second=await evaluate('({count:document.getElementById("count").textContent,word:document.getElementById("word").textContent,image:document.getElementById("picture").naturalWidth})');
+  if(!second.count.startsWith('20 ')||!second.image)throw Error('Category image failed');
+  console.log('Real mobile browser:',JSON.stringify({first,second}));
+  await send('Browser.close');
+} finally {if(socket)socket.close();browser.kill();}

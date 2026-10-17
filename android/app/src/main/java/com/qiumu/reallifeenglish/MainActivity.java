@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
         webView.getSettings().setAllowFileAccess(false);
         webView.getSettings().setAllowContentAccess(true);
         updater = new AppUpdater(this);
-        webView.addJavascriptInterface(updater, "AndroidApp");
+        webView.addJavascriptInterface(new AppBridge(this, updater), "AndroidApp");
         webView.setWebViewClient(new WebViewClient() {
             @Override public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) {
                 Uri uri = request.getUrl();
@@ -46,7 +46,7 @@ public class MainActivity extends Activity {
                     return new WebResourceResponse("text/plain", "UTF-8", new ByteArrayInputStream(new byte[0]));
                 }
                 String asset = path.substring(8);
-                String mime = asset.endsWith(".jpg") ? "image/jpeg" : asset.endsWith(".json") ? "application/json" : "text/html";
+                String mime = asset.endsWith(".jpg") ? "image/jpeg" : asset.endsWith(".js") ? "application/javascript" : asset.endsWith(".json") ? "application/json" : "text/html";
                 try { return new WebResourceResponse(mime, "UTF-8", getAssets().open(asset)); }
                 catch (IOException error) { return new WebResourceResponse("text/plain", "UTF-8", 404, "Not Found", null, new ByteArrayInputStream(new byte[0])); }
             }
