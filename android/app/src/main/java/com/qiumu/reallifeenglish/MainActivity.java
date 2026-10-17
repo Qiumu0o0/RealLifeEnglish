@@ -44,6 +44,11 @@ public class MainActivity extends Activity {
             @Override public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) {
                 Uri uri = request.getUrl();
                 String path = uri.getPath();
+                // Returning null lets WebView perform the HTTPS request (including CORS).
+                // Never allow remote documents to navigate into this bridge-enabled WebView.
+                if (!request.isForMainFrame() && NetworkPolicy.allowsCloud(uri.getScheme(), uri.getHost(), uri.getPort(), path)) {
+                    return null;
+                }
                 if (!HOST.equals(uri.getHost()) || path == null || !path.startsWith("/assets/") || path.contains("..")) {
                     return new WebResourceResponse("text/plain", "UTF-8", new ByteArrayInputStream(new byte[0]));
                 }
