@@ -1,0 +1,342 @@
+[
+  {
+    "category": "international-foods",
+    "english": "Thai Green Curry",
+    "chinese": "泰式绿咖喱",
+    "product_name": "Coles Convenience Meals Thai Green Curry Chicken",
+    "pack_size": "375g",
+    "product_url": "https://www.coles.com.au/product/coles-convenience-meals-thai-green-curry-chicken-375g-6388256",
+    "product_id": "6388256",
+    "image": "images/thai-green-curry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/8/6388256-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6388256.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Spring Roll",
+    "chinese": "春卷",
+    "product_name": "Cp Authentic Asia Mango Sticky Rice Spring Roll",
+    "pack_size": "275g",
+    "product_url": "https://www.coles.com.au/product/cp-authentic-asia-mango-sticky-rice-spring-roll-275g-8874856",
+    "product_id": "8874856",
+    "image": "images/spring-roll.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/7/8874856-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8874856.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Stir Fry Meal Base",
+    "chinese": "炒菜调味酱底",
+    "product_name": "Kan Tong Honey Soy & Garlic Stir Fry Meal Base Pouch",
+    "pack_size": "175g",
+    "product_url": "https://www.coles.com.au/product/kan-tong-honey-soy-and-garlic-stir-fry-meal-base-pouch-175g-3189504",
+    "product_id": "3189504",
+    "image": "images/stir-fry-meal-base.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/3189504-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3189504.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Fried Rice",
+    "chinese": "炒饭",
+    "product_name": "Coles Kitchen Special Fried Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-special-fried-rice-350g-2875095",
+    "product_id": "2875095",
+    "image": "images/fried-rice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2875095-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2875095.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Thai Red Chicken Curry",
+    "chinese": "泰式红咖喱鸡",
+    "product_name": "Coles Kitchen Thai Red Chicken Curry & Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-thai-red-chicken-curry-and-rice-350g-8873161",
+    "product_id": "8873161",
+    "image": "images/thai-red-chicken-curry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/7/8873161-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8873161.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Singapore Noodle",
+    "chinese": "新加坡炒米粉",
+    "product_name": "Coles Kitchen Chicken Singapore Noodle",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-singapore-noodle-350g-2875109",
+    "product_id": "2875109",
+    "image": "images/singapore-noodle.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2875109-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2875109.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Massaman Curry",
+    "chinese": "玛莎曼咖喱",
+    "product_name": "Coles Kitchen Beef Massaman Curry & Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-beef-massaman-curry-and-rice-350g-2875120",
+    "product_id": "2875120",
+    "image": "images/massaman-curry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2875120-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2875120.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Sweet & Sour Chicken",
+    "chinese": "糖醋鸡",
+    "product_name": "Coles Kitchen Sweet & Sour Chicken & Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-sweet-and-sour-chicken-and-rice-350g-7748732",
+    "product_id": "7748732",
+    "image": "images/sweet-sour-chicken.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/4/7748732-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7748732.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Kung Pao Chicken",
+    "chinese": "宫保鸡丁",
+    "product_name": "Coles Kitchen Kung Pao Chicken & Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-kung-pao-chicken-and-rice-350g-8872577",
+    "product_id": "8872577",
+    "image": "images/kung-pao-chicken.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/7/8872577-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8872577.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Chicken Satay",
+    "chinese": "沙爹鸡肉",
+    "product_name": "Coles Kitchen Chicken Satay",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-satay-350g-8894456",
+    "product_id": "8894456",
+    "image": "images/chicken-satay.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/9/8894456-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8894456.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Gua Bao Bun",
+    "chinese": "刈包皮",
+    "product_name": "King Of Kings Gua Bao Bun",
+    "pack_size": "560g",
+    "product_url": "https://www.coles.com.au/product/king-of-kings-gua-bao-bun-560g-4317199",
+    "product_id": "4317199",
+    "image": "images/gua-bao-bun.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4317199-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4317199.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Peking Duck Pastry",
+    "chinese": "北京烤鸭饼皮",
+    "product_name": "King Of Kings Peking Duck Pastry",
+    "pack_size": "130g",
+    "product_url": "https://www.coles.com.au/product/king-of-kings-peking-duck-pastry-130g-5300646",
+    "product_id": "5300646",
+    "image": "images/peking-duck-pastry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/0/5300646-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5300646.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Gyoza",
+    "chinese": "日式煎饺",
+    "product_name": "KB's Prawn Gyoza",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-prawn-gyoza-750g-1548719",
+    "product_id": "1548719",
+    "image": "images/gyoza.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/4/1548719-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1548719.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Udon Noodles",
+    "chinese": "乌冬面",
+    "product_name": "Hanabi Frozen Udon Noodles",
+    "pack_size": "1.2kg",
+    "product_url": "https://www.coles.com.au/product/hanabi-frozen-udon-noodles-1.2kg-2143360",
+    "product_id": "2143360",
+    "image": "images/udon-noodles.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/4/2143360-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2143360.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Dumpling",
+    "chinese": "饺子",
+    "product_name": "Samyang Buldak Spicy Dumpling Carbonara",
+    "pack_size": "280g",
+    "product_url": "https://www.coles.com.au/product/samyang-buldak-spicy-dumpling-carbonara-280g-9054960",
+    "product_id": "9054960",
+    "image": "images/dumpling.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/5/9054960-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9054960.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Hargow Dumplings",
+    "chinese": "虾饺",
+    "product_name": "KB's Prawn Hargow Dumplings",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-prawn-hargow-dumplings-750g-3051074",
+    "product_id": "3051074",
+    "image": "images/hargow-dumplings.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3051074-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3051074.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Wontons",
+    "chinese": "馄饨",
+    "product_name": "KB's Prawn & Chive Wontons",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-prawn-and-chive-wontons-750g-8968927",
+    "product_id": "8968927",
+    "image": "images/wontons.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/6/8968927-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8968927.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Pork Bun",
+    "chinese": "猪肉包",
+    "product_name": "King Of Kings Roasted BBQ Pork Bun",
+    "pack_size": "380g",
+    "product_url": "https://www.coles.com.au/product/king-of-kings-roasted-bbq-pork-bun-380g-4317224",
+    "product_id": "4317224",
+    "image": "images/pork-bun.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4317224-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4317224.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Soup Dumplings",
+    "chinese": "小笼汤包",
+    "product_name": "KB's Pork Soup Dumplings",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-pork-soup-dumplings-750g-6521673",
+    "product_id": "6521673",
+    "image": "images/soup-dumplings.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/2/6521673-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6521673.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "international-foods",
+    "english": "Miso Soup",
+    "chinese": "味噌汤",
+    "product_name": "Ajishima Freeze Dried Miso Soup With Tofu",
+    "pack_size": "12g",
+    "product_url": "https://www.coles.com.au/product/ajishima-freeze-dried-miso-soup-with-tofu-12g-2005388",
+    "product_id": "2005388",
+    "image": "images/miso-soup.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2005388-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2005388.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  }
+]

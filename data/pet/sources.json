@@ -1,0 +1,138 @@
+[
+  {
+    "category": "pet",
+    "english": "Wet Cat Food",
+    "chinese": "湿猫粮",
+    "product_name": "Dine Classic Collection Adult Wet Cat Food Saucy Morsels With Tuna & Cheese 7x85g Trays",
+    "pack_size": "7 Pack",
+    "product_url": "https://www.coles.com.au/product/dine-classic-collection-adult-wet-cat-food-saucy-morsels-with-tuna-and-cheese-7x85g-trays-7-pack-2741452",
+    "product_id": "2741452",
+    "image": "images/wet-cat-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2741452-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2741452.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "pet",
+    "english": "Cat Food",
+    "chinese": "猫粮",
+    "product_name": "Dine Classic Collection Pouch Cat Food Mixed Selection In Jelly/gravy 12x85g",
+    "pack_size": "1020g",
+    "product_url": "https://www.coles.com.au/product/dine-classic-collection-pouch-cat-food-mixed-selection-in-jellygravy-12x85g-1020g-5188310",
+    "product_id": "5188310",
+    "image": "images/cat-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/8/5188310-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5188310.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "pet",
+    "english": "Dog Treats",
+    "chinese": "狗零食",
+    "product_name": "Pedigree Dentastix Large Dog Treats Daily Oral Care Dental Chews",
+    "pack_size": "28 Pack",
+    "product_url": "https://www.coles.com.au/product/pedigree-dentastix-large-dog-treats-daily-oral-care-dental-chews-28-pack-7531887",
+    "product_id": "7531887",
+    "image": "images/dog-treats.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/3/7531887-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7531887.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "pet",
+    "english": "Dry Cat Food",
+    "chinese": "干猫粮",
+    "product_name": "Optimum Dry Cat Food Ocean Fish",
+    "pack_size": "1.4kg",
+    "product_url": "https://www.coles.com.au/product/optimum-dry-cat-food-ocean-fish-1.4kg-1154746",
+    "product_id": "1154746",
+    "image": "images/dry-cat-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/5/1154746-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1154746.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "pet",
+    "english": "Cat Treats",
+    "chinese": "猫零食",
+    "product_name": "Temptations Cat Treats Tasty Chicken Flavour",
+    "pack_size": "180g",
+    "product_url": "https://www.coles.com.au/product/temptations-cat-treats-tasty-chicken-flavour-180g-3566427",
+    "product_id": "3566427",
+    "image": "images/cat-treats.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3566427-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3566427.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "pet",
+    "english": "Wet Dog Food",
+    "chinese": "湿狗粮",
+    "product_name": "My Dog Adult Wet Dog Food Classic Loaf With Tender Chicken 6x100g Trays",
+    "pack_size": "6 Pack",
+    "product_url": "https://www.coles.com.au/product/my-dog-adult-wet-dog-food-classic-loaf-with-tender-chicken-6x100g-trays-6-pack-6387209",
+    "product_id": "6387209",
+    "image": "images/wet-dog-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/8/6387209-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6387209.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "pet",
+    "english": "Dry Dog Food",
+    "chinese": "干狗粮",
+    "product_name": "Supercoat Adult Sensitive With Fish Dry Dog Food",
+    "pack_size": "2.6kg",
+    "product_url": "https://www.coles.com.au/product/supercoat-adult-sensitive-with-fish-dry-dog-food-2.6kg-5486781",
+    "product_id": "5486781",
+    "image": "images/dry-dog-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5486781-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5486781.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "pet",
+    "english": "Cat Litter",
+    "chinese": "猫砂",
+    "product_name": "Breeders Choice Cat Litter Paper",
+    "pack_size": "15L",
+    "product_url": "https://www.coles.com.au/product/breeders-choice-cat-litter-paper-15l-8029877",
+    "product_id": "8029877",
+    "image": "images/cat-litter.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/2/8029877-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8029877.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  }
+]

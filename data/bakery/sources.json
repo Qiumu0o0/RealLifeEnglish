@@ -1,0 +1,342 @@
+[
+  {
+    "category": "bakery",
+    "english": "Cookie",
+    "chinese": "曲奇饼干",
+    "product_name": "Coles Bakery Indulgent White 40% Choc Chip Cookie",
+    "pack_size": "6 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-indulgent-white-40percent-choc-chip-cookie-6-pack-2759913",
+    "product_id": "2759913",
+    "image": "images/cookie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/5/2759913-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2759913.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Scrolls",
+    "chinese": "卷状面包",
+    "product_name": "Coles Bakery Mini Wholemeal Cheesy Vegemite Scrolls",
+    "pack_size": "4 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-mini-wholemeal-cheesy-vegemite-scrolls-4-pack-8013582",
+    "product_id": "8013582",
+    "image": "images/scroll.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/1/8013582-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8013582.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Cakes",
+    "chinese": "蛋糕",
+    "product_name": "Cadbury Milk Chocolate Mini Rolls Cakes 5 Pack",
+    "pack_size": "115g",
+    "product_url": "https://www.coles.com.au/product/cadbury-milk-chocolate-mini-rolls-cakes-5-pack-115g-1967369",
+    "product_id": "1967369",
+    "image": "images/cakes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/6/1967369-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1967369.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Pizza Base",
+    "chinese": "披萨饼底",
+    "product_name": "Toscano Mini Pizza Base 4 Pack",
+    "pack_size": "360g",
+    "product_url": "https://www.coles.com.au/product/toscano-mini-pizza-base-4-pack-360g-7741835",
+    "product_id": "7741835",
+    "image": "images/pizza-base.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/4/7741835-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7741835.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Crumpet",
+    "chinese": "英式酵母松饼",
+    "product_name": "Liberate Gluten Free Crumpet",
+    "pack_size": "240g",
+    "product_url": "https://www.coles.com.au/product/liberate-gluten-free-crumpet-240g-3751724",
+    "product_id": "3751724",
+    "image": "images/crumpet.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3751724-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3751724.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Biscuits",
+    "chinese": "饼干",
+    "product_name": "Coles Bakery ANZAC Biscuits",
+    "pack_size": "12 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-anzac-biscuits-12-pack-9155538",
+    "product_id": "9155538",
+    "image": "images/biscuits.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/5/9155538-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9155538.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Danish",
+    "chinese": "丹麦酥",
+    "product_name": "Coles Mini Cinnamon Swirl Danish",
+    "pack_size": "5 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-mini-cinnamon-swirl-danish-5-pack-7855970",
+    "product_id": "7855970",
+    "image": "images/danish.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/5/7855970-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7855970.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Donuts",
+    "chinese": "甜甜圈",
+    "product_name": "Coles Bakery Cinnamon Donuts",
+    "pack_size": "6 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-cinnamon-donuts-6-pack-4393288",
+    "product_id": "4393288",
+    "image": "images/donuts.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/9/4393288-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4393288.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Pancakes",
+    "chinese": "薄煎饼",
+    "product_name": "Coles Bakery Pancakes",
+    "pack_size": "5 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-pancakes-5-pack-5626122",
+    "product_id": "5626122",
+    "image": "images/pancakes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/2/5626122-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5626122.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Vienna",
+    "chinese": "维也纳面包",
+    "product_name": "Coles Finest By Laurent 7 Seed And Grain Vienna",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/coles-finest-by-laurent-7-seed-and-grain-vienna-1-each-8711228",
+    "product_id": "8711228",
+    "image": "images/vienna.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/1/8711228-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8711228.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Sourdough",
+    "chinese": "酸种面包",
+    "product_name": "Coles Finest By Laurent Rye Sourdough Vienna",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/coles-finest-by-laurent-rye-sourdough-vienna-1-each-8712297",
+    "product_id": "8712297",
+    "image": "images/sourdough.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/1/8712297-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8712297.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Turnover",
+    "chinese": "折叠馅酥饼",
+    "product_name": "Coles Banoffee Turnover",
+    "pack_size": "1 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-banoffee-turnover-1-pack-5152786",
+    "product_id": "5152786",
+    "image": "images/turnover.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/5/5152786-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5152786.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Brioche Burger Buns",
+    "chinese": "布里欧修汉堡面包",
+    "product_name": "La Fournee Doree Brioche Burger Buns",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/la-fournee-doree-brioche-burger-buns-250g-4876281",
+    "product_id": "4876281",
+    "image": "images/brioche-burger-buns.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/7/4876281-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4876281.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Brioche Sliders",
+    "chinese": "迷你布里欧修汉堡面包",
+    "product_name": "La Fournee Doree Brioche Sliders 10 Pack",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/la-fournee-doree-brioche-sliders-10-pack-200g-4876420",
+    "product_id": "4876420",
+    "image": "images/brioche-sliders.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/7/4876420-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4876420.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Wraps",
+    "chinese": "卷饼",
+    "product_name": "Mission Original Wraps 8 Pack",
+    "pack_size": "567g",
+    "product_url": "https://www.coles.com.au/product/mission-original-wraps-8-pack-567g-6955662",
+    "product_id": "6955662",
+    "image": "images/wraps.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/5/6955662-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6955662.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Banana Bread",
+    "chinese": "香蕉面包",
+    "product_name": "Noshu 95% Sugar Free Banana Bread Slices",
+    "pack_size": "240g",
+    "product_url": "https://www.coles.com.au/product/noshu-95percent-sugar-free-banana-bread-slices-240g-5111440",
+    "product_id": "5111440",
+    "image": "images/banana-bread.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/1/5111440-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5111440.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Fruit Loaf",
+    "chinese": "水果面包",
+    "product_name": "Mighty Soft Cafe Fruit Loaf",
+    "pack_size": "600g",
+    "product_url": "https://www.coles.com.au/product/mighty-soft-cafe-fruit-loaf-600g-7111917",
+    "product_id": "7111917",
+    "image": "images/fruit-loaf.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/1/7111917-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7111917.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Carrot Cakes",
+    "chinese": "胡萝卜蛋糕",
+    "product_name": "Noshu 95% Sugar Free Iced Carrot Cakes",
+    "pack_size": "180g",
+    "product_url": "https://www.coles.com.au/product/noshu-95percent-sugar-free-iced-carrot-cakes-180g-4215337",
+    "product_id": "4215337",
+    "image": "images/carrot-cakes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/1/4215337-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4215337.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Pikelets",
+    "chinese": "澳式小煎饼",
+    "product_name": "Golden Pikelets Original",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/golden-pikelets-original-200g-54000",
+    "product_id": "54000",
+    "image": "images/pikelets.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/54000-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/54000.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "bakery",
+    "english": "Mince Pies",
+    "chinese": "果馅小派",
+    "product_name": "Mr Kipling Fruit Mince Pies 6 Pack",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/mr-kipling-fruit-mince-pies-6-pack-350g-75098",
+    "product_id": "75098",
+    "image": "images/mince-pies.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/0/75098-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/75098.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  }
+]

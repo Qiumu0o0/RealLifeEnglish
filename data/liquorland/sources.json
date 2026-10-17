@@ -1,0 +1,325 @@
+[
+  {
+    "category": "liquorland",
+    "english": "Vodka",
+    "chinese": "伏特加",
+    "product_name": "Grey Goose Vodka 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/grey-goose-vodka-700ml-1-each-8331635",
+    "product_id": "8331635",
+    "image": "images/vodka.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8331635-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8331635.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Tequila",
+    "chinese": "龙舌兰酒",
+    "product_name": "1800 Anejo Tequila 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/1800-anejo-tequila-700ml-1-each-8344047",
+    "product_id": "8344047",
+    "image": "images/tequila.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/4/8344047-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8344047.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Whiskey",
+    "chinese": "威士忌",
+    "product_name": "Jack Daniels Tennessee Whiskey 1 Litre",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/jack-daniels-tennessee-whiskey-1-litre-1-each-8331442",
+    "product_id": "8331442",
+    "image": "images/whiskey.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8331442-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8331442.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Elderflower Liqueur",
+    "chinese": "接骨木花利口酒",
+    "product_name": "St Germain Elderflower Liqueur 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/st-germain-elderflower-liqueur-750ml-1-each-8336005",
+    "product_id": "8336005",
+    "image": "images/elderflower-liqueur.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8336005-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8336005.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Tequila Liqueur",
+    "chinese": "龙舌兰利口酒",
+    "product_name": "1800 Coconut Tequila Liqueur 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/1800-coconut-tequila-liqueur-700ml-1-each-2710131",
+    "product_id": "2710131",
+    "image": "images/tequila-liqueur.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/1/2710131-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2710131.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Scotch Whisky",
+    "chinese": "苏格兰威士忌",
+    "product_name": "Glenmorangie 12yo Single Malt Scotch Whisky 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/glenmorangie-12yo-single-malt-scotch-whisky-700ml-1-each-9498090",
+    "product_id": "9498090",
+    "image": "images/scotch-whisky.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/9/9498090-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9498090.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Bourbon",
+    "chinese": "波本威士忌",
+    "product_name": "Jim Beam Black Extra-aged Kentucky Straight Bourbon 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/jim-beam-black-extra-aged-kentucky-straight-bourbon-700ml-1-each-8339615",
+    "product_id": "8339615",
+    "image": "images/bourbon.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8339615-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8339615.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Japanese Whisky",
+    "chinese": "日本威士忌",
+    "product_name": "Kurayoshi The San-in Blended Japanese Whisky 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/kurayoshi-the-san-in-blended-japanese-whisky-700ml-1-each-5159741",
+    "product_id": "5159741",
+    "image": "images/japanese-whisky.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/5/5159741-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5159741.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Pinot Noir",
+    "chinese": "黑皮诺葡萄酒",
+    "product_name": "Hardys Brave New World Pinot Noir 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/hardys-brave-new-world-pinot-noir-750ml-1-each-8134372",
+    "product_id": "8134372",
+    "image": "images/pinot-noir.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/3/8134372-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8134372.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Shiraz",
+    "chinese": "设拉子葡萄酒",
+    "product_name": "Hardys Brave New World Shiraz Black 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/hardys-brave-new-world-shiraz-black-750ml-1-each-2833889",
+    "product_id": "2833889",
+    "image": "images/shiraz.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/3/2833889-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2833889.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Sparkling",
+    "chinese": "起泡酒",
+    "product_name": "Wildly Organic Sparkling Nv 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/wildly-organic-sparkling-nv-750ml-1-each-4470709",
+    "product_id": "4470709",
+    "image": "images/sparkling.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/7/4470709-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4470709.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Sauvignon Blanc",
+    "chinese": "长相思葡萄酒",
+    "product_name": "Wahu New Zealand Sauvignon Blanc 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/wahu-new-zealand-sauvignon-blanc-750ml-1-each-8312302",
+    "product_id": "8312302",
+    "image": "images/sauvignon-blanc.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/1/8312302-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8312302.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Lager",
+    "chinese": "拉格啤酒",
+    "product_name": "Great Northern Super Crisp Lager Block Can 375ml",
+    "pack_size": "30 Pack",
+    "product_url": "https://www.coles.com.au/product/great-northern-super-crisp-lager-block-can-375ml-30-pack-2605953",
+    "product_id": "2605953",
+    "image": "images/lager.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2605953-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2605953.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Red Blend",
+    "chinese": "混酿红葡萄酒",
+    "product_name": "McGuigan Black Label Red Blend 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/mcguigan-black-label-red-blend-750ml-1-each-8235100",
+    "product_id": "8235100",
+    "image": "images/red-blend.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/2/3/8235100-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8235100.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Cognac",
+    "chinese": "干邑白兰地",
+    "product_name": "Hennessy VS Cognac 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/hennessy-vs-cognac-700ml-1-each-8328244",
+    "product_id": "8328244",
+    "image": "images/cognac.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/2/8328244-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8328244.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Gin",
+    "chinese": "金酒",
+    "product_name": "Tanqueray Gin 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/tanqueray-gin-700ml-1-each-8328404",
+    "product_id": "8328404",
+    "image": "images/gin.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/2/8328404-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8328404.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Champagne",
+    "chinese": "香槟",
+    "product_name": "Canard Duchene Brut Nv Champagne Gift Box 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/canard-duchene-brut-nv-champagne-gift-box-750ml-1-each-3542032",
+    "product_id": "3542032",
+    "image": "images/champagne.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/4/3542032-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3542032.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Whisky",
+    "chinese": "威士忌",
+    "product_name": "The Macallan 12yo Double Cask Single Malt Whisky 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/the-macallan-12yo-double-cask-single-malt-whisky-700ml-1-each-2993568",
+    "product_id": "2993568",
+    "image": "images/whisky.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2993568-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2993568.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "liquorland",
+    "english": "Pinot Gris",
+    "chinese": "灰皮诺葡萄酒",
+    "product_name": "The Ned Pinot Gris 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/the-ned-pinot-gris-750ml-1-each-8280782",
+    "product_id": "8280782",
+    "image": "images/pinot-gris.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/2/8/8280782-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8280782.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  }
+]

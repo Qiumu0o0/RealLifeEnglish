@@ -1,0 +1,4384 @@
+[
+  {
+    "category": "meat-seafood",
+    "english": "Pork Belly Bites",
+    "chinese": "猪五花肉块",
+    "product_name": "Coles Made Easy Slow Cooked Pork Belly Bites In BBQ Honey",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-made-easy-slow-cooked-pork-belly-bites-in-bbq-honey-500g-7848420",
+    "product_id": "7848420",
+    "image": "images/pork-belly-bites.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/4/7848420-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7848420.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Salmon",
+    "chinese": "三文鱼",
+    "product_name": "Regal New Zealand King Salmon Beech Wood Smoked Slices",
+    "pack_size": "100g",
+    "product_url": "https://www.coles.com.au/product/regal-new-zealand-king-salmon-beech-wood-smoked-slices-100g-4677558",
+    "product_id": "4677558",
+    "image": "images/salmon.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/7/4677558-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4677558.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Whole Chicken",
+    "chinese": "整鸡",
+    "product_name": "The Bare Bird Whole Chicken",
+    "pack_size": "approx. 1.6kg",
+    "product_url": "https://www.coles.com.au/product/the-bare-bird-whole-chicken-approx.-1.6kg-each-3091126",
+    "product_id": "3091126",
+    "image": "images/whole-chicken.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/9/3091126-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3091126.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Chicken Breast Fillet",
+    "chinese": "鸡胸肉片",
+    "product_name": "The Bare Bird Chicken Breast Fillet",
+    "pack_size": "600g",
+    "product_url": "https://www.coles.com.au/product/the-bare-bird-chicken-breast-fillet-600g-7362270",
+    "product_id": "7362270",
+    "image": "images/chicken-breast-fillet.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/6/7362270-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7362270.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Duck Legs",
+    "chinese": "鸭腿",
+    "product_name": "Luv A Duck Honey Soy Flavoured Duck Legs",
+    "pack_size": "450g",
+    "product_url": "https://www.coles.com.au/product/luv-a-duck-honey-soy-flavoured-duck-legs-450g-2089719",
+    "product_id": "2089719",
+    "image": "images/duck-legs.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/8/2089719-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2089719.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Chicken Tenderloins",
+    "chinese": "鸡里脊",
+    "product_name": "The Bare Bird Chicken Tenderloins",
+    "pack_size": "480g",
+    "product_url": "https://www.coles.com.au/product/the-bare-bird-chicken-tenderloins-480g-7382528",
+    "product_id": "7382528",
+    "image": "images/chicken-tenderloins.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/8/7382528-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7382528.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Chicken Breast Steak",
+    "chinese": "鸡胸肉排",
+    "product_name": "The Bare Bird Chicken Breast Steak",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/the-bare-bird-chicken-breast-steak-500g-1158780",
+    "product_id": "1158780",
+    "image": "images/chicken-breast-steak.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/5/1158780-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1158780.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Beef Extra Lean Mince",
+    "chinese": "特瘦牛肉末",
+    "product_name": "Coles No Added Hormone Beef Extra Lean Mince",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-no-added-hormone-beef-extra-lean-mince-500g-8112799",
+    "product_id": "8112799",
+    "image": "images/beef-extra-lean-mince.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/1/8112799-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8112799.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Chicken Breast Diced",
+    "chinese": "鸡胸肉丁",
+    "product_name": "Coles RSPCA Approved Chicken Breast Diced",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-rspca-approved-chicken-breast-diced-500g-2736805",
+    "product_id": "2736805",
+    "image": "images/chicken-breast-diced.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/3/2736805-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2736805.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Beef Regular Mince",
+    "chinese": "普通牛肉末",
+    "product_name": "Coles No Added Hormone Beef Regular Mince",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-no-added-hormone-beef-regular-mince-500g-9012814",
+    "product_id": "9012814",
+    "image": "images/beef-regular-mince.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/1/9012814-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9012814.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Chicken Kebabs",
+    "chinese": "鸡肉串",
+    "product_name": "Coles RSPCA Approved Chicken Kebabs Honey & Soy",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/coles-rspca-approved-chicken-kebabs-honey-and-soy-750g-3745878",
+    "product_id": "3745878",
+    "image": "images/chicken-kebabs.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3745878-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3745878.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Pork Loin Chops",
+    "chinese": "猪里脊带骨肉排",
+    "product_name": "Coles Pork Loin Chops Large Pack",
+    "pack_size": "approx 1kg",
+    "product_url": "https://www.coles.com.au/product/coles-pork-loin-chops-large-pack-approx-1kg-1134793",
+    "product_id": "1134793",
+    "image": "images/pork-loin-chops.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/3/1134793-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1134793.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Porterhouse Steak",
+    "chinese": "西冷牛排",
+    "product_name": "Coles No Added Hormone Beef Vsp Rr Porterhouse Steak 2 Pack",
+    "pack_size": "450g",
+    "product_url": "https://www.coles.com.au/product/coles-no-added-hormone-beef-vsp-rr-porterhouse-steak-2-pack-450g-4997140",
+    "product_id": "4997140",
+    "image": "images/porterhouse-steak.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/9/4997140-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4997140.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Beef Mince",
+    "chinese": "牛肉末",
+    "product_name": "Coles Australian No Added Hormones Beef Mince Lean",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-australian-no-added-hormones-beef-mince-lean-500g-8112449",
+    "product_id": "8112449",
+    "image": "images/beef-mince.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/1/8112449-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8112449.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Chicken Breast Schnitzel",
+    "chinese": "裹粉鸡胸肉排",
+    "product_name": "Coles RSPCA Approved Chicken Breast Schnitzel Plain Crumb",
+    "pack_size": "600g",
+    "product_url": "https://www.coles.com.au/product/coles-rspca-approved-chicken-breast-schnitzel-plain-crumb-600g-5969865",
+    "product_id": "5969865",
+    "image": "images/chicken-breast-schnitzel.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/6/5969865-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5969865.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Beef Stir Fry",
+    "chinese": "炒制用牛肉",
+    "product_name": "Coles Beef Stir Fry",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-beef-stir-fry-500g-9990965",
+    "product_id": "9990965",
+    "image": "images/beef-stir-fry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/9/9990965-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9990965.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Chicken Mince",
+    "chinese": "鸡肉末",
+    "product_name": "Coles RSPCA Approved Chicken Mince",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-rspca-approved-chicken-mince-500g-4352145",
+    "product_id": "4352145",
+    "image": "images/chicken-mince.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/5/4352145-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4352145.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Pork 3 Star Regular Mince",
+    "chinese": "普通猪肉末",
+    "product_name": "Coles Pork 3 Star Regular Mince",
+    "pack_size": "1Kg",
+    "product_url": "https://www.coles.com.au/product/coles-pork-3-star-regular-mince-1kg-1436089",
+    "product_id": "1436089",
+    "image": "images/pork-3-star-regular-mince.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/3/1436089-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1436089.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Pork Belly",
+    "chinese": "猪五花肉",
+    "product_name": "Coles Sliced Pork Belly With Sweet Soy Glaze",
+    "pack_size": "300g",
+    "product_url": "https://www.coles.com.au/product/coles-sliced-pork-belly-with-sweet-soy-glaze-300g-5259644",
+    "product_id": "5259644",
+    "image": "images/pork-belly.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5259644-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5259644.jpg"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Pork Loin Steaks",
+    "chinese": "猪里脊肉排",
+    "product_name": "Coles Pork Loin Steaks Thin Cut",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-pork-loin-steaks-thin-cut-500g-1532752",
+    "product_id": "1532752",
+    "image": "images/pork-loin-steaks.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/3/1532752-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1532752.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Cucumbers",
+    "chinese": "黄瓜",
+    "product_name": "Coles Baby Cucumbers",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/coles-baby-cucumbers-250g-4578148",
+    "product_id": "4578148",
+    "image": "images/cucumbers.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4578148-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4578148.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Baby Spinach",
+    "chinese": "嫩菠菜",
+    "product_name": "Coles Baby Spinach",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/coles-baby-spinach-120g-1499340",
+    "product_id": "1499340",
+    "image": "images/baby-spinach.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/9/1499340-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1499340.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Cauliflower",
+    "chinese": "花椰菜／菜花",
+    "product_name": "Coles Cauliflower Half",
+    "pack_size": "1 each",
+    "product_url": "https://www.coles.com.au/product/coles-cauliflower-half-1-each-4601320",
+    "product_id": "4601320",
+    "image": "images/cauliflower.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/0/4601320-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4601320.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Butternut Pumpkin",
+    "chinese": "奶油南瓜",
+    "product_name": "Coles Wrapped Butternut Pumpkin",
+    "pack_size": "approx. 700g",
+    "product_url": "https://www.coles.com.au/product/coles-wrapped-butternut-pumpkin-approx.-700g-each-4190600",
+    "product_id": "4190600",
+    "image": "images/butternut-pumpkin.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/9/4190600-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4190600.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Salad Mix",
+    "chinese": "混合沙拉菜",
+    "product_name": "Coles 4 Leaf Salad Mix",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-4-leaf-salad-mix-200g-8209722",
+    "product_id": "8209722",
+    "image": "images/salad-mix.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/2/0/8209722-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8209722.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Mushrooms",
+    "chinese": "蘑菇",
+    "product_name": "Coles Mushrooms Sliced",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-mushrooms-sliced-500g-2728862",
+    "product_id": "2728862",
+    "image": "images/mushrooms.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/2/2728862-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2728862.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Red Onion",
+    "chinese": "红洋葱",
+    "product_name": "Coles Red Onion 1 Kg",
+    "pack_size": "1kg",
+    "product_url": "https://www.coles.com.au/product/coles-red-onion-1-kg-1kg-8467604",
+    "product_id": "8467604",
+    "image": "images/red-onion.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/6/8467604-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8467604.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Rocket",
+    "chinese": "芝麻菜",
+    "product_name": "Coles Lettuce Baby Rocket",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/coles-lettuce-baby-rocket-120g-1499475",
+    "product_id": "1499475",
+    "image": "images/rocket.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/9/1499475-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1499475.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Iceberg",
+    "chinese": "球生菜",
+    "product_name": "Coles Iceberg Salad Blend",
+    "pack_size": "300g",
+    "product_url": "https://www.coles.com.au/product/coles-iceberg-salad-blend-300g-5450831",
+    "product_id": "5450831",
+    "image": "images/iceberg.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/5/5450831-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5450831.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Caesar Salad",
+    "chinese": "凯撒沙拉",
+    "product_name": "Coles Kitchen Caesar Salad Bowl",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-caesar-salad-bowl-200g-8174708",
+    "product_id": "8174708",
+    "image": "images/caesar-salad.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/7/8174708-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8174708.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Broccoli",
+    "chinese": "西兰花",
+    "product_name": "Coles Baby Broccoli",
+    "pack_size": "1 Bunch",
+    "product_url": "https://www.coles.com.au/product/coles-baby-broccoli-1-bunch-5982477",
+    "product_id": "5982477",
+    "image": "images/broccoli.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/8/5982477-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5982477.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Tomatoes",
+    "chinese": "番茄",
+    "product_name": "Coles Cocktail Truss Tomatoes",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/coles-cocktail-truss-tomatoes-250g-3088176",
+    "product_id": "3088176",
+    "image": "images/tomatoes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/8/3088176-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3088176.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Pumpkin",
+    "chinese": "南瓜",
+    "product_name": "Coles Fresh Halloween Mini Jack Pumpkin",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/coles-fresh-halloween-mini-jack-pumpkin-1-each-1091169",
+    "product_id": "1091169",
+    "image": "images/pumpkin.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/9/1091169-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1091169.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Pasta Salad",
+    "chinese": "意面沙拉",
+    "product_name": "Coles Kitchen Classic Pasta Salad",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-classic-pasta-salad-400g-5503494",
+    "product_id": "5503494",
+    "image": "images/pasta-salad.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/0/5503494-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5503494.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Coleslaw",
+    "chinese": "卷心菜丝沙拉",
+    "product_name": "Coles Kitchen Classic Coleslaw Salad",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-classic-coleslaw-salad-400g-5504613",
+    "product_id": "5504613",
+    "image": "images/coleslaw.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/0/5504613-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5504613.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Pistachios",
+    "chinese": "开心果",
+    "product_name": "Coles Pistachios Roasted & Salted",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-pistachios-roasted-and-salted-400g-2131611",
+    "product_id": "2131611",
+    "image": "images/pistachios.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/3/2131611-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2131611.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Kale",
+    "chinese": "羽衣甘蓝",
+    "product_name": "Coles Chopped Kale",
+    "pack_size": "140g",
+    "product_url": "https://www.coles.com.au/product/coles-chopped-kale-140g-2674606",
+    "product_id": "2674606",
+    "image": "images/kale.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/7/2674606-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2674606.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Potato Salad",
+    "chinese": "土豆沙拉",
+    "product_name": "Coles Kitchen Classic Potato Salad",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-classic-potato-salad-400g-5508024",
+    "product_id": "5508024",
+    "image": "images/potato-salad.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/0/5508024-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5508024.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Mixed Nuts",
+    "chinese": "混合坚果",
+    "product_name": "Coles Mixed Nuts Dry Roasted Mixed Nuts",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-mixed-nuts-dry-roasted-mixed-nuts-400g-5299478",
+    "product_id": "5299478",
+    "image": "images/mixed-nuts.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/9/5299478-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5299478.jpg"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Almonds",
+    "chinese": "杏仁",
+    "product_name": "Coles Dry Roasted Almonds",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/coles-dry-roasted-almonds-750g-5210598",
+    "product_id": "5210598",
+    "image": "images/almonds.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/1/5210598-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5210598.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Yoghurt",
+    "chinese": "酸奶",
+    "product_name": "Tamar Valley Dairy The Creamery Yoghurt Pouch Mango & Cream",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/tamar-valley-dairy-the-creamery-yoghurt-pouch-mango-and-cream-150g-1754787",
+    "product_id": "1754787",
+    "image": "images/yoghurt.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/5/1754787-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1754787.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Cheese",
+    "chinese": "奶酪",
+    "product_name": "Bega Cheese Stringers Original 8 Pack",
+    "pack_size": "160g",
+    "product_url": "https://www.coles.com.au/product/bega-cheese-stringers-original-8-pack-160g-7325863",
+    "product_id": "7325863",
+    "image": "images/cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/2/7325863-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7325863.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Haloumi",
+    "chinese": "哈罗米奶酪",
+    "product_name": "Riverina Haloumi",
+    "pack_size": "180g",
+    "product_url": "https://www.coles.com.au/product/riverina-haloumi-180g-3842193",
+    "product_id": "3842193",
+    "image": "images/haloumi.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/4/3842193-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3842193.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Margarine",
+    "chinese": "人造黄油",
+    "product_name": "Meadow Lea Original Margarine Spread",
+    "pack_size": "1kg",
+    "product_url": "https://www.coles.com.au/product/meadow-lea-original-margarine-spread-1kg-224267",
+    "product_id": "224267",
+    "image": "images/margarine.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/4/224267-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/224267.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Oat Uht Milk",
+    "chinese": "超高温灭菌燕麦奶",
+    "product_name": "Sanitarium So Good Barista Oat Uht Milk",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/sanitarium-so-good-barista-oat-uht-milk-1l-5318947",
+    "product_id": "5318947",
+    "image": "images/oat-uht-milk.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5318947-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5318947.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Pudding",
+    "chinese": "布丁",
+    "product_name": "Fresh Fodder High Protein Pudding Choc Brownies Flavour",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/fresh-fodder-high-protein-pudding-choc-brownies-flavour-200g-1789919",
+    "product_id": "1789919",
+    "image": "images/pudding.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/8/1789919-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1789919.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Veggie Strips",
+    "chinese": "蔬菜条",
+    "product_name": "Wildly Good Original Veggie Strips",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/wildly-good-original-veggie-strips-200g-8067640",
+    "product_id": "8067640",
+    "image": "images/veggie-strips.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/6/8067640-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8067640.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Chicken Parma",
+    "chinese": "帕尔马风味鸡排",
+    "product_name": "Coles Kitchen Chicken Parma & Roast Potatoes",
+    "pack_size": "330g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-parma-and-roast-potatoes-330g-7750337",
+    "product_id": "7750337",
+    "image": "images/chicken-parma.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/5/7750337-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7750337.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Chicken Leek Pie",
+    "chinese": "鸡肉韭葱派",
+    "product_name": "Coles Kitchen Chicken Leek Pie",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-leek-pie-350g-5587111",
+    "product_id": "5587111",
+    "image": "images/chicken-leek-pie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5587111-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5587111.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Braised Beef",
+    "chinese": "炖牛肉",
+    "product_name": "Coles Kitchen Braised Beef & Mash",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-braised-beef-and-mash-350g-3467968",
+    "product_id": "3467968",
+    "image": "images/braised-beef.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/6/3467968-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3467968.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Lasagne",
+    "chinese": "千层面",
+    "product_name": "Coles Kitchen Beef Ragu Lasagne",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-beef-ragu-lasagne-350g-5587100",
+    "product_id": "5587100",
+    "image": "images/lasagne.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5587100-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5587100.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Cannelloni",
+    "chinese": "意式烤馅卷",
+    "product_name": "Coles Kitchen Spinach & Ricotta Cannelloni",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-spinach-and-ricotta-cannelloni-350g-3771277",
+    "product_id": "3771277",
+    "image": "images/cannelloni.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3771277-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3771277.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Butter Chicken",
+    "chinese": "黄油鸡",
+    "product_name": "Coles Kitchen Butter Chicken With Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-butter-chicken-with-rice-350g-7325091",
+    "product_id": "7325091",
+    "image": "images/butter-chicken.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/2/7325091-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7325091.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Chicken Satay",
+    "chinese": "沙爹鸡肉",
+    "product_name": "Coles Kitchen Chicken Satay",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-satay-350g-8894456",
+    "product_id": "8894456",
+    "image": "images/chicken-satay.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/9/8894456-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8894456.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Fried Rice",
+    "chinese": "炒饭",
+    "product_name": "Coles Kitchen Special Fried Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-special-fried-rice-350g-2875095",
+    "product_id": "2875095",
+    "image": "images/fried-rice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2875095-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2875095.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Mac & Cheese",
+    "chinese": "奶酪通心粉",
+    "product_name": "Coles Kitchen Pulled Pork Mac & Cheese",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-pulled-pork-mac-and-cheese-350g-5586800",
+    "product_id": "5586800",
+    "image": "images/mac-cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5586800-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5586800.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Noodles",
+    "chinese": "面条",
+    "product_name": "Coles Kitchen Chicken Teriyaki Noodles",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-teriyaki-noodles-350g-1441781",
+    "product_id": "1441781",
+    "image": "images/noodles.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/4/1441781-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1441781.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Pizza",
+    "chinese": "披萨",
+    "product_name": "Coles Kitchen Pizza BBQ Meat Lovers",
+    "pack_size": "420g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-pizza-bbq-meat-lovers-420g-1602574",
+    "product_id": "1602574",
+    "image": "images/pizza.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/0/1602574-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1602574.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Cottage Pie",
+    "chinese": "牛肉土豆泥派",
+    "product_name": "Coles Kitchen Cottage Pie",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-cottage-pie-350g-5586833",
+    "product_id": "5586833",
+    "image": "images/cottage-pie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5586833-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5586833.jpg"
+    ]
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Spaghetti Carbonara",
+    "chinese": "卡邦尼意面",
+    "product_name": "Coles Kitchen Spaghetti Carbonara",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-spaghetti-carbonara-350g-2680802",
+    "product_id": "2680802",
+    "image": "images/spaghetti-carbonara.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/8/2680802-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2680802.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Cookie",
+    "chinese": "曲奇饼干",
+    "product_name": "Coles Bakery Indulgent White 40% Choc Chip Cookie",
+    "pack_size": "6 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-indulgent-white-40percent-choc-chip-cookie-6-pack-2759913",
+    "product_id": "2759913",
+    "image": "images/cookie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/5/2759913-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2759913.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Scrolls",
+    "chinese": "卷状面包",
+    "product_name": "Coles Bakery Mini Wholemeal Cheesy Vegemite Scrolls",
+    "pack_size": "4 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-mini-wholemeal-cheesy-vegemite-scrolls-4-pack-8013582",
+    "product_id": "8013582",
+    "image": "images/scroll.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/1/8013582-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8013582.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Cakes",
+    "chinese": "蛋糕",
+    "product_name": "Cadbury Milk Chocolate Mini Rolls Cakes 5 Pack",
+    "pack_size": "115g",
+    "product_url": "https://www.coles.com.au/product/cadbury-milk-chocolate-mini-rolls-cakes-5-pack-115g-1967369",
+    "product_id": "1967369",
+    "image": "images/cakes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/6/1967369-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1967369.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Pizza Base",
+    "chinese": "披萨饼底",
+    "product_name": "Toscano Mini Pizza Base 4 Pack",
+    "pack_size": "360g",
+    "product_url": "https://www.coles.com.au/product/toscano-mini-pizza-base-4-pack-360g-7741835",
+    "product_id": "7741835",
+    "image": "images/pizza-base.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/4/7741835-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7741835.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Crumpet",
+    "chinese": "英式酵母松饼",
+    "product_name": "Liberate Gluten Free Crumpet",
+    "pack_size": "240g",
+    "product_url": "https://www.coles.com.au/product/liberate-gluten-free-crumpet-240g-3751724",
+    "product_id": "3751724",
+    "image": "images/crumpet.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3751724-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3751724.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Biscuits",
+    "chinese": "饼干",
+    "product_name": "Coles Bakery ANZAC Biscuits",
+    "pack_size": "12 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-anzac-biscuits-12-pack-9155538",
+    "product_id": "9155538",
+    "image": "images/biscuits.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/5/9155538-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9155538.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Danish",
+    "chinese": "丹麦酥",
+    "product_name": "Coles Mini Cinnamon Swirl Danish",
+    "pack_size": "5 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-mini-cinnamon-swirl-danish-5-pack-7855970",
+    "product_id": "7855970",
+    "image": "images/danish.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/5/7855970-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7855970.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Donuts",
+    "chinese": "甜甜圈",
+    "product_name": "Coles Bakery Cinnamon Donuts",
+    "pack_size": "6 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-cinnamon-donuts-6-pack-4393288",
+    "product_id": "4393288",
+    "image": "images/donuts.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/9/4393288-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4393288.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Pancakes",
+    "chinese": "薄煎饼",
+    "product_name": "Coles Bakery Pancakes",
+    "pack_size": "5 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-bakery-pancakes-5-pack-5626122",
+    "product_id": "5626122",
+    "image": "images/pancakes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/2/5626122-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5626122.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Vienna",
+    "chinese": "维也纳面包",
+    "product_name": "Coles Finest By Laurent 7 Seed And Grain Vienna",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/coles-finest-by-laurent-7-seed-and-grain-vienna-1-each-8711228",
+    "product_id": "8711228",
+    "image": "images/vienna.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/1/8711228-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8711228.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Sourdough",
+    "chinese": "酸种面包",
+    "product_name": "Coles Finest By Laurent Rye Sourdough Vienna",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/coles-finest-by-laurent-rye-sourdough-vienna-1-each-8712297",
+    "product_id": "8712297",
+    "image": "images/sourdough.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/1/8712297-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8712297.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Turnover",
+    "chinese": "折叠馅酥饼",
+    "product_name": "Coles Banoffee Turnover",
+    "pack_size": "1 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-banoffee-turnover-1-pack-5152786",
+    "product_id": "5152786",
+    "image": "images/turnover.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/5/5152786-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5152786.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Brioche Burger Buns",
+    "chinese": "布里欧修汉堡面包",
+    "product_name": "La Fournee Doree Brioche Burger Buns",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/la-fournee-doree-brioche-burger-buns-250g-4876281",
+    "product_id": "4876281",
+    "image": "images/brioche-burger-buns.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/7/4876281-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4876281.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Brioche Sliders",
+    "chinese": "迷你布里欧修汉堡面包",
+    "product_name": "La Fournee Doree Brioche Sliders 10 Pack",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/la-fournee-doree-brioche-sliders-10-pack-200g-4876420",
+    "product_id": "4876420",
+    "image": "images/brioche-sliders.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/7/4876420-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4876420.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Wraps",
+    "chinese": "卷饼",
+    "product_name": "Mission Original Wraps 8 Pack",
+    "pack_size": "567g",
+    "product_url": "https://www.coles.com.au/product/mission-original-wraps-8-pack-567g-6955662",
+    "product_id": "6955662",
+    "image": "images/wraps.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/5/6955662-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6955662.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Banana Bread",
+    "chinese": "香蕉面包",
+    "product_name": "Noshu 95% Sugar Free Banana Bread Slices",
+    "pack_size": "240g",
+    "product_url": "https://www.coles.com.au/product/noshu-95percent-sugar-free-banana-bread-slices-240g-5111440",
+    "product_id": "5111440",
+    "image": "images/banana-bread.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/1/5111440-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5111440.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Fruit Loaf",
+    "chinese": "水果面包",
+    "product_name": "Mighty Soft Cafe Fruit Loaf",
+    "pack_size": "600g",
+    "product_url": "https://www.coles.com.au/product/mighty-soft-cafe-fruit-loaf-600g-7111917",
+    "product_id": "7111917",
+    "image": "images/fruit-loaf.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/1/7111917-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7111917.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Carrot Cakes",
+    "chinese": "胡萝卜蛋糕",
+    "product_name": "Noshu 95% Sugar Free Iced Carrot Cakes",
+    "pack_size": "180g",
+    "product_url": "https://www.coles.com.au/product/noshu-95percent-sugar-free-iced-carrot-cakes-180g-4215337",
+    "product_id": "4215337",
+    "image": "images/carrot-cakes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/1/4215337-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4215337.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Pikelets",
+    "chinese": "澳式小煎饼",
+    "product_name": "Golden Pikelets Original",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/golden-pikelets-original-200g-54000",
+    "product_id": "54000",
+    "image": "images/pikelets.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/54000-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/54000.jpg"
+    ]
+  },
+  {
+    "category": "bakery",
+    "english": "Mince Pies",
+    "chinese": "果馅小派",
+    "product_name": "Mr Kipling Fruit Mince Pies 6 Pack",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/mr-kipling-fruit-mince-pies-6-pack-350g-75098",
+    "product_id": "75098",
+    "image": "images/mince-pies.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/0/75098-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/75098.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Chicken Breast",
+    "chinese": "鸡胸肉",
+    "product_name": "Coles Free Range Chicken Breast Carved Roast",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-free-range-chicken-breast-carved-roast-200g-5487977",
+    "product_id": "5487977",
+    "image": "images/chicken-breast.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5487977-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5487977.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Brie",
+    "chinese": "布里奶酪",
+    "product_name": "Castello Double Cream Brie",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/castello-double-cream-brie-150g-5429766",
+    "product_id": "5429766",
+    "image": "images/brie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/2/5429766-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5429766.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Cheddar Cheese",
+    "chinese": "切达奶酪",
+    "product_name": "Mersey Valley Club Classic Cheddar Cheese",
+    "pack_size": "235g",
+    "product_url": "https://www.coles.com.au/product/mersey-valley-club-classic-cheddar-cheese-235g-4513200",
+    "product_id": "4513200",
+    "image": "images/cheddar-cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/1/4513200-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4513200.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Prosciutto",
+    "chinese": "意式生火腿",
+    "product_name": "Don Artusi Australian Prosciutto",
+    "pack_size": "80g",
+    "product_url": "https://www.coles.com.au/product/don-artusi-australian-prosciutto-80g-1435778",
+    "product_id": "1435778",
+    "image": "images/prosciutto.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/3/1435778-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1435778.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Leg Ham",
+    "chinese": "后腿火腿",
+    "product_name": "Don Double Smoked Leg Ham",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/don-double-smoked-leg-ham-200g-6284545",
+    "product_id": "6284545",
+    "image": "images/leg-ham.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/2/8/6284545-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6284545.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Salmon",
+    "chinese": "三文鱼",
+    "product_name": "I&J The Finest Frozen Salmon Portions Skin Off",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/iandj-the-finest-frozen-salmon-portions-skin-off-500g-3580246",
+    "product_id": "3580246",
+    "image": "images/salmon.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3580246-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3580246.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Prawns",
+    "chinese": "虾",
+    "product_name": "I&J Frozen Raw Prawns Tail On Extra Large",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/iandj-frozen-raw-prawns-tail-on-extra-large-500g-3580177",
+    "product_id": "3580177",
+    "image": "images/prawns.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3580177-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3580177.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Smoked Cheese",
+    "chinese": "烟熏奶酪",
+    "product_name": "Kroon Smoked Cheese Wedge",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/kroon-smoked-cheese-wedge-150g-6934800",
+    "product_id": "6934800",
+    "image": "images/smoked-cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/3/6934800-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6934800.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Salami",
+    "chinese": "萨拉米香肠",
+    "product_name": "Primo Stacker Mild Salami Cheese & Crackers",
+    "pack_size": "50g",
+    "product_url": "https://www.coles.com.au/product/primo-stacker-mild-salami-cheese-and-crackers-50g-3755430",
+    "product_id": "3755430",
+    "image": "images/salami.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3755430-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3755430.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Bacon",
+    "chinese": "培根",
+    "product_name": "Primo Bacon Style Pieces Twin Pack Dairy Pieces",
+    "pack_size": "300g",
+    "product_url": "https://www.coles.com.au/product/primo-bacon-style-pieces-twin-pack-dairy-pieces-300g-5946032",
+    "product_id": "5946032",
+    "image": "images/bacon.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/4/5946032-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5946032.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Roast Beef",
+    "chinese": "烤牛肉",
+    "product_name": "Primo Roast Beef Thinly Sliced",
+    "pack_size": "80g",
+    "product_url": "https://www.coles.com.au/product/primo-roast-beef-thinly-sliced-80g-2822259",
+    "product_id": "2822259",
+    "image": "images/roast-beef.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/2/2822259-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2822259.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Twiggy Sticks",
+    "chinese": "细肉肠",
+    "product_name": "Primo Original Twiggy Sticks",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/primo-original-twiggy-sticks-200g-6996841",
+    "product_id": "6996841",
+    "image": "images/twiggy-sticks.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/9/6996841-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6996841.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Chorizo",
+    "chinese": "西班牙辣香肠",
+    "product_name": "Primo Classic Chorizo 2 Pack",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/primo-classic-chorizo-2-pack-250g-6998745",
+    "product_id": "6998745",
+    "image": "images/chorizo.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/9/6998745-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6998745.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Basa Fillets",
+    "chinese": "巴沙鱼片",
+    "product_name": "I&j Frozen Basa Fillets",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/iandj-frozen-basa-fillets-750g-7108785",
+    "product_id": "7108785",
+    "image": "images/basa-fillets.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/0/7108785-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7108785.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Silverside",
+    "chinese": "腌制牛后腿肉",
+    "product_name": "Primo Silverside",
+    "pack_size": "80g",
+    "product_url": "https://www.coles.com.au/product/primo-silverside-80g-3270963",
+    "product_id": "3270963",
+    "image": "images/silverside.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3270963-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3270963.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Pastrami",
+    "chinese": "香料腌熏肉",
+    "product_name": "Primo Roast Pastrami Thinly Sliced",
+    "pack_size": "80g",
+    "product_url": "https://www.coles.com.au/product/primo-roast-pastrami-thinly-sliced-80g-2822260",
+    "product_id": "2822260",
+    "image": "images/pastrami.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/2/2822260-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2822260.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Cheese Block",
+    "chinese": "块状奶酪",
+    "product_name": "Jarlsberg Original Cheese Block",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/jarlsberg-original-cheese-block-250g-5170008",
+    "product_id": "5170008",
+    "image": "images/cheese-block.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5170008-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5170008.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Mortadella",
+    "chinese": "意式大肉肠",
+    "product_name": "Primo Mortadella Slices",
+    "pack_size": "100g",
+    "product_url": "https://www.coles.com.au/product/primo-mortadella-slices-100g-3576690",
+    "product_id": "3576690",
+    "image": "images/mortadella.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3576690-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3576690.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Havarti",
+    "chinese": "哈瓦蒂奶酪",
+    "product_name": "Castello Aged Havarti",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/castello-aged-havarti-200g-5400130",
+    "product_id": "5400130",
+    "image": "images/havarti.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/5400130-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5400130.jpg"
+    ]
+  },
+  {
+    "category": "deli",
+    "english": "Cream Cheese",
+    "chinese": "奶油奶酪",
+    "product_name": "South Cape Spring Onion & Chive Cream Cheese",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/south-cape-spring-onion-and-chive-cream-cheese-200g-6581256",
+    "product_id": "6581256",
+    "image": "images/cream-cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/8/6581256-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6581256.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Choc Chips",
+    "chinese": "巧克力豆",
+    "product_name": "Coles Simply Dark Choc Chips",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/coles-simply-dark-choc-chips-250g-264589",
+    "product_id": "264589",
+    "image": "images/choc-chips.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/4/264589-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/264589.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Chocolate Spread",
+    "chinese": "巧克力酱",
+    "product_name": "Nutella Hazelnut Chocolate Spread",
+    "pack_size": "220g",
+    "product_url": "https://www.coles.com.au/product/nutella-hazelnut-chocolate-spread-220g-9468045",
+    "product_id": "9468045",
+    "image": "images/chocolate-spread.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/6/9468045-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9468045.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Brownie Mix",
+    "chinese": "布朗尼预拌粉",
+    "product_name": "Betty Crocker Triple Chocolate Fudge Brownie Mix",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/betty-crocker-triple-chocolate-fudge-brownie-mix-500g-4525640",
+    "product_id": "4525640",
+    "image": "images/brownie-mix.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/2/4525640-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4525640.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Seasoning",
+    "chinese": "调味料",
+    "product_name": "Masterfoods Airfry Cheesy Herb Chip Seasoning Can",
+    "pack_size": "50g",
+    "product_url": "https://www.coles.com.au/product/masterfoods-airfry-cheesy-herb-chip-seasoning-can-50g-1809845",
+    "product_id": "1809845",
+    "image": "images/seasoning.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/0/1809845-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1809845.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Taco Kit",
+    "chinese": "塔可料理套装",
+    "product_name": "Old El Paso Soft Taco Kit Mexican Style",
+    "pack_size": "405g",
+    "product_url": "https://www.coles.com.au/product/old-el-paso-soft-taco-kit-mexican-style-405g-5540231",
+    "product_id": "5540231",
+    "image": "images/taco-kit.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/4/5540231-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5540231.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Pasta Sauce",
+    "chinese": "意面酱",
+    "product_name": "Dolmio Extra Pasta Sauce Bolognese",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/dolmio-extra-pasta-sauce-bolognese-500g-1274373",
+    "product_id": "1274373",
+    "image": "images/pasta-sauce.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/7/1274373-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1274373.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Tortilla Wraps",
+    "chinese": "墨西哥薄饼",
+    "product_name": "Coles Burrito Tortilla Wraps 10 Pack",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-burrito-tortilla-wraps-10-pack-400g-2372301",
+    "product_id": "2372301",
+    "image": "images/tortilla-wraps.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/7/2372301-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2372301.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Soup",
+    "chinese": "汤",
+    "product_name": "Heinz Big Red Tomato Soup Can",
+    "pack_size": "420g",
+    "product_url": "https://www.coles.com.au/product/heinz-big-red-tomato-soup-can-420g-128503",
+    "product_id": "128503",
+    "image": "images/soup.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/8/128503-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/128503.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Laksa Soup",
+    "chinese": "叻沙汤",
+    "product_name": "Coles Asian Laksa Soup Serves 2",
+    "pack_size": "65g",
+    "product_url": "https://www.coles.com.au/product/coles-asian-laksa-soup-serves-2-65g-2894577",
+    "product_id": "2894577",
+    "image": "images/laksa-soup.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/9/2894577-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2894577.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Croutons",
+    "chinese": "面包丁",
+    "product_name": "Belladotti Smoky Bacon Flavoured Croutons",
+    "pack_size": "90g",
+    "product_url": "https://www.coles.com.au/product/belladotti-smoky-bacon-flavoured-croutons-90g-7030826",
+    "product_id": "7030826",
+    "image": "images/croutons.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/3/7030826-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7030826.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Mayonnaise",
+    "chinese": "蛋黄酱",
+    "product_name": "Hellmann's Real Mayonnaise",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/hellmann%27s-real-mayonnaise-400g-4707648",
+    "product_id": "4707648",
+    "image": "images/mayonnaise.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/0/4707648-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4707648.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Peanut Butter",
+    "chinese": "花生酱",
+    "product_name": "Bega Peanut Butter Smooth",
+    "pack_size": "470g",
+    "product_url": "https://www.coles.com.au/product/bega-peanut-butter-smooth-470g-5398753",
+    "product_id": "5398753",
+    "image": "images/peanut-butter.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/9/5398753-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5398753.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Baking Chips",
+    "chinese": "烘焙巧克力豆",
+    "product_name": "Cadbury Real Chocolate Baking Chips Milk Chocolate",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/cadbury-real-chocolate-baking-chips-milk-chocolate-200g-2313620",
+    "product_id": "2313620",
+    "image": "images/baking-chips.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/1/2313620-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2313620.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Instant Coffee",
+    "chinese": "速溶咖啡",
+    "product_name": "Nescafe Blend 43 Instant Coffee",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/nescafe-blend-43-instant-coffee-150g-116322",
+    "product_id": "116322",
+    "image": "images/instant-coffee.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/6/116322-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/116322.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Sauce",
+    "chinese": "调味酱",
+    "product_name": "MasterFoods Squeezy Sauce Tomato",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/masterfoods-squeezy-sauce-tomato-500ml-7717331",
+    "product_id": "7717331",
+    "image": "images/sauce.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/1/7717331-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7717331.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Beetroot",
+    "chinese": "甜菜根",
+    "product_name": "Golden Circle Sliced Beetroot",
+    "pack_size": "450g",
+    "product_url": "https://www.coles.com.au/product/golden-circle-sliced-beetroot-450g-131541",
+    "product_id": "131541",
+    "image": "images/beetroot.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/1/131541-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/131541.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Pudding",
+    "chinese": "布丁",
+    "product_name": "Aunt Betty's Vanilla Butterscotch Pudding",
+    "pack_size": "190g",
+    "product_url": "https://www.coles.com.au/product/aunt-betty%27s-vanilla-butterscotch-pudding-190g-1959575",
+    "product_id": "1959575",
+    "image": "images/pudding.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/5/1959575-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1959575.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Spice Mix",
+    "chinese": "混合香料",
+    "product_name": "Old El Paso Spice Mix For Tacos Mild",
+    "pack_size": "30g",
+    "product_url": "https://www.coles.com.au/product/old-el-paso-spice-mix-for-tacos-mild-30g-291377",
+    "product_id": "291377",
+    "image": "images/spice-mix.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/291377-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/291377.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Instant Noodles",
+    "chinese": "方便面",
+    "product_name": "Indomie Fried Mi Goreng Instant Noodles 5x85g",
+    "pack_size": "425g",
+    "product_url": "https://www.coles.com.au/product/indomie-fried-mi-goreng-instant-noodles-5x85g-425g-9789639",
+    "product_id": "9789639",
+    "image": "images/instant-noodles.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/8/9789639-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9789639.jpg"
+    ]
+  },
+  {
+    "category": "pantry",
+    "english": "Rice",
+    "chinese": "米饭",
+    "product_name": "Ben's Original Mexican Style Rice Pouch",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/ben%27s-original-mexican-style-rice-pouch-250g-7132928",
+    "product_id": "7132928",
+    "image": "images/rice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/3/7132928-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7132928.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Chocolate",
+    "chinese": "巧克力",
+    "product_name": "Mars Chocolate Fun Size Share Bag 12 Pieces",
+    "pack_size": "192g",
+    "product_url": "https://www.coles.com.au/product/mars-chocolate-fun-size-share-bag-12-pieces-192g-4382463",
+    "product_id": "4382463",
+    "image": "images/chocolate.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/8/4382463-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4382463.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Potato Chips",
+    "chinese": "薯片",
+    "product_name": "Smith's Crinkle Cut Original Potato Chips",
+    "pack_size": "170g",
+    "product_url": "https://www.coles.com.au/product/smith%27s-crinkle-cut-original-potato-chips-170g-2358275",
+    "product_id": "2358275",
+    "image": "images/potato-chips.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/5/2358275-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2358275.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Crackers",
+    "chinese": "薄脆饼干",
+    "product_name": "Sunbites Crackers Mix Kids' Lunchbox Multipack 12 Pack",
+    "pack_size": "288g",
+    "product_url": "https://www.coles.com.au/product/sunbites-crackers-mix-kids%27-lunchbox-multipack-12-pack-288g-7483558",
+    "product_id": "7483558",
+    "image": "images/crackers.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/4/8/7483558-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7483558.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Snack Crackers",
+    "chinese": "咸味薄脆饼干",
+    "product_name": "Sunbites Cheddar & Chives Snack Crackers With Quinoa Share Pack",
+    "pack_size": "110g",
+    "product_url": "https://www.coles.com.au/product/sunbites-cheddar-and-chives-snack-crackers-with-quinoa-share-pack-110g-2976831",
+    "product_id": "2976831",
+    "image": "images/snack-crackers.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/7/2976831-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2976831.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Wafer Sticks",
+    "chinese": "威化棒",
+    "product_name": "Oreo Milk Chocolate Wafer Sticks Cookies 10 Pack",
+    "pack_size": "128g",
+    "product_url": "https://www.coles.com.au/product/oreo-milk-chocolate-wafer-sticks-cookies-10-pack-128g-1020900",
+    "product_id": "1020900",
+    "image": "images/wafer-sticks.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/2/1020900-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1020900.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Biscuits",
+    "chinese": "饼干",
+    "product_name": "Arnott's Cream Favourites Assorted Biscuits",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/arnott%27s-cream-favourites-assorted-biscuits-500g-328874",
+    "product_id": "328874",
+    "image": "images/biscuits.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/8/328874-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/328874.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Cookies",
+    "chinese": "曲奇饼干",
+    "product_name": "Oreo Mini Original Cookies Multipack 10 Pack",
+    "pack_size": "204g",
+    "product_url": "https://www.coles.com.au/product/oreo-mini-original-cookies-multipack-10-pack-204g-6538290",
+    "product_id": "6538290",
+    "image": "images/cookie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/3/6538290-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6538290.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Cheese Snacks",
+    "chinese": "奶酪味零食",
+    "product_name": "Cheezels Cheese Snacks Share Pack",
+    "pack_size": "125g",
+    "product_url": "https://www.coles.com.au/product/cheezels-cheese-snacks-share-pack-125g-7879468",
+    "product_id": "7879468",
+    "image": "images/cheese-snacks.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/7/7879468-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7879468.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Chewy Lollies",
+    "chinese": "耐嚼糖果",
+    "product_name": "Skittles Fruits Chewy Lollies Party Share Bag 12 Pieces",
+    "pack_size": "180g",
+    "product_url": "https://www.coles.com.au/product/skittles-fruits-chewy-lollies-party-share-bag-12-pieces-180g-2914018",
+    "product_id": "2914018",
+    "image": "images/chewy-lollies.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2914018-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2914018.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Popcorn",
+    "chinese": "爆米花",
+    "product_name": "Cobs Lightly Salted Slightly Sweet Popcorn",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/cobs-lightly-salted-slightly-sweet-popcorn-120g-6772389",
+    "product_id": "6772389",
+    "image": "images/popcorn.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/7/6772389-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6772389.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Rice Cakes",
+    "chinese": "米饼",
+    "product_name": "Table Of Plenty Snack Pack Topped Sweet Mini Rice Cakes Milk Choc",
+    "pack_size": "84g",
+    "product_url": "https://www.coles.com.au/product/table-of-plenty-snack-pack-topped-sweet-mini-rice-cakes-milk-choc-84g-8712504",
+    "product_id": "8712504",
+    "image": "images/rice-cakes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/1/8712504-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8712504.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Bars",
+    "chinese": "谷物棒／条状零食",
+    "product_name": "Kellogg's Nutri-Grain Original Bars 5 Pack",
+    "pack_size": "110g",
+    "product_url": "https://www.coles.com.au/product/kellogg%27s-nutri-grain-original-bars-5-pack-110g-6611459",
+    "product_id": "6611459",
+    "image": "images/bars.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/1/6611459-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6611459.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Caramel Nougat",
+    "chinese": "焦糖牛轧糖",
+    "product_name": "Mars Milk Chocolate Bar Caramel Nougat",
+    "pack_size": "47g",
+    "product_url": "https://www.coles.com.au/product/mars-milk-chocolate-bar-caramel-nougat-47g-138201",
+    "product_id": "138201",
+    "image": "images/caramel-nougat.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/8/138201-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/138201.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Lollies",
+    "chinese": "糖果",
+    "product_name": "Allen's Lollies Snakes Alive Lolly Bag",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/allen%27s-lollies-snakes-alive-lolly-bag-200g-9530138",
+    "product_id": "9530138",
+    "image": "images/lollies.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/3/9530138-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9530138.jpg"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Pretzels",
+    "chinese": "椒盐脆饼",
+    "product_name": "Parkers Pretzels Kids' Lunchbox Snacks Multipack Salted 8 Pack",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/parkers-pretzels-kids%27-lunchbox-snacks-multipack-salted-8-pack-200g-9053538",
+    "product_id": "9053538",
+    "image": "images/pretzels.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/5/9053538-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9053538.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Thai Green Curry",
+    "chinese": "泰式绿咖喱",
+    "product_name": "Coles Convenience Meals Thai Green Curry Chicken",
+    "pack_size": "375g",
+    "product_url": "https://www.coles.com.au/product/coles-convenience-meals-thai-green-curry-chicken-375g-6388256",
+    "product_id": "6388256",
+    "image": "images/thai-green-curry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/8/6388256-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6388256.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Spring Roll",
+    "chinese": "春卷",
+    "product_name": "Cp Authentic Asia Mango Sticky Rice Spring Roll",
+    "pack_size": "275g",
+    "product_url": "https://www.coles.com.au/product/cp-authentic-asia-mango-sticky-rice-spring-roll-275g-8874856",
+    "product_id": "8874856",
+    "image": "images/spring-roll.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/7/8874856-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8874856.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Stir Fry Meal Base",
+    "chinese": "炒菜调味酱底",
+    "product_name": "Kan Tong Honey Soy & Garlic Stir Fry Meal Base Pouch",
+    "pack_size": "175g",
+    "product_url": "https://www.coles.com.au/product/kan-tong-honey-soy-and-garlic-stir-fry-meal-base-pouch-175g-3189504",
+    "product_id": "3189504",
+    "image": "images/stir-fry-meal-base.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/3189504-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3189504.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Fried Rice",
+    "chinese": "炒饭",
+    "product_name": "Coles Kitchen Special Fried Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-special-fried-rice-350g-2875095",
+    "product_id": "2875095",
+    "image": "images/fried-rice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2875095-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2875095.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Thai Red Chicken Curry",
+    "chinese": "泰式红咖喱鸡",
+    "product_name": "Coles Kitchen Thai Red Chicken Curry & Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-thai-red-chicken-curry-and-rice-350g-8873161",
+    "product_id": "8873161",
+    "image": "images/thai-red-chicken-curry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/7/8873161-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8873161.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Singapore Noodle",
+    "chinese": "新加坡炒米粉",
+    "product_name": "Coles Kitchen Chicken Singapore Noodle",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-singapore-noodle-350g-2875109",
+    "product_id": "2875109",
+    "image": "images/singapore-noodle.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2875109-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2875109.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Massaman Curry",
+    "chinese": "玛莎曼咖喱",
+    "product_name": "Coles Kitchen Beef Massaman Curry & Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-beef-massaman-curry-and-rice-350g-2875120",
+    "product_id": "2875120",
+    "image": "images/massaman-curry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2875120-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2875120.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Sweet & Sour Chicken",
+    "chinese": "糖醋鸡",
+    "product_name": "Coles Kitchen Sweet & Sour Chicken & Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-sweet-and-sour-chicken-and-rice-350g-7748732",
+    "product_id": "7748732",
+    "image": "images/sweet-sour-chicken.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/4/7748732-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7748732.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Kung Pao Chicken",
+    "chinese": "宫保鸡丁",
+    "product_name": "Coles Kitchen Kung Pao Chicken & Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-kung-pao-chicken-and-rice-350g-8872577",
+    "product_id": "8872577",
+    "image": "images/kung-pao-chicken.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/7/8872577-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8872577.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Chicken Satay",
+    "chinese": "沙爹鸡肉",
+    "product_name": "Coles Kitchen Chicken Satay",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-satay-350g-8894456",
+    "product_id": "8894456",
+    "image": "images/chicken-satay.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/9/8894456-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8894456.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Gua Bao Bun",
+    "chinese": "刈包皮",
+    "product_name": "King Of Kings Gua Bao Bun",
+    "pack_size": "560g",
+    "product_url": "https://www.coles.com.au/product/king-of-kings-gua-bao-bun-560g-4317199",
+    "product_id": "4317199",
+    "image": "images/gua-bao-bun.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4317199-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4317199.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Peking Duck Pastry",
+    "chinese": "北京烤鸭饼皮",
+    "product_name": "King Of Kings Peking Duck Pastry",
+    "pack_size": "130g",
+    "product_url": "https://www.coles.com.au/product/king-of-kings-peking-duck-pastry-130g-5300646",
+    "product_id": "5300646",
+    "image": "images/peking-duck-pastry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/0/5300646-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5300646.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Gyoza",
+    "chinese": "日式煎饺",
+    "product_name": "KB's Prawn Gyoza",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-prawn-gyoza-750g-1548719",
+    "product_id": "1548719",
+    "image": "images/gyoza.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/4/1548719-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1548719.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Udon Noodles",
+    "chinese": "乌冬面",
+    "product_name": "Hanabi Frozen Udon Noodles",
+    "pack_size": "1.2kg",
+    "product_url": "https://www.coles.com.au/product/hanabi-frozen-udon-noodles-1.2kg-2143360",
+    "product_id": "2143360",
+    "image": "images/udon-noodles.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/4/2143360-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2143360.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Dumpling",
+    "chinese": "饺子",
+    "product_name": "Samyang Buldak Spicy Dumpling Carbonara",
+    "pack_size": "280g",
+    "product_url": "https://www.coles.com.au/product/samyang-buldak-spicy-dumpling-carbonara-280g-9054960",
+    "product_id": "9054960",
+    "image": "images/dumpling.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/5/9054960-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9054960.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Hargow Dumplings",
+    "chinese": "虾饺",
+    "product_name": "KB's Prawn Hargow Dumplings",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-prawn-hargow-dumplings-750g-3051074",
+    "product_id": "3051074",
+    "image": "images/hargow-dumplings.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3051074-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3051074.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Wontons",
+    "chinese": "馄饨",
+    "product_name": "KB's Prawn & Chive Wontons",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-prawn-and-chive-wontons-750g-8968927",
+    "product_id": "8968927",
+    "image": "images/wontons.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/6/8968927-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8968927.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Pork Bun",
+    "chinese": "猪肉包",
+    "product_name": "King Of Kings Roasted BBQ Pork Bun",
+    "pack_size": "380g",
+    "product_url": "https://www.coles.com.au/product/king-of-kings-roasted-bbq-pork-bun-380g-4317224",
+    "product_id": "4317224",
+    "image": "images/pork-bun.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4317224-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4317224.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Soup Dumplings",
+    "chinese": "小笼汤包",
+    "product_name": "KB's Pork Soup Dumplings",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-pork-soup-dumplings-750g-6521673",
+    "product_id": "6521673",
+    "image": "images/soup-dumplings.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/2/6521673-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6521673.jpg"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "english": "Miso Soup",
+    "chinese": "味噌汤",
+    "product_name": "Ajishima Freeze Dried Miso Soup With Tofu",
+    "pack_size": "12g",
+    "product_url": "https://www.coles.com.au/product/ajishima-freeze-dried-miso-soup-with-tofu-12g-2005388",
+    "product_id": "2005388",
+    "image": "images/miso-soup.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2005388-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2005388.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Yogurt",
+    "chinese": "酸奶",
+    "product_name": "Farmers Union No Added Sugar Kids Yogurt Pouch Strawberry",
+    "pack_size": "130g",
+    "product_url": "https://www.coles.com.au/product/farmers-union-no-added-sugar-kids-yogurt-pouch-strawberry-130g-6600689",
+    "product_id": "6600689",
+    "image": "images/yoghurt.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/0/6600689-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6600689.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Rice Rusk",
+    "chinese": "米制磨牙饼",
+    "product_name": "Baby Mum-mum Rice Rusk Organic Blueberry & Carrot +8 Months",
+    "pack_size": "36g",
+    "product_url": "https://www.coles.com.au/product/baby-mum-mum-rice-rusk-organic-blueberry-and-carrot-%2B8-months-36g-2800347",
+    "product_id": "2800347",
+    "image": "images/rice-rusk.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/0/2800347-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2800347.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Collagen",
+    "chinese": "胶原蛋白",
+    "product_name": "Nature's Way Beauty Shot Collagen 10 Pack",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/nature%27s-way-beauty-shot-collagen-10-pack-500ml-8162913",
+    "product_id": "8162913",
+    "image": "images/collagen.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8162913-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8162913.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Pressed Bars",
+    "chinese": "压制果谷物棒",
+    "product_name": "Raffertys Garden Strawberry & Chia Pressed Bars 1-3 Years",
+    "pack_size": "90g",
+    "product_url": "https://www.coles.com.au/product/raffertys-garden-strawberry-and-chia-pressed-bars-1-3-years-90g-8403769",
+    "product_id": "8403769",
+    "image": "images/pressed-bars.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/0/8403769-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8403769.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Crispbread",
+    "chinese": "脆面包",
+    "product_name": "Arnott's Cruskits Crispbread Light Crisp 97% Fat Free",
+    "pack_size": "125g",
+    "product_url": "https://www.coles.com.au/product/arnott%27s-cruskits-crispbread-light-crisp-97percent-fat-free-125g-9611783",
+    "product_id": "9611783",
+    "image": "images/crispbread.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/6/1/9611783-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9611783.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Olive Oil",
+    "chinese": "橄榄油",
+    "product_name": "Monini Organic Premium Selection Extra Virgin Olive Oil",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/monini-organic-premium-selection-extra-virgin-olive-oil-500ml-4982450",
+    "product_id": "4982450",
+    "image": "images/olive-oil.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/8/4982450-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4982450.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Cheese",
+    "chinese": "奶酪",
+    "product_name": "Bega Cheese Stringers Original 8 Pack",
+    "pack_size": "160g",
+    "product_url": "https://www.coles.com.au/product/bega-cheese-stringers-original-8-pack-160g-7325863",
+    "product_id": "7325863",
+    "image": "images/cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/2/7325863-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7325863.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Pick-up Sticks",
+    "chinese": "婴幼儿手指零食棒",
+    "product_name": "Little Bellies Organic Strawberry Pick-up Sticks 7+ Months",
+    "pack_size": "16g",
+    "product_url": "https://www.coles.com.au/product/little-bellies-organic-strawberry-pick-up-sticks-7%2B-months-16g-3767451",
+    "product_id": "3767451",
+    "image": "images/pick-up-sticks.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3767451-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3767451.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Milk",
+    "chinese": "牛奶",
+    "product_name": "Pauls Zymil Full Cream Long Life Milk",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/pauls-zymil-full-cream-long-life-milk-1l-2807164",
+    "product_id": "2807164",
+    "image": "images/milk.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/0/2807164-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2807164.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Sweet Corn Fritters",
+    "chinese": "甜玉米煎饼",
+    "product_name": "Coles Kitchen Sweet Corn Fritters 10 Pack",
+    "pack_size": "300g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-sweet-corn-fritters-10-pack-300g-3051154",
+    "product_id": "3051154",
+    "image": "images/sweet-corn-fritters.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3051154-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3051154.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Mozzarella Bites",
+    "chinese": "马苏里拉奶酪小食",
+    "product_name": "Coles Kitchen Mozzarella Bites 10 Pack",
+    "pack_size": "330g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-mozzarella-bites-10-pack-330g-2481930",
+    "product_id": "2481930",
+    "image": "images/mozzarella-bites.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/8/2481930-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2481930.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Macaroni Cheese",
+    "chinese": "奶酪通心粉",
+    "product_name": "Coles Frozen Convenience Meal With Macaroni Cheese",
+    "pack_size": "375g",
+    "product_url": "https://www.coles.com.au/product/coles-frozen-convenience-meal-with-macaroni-cheese-375g-6115708",
+    "product_id": "6115708",
+    "image": "images/macaroni-cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/1/6115708-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6115708.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Potato Mashies",
+    "chinese": "土豆泥球",
+    "product_name": "Coles Kitchen Potato Mashies With Cheesy Garlic Centre",
+    "pack_size": "240g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-potato-mashies-with-cheesy-garlic-centre-240g-5205179",
+    "product_id": "5205179",
+    "image": "images/potato-mashies.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/0/5205179-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5205179.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Croquettes",
+    "chinese": "可乐饼",
+    "product_name": "Coles Finest Truffled Potato Croquettes",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-finest-truffled-potato-croquettes-200g-6542684",
+    "product_id": "6542684",
+    "image": "images/croquette.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/4/6542684-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6542684.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Cauliflower Bites",
+    "chinese": "花椰菜小食",
+    "product_name": "Coles Kitchen Cheesy Cauliflower Bites",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-cheesy-cauliflower-bites-200g-8399708",
+    "product_id": "8399708",
+    "image": "images/cauliflower-bites.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/9/8399708-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8399708.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Cheese Bites",
+    "chinese": "奶酪小食",
+    "product_name": "Coles Finest Hot Chilli Honey Cheese Bites",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-finest-hot-chilli-honey-cheese-bites-200g-8399956",
+    "product_id": "8399956",
+    "image": "images/cheese-bites.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/9/8399956-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8399956.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Pad Thai",
+    "chinese": "泰式炒河粉",
+    "product_name": "Coles Veg Pad Thai",
+    "pack_size": "375g",
+    "product_url": "https://www.coles.com.au/product/coles-veg-pad-thai-375g-3218169",
+    "product_id": "3218169",
+    "image": "images/pad-thai.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3218169-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3218169.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Sausage Rolls",
+    "chinese": "香肠酥卷",
+    "product_name": "Patties Frozen Party Sausage Rolls 12 Pack",
+    "pack_size": "450g",
+    "product_url": "https://www.coles.com.au/product/patties-frozen-party-sausage-rolls-12-pack-450g-6868080",
+    "product_id": "6868080",
+    "image": "images/sausage-rolls.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/6/6868080-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6868080.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Ice Cream",
+    "chinese": "冰淇淋",
+    "product_name": "Bulla Honeycomb, Strawberry & Caramel Crunch Ice Cream Sticks 8 Pack",
+    "pack_size": "631mL",
+    "product_url": "https://www.coles.com.au/product/bulla-honeycomb-strawberry-and-caramel-crunch-ice-cream-sticks-8-pack-631ml-5974719",
+    "product_id": "5974719",
+    "image": "images/ice-cream.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/7/5974719-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5974719.jpg"
+    ]
+  },
+  {
+    "category": "health-dietary",
+    "english": "Roti Bread",
+    "chinese": "印度烙饼",
+    "product_name": "Katoomba Roti Bread Plain",
+    "pack_size": "390g",
+    "product_url": "https://www.coles.com.au/product/katoomba-roti-bread-plain-390g-9086300",
+    "product_id": "9086300",
+    "image": "images/roti-bread.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/8/9086300-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9086300.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Orange Juice",
+    "chinese": "橙汁",
+    "product_name": "The Juice Brothers Orange Juice",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/the-juice-brothers-orange-juice-1l-7829200",
+    "product_id": "7829200",
+    "image": "images/orange-juice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/2/7829200-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7829200.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Soft Drink",
+    "chinese": "汽水",
+    "product_name": "Pepsi Max Soft Drink No Sugar Cans Multipack 375mL",
+    "pack_size": "18 Pack",
+    "product_url": "https://www.coles.com.au/product/pepsi-max-soft-drink-no-sugar-cans-multipack-375ml-18-pack-1863920",
+    "product_id": "1863920",
+    "image": "images/soft-drink.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/6/1863920-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1863920.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Energy Drink",
+    "chinese": "能量饮料",
+    "product_name": "Red Bull Energy Drink 12x250ml",
+    "pack_size": "3L",
+    "product_url": "https://www.coles.com.au/product/red-bull-energy-drink-12x250ml-3l-4942488",
+    "product_id": "4942488",
+    "image": "images/energy-drink.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/4/4942488-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4942488.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Apple Juice",
+    "chinese": "苹果汁",
+    "product_name": "Summer Snow Sparkling Pink Lady Apple Juice",
+    "pack_size": "750mL",
+    "product_url": "https://www.coles.com.au/product/summer-snow-sparkling-pink-lady-apple-juice-750ml-3957821",
+    "product_id": "3957821",
+    "image": "images/apple-juice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/5/3957821-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3957821.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Tropical Juice",
+    "chinese": "热带水果汁",
+    "product_name": "The Juice Brothers Tropical Juice",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/the-juice-brothers-tropical-juice-1l-7829244",
+    "product_id": "7829244",
+    "image": "images/tropical-juice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/2/7829244-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7829244.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Greens Juice",
+    "chinese": "绿蔬汁",
+    "product_name": "Impressed Easy Greens Juice",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/impressed-easy-greens-juice-1l-3183880",
+    "product_id": "3183880",
+    "image": "images/greens-juice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/3183880-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3183880.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Juice",
+    "chinese": "果汁",
+    "product_name": "Impressed Ginger Ninja Juice",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/impressed-ginger-ninja-juice-1l-3183847",
+    "product_id": "3183847",
+    "image": "images/juice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/3183847-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3183847.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Coffee",
+    "chinese": "咖啡",
+    "product_name": "First Press Cold Drip 10 Shot Coffee",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/first-press-cold-drip-10-shot-coffee-500ml-3506265",
+    "product_id": "3506265",
+    "image": "images/coffee.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/3506265-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3506265.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Smoothie",
+    "chinese": "思慕雪／水果奶昔",
+    "product_name": "Youjuice Berry Bliss Smoothie",
+    "pack_size": "350mL",
+    "product_url": "https://www.coles.com.au/product/youjuice-berry-bliss-smoothie-350ml-8877311",
+    "product_id": "8877311",
+    "image": "images/smoothie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/7/8877311-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8877311.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Probiotic Drink",
+    "chinese": "益生菌饮料",
+    "product_name": "Perkii Mango Passionfruit Probiotic Drink",
+    "pack_size": "350mL",
+    "product_url": "https://www.coles.com.au/product/perkii-mango-passionfruit-probiotic-drink-350ml-3416559",
+    "product_id": "3416559",
+    "image": "images/probiotic-drink.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/1/3416559-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3416559.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Pineapple Juice",
+    "chinese": "菠萝汁",
+    "product_name": "Eastcoast Beverages Pineapple Juice",
+    "pack_size": "2L",
+    "product_url": "https://www.coles.com.au/product/eastcoast-beverages-pineapple-juice-2l-9567400",
+    "product_id": "9567400",
+    "image": "images/pineapple-juice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/6/9567400-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9567400.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Lemonade",
+    "chinese": "柠檬汽水",
+    "product_name": "Eastcoast Beverages Country Style Lemonade Juice Drink",
+    "pack_size": "2L",
+    "product_url": "https://www.coles.com.au/product/eastcoast-beverages-country-style-lemonade-juice-drink-2l-7340801",
+    "product_id": "7340801",
+    "image": "images/lemonade.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/4/7340801-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7340801.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Tonic Drink",
+    "chinese": "滋补饮料",
+    "product_name": "Jiva Reset Tonic Drink",
+    "pack_size": "100mL",
+    "product_url": "https://www.coles.com.au/product/jiva-reset-tonic-drink-100ml-3987935",
+    "product_id": "3987935",
+    "image": "images/tonic-drink.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3987935-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3987935.jpg"
+    ]
+  },
+  {
+    "category": "drinks",
+    "english": "Grapefruit Juice",
+    "chinese": "西柚汁",
+    "product_name": "Original Black Label Grapefruit Juice",
+    "pack_size": "1.5L",
+    "product_url": "https://www.coles.com.au/product/original-black-label-grapefruit-juice-1.5l-5658661",
+    "product_id": "5658661",
+    "image": "images/grapefruit-juice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/5/5658661-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5658661.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Vodka",
+    "chinese": "伏特加",
+    "product_name": "Grey Goose Vodka 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/grey-goose-vodka-700ml-1-each-8331635",
+    "product_id": "8331635",
+    "image": "images/vodka.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8331635-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8331635.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Tequila",
+    "chinese": "龙舌兰酒",
+    "product_name": "1800 Anejo Tequila 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/1800-anejo-tequila-700ml-1-each-8344047",
+    "product_id": "8344047",
+    "image": "images/tequila.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/4/8344047-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8344047.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Whiskey",
+    "chinese": "威士忌",
+    "product_name": "Jack Daniels Tennessee Whiskey 1 Litre",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/jack-daniels-tennessee-whiskey-1-litre-1-each-8331442",
+    "product_id": "8331442",
+    "image": "images/whiskey.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8331442-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8331442.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Elderflower Liqueur",
+    "chinese": "接骨木花利口酒",
+    "product_name": "St Germain Elderflower Liqueur 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/st-germain-elderflower-liqueur-750ml-1-each-8336005",
+    "product_id": "8336005",
+    "image": "images/elderflower-liqueur.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8336005-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8336005.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Tequila Liqueur",
+    "chinese": "龙舌兰利口酒",
+    "product_name": "1800 Coconut Tequila Liqueur 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/1800-coconut-tequila-liqueur-700ml-1-each-2710131",
+    "product_id": "2710131",
+    "image": "images/tequila-liqueur.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/1/2710131-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2710131.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Scotch Whisky",
+    "chinese": "苏格兰威士忌",
+    "product_name": "Glenmorangie 12yo Single Malt Scotch Whisky 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/glenmorangie-12yo-single-malt-scotch-whisky-700ml-1-each-9498090",
+    "product_id": "9498090",
+    "image": "images/scotch-whisky.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/9/9498090-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9498090.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Bourbon",
+    "chinese": "波本威士忌",
+    "product_name": "Jim Beam Black Extra-aged Kentucky Straight Bourbon 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/jim-beam-black-extra-aged-kentucky-straight-bourbon-700ml-1-each-8339615",
+    "product_id": "8339615",
+    "image": "images/bourbon.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8339615-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8339615.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Japanese Whisky",
+    "chinese": "日本威士忌",
+    "product_name": "Kurayoshi The San-in Blended Japanese Whisky 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/kurayoshi-the-san-in-blended-japanese-whisky-700ml-1-each-5159741",
+    "product_id": "5159741",
+    "image": "images/japanese-whisky.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/5/5159741-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5159741.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Pinot Noir",
+    "chinese": "黑皮诺葡萄酒",
+    "product_name": "Hardys Brave New World Pinot Noir 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/hardys-brave-new-world-pinot-noir-750ml-1-each-8134372",
+    "product_id": "8134372",
+    "image": "images/pinot-noir.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/3/8134372-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8134372.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Shiraz",
+    "chinese": "设拉子葡萄酒",
+    "product_name": "Hardys Brave New World Shiraz Black 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/hardys-brave-new-world-shiraz-black-750ml-1-each-2833889",
+    "product_id": "2833889",
+    "image": "images/shiraz.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/3/2833889-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2833889.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Sparkling",
+    "chinese": "起泡酒",
+    "product_name": "Wildly Organic Sparkling Nv 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/wildly-organic-sparkling-nv-750ml-1-each-4470709",
+    "product_id": "4470709",
+    "image": "images/sparkling.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/7/4470709-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4470709.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Sauvignon Blanc",
+    "chinese": "长相思葡萄酒",
+    "product_name": "Wahu New Zealand Sauvignon Blanc 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/wahu-new-zealand-sauvignon-blanc-750ml-1-each-8312302",
+    "product_id": "8312302",
+    "image": "images/sauvignon-blanc.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/1/8312302-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8312302.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Lager",
+    "chinese": "拉格啤酒",
+    "product_name": "Great Northern Super Crisp Lager Block Can 375ml",
+    "pack_size": "30 Pack",
+    "product_url": "https://www.coles.com.au/product/great-northern-super-crisp-lager-block-can-375ml-30-pack-2605953",
+    "product_id": "2605953",
+    "image": "images/lager.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2605953-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2605953.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Red Blend",
+    "chinese": "混酿红葡萄酒",
+    "product_name": "McGuigan Black Label Red Blend 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/mcguigan-black-label-red-blend-750ml-1-each-8235100",
+    "product_id": "8235100",
+    "image": "images/red-blend.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/2/3/8235100-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8235100.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Cognac",
+    "chinese": "干邑白兰地",
+    "product_name": "Hennessy VS Cognac 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/hennessy-vs-cognac-700ml-1-each-8328244",
+    "product_id": "8328244",
+    "image": "images/cognac.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/2/8328244-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8328244.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Gin",
+    "chinese": "金酒",
+    "product_name": "Tanqueray Gin 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/tanqueray-gin-700ml-1-each-8328404",
+    "product_id": "8328404",
+    "image": "images/gin.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/2/8328404-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8328404.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Champagne",
+    "chinese": "香槟",
+    "product_name": "Canard Duchene Brut Nv Champagne Gift Box 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/canard-duchene-brut-nv-champagne-gift-box-750ml-1-each-3542032",
+    "product_id": "3542032",
+    "image": "images/champagne.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/4/3542032-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3542032.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Whisky",
+    "chinese": "威士忌",
+    "product_name": "The Macallan 12yo Double Cask Single Malt Whisky 700ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/the-macallan-12yo-double-cask-single-malt-whisky-700ml-1-each-2993568",
+    "product_id": "2993568",
+    "image": "images/whisky.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2993568-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2993568.jpg"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "english": "Pinot Gris",
+    "chinese": "灰皮诺葡萄酒",
+    "product_name": "The Ned Pinot Gris 750ml",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/the-ned-pinot-gris-750ml-1-each-8280782",
+    "product_id": "8280782",
+    "image": "images/pinot-gris.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/2/8/8280782-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8280782.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Ice Bars",
+    "chinese": "冰淇淋棒",
+    "product_name": "Twix Ice Bars 5 Pack",
+    "pack_size": "215mL",
+    "product_url": "https://www.coles.com.au/product/twix-ice-bars-5-pack-215ml-1954298",
+    "product_id": "1954298",
+    "image": "images/ice-bars.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/5/1954298-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1954298.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Garlic Bread",
+    "chinese": "蒜香面包",
+    "product_name": "Pickers Cheesy Garlic Bread Dippers",
+    "pack_size": "230g",
+    "product_url": "https://www.coles.com.au/product/pickers-cheesy-garlic-bread-dippers-230g-1839540",
+    "product_id": "1839540",
+    "image": "images/garlic-bread.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/3/1839540-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1839540.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Barramundi",
+    "chinese": "尖吻鲈／金目鲈",
+    "product_name": "Birds Eye Frozen Deli Barramundi Crisp Light Batter 5 Pack",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/birds-eye-frozen-deli-barramundi-crisp-light-batter-5-pack-250g-3303417",
+    "product_id": "3303417",
+    "image": "images/barramundi.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/0/3303417-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3303417.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Southern Blue Whiting",
+    "chinese": "南蓝鳕",
+    "product_name": "Birds Eye Oven Bake Southern Blue Whiting",
+    "pack_size": "425g",
+    "product_url": "https://www.coles.com.au/product/birds-eye-oven-bake-southern-blue-whiting-425g-7407877",
+    "product_id": "7407877",
+    "image": "images/southern-blue-whiting.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/4/0/7407877-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7407877.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Honey Chicken",
+    "chinese": "蜜汁鸡",
+    "product_name": "On The Menu Takeaway Main Chinese Honey Chicken",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/on-the-menu-takeaway-main-chinese-honey-chicken-350g-1871714",
+    "product_id": "1871714",
+    "image": "images/honey-chicken.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/7/1871714-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1871714.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Fish Fillets",
+    "chinese": "鱼片",
+    "product_name": "Birds Eye Frozen Steam Fresh Fish Fillets With Parsley & Citrus Sauce 2 Pack",
+    "pack_size": "380g",
+    "product_url": "https://www.coles.com.au/product/birds-eye-frozen-steam-fresh-fish-fillets-with-parsley-and-citrus-sauce-2-pack-380g-3303508",
+    "product_id": "3303508",
+    "image": "images/fish-fillets.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/0/3303508-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3303508.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Potato Chips",
+    "chinese": "薯条",
+    "product_name": "Birds Eye Golden Crunch Crinkle Cut Frozen Potato Chips",
+    "pack_size": "900g",
+    "product_url": "https://www.coles.com.au/product/birds-eye-golden-crunch-crinkle-cut-frozen-potato-chips-900g-5052522",
+    "product_id": "5052522",
+    "image": "images/potato-chips.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/5/5052522-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5052522.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Hoki",
+    "chinese": "蓝鳕鱼",
+    "product_name": "Birds Eye Air Baked Hoki",
+    "pack_size": "380g",
+    "product_url": "https://www.coles.com.au/product/birds-eye-air-baked-hoki-380g-1897853",
+    "product_id": "1897853",
+    "image": "images/hoki.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/9/1897853-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1897853.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Ice Cream",
+    "chinese": "冰淇淋",
+    "product_name": "Haagen-Dazs Cookie Dough Ice Cream Tub",
+    "pack_size": "457mL",
+    "product_url": "https://www.coles.com.au/product/haagen-dazs-cookie-dough-ice-cream-tub-457ml-3422675",
+    "product_id": "3422675",
+    "image": "images/ice-cream.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/2/3422675-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3422675.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Chicken Kyiv",
+    "chinese": "基辅鸡卷",
+    "product_name": "Coles Kitchen Mini Chicken Kyiv 8 Pack",
+    "pack_size": "320g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-mini-chicken-kyiv-8-pack-320g-3311029",
+    "product_id": "3311029",
+    "image": "images/chicken-kyiv.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/1/3311029-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3311029.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Sweet Corn Fritters",
+    "chinese": "甜玉米煎饼",
+    "product_name": "Coles Kitchen Sweet Corn Fritters 10 Pack",
+    "pack_size": "300g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-sweet-corn-fritters-10-pack-300g-3051154",
+    "product_id": "3051154",
+    "image": "images/sweet-corn-fritters.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3051154-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3051154.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Arancini",
+    "chinese": "意式炸饭团",
+    "product_name": "Coles Finest Pumpkin & Sage Arancini With Grana Padano Cheese",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-finest-pumpkin-and-sage-arancini-with-grana-padano-cheese-200g-8399901",
+    "product_id": "8399901",
+    "image": "images/arancini.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/9/8399901-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8399901.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Prawns",
+    "chinese": "虾",
+    "product_name": "Coles Kitchen Sesame Crusted Prawns",
+    "pack_size": "160g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-sesame-crusted-prawns-160g-8073700",
+    "product_id": "8073700",
+    "image": "images/prawns.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/7/8073700-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8073700.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Potato Mashies",
+    "chinese": "土豆泥球",
+    "product_name": "Coles Kitchen Potato Mashies With Cheesy Garlic Centre",
+    "pack_size": "240g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-potato-mashies-with-cheesy-garlic-centre-240g-5205179",
+    "product_id": "5205179",
+    "image": "images/potato-mashies.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/0/5205179-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5205179.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Mozzarella Bites",
+    "chinese": "马苏里拉奶酪小食",
+    "product_name": "Coles Kitchen Mozzarella Bites 10 Pack",
+    "pack_size": "330g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-mozzarella-bites-10-pack-330g-2481930",
+    "product_id": "2481930",
+    "image": "images/mozzarella-bites.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/8/2481930-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2481930.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Croquette",
+    "chinese": "可乐饼",
+    "product_name": "Coles Finest Triple Smoked Ham & 3 Cheese Croquette",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-finest-triple-smoked-ham-and-3-cheese-croquette-200g-8860250",
+    "product_id": "8860250",
+    "image": "images/croquette.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/6/8860250-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8860250.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Cottage Pie",
+    "chinese": "牛肉土豆泥派",
+    "product_name": "Coles Frozen Convenience Meal Cottage Pie",
+    "pack_size": "375g",
+    "product_url": "https://www.coles.com.au/product/coles-frozen-convenience-meal-cottage-pie-375g-6392672",
+    "product_id": "6392672",
+    "image": "images/cottage-pie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/9/6392672-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6392672.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Macaroni Cheese",
+    "chinese": "奶酪通心粉",
+    "product_name": "Coles Frozen Convenience Meal With Macaroni Cheese",
+    "pack_size": "375g",
+    "product_url": "https://www.coles.com.au/product/coles-frozen-convenience-meal-with-macaroni-cheese-375g-6115708",
+    "product_id": "6115708",
+    "image": "images/macaroni-cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/1/6115708-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6115708.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Cheeseburger Bites",
+    "chinese": "芝士汉堡小食",
+    "product_name": "Coles Kitchen Cheeseburger Bites",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-cheeseburger-bites-200g-8399617",
+    "product_id": "8399617",
+    "image": "images/cheeseburger-bites.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/9/8399617-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8399617.jpg"
+    ]
+  },
+  {
+    "category": "frozen",
+    "english": "Spring Rolls",
+    "chinese": "春卷",
+    "product_name": "Coles Kitchen Beef Lasagne Spring Rolls",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-beef-lasagne-spring-rolls-200g-8399821",
+    "product_id": "8399821",
+    "image": "images/spring-rolls.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/9/8399821-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8399821.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Paper Towel",
+    "chinese": "厨房纸",
+    "product_name": "Viva Paper Towel White",
+    "pack_size": "2 Pack",
+    "product_url": "https://www.coles.com.au/product/viva-paper-towel-white-2-pack-9333523",
+    "product_id": "9333523",
+    "image": "images/paper-towel.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/3/9333523-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9333523.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Laundry",
+    "chinese": "洗衣",
+    "product_name": "Dynamo Professional Laundry 7 In 1 Liquid",
+    "pack_size": "2L",
+    "product_url": "https://www.coles.com.au/product/dynamo-professional-laundry-7-in-1-liquid-2l-7035604",
+    "product_id": "7035604",
+    "image": "images/laundry.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/3/7035604-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7035604.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Laundry Liquid",
+    "chinese": "洗衣液",
+    "product_name": "Earthwise Laundry Liquid Orange & Eucalyptus",
+    "pack_size": "2L",
+    "product_url": "https://www.coles.com.au/product/earthwise-laundry-liquid-orange-and-eucalyptus-2l-8020045",
+    "product_id": "8020045",
+    "image": "images/laundry-liquid.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/2/8020045-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8020045.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Glass Cleaner",
+    "chinese": "玻璃清洁剂",
+    "product_name": "Windex Glass Cleaner Trigger Spray",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/windex-glass-cleaner-trigger-spray-500ml-110417",
+    "product_id": "110417",
+    "image": "images/glass-cleaner.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/0/110417-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/110417.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Dishwashing Liquid",
+    "chinese": "洗洁精",
+    "product_name": "Earthwise Dishwashing Liquid Orange Eucalyptus",
+    "pack_size": "500 mL",
+    "product_url": "https://www.coles.com.au/product/earthwise-dishwashing-liquid-orange-eucalyptus-500-ml-1072528",
+    "product_id": "1072528",
+    "image": "images/dishwashing-liquid.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/7/1072528-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1072528.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Dishwasher Tablets",
+    "chinese": "洗碗机洗涤块",
+    "product_name": "Finish Ultimate Dishwasher Tablets Lemon",
+    "pack_size": "46 Pack",
+    "product_url": "https://www.coles.com.au/product/finish-ultimate-dishwasher-tablets-lemon-46-pack-3967235",
+    "product_id": "3967235",
+    "image": "images/dishwasher-tablets.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/6/3967235-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3967235.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Laundry Capsules",
+    "chinese": "洗衣凝珠",
+    "product_name": "Earthwise 3 In 1 Laundry Capsules Orange & Eucalyptus",
+    "pack_size": "26 Pack",
+    "product_url": "https://www.coles.com.au/product/earthwise-3-in-1-laundry-capsules-orange-and-eucalyptus-26-pack-8020453",
+    "product_id": "8020453",
+    "image": "images/laundry-capsules.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/2/8020453-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8020453.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Bin Liner",
+    "chinese": "垃圾袋",
+    "product_name": "My Eco Bag Compostable Kitchen Bin Liner Mini",
+    "pack_size": "25 Pack",
+    "product_url": "https://www.coles.com.au/product/my-eco-bag-compostable-kitchen-bin-liner-mini-25-pack-5554350",
+    "product_id": "5554350",
+    "image": "images/bin-liner.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/5/5554350-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5554350.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Toilet Paper",
+    "chinese": "卫生纸",
+    "product_name": "Sorbent 3 Ply Soft & Strong Toilet Paper",
+    "pack_size": "16 Pack",
+    "product_url": "https://www.coles.com.au/product/sorbent-3-ply-soft-and-strong-toilet-paper-16-pack-3974092",
+    "product_id": "3974092",
+    "image": "images/toilet-paper.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/7/3974092-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3974092.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Stain Remover",
+    "chinese": "去渍剂",
+    "product_name": "Sard Oil & Grime Stain Remover",
+    "pack_size": "420mL",
+    "product_url": "https://www.coles.com.au/product/sard-oil-and-grime-stain-remover-420ml-4471202",
+    "product_id": "4471202",
+    "image": "images/stain-remover.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/7/4471202-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4471202.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Toilet Rolls",
+    "chinese": "卷筒卫生纸",
+    "product_name": "Sorbent Extra Thick Toilet Rolls 2 Ply Hypo Allergeni 2160 Sheet",
+    "pack_size": "12 Pack",
+    "product_url": "https://www.coles.com.au/product/sorbent-extra-thick-toilet-rolls-2-ply-hypo-allergeni-2160-sheet-12-pack-5865350",
+    "product_id": "5865350",
+    "image": "images/toilet-rolls.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/6/5865350-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5865350.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Dishwasher Deep Cleaner",
+    "chinese": "洗碗机机体清洁剂",
+    "product_name": "Finish Dishwasher Deep Cleaner Lemon",
+    "pack_size": "250mL",
+    "product_url": "https://www.coles.com.au/product/finish-dishwasher-deep-cleaner-lemon-250ml-7556017",
+    "product_id": "7556017",
+    "image": "images/dishwasher-deep-cleaner.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/5/7556017-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7556017.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Fabric Conditioner",
+    "chinese": "衣物柔顺剂",
+    "product_name": "Comfort Paris With Love Fabric Conditioner Rose- Freesia & White Musk",
+    "pack_size": "800mL",
+    "product_url": "https://www.coles.com.au/product/comfort-paris-with-love-fabric-conditioner-rose-freesia-and-white-musk-800ml-1019310",
+    "product_id": "1019310",
+    "image": "images/fabric-conditioner.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/1/1019310-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1019310.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Surface Cleaning Spray",
+    "chinese": "表面清洁喷雾",
+    "product_name": "Dettol Disinfectant Apple Multipurpose Surface Cleaning Spray",
+    "pack_size": "750mL",
+    "product_url": "https://www.coles.com.au/product/dettol-disinfectant-apple-multipurpose-surface-cleaning-spray-750ml-4256505",
+    "product_id": "4256505",
+    "image": "images/surface-cleaning-spray.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/5/4256505-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4256505.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Multipurpose Cleaner",
+    "chinese": "多用途清洁剂",
+    "product_name": "Bosisto's Multipurpose Cleaner",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/bosisto%27s-multipurpose-cleaner-500ml-3466660",
+    "product_id": "3466660",
+    "image": "images/multipurpose-cleaner.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/6/3466660-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3466660.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Washing Machine Cleaner",
+    "chinese": "洗衣机清洁剂",
+    "product_name": "Pine O Cleen Washing Machine Cleaner Fresh",
+    "pack_size": "250mL",
+    "product_url": "https://www.coles.com.au/product/pine-o-cleen-washing-machine-cleaner-fresh-250ml-3646220",
+    "product_id": "3646220",
+    "image": "images/washing-machine-cleaner.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/4/3646220-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3646220.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Bathroom Cleaning Spray",
+    "chinese": "浴室清洁喷雾",
+    "product_name": "Easy Off Bam Bathroom Cleaning Spray",
+    "pack_size": "750mL",
+    "product_url": "https://www.coles.com.au/product/easy-off-bam-bathroom-cleaning-spray-750ml-5020898",
+    "product_id": "5020898",
+    "image": "images/bathroom-cleaning-spray.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/2/5020898-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5020898.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Air Freshener",
+    "chinese": "空气清新剂",
+    "product_name": "Botanica Island Rose & African Geranium Air Freshener Room Spray",
+    "pack_size": "236mL",
+    "product_url": "https://www.coles.com.au/product/botanica-island-rose-and-african-geranium-air-freshener-room-spray-236ml-3721268",
+    "product_id": "3721268",
+    "image": "images/air-freshener.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3721268-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3721268.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Storage Bags",
+    "chinese": "收纳袋",
+    "product_name": "Ziploc Resealable Medium Storage Bags",
+    "pack_size": "15 Pack",
+    "product_url": "https://www.coles.com.au/product/ziploc-resealable-medium-storage-bags-15-pack-6054727",
+    "product_id": "6054727",
+    "image": "images/storage-bags.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/5/6054727-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6054727.jpg"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "english": "Toilet Cleaner",
+    "chinese": "洁厕剂",
+    "product_name": "Bref Blue Active Toilet Cleaner Rim Block Eucalyptus 2x50g",
+    "pack_size": "100g",
+    "product_url": "https://www.coles.com.au/product/bref-blue-active-toilet-cleaner-rim-block-eucalyptus-2x50g-100g-3744707",
+    "product_id": "3744707",
+    "image": "images/toilet-cleaner.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3744707-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3744707.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Toothpaste",
+    "chinese": "牙膏",
+    "product_name": "Oral B Pro Health Advanced Deep Clean Toothpaste",
+    "pack_size": "110g",
+    "product_url": "https://www.coles.com.au/product/oral-b-pro-health-advanced-deep-clean-toothpaste-110g-2621075",
+    "product_id": "2621075",
+    "image": "images/toothpaste.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/2/2621075-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2621075.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Body Wash",
+    "chinese": "沐浴露",
+    "product_name": "Dosetheory Body Wash Ambery Vanilla",
+    "pack_size": "900mL",
+    "product_url": "https://www.coles.com.au/product/dosetheory-body-wash-ambery-vanilla-900ml-1831414",
+    "product_id": "1831414",
+    "image": "images/body-wash.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/3/1831414-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1831414.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Intimate Wash",
+    "chinese": "私处清洁液",
+    "product_name": "Femfresh Soothing Intimate Wash",
+    "pack_size": "250mL",
+    "product_url": "https://www.coles.com.au/product/femfresh-soothing-intimate-wash-250ml-3755962",
+    "product_id": "3755962",
+    "image": "images/intimate-wash.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3755962-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3755962.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Hair + Body Mist",
+    "chinese": "头发及身体香氛喷雾",
+    "product_name": "Dosetheory Hair + Body Mist Ambery Vanilla",
+    "pack_size": "135mL",
+    "product_url": "https://www.coles.com.au/product/dosetheory-hair-%2B-body-mist-ambery-vanilla-135ml-1801060",
+    "product_id": "1801060",
+    "image": "images/hair-body-mist.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/0/1801060-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1801060.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Magnesium",
+    "chinese": "镁补充剂",
+    "product_name": "Nature's Way High Strength Magnesium",
+    "pack_size": "250 Pack",
+    "product_url": "https://www.coles.com.au/product/nature%27s-way-high-strength-magnesium-250-pack-8165252",
+    "product_id": "8165252",
+    "image": "images/magnesium.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8165252-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8165252.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Body Scrub",
+    "chinese": "身体磨砂膏",
+    "product_name": "Dosetheory Body Scrub Ambery Vanilla",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/dosetheory-body-scrub-ambery-vanilla-400g-1831389",
+    "product_id": "1831389",
+    "image": "images/body-scrub.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/3/1831389-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1831389.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Balm",
+    "chinese": "膏剂",
+    "product_name": "Tiger Extra Strength Red Balm",
+    "pack_size": "18g",
+    "product_url": "https://www.coles.com.au/product/tiger-extra-strength-red-balm-18g-5400298",
+    "product_id": "5400298",
+    "image": "images/balm.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/5400298-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5400298.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Travel Wipes",
+    "chinese": "便携湿巾",
+    "product_name": "Femfresh Daily Intimate Travel Wipes",
+    "pack_size": "20 Pack",
+    "product_url": "https://www.coles.com.au/product/femfresh-daily-intimate-travel-wipes-20-pack-5569222",
+    "product_id": "5569222",
+    "image": "images/travel-wipes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/6/5569222-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5569222.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Shampoo",
+    "chinese": "洗发水",
+    "product_name": "Palmolive Luminous Oils Macadamia Argan Oil & Camellia Shampoo",
+    "pack_size": "350mL",
+    "product_url": "https://www.coles.com.au/product/palmolive-luminous-oils-macadamia-argan-oil-and-camellia-shampoo-350ml-3413685",
+    "product_id": "3413685",
+    "image": "images/shampoo.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/1/3413685-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3413685.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Beauty Bar",
+    "chinese": "香皂",
+    "product_name": "Dove Beauty Bar Original 4x90g",
+    "pack_size": "360g",
+    "product_url": "https://www.coles.com.au/product/dove-beauty-bar-original-4x90g-360g-5259393",
+    "product_id": "5259393",
+    "image": "images/beauty-bar.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5259393-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5259393.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Hand Wash",
+    "chinese": "洗手液",
+    "product_name": "Bosistos Desert Lime & Eucalyptus Hand Wash Pump",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/bosistos-desert-lime-and-eucalyptus-hand-wash-pump-500ml-4309827",
+    "product_id": "4309827",
+    "image": "images/hand-wash.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/0/4309827-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4309827.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Deodorant",
+    "chinese": "除臭剂",
+    "product_name": "Dove Women Advanced Deodorant Roll On 72hr Antiperspirant Pomegranate",
+    "pack_size": "50mL",
+    "product_url": "https://www.coles.com.au/product/dove-women-advanced-deodorant-roll-on-72hr-antiperspirant-pomegranate-50ml-9317618",
+    "product_id": "9317618",
+    "image": "images/deodorant.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/1/9317618-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9317618.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Conditioner",
+    "chinese": "护发素",
+    "product_name": "Palmolive Luminous Moroccan Argan & Camellia Oil Conditioner",
+    "pack_size": "350mL",
+    "product_url": "https://www.coles.com.au/product/palmolive-luminous-moroccan-argan-and-camellia-oil-conditioner-350ml-3413710",
+    "product_id": "3413710",
+    "image": "images/conditioner.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/1/3413710-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3413710.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Mouthwash",
+    "chinese": "漱口水",
+    "product_name": "Listerine Freshburst Antibacterial Mouthwash",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/listerine-freshburst-antibacterial-mouthwash-1l-7945314",
+    "product_id": "7945314",
+    "image": "images/mouthwash.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/4/7945314-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7945314.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Collagen Peptides Powder",
+    "chinese": "胶原蛋白肽粉",
+    "product_name": "Nature's Way Collagen Peptides Powder",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/nature%27s-way-collagen-peptides-powder-400g-2116200",
+    "product_id": "2116200",
+    "image": "images/collagen-peptides-powder.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/1/2116200-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2116200.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Pads",
+    "chinese": "卫生巾",
+    "product_name": "U by Kotex Ultrathin Pads Regular With Wings",
+    "pack_size": "14 Pack",
+    "product_url": "https://www.coles.com.au/product/u-by-kotex-ultrathin-pads-regular-with-wings-14-pack-9499005",
+    "product_id": "9499005",
+    "image": "images/pads.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/9/9499005-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9499005.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Liners",
+    "chinese": "护垫",
+    "product_name": "U by Kotex Designer Series Liners",
+    "pack_size": "30 Pack",
+    "product_url": "https://www.coles.com.au/product/u-by-kotex-designer-series-liners-30-pack-1173401",
+    "product_id": "1173401",
+    "image": "images/liners.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/7/1173401-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1173401.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Leave In Spray",
+    "chinese": "免洗护发喷雾",
+    "product_name": "Pantene Pro-v Sunkiss Glow Leave In Spray",
+    "pack_size": "200mL",
+    "product_url": "https://www.coles.com.au/product/pantene-pro-v-sunkiss-glow-leave-in-spray-200ml-2031413",
+    "product_id": "2031413",
+    "image": "images/leave-in-spray.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/3/2031413-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2031413.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Wipes",
+    "chinese": "清洁湿巾",
+    "product_name": "Nivea Caring Celansing Wipes Dry & Sensitive",
+    "pack_size": "25 Pack",
+    "product_url": "https://www.coles.com.au/product/nivea-caring-celansing-wipes-dry-and-sensitive-25-pack-9357747",
+    "product_id": "9357747",
+    "image": "images/wipes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/5/9357747-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9357747.jpg"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "english": "Lip Balm",
+    "chinese": "润唇膏",
+    "product_name": "Nivea Lip Balm Hydro Care SPF 15",
+    "pack_size": "4.8g",
+    "product_url": "https://www.coles.com.au/product/nivea-lip-balm-hydro-care-spf-15-4.8g-6693996",
+    "product_id": "6693996",
+    "image": "images/lip-balm.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/9/6693996-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6693996.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Wipes",
+    "chinese": "湿巾",
+    "product_name": "Rascals 99% Water Premium Wipes",
+    "pack_size": "72 Pack",
+    "product_url": "https://www.coles.com.au/product/rascals-99percent-water-premium-wipes-72-pack-5253637",
+    "product_id": "5253637",
+    "image": "images/wipes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5253637-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5253637.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Probiotic Drops",
+    "chinese": "益生菌滴剂",
+    "product_name": "Biogaia Protectis Baby Probiotic Drops Vit D",
+    "pack_size": "5mL",
+    "product_url": "https://www.coles.com.au/product/biogaia-protectis-baby-probiotic-drops-vit-d-5ml-1282382",
+    "product_id": "1282382",
+    "image": "images/probiotic-drops.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/8/1282382-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1282382.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Soother",
+    "chinese": "安抚奶嘴",
+    "product_name": "Tommee Tippee Ultralight Soother 0-6m",
+    "pack_size": "2 Pack",
+    "product_url": "https://www.coles.com.au/product/tommee-tippee-ultralight-soother-0-6m-2-pack-1143987",
+    "product_id": "1143987",
+    "image": "images/soother.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/4/1143987-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1143987.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Yoghurt Drops",
+    "chinese": "酸奶溶豆",
+    "product_name": "Rafferty's Garden Raspberry & Blackberry Mini Yoghurt Drops 10 Months+",
+    "pack_size": "8g",
+    "product_url": "https://www.coles.com.au/product/rafferty%27s-garden-raspberry-and-blackberry-mini-yoghurt-drops-10-months%2B-8g-4158890",
+    "product_id": "4158890",
+    "image": "images/yoghurt-drops.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/5/4158890-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4158890.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Chewables",
+    "chinese": "咀嚼片",
+    "product_name": "Biogaia Protectis Kids Chewables Orange Vit D",
+    "pack_size": "30 Pack",
+    "product_url": "https://www.coles.com.au/product/biogaia-protectis-kids-chewables-orange-vit-d-30-pack-1282393",
+    "product_id": "1282393",
+    "image": "images/chewables.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/8/1282393-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1282393.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Wash & Shampoo",
+    "chinese": "洗发沐浴二合一",
+    "product_name": "Cetaphil Baby Wash & Shampoo",
+    "pack_size": "400mL",
+    "product_url": "https://www.coles.com.au/product/cetaphil-baby-wash-and-shampoo-400ml-3508850",
+    "product_id": "3508850",
+    "image": "images/wash-shampoo.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/3508850-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3508850.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Snack Bars",
+    "chinese": "零食棒",
+    "product_name": "Rafferty's Garden Apple & Raspberry Snack Bars With Real Fruit Baby Food Snack 12+ Months",
+    "pack_size": "128g",
+    "product_url": "https://www.coles.com.au/product/rafferty%27s-garden-apple-and-raspberry-snack-bars-with-real-fruit-baby-food-snack-12%2B-months-128g-3018862",
+    "product_id": "3018862",
+    "image": "images/snack-bars.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3018862-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3018862.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Pizza Straws",
+    "chinese": "披萨味脆条",
+    "product_name": "Kiddylicious Pizza Straws Pizza Multipack 12g",
+    "pack_size": "4 Pack",
+    "product_url": "https://www.coles.com.au/product/kiddylicious-pizza-straws-pizza-multipack-12g-4-pack-1854555",
+    "product_id": "1854555",
+    "image": "images/pizza-straws.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/5/1854555-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1854555.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Star Puffs",
+    "chinese": "星形泡芙",
+    "product_name": "Rafferty's Garden Nurture Immunity Blueberry Star Puffs 12m+",
+    "pack_size": "12g",
+    "product_url": "https://www.coles.com.au/product/rafferty%27s-garden-nurture-immunity-blueberry-star-puffs-12m%2B-12g-1115198",
+    "product_id": "1115198",
+    "image": "images/star-puffs.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/1/1115198-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1115198.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Nappy Pants",
+    "chinese": "拉拉裤",
+    "product_name": "Babylove Nappy Pants Size 6 (15-25kg)",
+    "pack_size": "22 Pack",
+    "product_url": "https://www.coles.com.au/product/babylove-nappy-pants-size-6-%2815-25kg%29-22-pack-7268680",
+    "product_id": "7268680",
+    "image": "images/nappy-pants.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/6/7268680-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7268680.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Nappies",
+    "chinese": "纸尿裤",
+    "product_name": "Rascals Premium Nappies Size 4 (10-15kg)",
+    "pack_size": "36 Pack",
+    "product_url": "https://www.coles.com.au/product/rascals-premium-nappies-size-4-%2810-15kg%29-36-pack-3301127",
+    "product_id": "3301127",
+    "image": "images/nappies.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/0/3301127-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3301127.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Smoothie Pouch",
+    "chinese": "袋装水果奶昔",
+    "product_name": "Rafferty's Garden Coconut Berry Little Smoothie Pouch 1-3 Years",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/rafferty%27s-garden-coconut-berry-little-smoothie-pouch-1-3-years-120g-6295687",
+    "product_id": "6295687",
+    "image": "images/smoothie-pouch.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/2/9/6295687-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6295687.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Baby Oil",
+    "chinese": "婴儿润肤油",
+    "product_name": "Johnson's Aloe Vera & Vitamin E Gentle Mild Soothing Moisturising Baby Oil",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/johnson%27s-aloe-vera-and-vitamin-e-gentle-mild-soothing-moisturising-baby-oil-500ml-8582500",
+    "product_id": "8582500",
+    "image": "images/baby-oil.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/8/8582500-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8582500.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Corn Sticks",
+    "chinese": "玉米条",
+    "product_name": "Only Organic 8 Months+ Banana & Mango Corn Sticks",
+    "pack_size": "15g",
+    "product_url": "https://www.coles.com.au/product/only-organic-8-months%2B-banana-and-mango-corn-sticks-15g-8409164",
+    "product_id": "8409164",
+    "image": "images/corn-sticks.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/0/8409164-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8409164.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Top To Toe Wash",
+    "chinese": "婴儿全身清洁液",
+    "product_name": "Bunjie Baby Top To Toe Wash",
+    "pack_size": "500mL",
+    "product_url": "https://www.coles.com.au/product/bunjie-baby-top-to-toe-wash-500ml-5356913",
+    "product_id": "5356913",
+    "image": "images/top-to-toe-wash.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/5/5356913-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5356913.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Oat Biscuits",
+    "chinese": "燕麦饼干",
+    "product_name": "Only Organic Pear & Cinnamon Oat Biscuits 10 Months+",
+    "pack_size": "100g",
+    "product_url": "https://www.coles.com.au/product/only-organic-pear-and-cinnamon-oat-biscuits-10-months%2B-100g-8409131",
+    "product_id": "8409131",
+    "image": "images/oat-biscuits.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/0/8409131-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8409131.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Apple Puree",
+    "chinese": "苹果泥",
+    "product_name": "Rafferty's Garden Apple Puree And Nothing Else Baby Food Pouch 4+ Months",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/rafferty%27s-garden-apple-puree-and-nothing-else-baby-food-pouch-4%2B-months-120g-3018807",
+    "product_id": "3018807",
+    "image": "images/apple-puree.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3018807-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3018807.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Baby Food Puree",
+    "chinese": "婴儿果蔬泥",
+    "product_name": "Rafferty's Garden Blueberries Banana & Apple And Nothing Else Baby Food Puree Pouch 4+ Months",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/rafferty%27s-garden-blueberries-banana-and-apple-and-nothing-else-baby-food-puree-pouch-4%2B-months-120g-6027167",
+    "product_id": "6027167",
+    "image": "images/baby-food-puree.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/2/6027167-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6027167.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Rice Cakes",
+    "chinese": "米饼",
+    "product_name": "Only Organic Blueberry Apple Rice Cakes 8 Months+",
+    "pack_size": "35g",
+    "product_url": "https://www.coles.com.au/product/only-organic-blueberry-apple-rice-cakes-8-months%2B-35g-8410083",
+    "product_id": "8410083",
+    "image": "images/rice-cakes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/1/8410083-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8410083.jpg"
+    ]
+  },
+  {
+    "category": "baby",
+    "english": "Swim Nappies",
+    "chinese": "游泳纸尿裤",
+    "product_name": "Huggies Little Swimmers Swim Nappies Large (14+kg)",
+    "pack_size": "10 Pack",
+    "product_url": "https://www.coles.com.au/product/huggies-little-swimmers-swim-nappies-large-%2814%2Bkg%29-10-pack-8383413",
+    "product_id": "8383413",
+    "image": "images/swim-nappies.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/8/8383413-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8383413.jpg"
+    ]
+  },
+  {
+    "category": "pet",
+    "english": "Wet Cat Food",
+    "chinese": "湿猫粮",
+    "product_name": "Dine Classic Collection Adult Wet Cat Food Saucy Morsels With Tuna & Cheese 7x85g Trays",
+    "pack_size": "7 Pack",
+    "product_url": "https://www.coles.com.au/product/dine-classic-collection-adult-wet-cat-food-saucy-morsels-with-tuna-and-cheese-7x85g-trays-7-pack-2741452",
+    "product_id": "2741452",
+    "image": "images/wet-cat-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2741452-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2741452.jpg"
+    ]
+  },
+  {
+    "category": "pet",
+    "english": "Cat Food",
+    "chinese": "猫粮",
+    "product_name": "Dine Classic Collection Pouch Cat Food Mixed Selection In Jelly/gravy 12x85g",
+    "pack_size": "1020g",
+    "product_url": "https://www.coles.com.au/product/dine-classic-collection-pouch-cat-food-mixed-selection-in-jellygravy-12x85g-1020g-5188310",
+    "product_id": "5188310",
+    "image": "images/cat-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/8/5188310-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5188310.jpg"
+    ]
+  },
+  {
+    "category": "pet",
+    "english": "Dog Treats",
+    "chinese": "狗零食",
+    "product_name": "Pedigree Dentastix Large Dog Treats Daily Oral Care Dental Chews",
+    "pack_size": "28 Pack",
+    "product_url": "https://www.coles.com.au/product/pedigree-dentastix-large-dog-treats-daily-oral-care-dental-chews-28-pack-7531887",
+    "product_id": "7531887",
+    "image": "images/dog-treats.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/3/7531887-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7531887.jpg"
+    ]
+  },
+  {
+    "category": "pet",
+    "english": "Dry Cat Food",
+    "chinese": "干猫粮",
+    "product_name": "Optimum Dry Cat Food Ocean Fish",
+    "pack_size": "1.4kg",
+    "product_url": "https://www.coles.com.au/product/optimum-dry-cat-food-ocean-fish-1.4kg-1154746",
+    "product_id": "1154746",
+    "image": "images/dry-cat-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/5/1154746-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1154746.jpg"
+    ]
+  },
+  {
+    "category": "pet",
+    "english": "Cat Treats",
+    "chinese": "猫零食",
+    "product_name": "Temptations Cat Treats Tasty Chicken Flavour",
+    "pack_size": "180g",
+    "product_url": "https://www.coles.com.au/product/temptations-cat-treats-tasty-chicken-flavour-180g-3566427",
+    "product_id": "3566427",
+    "image": "images/cat-treats.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3566427-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3566427.jpg"
+    ]
+  },
+  {
+    "category": "pet",
+    "english": "Wet Dog Food",
+    "chinese": "湿狗粮",
+    "product_name": "My Dog Adult Wet Dog Food Classic Loaf With Tender Chicken 6x100g Trays",
+    "pack_size": "6 Pack",
+    "product_url": "https://www.coles.com.au/product/my-dog-adult-wet-dog-food-classic-loaf-with-tender-chicken-6x100g-trays-6-pack-6387209",
+    "product_id": "6387209",
+    "image": "images/wet-dog-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/8/6387209-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6387209.jpg"
+    ]
+  },
+  {
+    "category": "pet",
+    "english": "Dry Dog Food",
+    "chinese": "干狗粮",
+    "product_name": "Supercoat Adult Sensitive With Fish Dry Dog Food",
+    "pack_size": "2.6kg",
+    "product_url": "https://www.coles.com.au/product/supercoat-adult-sensitive-with-fish-dry-dog-food-2.6kg-5486781",
+    "product_id": "5486781",
+    "image": "images/dry-dog-food.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5486781-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5486781.jpg"
+    ]
+  },
+  {
+    "category": "pet",
+    "english": "Cat Litter",
+    "chinese": "猫砂",
+    "product_name": "Breeders Choice Cat Litter Paper",
+    "pack_size": "15L",
+    "product_url": "https://www.coles.com.au/product/breeders-choice-cat-litter-paper-15l-8029877",
+    "product_id": "8029877",
+    "image": "images/cat-litter.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/2/8029877-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8029877.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Air Freshener",
+    "chinese": "空气清新剂",
+    "product_name": "Botanica Island Rose & African Geranium Air Freshener Room Spray",
+    "pack_size": "236mL",
+    "product_url": "https://www.coles.com.au/product/botanica-island-rose-and-african-geranium-air-freshener-room-spray-236ml-3721268",
+    "product_id": "3721268",
+    "image": "images/air-freshener.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3721268-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3721268.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Cockroach Baits",
+    "chinese": "蟑螂诱饵",
+    "product_name": "Raid Max Insect Cockroach Baits Traps",
+    "pack_size": "12 Pack",
+    "product_url": "https://www.coles.com.au/product/raid-max-insect-cockroach-baits-traps-12-pack-9508456",
+    "product_id": "9508456",
+    "image": "images/cockroach-baits.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/0/9508456-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9508456.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Insect Killer",
+    "chinese": "杀虫剂",
+    "product_name": "Raid One Shot Pest Multipurpose Insect Killer Odourless",
+    "pack_size": "320g",
+    "product_url": "https://www.coles.com.au/product/raid-one-shot-pest-multipurpose-insect-killer-odourless-320g-3852095",
+    "product_id": "3852095",
+    "image": "images/insect-killer.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3852095-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3852095.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Scented Oil Warmer",
+    "chinese": "香薰油加热器",
+    "product_name": "Glade Electric Scented Oil Warmer & Refill Sheer Vanilla Embrace",
+    "pack_size": "20mL",
+    "product_url": "https://www.coles.com.au/product/glade-electric-scented-oil-warmer-and-refill-sheer-vanilla-embrace-20ml-6134586",
+    "product_id": "6134586",
+    "image": "images/scented-oil-warmer.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/3/6134586-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6134586.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Batteries",
+    "chinese": "电池",
+    "product_name": "Duracell Coppertop AAA Alkaline Batteries",
+    "pack_size": "20 Pack",
+    "product_url": "https://www.coles.com.au/product/duracell-coppertop-aaa-alkaline-batteries-20-pack-3756648",
+    "product_id": "3756648",
+    "image": "images/batteries.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3756648-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3756648.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Scented Oils Refill",
+    "chinese": "香薰油补充装",
+    "product_name": "Air Wick Pure Scented Oils Refill Lemon Blossom & Jasmine 2x19ml",
+    "pack_size": "18mL",
+    "product_url": "https://www.coles.com.au/product/air-wick-pure-scented-oils-refill-lemon-blossom-and-jasmine-2x19ml-18ml-8163417",
+    "product_id": "8163417",
+    "image": "images/scented-oils-refill.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8163417-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8163417.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Mosquito Repellent",
+    "chinese": "驱蚊用品",
+    "product_name": "Aerogard Home Mosquito Repellent Electric Plug-in Refill",
+    "pack_size": "35mL",
+    "product_url": "https://www.coles.com.au/product/aerogard-home-mosquito-repellent-electric-plug-in-refill-35ml-8593121",
+    "product_id": "8593121",
+    "image": "images/mosquito-repellent.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/9/8593121-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8593121.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Insect Repellent Spray",
+    "chinese": "驱虫喷雾",
+    "product_name": "OFF! Tropical Strength Insect Repellent Spray",
+    "pack_size": "175mL",
+    "product_url": "https://www.coles.com.au/product/off%21-tropical-strength-insect-repellent-spray-175ml-9579217",
+    "product_id": "9579217",
+    "image": "images/insect-repellent-spray.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/7/9579217-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9579217.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Plate",
+    "chinese": "盘子",
+    "product_name": "Zak Reusable Plate License 2",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/zak-reusable-plate-license-2-1-each-9193901",
+    "product_id": "9193901",
+    "image": "images/plate.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/9/9193901-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9193901.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Soy Wax Candle",
+    "chinese": "大豆蜡烛",
+    "product_name": "Green Nation Soy Wax Candle Lemongrass 200g",
+    "pack_size": "1 each",
+    "product_url": "https://www.coles.com.au/product/green-nation-soy-wax-candle-lemongrass-200g-1-each-7534091",
+    "product_id": "7534091",
+    "image": "images/soy-wax-candle.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/3/7534091-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7534091.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Mug",
+    "chinese": "马克杯",
+    "product_name": "Zak Reusable Mug License 1",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/zak-reusable-mug-license-1-1-each-9193978",
+    "product_id": "9193978",
+    "image": "images/mug.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/9/9193978-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9193978.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Cutlery",
+    "chinese": "餐具",
+    "product_name": "Zak Reusable Cutlery License 2",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/zak-reusable-cutlery-license-2-1-each-9193967",
+    "product_id": "9193967",
+    "image": "images/cutlery.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/9/9193967-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9193967.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Bowl",
+    "chinese": "碗",
+    "product_name": "Zak Reusable Bowl License 2",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/zak-reusable-bowl-license-2-1-each-9193923",
+    "product_id": "9193923",
+    "image": "images/bowl.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/9/9193923-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/9/9193923.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Control Bomb",
+    "chinese": "杀虫烟雾剂",
+    "product_name": "Mortein Powergard Crawling Insect Control Bomb",
+    "pack_size": "3 Pack",
+    "product_url": "https://www.coles.com.au/product/mortein-powergard-crawling-insect-control-bomb-3-pack-8593154",
+    "product_id": "8593154",
+    "image": "images/control-bomb.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/9/8593154-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8593154.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Scented Candle",
+    "chinese": "香薰蜡烛",
+    "product_name": "Botanica By Air Wick Scented Candle Caribbean Vetiver & Sandalwood",
+    "pack_size": "1 each",
+    "product_url": "https://www.coles.com.au/product/botanica-by-air-wick-scented-candle-caribbean-vetiver-and-sandalwood-1-each-4661354",
+    "product_id": "4661354",
+    "image": "images/scented-candle.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/6/4661354-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4661354.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "waterproof Spray",
+    "chinese": "防水喷雾",
+    "product_name": "Maseur Weather Guard Protect&waterproof Spray",
+    "pack_size": "125g",
+    "product_url": "https://www.coles.com.au/product/maseur-weather-guard-protectandwaterproof-spray-125g-6597777",
+    "product_id": "6597777",
+    "image": "images/waterproof-spray.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/9/6597777-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/6/6597777.jpg"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "english": "Candle",
+    "chinese": "蜡烛",
+    "product_name": "Air Wick Essential Oils Vanilla Bean Candle",
+    "pack_size": "1 Pack",
+    "product_url": "https://www.coles.com.au/product/air-wick-essential-oils-vanilla-bean-candle-1-pack-3413415",
+    "product_id": "3413415",
+    "image": "images/candle.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/1/3413415-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3413415.jpg"
+    ]
+  }
+]

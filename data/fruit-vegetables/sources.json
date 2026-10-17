@@ -1,0 +1,604 @@
+[
+  {
+    "english": "Passionfruit",
+    "chinese": "百香果",
+    "image": "images/passionfruit.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-panama-passionfruit-1-each-5415852",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/1/5415852-zm.jpg"
+  },
+  {
+    "english": "Pomegranate",
+    "chinese": "石榴",
+    "image": "images/pomegranate.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-pomegranate-medium-1-each-4519320",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/1/4519320-zm.jpg"
+  },
+  {
+    "english": "Strawberries",
+    "chinese": "草莓",
+    "image": "images/strawberries.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-strawberries-250g-5191256",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/9/5191256-zm.jpg"
+  },
+  {
+    "english": "Coconut",
+    "chinese": "椰子",
+    "image": "images/coconut.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-drinking-coconut-1-each-5582887",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5582887-zm.jpg"
+  },
+  {
+    "english": "Dragonfruit",
+    "chinese": "火龙果",
+    "image": "images/dragonfruit.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-white-dragonfruit-fresh-1-each-6866880",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/6/6866880-zm.jpg"
+  },
+  {
+    "english": "Nashi Pears",
+    "chinese": "亚洲梨",
+    "image": "images/nashi-pears.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-brown-nashi-pears-1-each-7063042",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/6/7063042-zm.jpg"
+  },
+  {
+    "english": "Pomegranate Arils",
+    "chinese": "石榴籽",
+    "image": "images/pomegranate-arils.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-pomegranate-arils-75g-1859027",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/5/1859027-zm.jpg"
+  },
+  {
+    "english": "Rockmelon",
+    "chinese": "哈密瓜／网纹甜瓜",
+    "image": "images/rockmelon.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-rockmelon-whole-1-each-428915",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/8/428915-zm.jpg"
+  },
+  {
+    "english": "Fruit Salad",
+    "chinese": "水果沙拉",
+    "image": "images/fruit-salad.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-fruit-salad-selection-550g-8851646",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/5/8851646-zm.jpg"
+  },
+  {
+    "english": "Melon",
+    "chinese": "甜瓜",
+    "image": "images/rockmelon.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-rockmelon-whole-1-each-428915",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/8/428915-zm.jpg",
+    "note": "Shares representative rockmelon photo with Rockmelon"
+  },
+  {
+    "english": "Pineapple",
+    "chinese": "菠萝",
+    "image": "images/pineapple.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-cut-fruit-pineapple-350g-7864380",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/6/7864380-zm.jpg"
+  },
+  {
+    "english": "Pears",
+    "chinese": "梨",
+    "image": "images/pears.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-packham-pears-1kg-9006662",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/0/9006662-zm.jpg"
+  },
+  {
+    "english": "Watermelon",
+    "chinese": "西瓜",
+    "image": "images/watermelon.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-seedless-watermelon-cut-approx.-1.8kg-7508229",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/0/7508229-zm.jpg"
+  },
+  {
+    "english": "Bananas",
+    "chinese": "香蕉",
+    "image": "images/bananas.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-bananas-approx.-170g-409499",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409499-zm.jpg"
+  },
+  {
+    "english": "Grapefruit",
+    "chinese": "葡萄柚／西柚",
+    "image": "images/grapefruit.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-large-grapefruit-ruby-red-approx.-380g-5323153",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/2/5323153-zm.jpg"
+  },
+  {
+    "english": "Papaya",
+    "chinese": "木瓜",
+    "image": "images/papaya.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-papaya-loose-1-each-6950578",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/5/6950578-zm.jpg"
+  },
+  {
+    "english": "Honeydew Melon",
+    "chinese": "蜜瓜",
+    "image": "images/honeydew-melon.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-honeydew-melon-whole-1-each-5945620",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/4/5945620-zm.jpg"
+  },
+  {
+    "english": "Grapes",
+    "chinese": "葡萄",
+    "image": "images/grapes.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-red-seedless-grapes-approx.-1kg-8133562",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/3/8133562-zm.jpg"
+  },
+  {
+    "english": "Blueberries",
+    "chinese": "蓝莓",
+    "image": "images/blueberries.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-blueberries-170g-3571948",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3571948-zm.jpg"
+  },
+  {
+    "english": "Oranges",
+    "chinese": "橙子",
+    "image": "images/oranges.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-prepacked-oranges-2kg-1866973",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/6/1866973-zm.jpg"
+  },
+  {
+    "english": "Kiwifruit",
+    "chinese": "猕猴桃／奇异果",
+    "image": "images/kiwifruit.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-gold-kiwifruit-1-each-6979376",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/7/6979376-zm.jpg"
+  },
+  {
+    "english": "Limes",
+    "chinese": "青柠",
+    "image": "images/limes.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-limes-medium-loose-1-each-197594",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/7/197594-zm.jpg"
+  },
+  {
+    "english": "Lemons",
+    "chinese": "柠檬",
+    "image": "images/lemons.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-lemons-1-each-5318302",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5318302-zm.jpg"
+  },
+  {
+    "english": "Mandarins",
+    "chinese": "橘子",
+    "image": "images/mandarins.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-mini-pack-mandarins-850g-5211604",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/1/5211604-zm.jpg"
+  },
+  {
+    "english": "Apples",
+    "chinese": "苹果",
+    "image": "images/apples.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-granny-smith-apples-1kg-4438740",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/3/4438740-zm.jpg"
+  },
+  {
+    "english": "Mangoes",
+    "chinese": "芒果",
+    "image": "images/mangoes.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-kensington-pride-mangoes-medium-1-each-409772",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409772-zm.jpg"
+  },
+  {
+    "english": "Blackberries",
+    "chinese": "黑莓",
+    "image": "images/blackberries.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-blackberries-125g-134040",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/4/134040-zm.jpg"
+  },
+  {
+    "english": "Raspberries",
+    "chinese": "覆盆子／树莓",
+    "image": "images/raspberries.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-raspberries-125g-134029",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/4/134029-zm.jpg"
+  },
+  {
+    "english": "Avocados",
+    "chinese": "牛油果／鳄梨",
+    "image": "images/avocados.jpg",
+    "source_kind": "existing_project_data",
+    "source_date": "2026-10-12",
+    "product_url": "https://www.coles.com.au/product/coles-hass-avocados-1-each-5900530",
+    "image_url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/0/5900530-zm.jpg"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Cucumbers",
+    "chinese": "黄瓜",
+    "product_name": "Coles Baby Cucumbers",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/coles-baby-cucumbers-250g-4578148",
+    "product_id": "4578148",
+    "image": "images/cucumbers.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4578148-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4578148.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Baby Spinach",
+    "chinese": "嫩菠菜",
+    "product_name": "Coles Baby Spinach",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/coles-baby-spinach-120g-1499340",
+    "product_id": "1499340",
+    "image": "images/baby-spinach.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/9/1499340-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1499340.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Cauliflower",
+    "chinese": "花椰菜／菜花",
+    "product_name": "Coles Cauliflower Half",
+    "pack_size": "1 each",
+    "product_url": "https://www.coles.com.au/product/coles-cauliflower-half-1-each-4601320",
+    "product_id": "4601320",
+    "image": "images/cauliflower.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/0/4601320-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4601320.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Butternut Pumpkin",
+    "chinese": "奶油南瓜",
+    "product_name": "Coles Wrapped Butternut Pumpkin",
+    "pack_size": "approx. 700g",
+    "product_url": "https://www.coles.com.au/product/coles-wrapped-butternut-pumpkin-approx.-700g-each-4190600",
+    "product_id": "4190600",
+    "image": "images/butternut-pumpkin.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/9/4190600-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/4/4190600.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Salad Mix",
+    "chinese": "混合沙拉菜",
+    "product_name": "Coles 4 Leaf Salad Mix",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-4-leaf-salad-mix-200g-8209722",
+    "product_id": "8209722",
+    "image": "images/salad-mix.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/2/0/8209722-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8209722.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Mushrooms",
+    "chinese": "蘑菇",
+    "product_name": "Coles Mushrooms Sliced",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-mushrooms-sliced-500g-2728862",
+    "product_id": "2728862",
+    "image": "images/mushrooms.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/2/2728862-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2728862.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Red Onion",
+    "chinese": "红洋葱",
+    "product_name": "Coles Red Onion 1 Kg",
+    "pack_size": "1kg",
+    "product_url": "https://www.coles.com.au/product/coles-red-onion-1-kg-1kg-8467604",
+    "product_id": "8467604",
+    "image": "images/red-onion.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/6/8467604-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8467604.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Rocket",
+    "chinese": "芝麻菜",
+    "product_name": "Coles Lettuce Baby Rocket",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/coles-lettuce-baby-rocket-120g-1499475",
+    "product_id": "1499475",
+    "image": "images/rocket.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/9/1499475-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1499475.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Iceberg",
+    "chinese": "球生菜",
+    "product_name": "Coles Iceberg Salad Blend",
+    "pack_size": "300g",
+    "product_url": "https://www.coles.com.au/product/coles-iceberg-salad-blend-300g-5450831",
+    "product_id": "5450831",
+    "image": "images/iceberg.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/5/5450831-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5450831.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Caesar Salad",
+    "chinese": "凯撒沙拉",
+    "product_name": "Coles Kitchen Caesar Salad Bowl",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-caesar-salad-bowl-200g-8174708",
+    "product_id": "8174708",
+    "image": "images/caesar-salad.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/7/8174708-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8174708.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Broccoli",
+    "chinese": "西兰花",
+    "product_name": "Coles Baby Broccoli",
+    "pack_size": "1 Bunch",
+    "product_url": "https://www.coles.com.au/product/coles-baby-broccoli-1-bunch-5982477",
+    "product_id": "5982477",
+    "image": "images/broccoli.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/8/5982477-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5982477.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Tomatoes",
+    "chinese": "番茄",
+    "product_name": "Coles Cocktail Truss Tomatoes",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/coles-cocktail-truss-tomatoes-250g-3088176",
+    "product_id": "3088176",
+    "image": "images/tomatoes.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/8/3088176-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3088176.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Pumpkin",
+    "chinese": "南瓜",
+    "product_name": "Coles Fresh Halloween Mini Jack Pumpkin",
+    "pack_size": "1 Each",
+    "product_url": "https://www.coles.com.au/product/coles-fresh-halloween-mini-jack-pumpkin-1-each-1091169",
+    "product_id": "1091169",
+    "image": "images/pumpkin.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/9/1091169-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1091169.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Pasta Salad",
+    "chinese": "意面沙拉",
+    "product_name": "Coles Kitchen Classic Pasta Salad",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-classic-pasta-salad-400g-5503494",
+    "product_id": "5503494",
+    "image": "images/pasta-salad.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/0/5503494-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5503494.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Coleslaw",
+    "chinese": "卷心菜丝沙拉",
+    "product_name": "Coles Kitchen Classic Coleslaw Salad",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-classic-coleslaw-salad-400g-5504613",
+    "product_id": "5504613",
+    "image": "images/coleslaw.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/0/5504613-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5504613.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Pistachios",
+    "chinese": "开心果",
+    "product_name": "Coles Pistachios Roasted & Salted",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-pistachios-roasted-and-salted-400g-2131611",
+    "product_id": "2131611",
+    "image": "images/pistachios.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/3/2131611-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2131611.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Kale",
+    "chinese": "羽衣甘蓝",
+    "product_name": "Coles Chopped Kale",
+    "pack_size": "140g",
+    "product_url": "https://www.coles.com.au/product/coles-chopped-kale-140g-2674606",
+    "product_id": "2674606",
+    "image": "images/kale.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/7/2674606-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2674606.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Potato Salad",
+    "chinese": "土豆沙拉",
+    "product_name": "Coles Kitchen Classic Potato Salad",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-classic-potato-salad-400g-5508024",
+    "product_id": "5508024",
+    "image": "images/potato-salad.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/0/5508024-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5508024.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Mixed Nuts",
+    "chinese": "混合坚果",
+    "product_name": "Coles Mixed Nuts Dry Roasted Mixed Nuts",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-mixed-nuts-dry-roasted-mixed-nuts-400g-5299478",
+    "product_id": "5299478",
+    "image": "images/mixed-nuts.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/9/5299478-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5299478.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "fruit-vegetables",
+    "english": "Almonds",
+    "chinese": "杏仁",
+    "product_name": "Coles Dry Roasted Almonds",
+    "pack_size": "750g",
+    "product_url": "https://www.coles.com.au/product/coles-dry-roasted-almonds-750g-5210598",
+    "product_id": "5210598",
+    "image": "images/almonds.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/1/5210598-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5210598.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  }
+]

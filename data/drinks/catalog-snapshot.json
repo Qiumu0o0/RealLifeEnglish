@@ -1,0 +1,203 @@
+{
+  "category": "drinks",
+  "source_url": "https://www.coles.com.au/browse/drinks",
+  "checked_at": "2026-10-18",
+  "access_method": "search_tool_snapshot",
+  "complete": false,
+  "scope": "Saved accessible category snapshot only; not a complete or live catalog.",
+  "snapshot_crawled": "today",
+  "products": [
+    {
+      "product_name": "The Juice Brothers Orange Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Pepsi Max Soft Drink No Sugar Cans Multipack 375mL",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Solo Lemon Soft Drink Zero Sugar Cans Multipack 375mL",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Pepsi Max No Sugar Cola Soft Drink Cans Multipack 375ml",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Schweppes Lemonade Soft Drink Cans Multipack 375mL",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Mountain Dew Soft Drink Cans Multipack 375mL",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Pepsi Soft Drink Cola Cans Multipack 375mL",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Red Bull Energy Drink 12x250ml",
+      "pack_size": "3L"
+    },
+    {
+      "product_name": "Solo Thirst Crusher Original Lemon Soft Drink Cans Multipack 375ml",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Red Bull Energy Drink Original 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Sunkist Orange Soft Drink Cans Multipack 375ml",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Original Juice Co. Black Label Chilled Orange Juice",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Summer Snow Sparkling Pink Lady Apple Juice",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Original Juice Co. Black Label Pulp Free Chilled Orange Juice",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "The Juice Brothers Tropical Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Impressed Easy Greens Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Impressed Ginger Ninja Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Nudie Nothing But Juice Orange",
+      "pack_size": "3L"
+    },
+    {
+      "product_name": "The Juice Brothers Morning Start Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Nippy's Orange Juice Unsweetened Chilled",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Summer Snow Sparkling Juice Pink Lady Raspberry",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Impressed Cold Pressed Pine Lime",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Impressed Cold Pressed Jack Rose Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Pure Tassie Juice Cloudy Pressed Apple",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Grove Juice Mango Peach Apple Strawberry Juice",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Nudie Nothing But 100% Fresh Juice Orange Pulp Free",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "First Press Cold Drip 10 Shot Coffee",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Nudie Juice Watermelon",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Youjuice Berry Bliss Smoothie",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Perkii Mango Passionfruit Probiotic Drink",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Perkii Strawberry Watermelon Probiotic Drink",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Impressed Oh Mandy",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Boss Iced Latte Coffee",
+      "pack_size": "237mL"
+    },
+    {
+      "product_name": "Nudie Byron Breeze Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Nudie Nothing But 100% Fresh Juice Orange",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Eastcoast Beverages Pineapple Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Boss Double Espresso Coffee",
+      "pack_size": "237mL"
+    },
+    {
+      "product_name": "Eastcoast Beverages Country Style Lemonade Juice Drink",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Original Juice Co Citrus Shield",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Boss Iced Long Black Coffee",
+      "pack_size": "237mL"
+    },
+    {
+      "product_name": "Daily Juice Orange Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Nudie Nothing But Carrot Apple Orange & Ginger",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "The Juice Brothers Juice Zesty Pear Burst",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Grove Juice Orange Mango Passionfruit Pineapple Apple",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Jiva Reset Tonic Drink",
+      "pack_size": "100mL"
+    },
+    {
+      "product_name": "Original Black Label Grapefruit Juice",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Orchy No Added Sugar Apple Juice",
+      "pack_size": "375mL"
+    },
+    {
+      "product_name": "Youfoodz Banana Mango Smoothie",
+      "pack_size": "350mL"
+    }
+  ]
+}

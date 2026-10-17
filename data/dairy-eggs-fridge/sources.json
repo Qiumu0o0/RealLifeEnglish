@@ -1,0 +1,342 @@
+[
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Yoghurt",
+    "chinese": "酸奶",
+    "product_name": "Tamar Valley Dairy The Creamery Yoghurt Pouch Mango & Cream",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/tamar-valley-dairy-the-creamery-yoghurt-pouch-mango-and-cream-150g-1754787",
+    "product_id": "1754787",
+    "image": "images/yoghurt.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/5/1754787-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1754787.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Cheese",
+    "chinese": "奶酪",
+    "product_name": "Bega Cheese Stringers Original 8 Pack",
+    "pack_size": "160g",
+    "product_url": "https://www.coles.com.au/product/bega-cheese-stringers-original-8-pack-160g-7325863",
+    "product_id": "7325863",
+    "image": "images/cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/2/7325863-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7325863.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Haloumi",
+    "chinese": "哈罗米奶酪",
+    "product_name": "Riverina Haloumi",
+    "pack_size": "180g",
+    "product_url": "https://www.coles.com.au/product/riverina-haloumi-180g-3842193",
+    "product_id": "3842193",
+    "image": "images/haloumi.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/4/3842193-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3842193.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Margarine",
+    "chinese": "人造黄油",
+    "product_name": "Meadow Lea Original Margarine Spread",
+    "pack_size": "1kg",
+    "product_url": "https://www.coles.com.au/product/meadow-lea-original-margarine-spread-1kg-224267",
+    "product_id": "224267",
+    "image": "images/margarine.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/4/224267-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/224267.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Oat Uht Milk",
+    "chinese": "超高温灭菌燕麦奶",
+    "product_name": "Sanitarium So Good Barista Oat Uht Milk",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/sanitarium-so-good-barista-oat-uht-milk-1l-5318947",
+    "product_id": "5318947",
+    "image": "images/oat-uht-milk.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5318947-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5318947.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Pudding",
+    "chinese": "布丁",
+    "product_name": "Fresh Fodder High Protein Pudding Choc Brownies Flavour",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/fresh-fodder-high-protein-pudding-choc-brownies-flavour-200g-1789919",
+    "product_id": "1789919",
+    "image": "images/pudding.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/8/1789919-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1789919.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Veggie Strips",
+    "chinese": "蔬菜条",
+    "product_name": "Wildly Good Original Veggie Strips",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/wildly-good-original-veggie-strips-200g-8067640",
+    "product_id": "8067640",
+    "image": "images/veggie-strips.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/6/8067640-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8067640.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Chicken Parma",
+    "chinese": "帕尔马风味鸡排",
+    "product_name": "Coles Kitchen Chicken Parma & Roast Potatoes",
+    "pack_size": "330g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-parma-and-roast-potatoes-330g-7750337",
+    "product_id": "7750337",
+    "image": "images/chicken-parma.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/5/7750337-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7750337.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Chicken Leek Pie",
+    "chinese": "鸡肉韭葱派",
+    "product_name": "Coles Kitchen Chicken Leek Pie",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-leek-pie-350g-5587111",
+    "product_id": "5587111",
+    "image": "images/chicken-leek-pie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5587111-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5587111.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Braised Beef",
+    "chinese": "炖牛肉",
+    "product_name": "Coles Kitchen Braised Beef & Mash",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-braised-beef-and-mash-350g-3467968",
+    "product_id": "3467968",
+    "image": "images/braised-beef.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/6/3467968-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3467968.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Lasagne",
+    "chinese": "千层面",
+    "product_name": "Coles Kitchen Beef Ragu Lasagne",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-beef-ragu-lasagne-350g-5587100",
+    "product_id": "5587100",
+    "image": "images/lasagne.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5587100-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5587100.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Cannelloni",
+    "chinese": "意式烤馅卷",
+    "product_name": "Coles Kitchen Spinach & Ricotta Cannelloni",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-spinach-and-ricotta-cannelloni-350g-3771277",
+    "product_id": "3771277",
+    "image": "images/cannelloni.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3771277-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/3/3771277.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Butter Chicken",
+    "chinese": "黄油鸡",
+    "product_name": "Coles Kitchen Butter Chicken With Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-butter-chicken-with-rice-350g-7325091",
+    "product_id": "7325091",
+    "image": "images/butter-chicken.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/2/7325091-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/7/7325091.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Chicken Satay",
+    "chinese": "沙爹鸡肉",
+    "product_name": "Coles Kitchen Chicken Satay",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-satay-350g-8894456",
+    "product_id": "8894456",
+    "image": "images/chicken-satay.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/9/8894456-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/8/8894456.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Fried Rice",
+    "chinese": "炒饭",
+    "product_name": "Coles Kitchen Special Fried Rice",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-special-fried-rice-350g-2875095",
+    "product_id": "2875095",
+    "image": "images/fried-rice.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2875095-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2875095.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Mac & Cheese",
+    "chinese": "奶酪通心粉",
+    "product_name": "Coles Kitchen Pulled Pork Mac & Cheese",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-pulled-pork-mac-and-cheese-350g-5586800",
+    "product_id": "5586800",
+    "image": "images/mac-cheese.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5586800-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5586800.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Noodles",
+    "chinese": "面条",
+    "product_name": "Coles Kitchen Chicken Teriyaki Noodles",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-chicken-teriyaki-noodles-350g-1441781",
+    "product_id": "1441781",
+    "image": "images/noodles.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/4/1441781-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1441781.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Pizza",
+    "chinese": "披萨",
+    "product_name": "Coles Kitchen Pizza BBQ Meat Lovers",
+    "pack_size": "420g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-pizza-bbq-meat-lovers-420g-1602574",
+    "product_id": "1602574",
+    "image": "images/pizza.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/0/1602574-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/1/1602574.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Cottage Pie",
+    "chinese": "牛肉土豆泥派",
+    "product_name": "Coles Kitchen Cottage Pie",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-cottage-pie-350g-5586833",
+    "product_id": "5586833",
+    "image": "images/cottage-pie.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5586833-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/5/5586833.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Spaghetti Carbonara",
+    "chinese": "卡邦尼意面",
+    "product_name": "Coles Kitchen Spaghetti Carbonara",
+    "pack_size": "350g",
+    "product_url": "https://www.coles.com.au/product/coles-kitchen-spaghetti-carbonara-350g-2680802",
+    "product_id": "2680802",
+    "image": "images/spaghetti-carbonara.jpg",
+    "image_candidates": [
+      "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/8/2680802-zm.jpg",
+      "https://cdn.productimages.coles.com.au/productimages/2/2680802.jpg"
+    ],
+    "source_kind": "search_tool_snapshot",
+    "checked_at": "2026-10-18",
+    "image_status": "see ../image-download-results.json"
+  }
+]

@@ -1,0 +1,209 @@
+{
+  "checked_at": "2026-10-18",
+  "complete": false,
+  "scope": "Initial sampled vocabulary from accessible Coles search snapshots, up to 20 new terms per category, plus 29 existing fruit terms.",
+  "new_word_records": 313,
+  "retained_word_records": 29,
+  "total_word_records": 342,
+  "total_local_image_files": 341,
+  "categories": [
+    {
+      "category": "meat-seafood",
+      "chinese": "肉类与海鲜",
+      "word_count": 20,
+      "vocabulary": "meat-seafood/vocabulary.json",
+      "images": "meat-seafood/images.json",
+      "sources": "meat-seafood/sources.json",
+      "snapshot": "meat-seafood/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "fruit-vegetables",
+      "chinese": "果蔬",
+      "word_count": 49,
+      "vocabulary": "fruit-vegetables/vocabulary.json",
+      "images": "fruit-vegetables/images.json",
+      "sources": "fruit-vegetables/sources.json",
+      "snapshot": "fruit-vegetables/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "dairy-eggs-fridge",
+      "chinese": "乳制品、蛋与冷藏食品",
+      "word_count": 20,
+      "vocabulary": "dairy-eggs-fridge/vocabulary.json",
+      "images": "dairy-eggs-fridge/images.json",
+      "sources": "dairy-eggs-fridge/sources.json",
+      "snapshot": "dairy-eggs-fridge/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "bakery",
+      "chinese": "烘焙",
+      "word_count": 20,
+      "vocabulary": "bakery/vocabulary.json",
+      "images": "bakery/images.json",
+      "sources": "bakery/sources.json",
+      "snapshot": "bakery/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "deli",
+      "chinese": "熟食",
+      "word_count": 20,
+      "vocabulary": "deli/vocabulary.json",
+      "images": "deli/images.json",
+      "sources": "deli/sources.json",
+      "snapshot": "deli/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "pantry",
+      "chinese": "食品杂货",
+      "word_count": 20,
+      "vocabulary": "pantry/vocabulary.json",
+      "images": "pantry/images.json",
+      "sources": "pantry/sources.json",
+      "snapshot": "pantry/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "chips-chocolates-snacks",
+      "chinese": "薯片、巧克力与零食",
+      "word_count": 15,
+      "vocabulary": "chips-chocolates-snacks/vocabulary.json",
+      "images": "chips-chocolates-snacks/images.json",
+      "sources": "chips-chocolates-snacks/sources.json",
+      "snapshot": "chips-chocolates-snacks/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "international-foods",
+      "chinese": "国际食品",
+      "word_count": 20,
+      "vocabulary": "international-foods/vocabulary.json",
+      "images": "international-foods/images.json",
+      "sources": "international-foods/sources.json",
+      "snapshot": "international-foods/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "health-dietary",
+      "chinese": "健康及特殊饮食",
+      "word_count": 20,
+      "vocabulary": "health-dietary/vocabulary.json",
+      "images": "health-dietary/images.json",
+      "sources": "health-dietary/sources.json",
+      "snapshot": "health-dietary/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "drinks",
+      "chinese": "饮料",
+      "word_count": 14,
+      "vocabulary": "drinks/vocabulary.json",
+      "images": "drinks/images.json",
+      "sources": "drinks/sources.json",
+      "snapshot": "drinks/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "liquorland",
+      "chinese": "酒类",
+      "word_count": 19,
+      "vocabulary": "liquorland/vocabulary.json",
+      "images": "liquorland/images.json",
+      "sources": "liquorland/sources.json",
+      "snapshot": "liquorland/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "frozen",
+      "chinese": "冷冻食品",
+      "word_count": 20,
+      "vocabulary": "frozen/vocabulary.json",
+      "images": "frozen/images.json",
+      "sources": "frozen/sources.json",
+      "snapshot": "frozen/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "cleaning-laundry",
+      "chinese": "清洁与洗衣",
+      "word_count": 20,
+      "vocabulary": "cleaning-laundry/vocabulary.json",
+      "images": "cleaning-laundry/images.json",
+      "sources": "cleaning-laundry/sources.json",
+      "snapshot": "cleaning-laundry/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "health-beauty",
+      "chinese": "保健与美妆",
+      "word_count": 20,
+      "vocabulary": "health-beauty/vocabulary.json",
+      "images": "health-beauty/images.json",
+      "sources": "health-beauty/sources.json",
+      "snapshot": "health-beauty/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "baby",
+      "chinese": "母婴",
+      "word_count": 20,
+      "vocabulary": "baby/vocabulary.json",
+      "images": "baby/images.json",
+      "sources": "baby/sources.json",
+      "snapshot": "baby/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "pet",
+      "chinese": "宠物",
+      "word_count": 8,
+      "vocabulary": "pet/vocabulary.json",
+      "images": "pet/images.json",
+      "sources": "pet/sources.json",
+      "snapshot": "pet/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "home-garden",
+      "chinese": "家居与园艺",
+      "word_count": 17,
+      "vocabulary": "home-garden/vocabulary.json",
+      "images": "home-garden/images.json",
+      "sources": "home-garden/sources.json",
+      "snapshot": "home-garden/catalog-snapshot.json",
+      "status": "initial_sample",
+      "complete": false
+    },
+    {
+      "category": "tobacco",
+      "chinese": "烟草",
+      "word_count": 0,
+      "vocabulary": "tobacco/vocabulary.json",
+      "images": "tobacco/images.json",
+      "sources": "tobacco/sources.json",
+      "snapshot": "tobacco/catalog-snapshot.json",
+      "status": "no_product_details_available",
+      "complete": false
+    }
+  ]
+}
