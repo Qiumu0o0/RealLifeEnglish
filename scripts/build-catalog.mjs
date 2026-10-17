@@ -3,6 +3,7 @@ import path from 'node:path';
 const root = path.resolve(import.meta.dirname, '..');
 const index = JSON.parse(await fs.readFile(path.join(root, 'data/index.json'), 'utf8'));
 const categories = [];
+const thumbnails = JSON.parse(await fs.readFile(path.join(root,'data/app-images/index.json'),'utf8'));
 for (const item of index.categories) {
   const words = JSON.parse(await fs.readFile(path.join(root, 'data', item.vocabulary), 'utf8'));
   const images = JSON.parse(await fs.readFile(path.join(root, 'data', item.images), 'utf8'));
@@ -11,7 +12,9 @@ for (const item of index.categories) {
     const image = images[word.english.toLowerCase()];
     if (!image || !/^images\/[a-z0-9-]+\.jpg$/.test(image)) throw Error('Invalid image: ' + word.english);
     await fs.access(path.join(root, 'data', item.category, image));
-    mapped[word.english.toLowerCase()] = 'data/' + item.category + '/' + image;
+    const original = 'data/' + item.category + '/' + image;
+    if(!thumbnails[original])throw Error('Missing thumbnail: '+original);
+    mapped[word.english.toLowerCase()] = thumbnails[original];
   }
   categories.push({ id: item.category, label: item.chinese, words, images: mapped });
 }

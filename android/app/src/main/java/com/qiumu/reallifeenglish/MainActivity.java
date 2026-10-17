@@ -34,6 +34,8 @@ public class MainActivity extends Activity {
         });
         webView.getSettings().setJavaScriptEnabled(true);
         webView.getSettings().setDomStorageEnabled(true);
+        webView.getSettings().setLoadsImagesAutomatically(true);
+        webView.getSettings().setCacheMode(android.webkit.WebSettings.LOAD_NO_CACHE);
         webView.getSettings().setAllowFileAccess(false);
         webView.getSettings().setAllowContentAccess(true);
         updater = new AppUpdater(this);
@@ -66,9 +68,8 @@ public class MainActivity extends Activity {
                 return true;
             }
         });
-        if (state == null || webView.restoreState(state) == null) {
-            webView.loadUrl("https://" + HOST + "/assets/index.html");
-        }
+        // Progress is persisted by the app; always load the installed HTML after an update.
+        webView.loadUrl("https://" + HOST + "/assets/index.html");
     }
 
     @Override protected void onActivityResult(int request, int result, Intent data) {

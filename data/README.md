@@ -49,6 +49,8 @@ v1.2.0 起，网页版及 Android APP 已接入所有分类数据和对应图片
 
 运行 `node scripts/build-catalog.mjs` 生成 `data/app-catalog.js`，网页通过 `app.js` 使用此词库；Android 构建会自动生成并将词库和图片打包离线使用。
 
+v1.2.2 起，请先运行 `python scripts/build-image-assets.py` 生成缩略图和映射，再生成分类词库。`data/app-images/` 为网页缩略图，`data/app-images.js` 为 APK 内置图片数据；原始图片不变。
+
 ## 维护
 
 `node scripts/download-category-images.mjs` 可按已核实商品链接生成的下载清单补齐图片；脚本不获取实时商品列表。`python scripts/validate-category-data.py` 校验词库结构、重复词和图片可解码性（需要 Pillow）。

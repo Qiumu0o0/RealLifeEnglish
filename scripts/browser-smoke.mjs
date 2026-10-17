@@ -49,16 +49,18 @@ try {
     if(Date.now()>deadline)throw Error('Page load timeout');
     await new Promise(resolve=>setTimeout(resolve,50));
   }
-  await evaluate('document.getElementById("picture").decode()');
-  const first=await evaluate('({ready:window.APP_READY,options:document.getElementById("category").options.length,count:document.getElementById("count").textContent,width:innerWidth,scroll:document.documentElement.scrollWidth})');
+  async function waitCard(){await evaluate('new Promise(function(resolve,reject){var end=Date.now()+8000;var timer=setInterval(function(){if(document.getElementById("card").getAttribute("aria-busy")==="false"){clearInterval(timer);resolve(true);}else if(Date.now()>end){clearInterval(timer);reject(Error("Card load timeout"));}},20);})');await evaluate('document.getElementById("picture").decode()');}
+  await waitCard();
+  const first=await evaluate('({ready:window.APP_READY,options:document.getElementById("category").options.length,count:document.getElementById("count").textContent,width:innerWidth,scroll:document.documentElement.scrollWidth,frame:document.querySelector(".image-slot").getBoundingClientRect().height,card:document.getElementById("card").getBoundingClientRect().height})');
   if(!first.ready)throw Error('Application did not initialize');
   if(first.options!==19||first.scroll>first.width)throw Error('Mobile layout or catalog mismatch: '+JSON.stringify(first));
   const screenshot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:false},sessionId);
   await fs.writeFile(path.join(output,'mobile-smoke.png'),Buffer.from(screenshot.data,'base64'));
   await evaluate('document.getElementById("category").value="meat-seafood";document.getElementById("category").dispatchEvent(new Event("change"));');
-  await evaluate('document.getElementById("picture").decode()');
-  const second=await evaluate('({count:document.getElementById("count").textContent,word:document.getElementById("word").textContent,image:document.getElementById("picture").naturalWidth})');
+  await waitCard();
+  const second=await evaluate('({count:document.getElementById("count").textContent,word:document.getElementById("word").textContent,image:document.getElementById("picture").naturalWidth,frame:document.querySelector(".image-slot").getBoundingClientRect().height,card:document.getElementById("card").getBoundingClientRect().height})');
   if(!second.count.startsWith('20 ')||!second.image)throw Error('Category image failed');
+  if(first.frame!==second.frame||Math.abs(first.card-second.card)>1)throw Error('Card layout shifted');
   console.log('Real mobile browser:',JSON.stringify({first,second}));
   await send('Browser.close');
 } finally {if(socket)socket.close();browser.kill();}

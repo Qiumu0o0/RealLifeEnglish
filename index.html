@@ -11,8 +11,10 @@ button:focus-visible{outline:2px solid #285c3c;outline-offset:3px}
 .category-picker{display:flex;align-items:center;gap:12px;margin:24px 0 12px}.category-picker select{flex:1;min-width:0;padding:12px;border:1px solid #cdd8ce;border-radius:12px;background:white;font:inherit;color:#20392c}
 @media(max-width:480px){main{padding:20px 16px}header{flex-direction:row;align-items:center}header>div{flex-basis:100%}header>button,header>.import{text-align:center;flex:1}.toolbar{margin:14px 0}.toolbar button{flex:1 1 40%;padding:10px;font-size:14px}.stats{margin:14px 0}.category-picker{margin-top:18px}.card{padding:20px}.product-image{width:190px;height:190px;margin:8px 0}.word{margin:12px 0}.hint{margin-top:12px}}
 @media(max-width:480px){.actions{gap:8px}.actions button{padding:10px 8px;font-size:14px;white-space:nowrap}}
+.image-slot{display:flex;align-items:center;justify-content:center;width:230px;height:246px;flex:none}.image-slot [hidden]{display:none}#image-placeholder{font-size:14px;color:#718473}.word{min-height:1.3em}@media(max-width:480px){.image-slot{width:190px;height:206px}}
+.card:disabled{opacity:1}.image-slot{position:relative}.word{min-height:2.6em;display:flex;align-items:center;justify-content:center}#image-loading{position:absolute;bottom:0;font-size:12px;color:#718473}
 </style>
-<script src="bootstrap.js"></script>
+<script src="bootstrap.js?v=1.2.2"></script>
 </head>
 <body>
 <main>
@@ -23,14 +25,14 @@ button:focus-visible{outline:2px solid #285c3c;outline-offset:3px}
 <progress id="progress" value="0" max="1" aria-label="已掌握比例"></progress>
 <p id="position"></p>
 <button id="card" class="card" aria-label="显示中文答案">
-<span class="label" id="label">ENGLISH</span><img id="picture" class="product-image" alt="" hidden><span id="word" class="word"></span><span id="context" class="context"></span><span id="hint" class="hint">点击卡片查看中文 · 空格翻面</span>
+<span class="label" id="label">ENGLISH</span><span class="image-slot"><img id="picture" class="product-image" alt="" hidden><span id="image-placeholder" hidden>暂无图片</span><span id="image-loading" hidden>图片加载中…</span></span><span id="word" class="word"></span><span id="context" class="context"></span><span id="hint" class="hint">点击卡片查看中文 · 空格翻面</span>
 </button>
 <div class="actions"><button id="previous">上一张</button><button id="again">还需记忆</button><button id="remember" class="primary">已掌握</button><button id="next">下一张</button></div>
 <p id="status" class="status" role="status" aria-live="polite"></p>
 <details><summary>查看词库</summary><input id="search" type="search" placeholder="搜索英文或中文" aria-label="搜索词库"><ul id="list"></ul></details>
 <footer>学习记录保存在当前设备。同词同义共享掌握状态。</footer>
 </main>
-<script src="data/app-catalog.js"></script>
-<script src="app.js"></script>
+<script src="data/app-catalog.js?v=1.2.2"></script>
+<script src="app.js?v=1.2.2"></script>
 </body>
 </html>

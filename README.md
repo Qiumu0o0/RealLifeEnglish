@@ -14,7 +14,9 @@ v1.1.0 起可点击“检查更新”，发现 GitHub 新版本后在应用内�
 
 v1.2.0 接入分类词库，可选择单个分类或全部学习。包含342条分类记录及341张离线图片；相同英文和中文释义共享掌握状态，全部学习时合并重复卡片。原水果学习进度自动迁移。烟草分类暂无词条。
 
-数据、图片及来源见 [data](data/README.md)。修改分类数据后运行 `node scripts/build-catalog.mjs` 生成网页词库；Android 构建会自动执行此步骤。
+数据、图片及来源见 [data](data/README.md)。修改分类数据后，先运行 `python scripts/build-image-assets.py` 生成缩略图，再运行 `node scripts/build-catalog.mjs` 生成网页词库；Android 构建会自动执行这两步。
+
+v1.2.2 优化网页图片加载，切卡时图文同步并预加载后续图片；APK 直接内置缩略图，升级后读取新页面且不清除学习进度。
 
 ## 项目初衷
 

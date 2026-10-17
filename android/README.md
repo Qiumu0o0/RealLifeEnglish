@@ -16,4 +16,6 @@ v1.2.0 内置342条分类记录和341张商品图片。构建先生成分类词�
 
 v1.2.1 将启动脚本、词库和主程序直接嵌入 APK 的 HTML 中，不依赖外部脚本请求。避免 flatMap、replaceChildren 和可选链导致的部分旧 WebView 初始化中断；启动恢复代码保持 ES5 语法，主程序失败时仍提供更新入口。浏览器模拟兼容性测试不等于 Android 真机测试。
 
+v1.2.2 在构建时通过 Python/Pillow 生成384像素缩略图，并将去重后的图片数据直接内置进 APK 页面，运行时不再调用原生图片接口。需要 Pillow；原始商品图片仍保留在各分类目录。网页只加载当前及后续预加载的缩略图。
+
 网页逻辑测试：`node scripts/test-app.mjs`。Windows Chrome 手机尺寸检查：`node scripts/browser-smoke.mjs`，截图保存在忽略跟踪的 `android/app/build/mobile-smoke.png`。
