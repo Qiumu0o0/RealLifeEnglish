@@ -42,7 +42,7 @@ try {
     await send('Page.addScriptToEvaluateOnNewDocument',{source:'window.testImages='+JSON.stringify(images)+';window.AndroidApp={getImageData:function(path){return window.testImages[path]||"";},checkUpdates:function(){}};'},sessionId);
   }
   await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true},sessionId);
-  await send('Page.navigate',{url:pathToFileURL(process.env.APP_TEST_HTML||path.join(root,'index.html')).href},sessionId);
+  await send('Page.navigate',{url:pathToFileURL(process.env.APP_TEST_HTML||(process.argv.includes('--apk')?path.join(root,'android/app/build/apk-startup-test.html'):path.join(root,'index.html'))).href},sessionId);
   async function evaluate(expression){const result=await send('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true},sessionId);if(result.exceptionDetails)throw Error(JSON.stringify(result.exceptionDetails));return result.result.value;}
   const deadline=Date.now()+10000;
   while(!events.some(e=>e.sessionId===sessionId&&e.method==='Page.loadEventFired')){
@@ -61,6 +61,13 @@ try {
   const second=await evaluate('({count:document.getElementById("count").textContent,word:document.getElementById("word").textContent,image:document.getElementById("picture").naturalWidth,frame:document.querySelector(".image-slot").getBoundingClientRect().height,card:document.getElementById("card").getBoundingClientRect().height})');
   if(!second.count.startsWith('20 ')||!second.image)throw Error('Category image failed');
   if(first.frame!==second.frame||Math.abs(first.card-second.card)>1)throw Error('Card layout shifted');
-  console.log('Real mobile browser:',JSON.stringify({first,second}));
+  await evaluate('document.getElementById("tab-profile").click()');
+  const profile=await evaluate('({hidden:document.getElementById("study-panel").hidden,update:document.getElementById("update").getBoundingClientRect().height,progress:document.getElementById("profile-progress").textContent})');
+  if(!profile.hidden||!profile.update||!profile.progress.includes('已掌握'))throw Error('Profile navigation failed');
+  const profileShot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:false},sessionId);
+  await fs.writeFile(path.join(output,'profile-smoke.png'),Buffer.from(profileShot.data,'base64'));
+  await evaluate('document.dispatchEvent(new KeyboardEvent("keydown",{key:"2",bubbles:true}));document.getElementById("tab-study").click()');
+  if(await evaluate('document.getElementById("word").textContent')!==second.word)throw Error('Profile shortcut changed study card');
+  console.log('Real mobile browser:',JSON.stringify({first,second,profile}));
   await send('Browser.close');
 } finally {if(socket)socket.close();browser.kill();}

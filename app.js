@@ -2,7 +2,8 @@
 const $ = id => document.getElementById(id);
 const catalog = window.APP_CATALOG;
 const categories = catalog.categories.slice();
-const storageKey = "real-life-english-fruit-v1";
+const guestStorageKey = "real-life-english-fruit-v1";
+let storageKey=guestStorageKey+(window.Cloud&&window.Cloud.userId()?":user:"+window.Cloud.userId():"");
 const wordForms = {apple:"apples",avocado:"avocados",banana:"bananas",lemon:"lemons",orange:"oranges",pear:"pears",cookies:"cookie",scroll:"scrolls",croquettes:"croquette",yogurt:"yoghurt","dog treat":"dog treats"};
 const normalize = english => wordForms[english.trim().toLowerCase()] || english.trim().toLowerCase();
 const wordKey = word => normalize(word.english)+"::"+word.chinese.trim();
@@ -10,6 +11,7 @@ function flatMap(items, transform) { return [].concat.apply([],items.map(transfo
 let saved = {};
 try { saved = JSON.parse(localStorage.getItem(storageKey) || "{}") || {}; } catch {}
 let marks = saved.marks && typeof saved.marks === "object" && !Array.isArray(saved.marks) ? {...saved.marks} : {};
+let markTimes=saved.markTimes&&typeof saved.markTimes==='object'?{...saved.markTimes}:{};
 let selected = saved.category || "fruit-vegetables";
 let mode = saved.mode === "review" ? "review" : "all";
 let customVocabulary = null, cards = [], deck = [], index = 0, flipped = false;
@@ -95,8 +97,12 @@ function deduplicate(items) {
   return [...unique.values()];
 }
 function currentCards() { return deduplicate(cards.filter(c=>selected==="all-categories"||c.category===selected)); }
+window.refreshProfile=()=>{
+  const all=deduplicate(cards),known=all.filter(c=>marks[c.key]==="known").length;
+  $("profile-progress").textContent="已掌握 "+known+" / "+all.length+" 个词（全部分类）";
+};
 function persist() {
-  try { localStorage.setItem(storageKey,JSON.stringify({schemaVersion:2,marks,category:selected,mode,customVocabulary})); }
+  try { localStorage.setItem(storageKey,JSON.stringify({schemaVersion:3,marks,markTimes,category:selected,mode,customVocabulary})); }
   catch { $("status").textContent="浏览器无法保存记录；本次仍可学习。"; }
 }
 function buildDeck() {
@@ -136,7 +142,7 @@ function render() {
 function move(delta) { index=Math.max(0,Math.min(deck.length-1,index+delta));flipped=false;render(); }
 function mark(value) {
   const c=deck[index];if(!c||loadingCard)return;
-  marks[c.key]=value;$("status").textContent=c.english+(value==="known"?" 已标记掌握。":" 已加入待记。");
+  marks[c.key]=value;markTimes[c.key]=Math.max(Date.now(),Number(markTimes[c.key]||0)+1);if(window.Cloud)window.Cloud.changed();$("status").textContent=c.english+(value==="known"?" 已标记掌握。":" 已加入待记。");
   if(value==="known"){deck.splice(index,1);index=Math.min(index,Math.max(0,deck.length-1));}
   else if(index<deck.length-1)index++;
   flipped=false;persist();render();renderList();
@@ -156,7 +162,7 @@ $("previous").onclick=()=>move(-1);$("next").onclick=()=>move(1);
 $("again").onclick=()=>mark("again");$("remember").onclick=()=>mark("known");
 $("all").onclick=()=>{mode="all";buildDeck();persist();};$("review").onclick=()=>{mode="review";buildDeck();persist();};
 $("shuffle").onclick=()=>{for(let i=deck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}index=0;flipped=false;render();};
-$("reset").onclick=()=>{if(confirm("重置当前所选分类的学习进度？")){for(const c of currentCards())delete marks[c.key];persist();buildDeck();$("status").textContent="当前分类进度已重置。";}};
+$("reset").onclick=()=>{if(confirm("重置当前所选分类的学习进度？")){for(const c of currentCards()){marks[c.key]='unlearned';markTimes[c.key]=Math.max(Date.now(),Number(markTimes[c.key]||0)+1);}persist();if(window.Cloud)window.Cloud.changed();buildDeck();$("status").textContent="当前分类进度已重置。";}};
 $("search").oninput=renderList;
 $("import").onchange=async event=>{
   const file=event.target.files[0];if(!file)return;
@@ -169,21 +175,51 @@ $("import").onchange=async event=>{
 };
 $("update").onclick=async()=>{
   if(window.AndroidApp&&typeof window.AndroidApp.checkUpdates==="function"){window.AndroidApp.checkUpdates();return;}
-  $("update").disabled=true;$("status").textContent="正在查询最新 Android 版本…";
+  $("update").disabled=true;$("update-status").textContent="正在查询最新 Android 版本…";
   try {
     const response=await fetch("https://api.github.com/repos/Qiumu0o0/RealLifeEnglish/releases/latest");
     if(!response.ok)throw Error();
     const release=await response.json(),asset=release.assets.find(a=>a.name==="RealLifeEnglish.apk");
     if(!asset||!asset.browser_download_url.startsWith("https://github.com/Qiumu0o0/RealLifeEnglish/releases/download/"))throw Error();
-    $("status").textContent="最新 Android 版本 "+release.tag_name+" · ";
-    const link=document.createElement("a");link.textContent="下载 APK";link.href=asset.browser_download_url;$("status").append(link);
-  }catch{$("status").textContent="检查失败，请检查网络或稍后重试。";}
+    $("update-status").textContent="最新 Android 版本 "+release.tag_name+" · ";
+    const link=document.createElement("a");link.textContent="下载 APK";link.href=asset.browser_download_url;$("update-status").append(link);
+  }catch{$("update-status").textContent="检查失败，请检查网络或稍后重试。";}
   finally{$("update").disabled=false;}
 };
 document.addEventListener("keydown",event=>{
+  if($("study-panel").hidden)return;
   if(event.target.matches("input,textarea,button,select")||event.ctrlKey||event.altKey||event.metaKey)return;
   if(event.code==="Space"){event.preventDefault();if(deck.length&&!loadingCard){flipped=!flipped;render();}}
   if(event.key==="ArrowRight")move(1);if(event.key==="ArrowLeft")move(-1);
   if(event.key==="1")mark("again");if(event.key==="2")mark("known");
 });
 window.APP_READY=true;
+if(window.Cloud)window.Cloud.mount({
+  records:()=>Object.keys(marks).filter(key=>key.includes('::')&&['known','again','unlearned'].includes(marks[key])).map(key=>({word_key:key,state:marks[key],changed_at:Number(markTimes[key]||0)})),
+  merge(rows){
+    let changed=false;
+    for(const row of rows){
+      if(!row||typeof row.word_key!=='string'||!['known','again','unlearned'].includes(row.state)||!Number.isSafeInteger(row.changed_at)||row.changed_at<0)continue;
+      if(row.changed_at>=Number(markTimes[row.word_key]||0)){
+        if(marks[row.word_key]!==row.state)changed=true;
+        marks[row.word_key]=row.state;markTimes[row.word_key]=row.changed_at;
+      }
+    }
+    persist();if(changed)buildDeck();window.refreshProfile();
+  },
+  scope(userId){
+    persist();storageKey=guestStorageKey+(userId?':user:'+userId:'');
+    let data={};try{data=JSON.parse(localStorage.getItem(storageKey)||'{}')||{};}catch(_){}
+    marks=data.marks&&typeof data.marks==='object'&&!Array.isArray(data.marks)?{...data.marks}:{};
+    markTimes=data.markTimes&&typeof data.markTimes==='object'?{...data.markTimes}:{};
+    $("status").textContent='';persist();buildDeck();window.refreshProfile();
+  },
+  importGuest(){
+    let data={};try{data=JSON.parse(localStorage.getItem(guestStorageKey)||'{}')||{};}catch(_){}
+    for(const key of Object.keys(data.marks||{})){
+      if(!key.includes('::')||!['known','again','unlearned'].includes(data.marks[key]))continue;
+      if(marks[key]===undefined){marks[key]=data.marks[key];markTimes[key]=Number(data.markTimes&&data.markTimes[key]||0);}
+    }
+    persist();buildDeck();window.refreshProfile();
+  }
+});

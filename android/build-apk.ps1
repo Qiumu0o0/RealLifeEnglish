@@ -11,7 +11,7 @@ if ($LASTEXITCODE -ne 0) { throw 'Image asset build failed' }
 if ($LASTEXITCODE -ne 0) { throw 'Catalog build failed' }
 New-Item -ItemType Directory -Path $assetsDir -Force | Out-Null
 $html = [IO.File]::ReadAllText((Join-Path $projectDir 'index.html'))
-foreach ($scriptPath in @('bootstrap.js','data/app-catalog.js','app.js')) {
+foreach ($scriptPath in @('bootstrap.js','data/app-catalog.js','cloud.js','app.js')) {
     $scriptText = [IO.File]::ReadAllText((Join-Path $projectDir $scriptPath))
     $tagPattern = '<script src="' + [regex]::Escape($scriptPath) + '(?:\?[^"\s]*)?"></script>'
     $replacement = '<script>' + $scriptText + '</script>'

@@ -6,6 +6,17 @@
   }
   window.addEventListener('error', function () { if (!window.APP_READY) showError(); }, true);
   document.addEventListener('DOMContentLoaded', function () {
+    function selectPanel(profile) {
+      document.getElementById('study-panel').hidden = profile;
+      document.getElementById('profile-panel').hidden = !profile;
+      document.getElementById('tab-study').classList.toggle('primary', !profile);
+      document.getElementById('tab-profile').classList.toggle('primary', profile);
+      document.getElementById(profile ? 'tab-study' : 'tab-profile').removeAttribute('aria-current');
+      document.getElementById(profile ? 'tab-profile' : 'tab-study').setAttribute('aria-current', 'page');
+      if (window.refreshProfile) window.refreshProfile();
+    }
+    document.getElementById('tab-study').onclick = function () { selectPanel(false); };
+    document.getElementById('tab-profile').onclick = function () { selectPanel(true); };
     if (window.APP_READY) return;
     showError();
     var button = document.getElementById('update');

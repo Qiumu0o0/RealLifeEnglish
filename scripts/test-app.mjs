@@ -3,11 +3,13 @@ import vm from 'node:vm';
 import assert from 'node:assert/strict';
 const bundle=fs.readFileSync(new URL('../data/app-catalog.js',import.meta.url),'utf8');
 const code=fs.readFileSync(new URL('../app.js',import.meta.url),'utf8');
-function boot(saved=null,native=false,legacy=false,controlled=null){
+function boot(saved=null,native=false,legacy=false,controlled=null,cloud=false){
   const nodes={};let stored=saved?JSON.stringify(saved):null,reads=0;
   const get=id=>nodes[id]||(nodes[id]={textContent:'',value:'',children:[],dataset:{},classList:{toggle(){}},setAttribute(name,value){this[name]=value;},getAttribute(name){return this[name];},removeAttribute(name){delete this[name];},replaceChildren:legacy?undefined:function(){this.children=[];},append(child){this.children.push(child);}});
   const window=native?{AndroidApp:{getImageData(path){reads++;return 'data:image/jpeg;base64,'+path;},checkUpdates(){}}}:{};
-  const context={window,document:{getElementById:get,createElement:()=>({append(){}}),addEventListener(){}},localStorage:{getItem:()=>stored,setItem:(k,v)=>{stored=v;}},confirm:()=>true};
+  const stores=new Map(saved?[['real-life-english-fruit-v1',stored]]:[]);
+  if(cloud)window.Cloud={userId:()=>null,changed(){},mount(adapter){this.adapter=adapter;}};
+  const context={window,document:{getElementById:get,createElement:()=>({append(){}}),addEventListener(){}},localStorage:{getItem:key=>stores.get(key)||null,setItem:(k,v)=>{stored=v;stores.set(k,v);}},confirm:()=>true};
   if(controlled)context.Image=function(){controlled.push(this);};
   vm.createContext(context);if(legacy)vm.runInContext('Array.prototype.flatMap=undefined;',context);vm.runInContext(bundle,context);
   if(native){window.APP_IMAGE_DATA={};for(const category of window.APP_CATALOG.categories)for(const image of Object.values(category.images))window.APP_IMAGE_DATA[image]='data:image/jpeg;base64,'+image;}
@@ -69,10 +71,14 @@ console.log('Missing flatMap/replaceChildren, legacy progress/custom imports and
 const listeners={};let updates=0;
 const recovery={window:{AndroidApp:{checkUpdates(){updates++;}},addEventListener(name,callback){listeners[name]=callback;}},document:{getElementById:id=>({status:{},update:{}}[id]),addEventListener(name,callback){listeners[name]=callback;}}};
 const recoveryNodes={status:{textContent:''},update:{}};
+for(const id of ['study-panel','profile-panel','tab-study','tab-profile'])recoveryNodes[id]={classList:{toggle(){}},removeAttribute(){},setAttribute(){}};
 recovery.document.getElementById=id=>recoveryNodes[id];
 vm.createContext(recovery);vm.runInContext(fs.readFileSync(new URL('../bootstrap.js',import.meta.url),'utf8'),recovery);
 listeners.DOMContentLoaded();assert(recoveryNodes.status.textContent.includes('异常'));
 recoveryNodes.update.onclick();assert.equal(updates,1);
+recoveryNodes['tab-profile'].onclick();assert.equal(recoveryNodes['study-panel'].hidden,true);
+recoveryNodes['tab-study'].onclick();assert.equal(recoveryNodes['profile-panel'].hidden,true);
+app.context.window.refreshProfile();assert(app.get('profile-progress').textContent.includes('已掌握'));
 console.log('Startup failure message and independent native update recovery: OK');
 const pending=[];const delayed=boot(null,false,false,pending);
 assert.equal(delayed.get('word').textContent,'');
@@ -90,3 +96,15 @@ assert.equal(delayed.get('word').textContent,'Apples');
 assert.equal(delayed.get('image-placeholder').hidden,false);
 assert.equal(delayed.get('remember').disabled,false);
 console.log('Atomic image/text updates, prefetch, rapid-navigation races and image failure: OK');
+const scoped=boot(null,false,false,null,true),sync=scoped.context.window.Cloud.adapter;
+scoped.get('remember').onclick();assert.equal(scoped.context.test.deck.length,48);
+sync.scope('a');assert.equal(scoped.context.test.deck.length,49);
+sync.importGuest();assert.equal(scoped.context.test.deck.length,48);
+sync.scope('b');assert.equal(scoped.context.test.deck.length,49);
+sync.scope('a');assert.equal(scoped.context.test.deck.length,48);
+const local=sync.records()[0];
+sync.merge([{...local,state:'again',changed_at:local.changed_at-1}]);assert.equal(scoped.context.test.deck.length,48);
+sync.merge([{...local,state:'again',changed_at:local.changed_at+1}]);assert.equal(scoped.context.test.deck.length,49);
+scoped.get('reset').onclick();assert(sync.records().every(row=>row.state==='unlearned'));
+sync.scope(null);assert.equal(scoped.context.test.deck.length,48);
+console.log('Account-local persistence, explicit guest import, newer-change merge and synchronized reset markers: OK');
