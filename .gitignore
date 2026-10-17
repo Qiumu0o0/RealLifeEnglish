@@ -4,3 +4,5 @@
 /android/app/src/main/assets/
 /android/local.properties
 /android/.signing/
+
+/REPORT.md
