@@ -6,6 +6,7 @@ const storageKey = "real-life-english-fruit-v1";
 const wordForms = {apple:"apples",avocado:"avocados",banana:"bananas",lemon:"lemons",orange:"oranges",pear:"pears",cookies:"cookie",scroll:"scrolls",croquettes:"croquette",yogurt:"yoghurt","dog treat":"dog treats"};
 const normalize = english => wordForms[english.trim().toLowerCase()] || english.trim().toLowerCase();
 const wordKey = word => normalize(word.english)+"::"+word.chinese.trim();
+function flatMap(items, transform) { return [].concat.apply([],items.map(transform)); }
 let saved = {};
 try { saved = JSON.parse(localStorage.getItem(storageKey) || "{}") || {}; } catch {}
 let marks = saved.marks && typeof saved.marks === "object" && !Array.isArray(saved.marks) ? {...saved.marks} : {};
@@ -30,14 +31,14 @@ function sameWords(a,b) {
 try {
   if (saved.customVocabulary) customVocabulary = parseVocabulary(saved.customVocabulary);
   else if (saved.vocabulary) {
-    const previous = parseVocabulary(Array.isArray(saved.vocabulary) ? saved.vocabulary : saved.vocabulary.products.flatMap(p=>p.terms));
+    const previous = parseVocabulary(Array.isArray(saved.vocabulary) ? saved.vocabulary : flatMap(saved.vocabulary.products,p=>p.terms));
     if (!sameWords(previous,catalog.legacyWords)) { customVocabulary=previous; selected="imported"; }
   }
 } catch {}
 function setCustomCategory(words) {
   const mapped = {};
   for (const word of words) {
-    const match = categories.filter(c=>c.id!=="imported").flatMap(c=>c.words.map(w=>({category:c,word:w})))
+    const match = flatMap(categories.filter(c=>c.id!=="imported"),c=>c.words.map(w=>({category:c,word:w})))
       .find(x=>normalize(x.word.english)===normalize(word.english)&&x.word.chinese===word.chinese);
     if (match) mapped[word.english.toLowerCase()] = match.category.images[match.word.english.toLowerCase()];
   }
@@ -48,20 +49,20 @@ function setCustomCategory(words) {
 if (customVocabulary) setCustomCategory(customVocabulary);
 for (const [key,value] of Object.entries(marks)) {
   if (!key.includes("::")) {
-    const matches=categories.flatMap(c=>c.words).filter(w=>normalize(w.english)===normalize(key));
+    const matches=flatMap(categories,c=>c.words).filter(w=>normalize(w.english)===normalize(key));
     for(const word of matches){const id=wordKey(word);if(value==="known"||!marks[id])marks[id]=value;}
     if(matches.length)delete marks[key];
   }
 }
 if (selected!=="all-categories"&&!categories.some(c=>c.id===selected)) selected="fruit-vegetables";
 function rebuildCards() {
-  cards=categories.flatMap(category=>category.words.map(word=>({
+  cards=flatMap(categories,category=>category.words.map(word=>({
     ...word,key:wordKey(word),category:category.id,
     categoryLabel:category.label,image:category.images[word.english.toLowerCase()]||null
   })));
 }
 function fillCategories() {
-  $("category").replaceChildren();
+  $("category").textContent="";
   for (const item of [{id:"all-categories",label:"全部分类",words:deduplicate(cards)},...categories]) {
     const option=document.createElement("option");option.value=item.id;
     option.textContent=item.label+" · "+item.words.length+" 词";$("category").append(option);
@@ -119,17 +120,17 @@ function mark(value) {
   flipped=false;persist();render();renderList();
 }
 function renderList() {
-  const q=$("search").value.trim().toLowerCase();$("list").replaceChildren();
+  const q=$("search").value.trim().toLowerCase();$("list").textContent="";
   for(const c of currentCards().filter(c=>marks[c.key]!=="known"&&(c.english+" "+c.chinese).toLowerCase().includes(q))) {
     const li=document.createElement("li");li.textContent=c.english+" → "+c.chinese;
     if(selected==="all-categories"){const detail=document.createElement("small");detail.textContent=c.categoryLabel;li.append(detail);}
     $("list").append(li);
   }
 }
-$("picture").onload=()=>{$("picture").hidden=!deck[index]?.image;};
+$("picture").onload=()=>{$("picture").hidden=!(deck[index]&&deck[index].image);};
 $("picture").onerror=()=>{$("picture").hidden=true;};
 rebuildCards();fillCategories();buildDeck();persist();
-$("category").onchange=()=>{selected=$("category").value;$("status").textContent="";$("search").value="";buildDeck();persist();};
+$("category").onchange=()=>{selected=$("category").value;mode="all";$("status").textContent="";$("search").value="";buildDeck();persist();};
 $("card").onclick=()=>{if(deck.length){flipped=!flipped;render();}};
 $("previous").onclick=()=>move(-1);$("next").onclick=()=>move(1);
 $("again").onclick=()=>mark("again");$("remember").onclick=()=>mark("known");
@@ -165,3 +166,4 @@ document.addEventListener("keydown",event=>{
   if(event.key==="ArrowRight")move(1);if(event.key==="ArrowLeft")move(-1);
   if(event.key==="1")mark("again");if(event.key==="2")mark("known");
 });
+window.APP_READY=true;

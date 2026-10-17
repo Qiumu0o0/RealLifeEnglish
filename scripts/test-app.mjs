@@ -3,12 +3,12 @@ import vm from 'node:vm';
 import assert from 'node:assert/strict';
 const bundle=fs.readFileSync(new URL('../data/app-catalog.js',import.meta.url),'utf8');
 const code=fs.readFileSync(new URL('../app.js',import.meta.url),'utf8');
-function boot(saved=null,native=false){
+function boot(saved=null,native=false,legacy=false){
   const nodes={};let stored=saved?JSON.stringify(saved):null,reads=0;
-  const get=id=>nodes[id]||(nodes[id]={textContent:'',value:'',children:[],dataset:{},classList:{toggle(){}},setAttribute(){},removeAttribute(name){delete this[name];},replaceChildren(){this.children=[];},append(child){this.children.push(child);}});
+  const get=id=>nodes[id]||(nodes[id]={textContent:'',value:'',children:[],dataset:{},classList:{toggle(){}},setAttribute(){},removeAttribute(name){delete this[name];},replaceChildren:legacy?undefined:function(){this.children=[];},append(child){this.children.push(child);}});
   const window=native?{AndroidApp:{getImageData(path){reads++;return 'data:image/jpeg;base64,'+path;},checkUpdates(){}}}:{};
   const context={window,document:{getElementById:get,createElement:()=>({append(){}}),addEventListener(){}},localStorage:{getItem:()=>stored,setItem:(k,v)=>{stored=v;}},confirm:()=>true};
-  vm.createContext(context);vm.runInContext(bundle,context);vm.runInContext(code,context);
+  vm.createContext(context);if(legacy)vm.runInContext('Array.prototype.flatMap=undefined;',context);vm.runInContext(bundle,context);vm.runInContext(code,context);
   vm.runInContext('globalThis.test={get cards(){return cards},get deck(){return deck},get marks(){return marks},parseVocabulary};',context);
   const choose=id=>{get('category').value=id;get('category').onchange();};
   return {get,choose,context,get stored(){return JSON.parse(stored);},get reads(){return reads;}};
@@ -54,3 +54,20 @@ assert.equal(imported.context.test.deck.length,1);assert(imported.get('picture')
 await imported.get('import').onchange({target:{files:[{text:async()=>'{}'}],value:'test'}});
 assert(imported.get('status').textContent.includes('失败'));assert.equal(imported.context.test.deck.length,1);
 console.log('Category switching, image bridge, empty category, shared progress, distinct meanings, review, reload, legacy migration and imports: OK');
+for(const saved of [null,{marks:{apples:'known'},vocabulary:catalog.legacyWords},{marks:{avocados:'known'},vocabulary:[{english:'Avocados',chinese:'牛油果／鳄梨'},{english:'Example',chinese:'例子'}]}]){
+  const old=boot(saved,true,true);
+  assert.equal(old.context.window.APP_READY,true);
+  assert(old.context.test.deck.length>0);
+  old.choose('bakery');assert.equal(old.context.test.deck.length,20);
+}
+const switching=boot();switching.get('review').onclick();assert.equal(switching.context.test.deck.length,0);
+switching.choose('bakery');assert.equal(switching.context.test.deck.length,20);
+console.log('Missing flatMap/replaceChildren, legacy progress/custom imports and empty-review category switching: OK');
+const listeners={};let updates=0;
+const recovery={window:{AndroidApp:{checkUpdates(){updates++;}},addEventListener(name,callback){listeners[name]=callback;}},document:{getElementById:id=>({status:{},update:{}}[id]),addEventListener(name,callback){listeners[name]=callback;}}};
+const recoveryNodes={status:{textContent:''},update:{}};
+recovery.document.getElementById=id=>recoveryNodes[id];
+vm.createContext(recovery);vm.runInContext(fs.readFileSync(new URL('../bootstrap.js',import.meta.url),'utf8'),recovery);
+listeners.DOMContentLoaded();assert(recoveryNodes.status.textContent.includes('异常'));
+recoveryNodes.update.onclick();assert.equal(updates,1);
+console.log('Startup failure message and independent native update recovery: OK');

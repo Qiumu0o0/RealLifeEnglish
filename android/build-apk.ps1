@@ -8,7 +8,12 @@ $assetsDir = Join-Path $PSScriptRoot ('app\build\web-assets-' + [guid]::NewGuid(
 & node (Join-Path $projectDir 'scripts\build-catalog.mjs')
 if ($LASTEXITCODE -ne 0) { throw 'Catalog build failed' }
 New-Item -ItemType Directory -Path $assetsDir -Force | Out-Null
-Copy-Item -LiteralPath (Join-Path $projectDir 'index.html'),(Join-Path $projectDir 'app.js') -Destination $assetsDir
+$html = [IO.File]::ReadAllText((Join-Path $projectDir 'index.html'))
+foreach ($scriptPath in @('bootstrap.js','data/app-catalog.js','app.js')) {
+    $scriptText = [IO.File]::ReadAllText((Join-Path $projectDir $scriptPath))
+    $html = $html.Replace(('<script src="' + $scriptPath + '"></script>'), ('<script>' + $scriptText + '</script>'))
+}
+[IO.File]::WriteAllText((Join-Path $assetsDir 'index.html'), $html, (New-Object Text.UTF8Encoding($false)))
 $assetData = Join-Path $assetsDir 'data'
 New-Item -ItemType Directory -Path $assetData -Force | Out-Null
 Copy-Item -LiteralPath (Join-Path $projectDir 'data\app-catalog.js') -Destination $assetData

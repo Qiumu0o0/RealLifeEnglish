@@ -28,8 +28,21 @@ try {
   const {targetId}=await send('Target.createTarget',{url:'about:blank'});
   const {sessionId}=await send('Target.attachToTarget',{targetId,flatten:true});
   await send('Page.enable',{},sessionId);
+  if(process.env.LEGACY_WEBVIEW){
+    await send('Page.addScriptToEvaluateOnNewDocument',{source:'Array.prototype.flatMap=undefined;Element.prototype.replaceChildren=undefined;'},sessionId);
+  }
+  if(process.env.MOCK_NATIVE){
+    const catalogText=await fs.readFile(path.join(root,'data/app-catalog.js'),'utf8');
+    const catalog=JSON.parse(catalogText.match(/window.APP_CATALOG=(.*);/)[1]);
+    const images={};
+    for(const id of ['fruit-vegetables','meat-seafood']){
+      const category=catalog.categories.find(c=>c.id===id),image=category.images[category.words[0].english.toLowerCase()];
+      images[image]='data:image/jpeg;base64,'+(await fs.readFile(path.join(root,image))).toString('base64');
+    }
+    await send('Page.addScriptToEvaluateOnNewDocument',{source:'window.testImages='+JSON.stringify(images)+';window.AndroidApp={getImageData:function(path){return window.testImages[path]||"";},checkUpdates:function(){}};'},sessionId);
+  }
   await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true},sessionId);
-  await send('Page.navigate',{url:pathToFileURL(path.join(root,'index.html')).href},sessionId);
+  await send('Page.navigate',{url:pathToFileURL(process.env.APP_TEST_HTML||path.join(root,'index.html')).href},sessionId);
   async function evaluate(expression){const result=await send('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true},sessionId);if(result.exceptionDetails)throw Error(JSON.stringify(result.exceptionDetails));return result.result.value;}
   const deadline=Date.now()+10000;
   while(!events.some(e=>e.sessionId===sessionId&&e.method==='Page.loadEventFired')){
@@ -37,7 +50,8 @@ try {
     await new Promise(resolve=>setTimeout(resolve,50));
   }
   await evaluate('document.getElementById("picture").decode()');
-  const first=await evaluate('({options:document.getElementById("category").options.length,count:document.getElementById("count").textContent,width:innerWidth,scroll:document.documentElement.scrollWidth})');
+  const first=await evaluate('({ready:window.APP_READY,options:document.getElementById("category").options.length,count:document.getElementById("count").textContent,width:innerWidth,scroll:document.documentElement.scrollWidth})');
+  if(!first.ready)throw Error('Application did not initialize');
   if(first.options!==19||first.scroll>first.width)throw Error('Mobile layout or catalog mismatch: '+JSON.stringify(first));
   const screenshot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:false},sessionId);
   await fs.writeFile(path.join(output,'mobile-smoke.png'),Buffer.from(screenshot.data,'base64'));
