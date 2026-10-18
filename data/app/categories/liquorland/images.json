@@ -17,5 +17,19 @@
   "gin": "images/gin.jpg",
   "champagne": "images/champagne.jpg",
   "whisky": "images/whisky.jpg",
-  "pinot gris": "images/pinot-gris.jpg"
+  "pinot gris": "images/pinot-gris.jpg",
+  "cabernet sauvignon": "images/coles-8250690.jpg",
+  "merlot": "images/coles-8263455.jpg",
+  "chardonnay": "images/coles-1612851.jpg",
+  "pinot grigio": "images/coles-5142589.jpg",
+  "riesling": "images/coles-8227917.jpg",
+  "moscato": "images/coles-8297162.jpg",
+  "prosecco": "images/coles-2542445.jpg",
+  "rose": "images/coles-8288117.jpg",
+  "pale ale": "images/coles-7027570.jpg",
+  "stout": "images/coles-49542.jpg",
+  "cider": "images/coles-6935315.jpg",
+  "rum": "images/coles-1812045.jpg",
+  "brandy": "images/coles-8328787.jpg",
+  "liqueur": "images/coles-8336005.jpg"
 }

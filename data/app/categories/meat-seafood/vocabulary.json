@@ -78,5 +78,121 @@
   {
     "english": "Pork Loin Steaks",
     "chinese": "猪里脊肉排"
+  },
+  {
+    "english": "Chicken Breast",
+    "chinese": "鸡胸肉"
+  },
+  {
+    "english": "Chicken Thigh",
+    "chinese": "鸡腿肉"
+  },
+  {
+    "english": "Chicken Wings",
+    "chinese": "鸡翅"
+  },
+  {
+    "english": "Drumsticks",
+    "chinese": "鸡小腿"
+  },
+  {
+    "english": "Turkey",
+    "chinese": "火鸡肉"
+  },
+  {
+    "english": "Duck",
+    "chinese": "鸭肉"
+  },
+  {
+    "english": "Pork Mince",
+    "chinese": "猪肉末"
+  },
+  {
+    "english": "Lamb Mince",
+    "chinese": "羊肉末"
+  },
+  {
+    "english": "Sausages",
+    "chinese": "香肠"
+  },
+  {
+    "english": "Burgers",
+    "chinese": "汉堡肉饼"
+  },
+  {
+    "english": "Meatballs",
+    "chinese": "肉丸"
+  },
+  {
+    "english": "Ribs",
+    "chinese": "肋排"
+  },
+  {
+    "english": "Pork Belly",
+    "chinese": "五花肉"
+  },
+  {
+    "english": "Lamb Cutlets",
+    "chinese": "羊肋排"
+  },
+  {
+    "english": "Lamb Shanks",
+    "chinese": "羊小腿"
+  },
+  {
+    "english": "Lamb Leg",
+    "chinese": "羊腿"
+  },
+  {
+    "english": "Rump Steak",
+    "chinese": "臀肉牛排"
+  },
+  {
+    "english": "Scotch Fillet",
+    "chinese": "肉眼牛排"
+  },
+  {
+    "english": "Eye Fillet",
+    "chinese": "菲力牛排"
+  },
+  {
+    "english": "Brisket",
+    "chinese": "牛胸肉"
+  },
+  {
+    "english": "Veal",
+    "chinese": "小牛肉"
+  },
+  {
+    "english": "Kangaroo",
+    "chinese": "袋鼠肉"
+  },
+  {
+    "english": "Tuna",
+    "chinese": "金枪鱼"
+  },
+  {
+    "english": "Trout",
+    "chinese": "鳟鱼"
+  },
+  {
+    "english": "Basa",
+    "chinese": "巴沙鱼"
+  },
+  {
+    "english": "Prawns",
+    "chinese": "虾"
+  },
+  {
+    "english": "Mussels",
+    "chinese": "青口贝"
+  },
+  {
+    "english": "Octopus",
+    "chinese": "章鱼"
+  },
+  {
+    "english": "Crab",
+    "chinese": "螃蟹"
   }
 ]

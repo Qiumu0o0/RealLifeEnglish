@@ -54,5 +54,105 @@
   {
     "english": "Grapefruit Juice",
     "chinese": "西柚汁"
+  },
+  {
+    "english": "Cranberry Juice",
+    "chinese": "蔓越莓汁"
+  },
+  {
+    "english": "Grape Juice",
+    "chinese": "葡萄汁"
+  },
+  {
+    "english": "Tomato Juice",
+    "chinese": "番茄汁"
+  },
+  {
+    "english": "Coconut Water",
+    "chinese": "椰子水"
+  },
+  {
+    "english": "Mineral Water",
+    "chinese": "矿泉水"
+  },
+  {
+    "english": "Sparkling Water",
+    "chinese": "气泡水"
+  },
+  {
+    "english": "Soda Water",
+    "chinese": "苏打水"
+  },
+  {
+    "english": "Tonic Water",
+    "chinese": "汤力水"
+  },
+  {
+    "english": "Ginger Beer",
+    "chinese": "姜汁汽水"
+  },
+  {
+    "english": "Ginger Ale",
+    "chinese": "姜味汽水"
+  },
+  {
+    "english": "Cola",
+    "chinese": "可乐"
+  },
+  {
+    "english": "Cordial",
+    "chinese": "浓缩果味饮料"
+  },
+  {
+    "english": "Sports Drink",
+    "chinese": "运动饮料"
+  },
+  {
+    "english": "Iced Tea",
+    "chinese": "冰茶"
+  },
+  {
+    "english": "Kombucha",
+    "chinese": "康普茶"
+  },
+  {
+    "english": "Smoothie",
+    "chinese": "思慕雪"
+  },
+  {
+    "english": "Coffee Beans",
+    "chinese": "咖啡豆"
+  },
+  {
+    "english": "Ground Coffee",
+    "chinese": "咖啡粉"
+  },
+  {
+    "english": "Instant Coffee",
+    "chinese": "速溶咖啡"
+  },
+  {
+    "english": "Coffee Capsules",
+    "chinese": "咖啡胶囊"
+  },
+  {
+    "english": "Green Tea",
+    "chinese": "绿茶"
+  },
+  {
+    "english": "Black Tea",
+    "chinese": "红茶"
+  },
+  {
+    "english": "Chai",
+    "chinese": "印度香料茶"
+  },
+  {
+    "english": "Peppermint",
+    "chinese": "胡椒薄荷"
+  },
+  {
+    "english": "Hot Chocolate",
+    "chinese": "热巧克力饮料"
   }
 ]

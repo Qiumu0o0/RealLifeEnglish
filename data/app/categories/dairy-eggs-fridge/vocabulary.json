@@ -78,5 +78,149 @@
   {
     "english": "Spaghetti Carbonara",
     "chinese": "卡邦尼意面"
+  },
+  {
+    "english": "Full Cream Milk",
+    "chinese": "全脂牛奶"
+  },
+  {
+    "english": "Skim Milk",
+    "chinese": "脱脂牛奶"
+  },
+  {
+    "english": "Lactose Free Milk",
+    "chinese": "无乳糖牛奶"
+  },
+  {
+    "english": "Almond Milk",
+    "chinese": "杏仁奶"
+  },
+  {
+    "english": "Oat Milk",
+    "chinese": "燕麦奶"
+  },
+  {
+    "english": "Soy Milk",
+    "chinese": "豆奶"
+  },
+  {
+    "english": "Coconut Milk",
+    "chinese": "椰奶"
+  },
+  {
+    "english": "Rice Milk",
+    "chinese": "米奶"
+  },
+  {
+    "english": "Buttermilk",
+    "chinese": "酪乳"
+  },
+  {
+    "english": "Butter",
+    "chinese": "黄油"
+  },
+  {
+    "english": "Thickened Cream",
+    "chinese": "增稠奶油"
+  },
+  {
+    "english": "Sour Cream",
+    "chinese": "酸奶油"
+  },
+  {
+    "english": "Custard",
+    "chinese": "蛋奶酱"
+  },
+  {
+    "english": "Kefir",
+    "chinese": "开菲尔发酵乳"
+  },
+  {
+    "english": "Cheddar",
+    "chinese": "切达奶酪"
+  },
+  {
+    "english": "Mozzarella",
+    "chinese": "马苏里拉奶酪"
+  },
+  {
+    "english": "Parmesan",
+    "chinese": "帕尔马干酪"
+  },
+  {
+    "english": "Brie",
+    "chinese": "布里奶酪"
+  },
+  {
+    "english": "Camembert",
+    "chinese": "卡芒贝尔奶酪"
+  },
+  {
+    "english": "Feta",
+    "chinese": "菲达奶酪"
+  },
+  {
+    "english": "Ricotta",
+    "chinese": "乳清奶酪"
+  },
+  {
+    "english": "Cottage Cheese",
+    "chinese": "茅屋奶酪"
+  },
+  {
+    "english": "Cream Cheese",
+    "chinese": "奶油奶酪"
+  },
+  {
+    "english": "Halloumi",
+    "chinese": "哈罗米奶酪"
+  },
+  {
+    "english": "Mascarpone",
+    "chinese": "马斯卡彭奶酪"
+  },
+  {
+    "english": "Bacon",
+    "chinese": "培根"
+  },
+  {
+    "english": "Ham",
+    "chinese": "火腿"
+  },
+  {
+    "english": "Tofu",
+    "chinese": "豆腐"
+  },
+  {
+    "english": "Tempeh",
+    "chinese": "天贝"
+  },
+  {
+    "english": "Hummus",
+    "chinese": "鹰嘴豆泥"
+  },
+  {
+    "english": "Guacamole",
+    "chinese": "牛油果酱"
+  },
+  {
+    "english": "Pesto",
+    "chinese": "青酱"
+  },
+  {
+    "english": "Gnocchi",
+    "chinese": "意式土豆团子"
+  },
+  {
+    "english": "Ravioli",
+    "chinese": "意式馅饺"
+  },
+  {
+    "english": "Tortellini",
+    "chinese": "意式环形馅饺"
+  },
+  {
+    "english": "Quiche",
+    "chinese": "法式咸派"
   }
 ]

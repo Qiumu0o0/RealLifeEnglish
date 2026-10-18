@@ -74,5 +74,61 @@
   {
     "english": "Pinot Gris",
     "chinese": "灰皮诺葡萄酒"
+  },
+  {
+    "english": "Cabernet Sauvignon",
+    "chinese": "赤霞珠葡萄酒"
+  },
+  {
+    "english": "Merlot",
+    "chinese": "梅洛葡萄酒"
+  },
+  {
+    "english": "Chardonnay",
+    "chinese": "霞多丽葡萄酒"
+  },
+  {
+    "english": "Pinot Grigio",
+    "chinese": "灰皮诺葡萄酒"
+  },
+  {
+    "english": "Riesling",
+    "chinese": "雷司令葡萄酒"
+  },
+  {
+    "english": "Moscato",
+    "chinese": "莫斯卡托葡萄酒"
+  },
+  {
+    "english": "Prosecco",
+    "chinese": "普罗塞克起泡酒"
+  },
+  {
+    "english": "Rose",
+    "chinese": "桃红葡萄酒"
+  },
+  {
+    "english": "Pale Ale",
+    "chinese": "淡色艾尔啤酒"
+  },
+  {
+    "english": "Stout",
+    "chinese": "世涛啤酒"
+  },
+  {
+    "english": "Cider",
+    "chinese": "苹果酒"
+  },
+  {
+    "english": "Rum",
+    "chinese": "朗姆酒"
+  },
+  {
+    "english": "Brandy",
+    "chinese": "白兰地"
+  },
+  {
+    "english": "Liqueur",
+    "chinese": "利口酒"
   }
 ]

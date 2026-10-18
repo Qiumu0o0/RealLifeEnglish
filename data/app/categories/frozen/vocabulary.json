@@ -78,5 +78,105 @@
   {
     "english": "Spring Rolls",
     "chinese": "春卷"
+  },
+  {
+    "english": "Peas",
+    "chinese": "豌豆"
+  },
+  {
+    "english": "Green Beans",
+    "chinese": "四季豆"
+  },
+  {
+    "english": "Mixed Vegetables",
+    "chinese": "混合蔬菜"
+  },
+  {
+    "english": "Spinach",
+    "chinese": "菠菜"
+  },
+  {
+    "english": "Berries",
+    "chinese": "浆果"
+  },
+  {
+    "english": "Cherry",
+    "chinese": "樱桃"
+  },
+  {
+    "english": "Pastry",
+    "chinese": "酥皮面团"
+  },
+  {
+    "english": "Puff Pastry",
+    "chinese": "起酥皮"
+  },
+  {
+    "english": "Shortcrust Pastry",
+    "chinese": "挞皮面团"
+  },
+  {
+    "english": "Pizza",
+    "chinese": "披萨"
+  },
+  {
+    "english": "Lasagne",
+    "chinese": "千层面"
+  },
+  {
+    "english": "Dumplings",
+    "chinese": "饺子"
+  },
+  {
+    "english": "Gyoza",
+    "chinese": "日式煎饺"
+  },
+  {
+    "english": "Wontons",
+    "chinese": "馄饨"
+  },
+  {
+    "english": "Dim Sims",
+    "chinese": "澳式点心"
+  },
+  {
+    "english": "Samosa",
+    "chinese": "咖喱角"
+  },
+  {
+    "english": "Hash Browns",
+    "chinese": "薯饼"
+  },
+  {
+    "english": "Potato Gems",
+    "chinese": "小薯球"
+  },
+  {
+    "english": "Chicken Nuggets",
+    "chinese": "鸡块"
+  },
+  {
+    "english": "Fish Fingers",
+    "chinese": "鱼条"
+  },
+  {
+    "english": "Meat Pies",
+    "chinese": "肉馅派"
+  },
+  {
+    "english": "Sausage Roll",
+    "chinese": "香肠酥卷"
+  },
+  {
+    "english": "Waffle",
+    "chinese": "华夫饼"
+  },
+  {
+    "english": "Gelato",
+    "chinese": "意式冰淇淋"
+  },
+  {
+    "english": "Sorbet",
+    "chinese": "雪葩"
   }
 ]

@@ -194,5 +194,253 @@
   {
     "english": "Almonds",
     "chinese": "杏仁"
+  },
+  {
+    "english": "Asparagus",
+    "chinese": "芦笋"
+  },
+  {
+    "english": "Potatoes",
+    "chinese": "土豆"
+  },
+  {
+    "english": "Sweet Potato",
+    "chinese": "红薯"
+  },
+  {
+    "english": "Carrots",
+    "chinese": "胡萝卜"
+  },
+  {
+    "english": "Celery",
+    "chinese": "芹菜"
+  },
+  {
+    "english": "Cabbage",
+    "chinese": "卷心菜"
+  },
+  {
+    "english": "Wombok",
+    "chinese": "大白菜"
+  },
+  {
+    "english": "Savoy Cabbage",
+    "chinese": "皱叶甘蓝"
+  },
+  {
+    "english": "Capsicum",
+    "chinese": "甜椒"
+  },
+  {
+    "english": "Eggplant",
+    "chinese": "茄子"
+  },
+  {
+    "english": "Zucchini",
+    "chinese": "西葫芦"
+  },
+  {
+    "english": "Garlic",
+    "chinese": "大蒜"
+  },
+  {
+    "english": "Garlic Cloves",
+    "chinese": "蒜瓣"
+  },
+  {
+    "english": "Ginger",
+    "chinese": "姜"
+  },
+  {
+    "english": "Brown Onions",
+    "chinese": "黄洋葱"
+  },
+  {
+    "english": "Shallots",
+    "chinese": "红葱头"
+  },
+  {
+    "english": "Spring Onions",
+    "chinese": "小葱"
+  },
+  {
+    "english": "Leeks",
+    "chinese": "韭葱"
+  },
+  {
+    "english": "Beetroot",
+    "chinese": "甜菜根"
+  },
+  {
+    "english": "Radish",
+    "chinese": "小萝卜"
+  },
+  {
+    "english": "Swedes",
+    "chinese": "芜菁甘蓝"
+  },
+  {
+    "english": "Turnips",
+    "chinese": "芜菁"
+  },
+  {
+    "english": "Fennel",
+    "chinese": "茴香球茎"
+  },
+  {
+    "english": "Silverbeet",
+    "chinese": "叶用甜菜"
+  },
+  {
+    "english": "Brussels Sprouts",
+    "chinese": "抱子甘蓝"
+  },
+  {
+    "english": "Choy Sum",
+    "chinese": "菜心"
+  },
+  {
+    "english": "Sweet Corn",
+    "chinese": "甜玉米"
+  },
+  {
+    "english": "Green Beans",
+    "chinese": "四季豆"
+  },
+  {
+    "english": "Sugar Snap Peas",
+    "chinese": "甜豆"
+  },
+  {
+    "english": "Watercress",
+    "chinese": "西洋菜"
+  },
+  {
+    "english": "Lettuce",
+    "chinese": "生菜"
+  },
+  {
+    "english": "Cos Lettuce",
+    "chinese": "罗马生菜"
+  },
+  {
+    "english": "Chillies",
+    "chinese": "辣椒"
+  },
+  {
+    "english": "Jalapeno",
+    "chinese": "墨西哥辣椒"
+  },
+  {
+    "english": "Coriander",
+    "chinese": "香菜"
+  },
+  {
+    "english": "Parsley",
+    "chinese": "欧芹"
+  },
+  {
+    "english": "Basil",
+    "chinese": "罗勒"
+  },
+  {
+    "english": "Mint",
+    "chinese": "薄荷"
+  },
+  {
+    "english": "Vietnamese Mint",
+    "chinese": "越南香菜"
+  },
+  {
+    "english": "Thyme",
+    "chinese": "百里香"
+  },
+  {
+    "english": "Rosemary",
+    "chinese": "迷迭香"
+  },
+  {
+    "english": "Sage",
+    "chinese": "鼠尾草"
+  },
+  {
+    "english": "Dill",
+    "chinese": "莳萝"
+  },
+  {
+    "english": "Chives",
+    "chinese": "细香葱"
+  },
+  {
+    "english": "Oregano",
+    "chinese": "牛至"
+  },
+  {
+    "english": "Lemongrass",
+    "chinese": "柠檬草"
+  },
+  {
+    "english": "Oyster Mushrooms",
+    "chinese": "平菇"
+  },
+  {
+    "english": "Shiitake Mushrooms",
+    "chinese": "香菇"
+  },
+  {
+    "english": "Cashews",
+    "chinese": "腰果"
+  },
+  {
+    "english": "Walnut",
+    "chinese": "核桃"
+  },
+  {
+    "english": "Macadamias",
+    "chinese": "夏威夷果"
+  },
+  {
+    "english": "Brazil Nuts",
+    "chinese": "巴西坚果"
+  },
+  {
+    "english": "Dates",
+    "chinese": "椰枣"
+  },
+  {
+    "english": "Sultanas",
+    "chinese": "浅色葡萄干"
+  },
+  {
+    "english": "Dried Apricot",
+    "chinese": "杏干"
+  },
+  {
+    "english": "Dried Mango",
+    "chinese": "芒果干"
+  },
+  {
+    "english": "Rhubarb",
+    "chinese": "食用大黄"
+  },
+  {
+    "english": "Apricot",
+    "chinese": "杏"
+  },
+  {
+    "english": "Blood Oranges",
+    "chinese": "血橙"
+  },
+  {
+    "english": "Chrysanthemum",
+    "chinese": "菊花"
+  },
+  {
+    "english": "Rose",
+    "chinese": "玫瑰"
+  },
+  {
+    "english": "Bouquet",
+    "chinese": "花束"
   }
 ]

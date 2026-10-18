@@ -59,7 +59,7 @@ try {
   await evaluate('document.getElementById("category").value="meat-seafood";document.getElementById("category").dispatchEvent(new Event("change"));');
   await waitCard();
   const second=await evaluate('({count:document.getElementById("count").textContent,word:document.getElementById("word").textContent,image:document.getElementById("picture").naturalWidth,frame:document.querySelector(".image-slot").getBoundingClientRect().height,card:document.getElementById("card").getBoundingClientRect().height})');
-  if(!second.count.startsWith('20 ')||!second.image)throw Error('Category image failed');
+  if(!/^\d+ /.test(second.count)||!second.image)throw Error('Category image failed');
   if(first.frame!==second.frame||Math.abs(first.card-second.card)>1)throw Error('Card layout shifted');
   await evaluate('document.getElementById("tab-profile").click()');
   const profile=await evaluate('({hidden:document.getElementById("study-panel").hidden,update:document.getElementById("update").getBoundingClientRect().height,progress:document.getElementById("profile-progress").textContent})');

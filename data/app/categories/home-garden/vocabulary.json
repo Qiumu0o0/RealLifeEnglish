@@ -66,5 +66,141 @@
   {
     "english": "Candle",
     "chinese": "蜡烛"
+  },
+  {
+    "english": "Teaspoons",
+    "chinese": "茶匙"
+  },
+  {
+    "english": "Knives",
+    "chinese": "刀"
+  },
+  {
+    "english": "Scissors",
+    "chinese": "剪刀"
+  },
+  {
+    "english": "Strainer",
+    "chinese": "滤网"
+  },
+  {
+    "english": "Spatula",
+    "chinese": "锅铲"
+  },
+  {
+    "english": "Tongs",
+    "chinese": "夹子"
+  },
+  {
+    "english": "Plates",
+    "chinese": "盘子"
+  },
+  {
+    "english": "Bowls",
+    "chinese": "碗"
+  },
+  {
+    "english": "Cups",
+    "chinese": "杯子"
+  },
+  {
+    "english": "Water Bottle",
+    "chinese": "水瓶"
+  },
+  {
+    "english": "Container",
+    "chinese": "储物盒"
+  },
+  {
+    "english": "Light Globes",
+    "chinese": "灯泡"
+  },
+  {
+    "english": "Led",
+    "chinese": "发光二极管"
+  },
+  {
+    "english": "Adaptor",
+    "chinese": "转换插头"
+  },
+  {
+    "english": "Usb",
+    "chinese": "通用串行总线接口"
+  },
+  {
+    "english": "Cable",
+    "chinese": "连接线"
+  },
+  {
+    "english": "Lighter",
+    "chinese": "点火器"
+  },
+  {
+    "english": "Matches",
+    "chinese": "火柴"
+  },
+  {
+    "english": "Candles",
+    "chinese": "蜡烛"
+  },
+  {
+    "english": "Reed Diffuser",
+    "chinese": "藤条香薰"
+  },
+  {
+    "english": "Mop",
+    "chinese": "拖把"
+  },
+  {
+    "english": "Bucket",
+    "chinese": "水桶"
+  },
+  {
+    "english": "Pens",
+    "chinese": "笔"
+  },
+  {
+    "english": "Pencils",
+    "chinese": "铅笔"
+  },
+  {
+    "english": "Markers",
+    "chinese": "记号笔"
+  },
+  {
+    "english": "Highlighters",
+    "chinese": "荧光笔"
+  },
+  {
+    "english": "Notebook",
+    "chinese": "笔记本"
+  },
+  {
+    "english": "Sticky Notes",
+    "chinese": "便利贴"
+  },
+  {
+    "english": "Glue",
+    "chinese": "胶水"
+  },
+  {
+    "english": "Stapler",
+    "chinese": "订书机"
+  },
+  {
+    "english": "Padlock",
+    "chinese": "挂锁"
+  },
+  {
+    "english": "Socks",
+    "chinese": "袜子"
+  },
+  {
+    "english": "Briefs",
+    "chinese": "三角内裤"
+  },
+  {
+    "english": "Insoles",
+    "chinese": "鞋垫"
   }
 ]

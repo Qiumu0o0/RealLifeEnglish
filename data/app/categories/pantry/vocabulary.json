@@ -78,5 +78,393 @@
   {
     "english": "Rice",
     "chinese": "米饭"
+  },
+  {
+    "english": "Olive Oil",
+    "chinese": "橄榄油"
+  },
+  {
+    "english": "Vegetable Oil",
+    "chinese": "植物油"
+  },
+  {
+    "english": "Canola Oil",
+    "chinese": "菜籽油"
+  },
+  {
+    "english": "Sunflower Oil",
+    "chinese": "葵花籽油"
+  },
+  {
+    "english": "Sesame Oil",
+    "chinese": "芝麻油"
+  },
+  {
+    "english": "Coconut Oil",
+    "chinese": "椰子油"
+  },
+  {
+    "english": "Vinegar",
+    "chinese": "醋"
+  },
+  {
+    "english": "Balsamic Vinegar",
+    "chinese": "意大利香醋"
+  },
+  {
+    "english": "Apple Cider Vinegar",
+    "chinese": "苹果醋"
+  },
+  {
+    "english": "Soy Sauce",
+    "chinese": "酱油"
+  },
+  {
+    "english": "Oyster Sauce",
+    "chinese": "蚝油"
+  },
+  {
+    "english": "Fish Sauce",
+    "chinese": "鱼露"
+  },
+  {
+    "english": "Worcestershire Sauce",
+    "chinese": "伍斯特酱"
+  },
+  {
+    "english": "Tomato Sauce",
+    "chinese": "番茄调味酱"
+  },
+  {
+    "english": "Barbecue Sauce",
+    "chinese": "烧烤酱"
+  },
+  {
+    "english": "Sweet Chilli Sauce",
+    "chinese": "甜辣酱"
+  },
+  {
+    "english": "Mustard",
+    "chinese": "芥末酱"
+  },
+  {
+    "english": "Relish",
+    "chinese": "碎蔬菜调味酱"
+  },
+  {
+    "english": "Chutney",
+    "chinese": "酸甜果蔬酱"
+  },
+  {
+    "english": "Pickles",
+    "chinese": "腌菜"
+  },
+  {
+    "english": "Gherkins",
+    "chinese": "酸黄瓜"
+  },
+  {
+    "english": "Capers",
+    "chinese": "刺山柑花蕾"
+  },
+  {
+    "english": "Sauerkraut",
+    "chinese": "德式酸菜"
+  },
+  {
+    "english": "Tomato Paste",
+    "chinese": "浓缩番茄膏"
+  },
+  {
+    "english": "Curry Paste",
+    "chinese": "咖喱酱"
+  },
+  {
+    "english": "Curry Powder",
+    "chinese": "咖喱粉"
+  },
+  {
+    "english": "Gravy",
+    "chinese": "肉汁酱"
+  },
+  {
+    "english": "Stock",
+    "chinese": "高汤"
+  },
+  {
+    "english": "Bone Broth",
+    "chinese": "骨汤"
+  },
+  {
+    "english": "Baked Beans",
+    "chinese": "茄汁焗豆"
+  },
+  {
+    "english": "Chickpeas",
+    "chinese": "鹰嘴豆"
+  },
+  {
+    "english": "Lentils",
+    "chinese": "扁豆"
+  },
+  {
+    "english": "Kidney Beans",
+    "chinese": "红腰豆"
+  },
+  {
+    "english": "Black Beans",
+    "chinese": "黑豆"
+  },
+  {
+    "english": "Cannellini Beans",
+    "chinese": "白腰豆"
+  },
+  {
+    "english": "Butter Beans",
+    "chinese": "利马豆"
+  },
+  {
+    "english": "Split Peas",
+    "chinese": "去皮豌豆瓣"
+  },
+  {
+    "english": "Rice",
+    "chinese": "大米"
+  },
+  {
+    "english": "Basmati Rice",
+    "chinese": "印度香米"
+  },
+  {
+    "english": "Jasmine Rice",
+    "chinese": "茉莉香米"
+  },
+  {
+    "english": "Brown Rice",
+    "chinese": "糙米"
+  },
+  {
+    "english": "Arborio Rice",
+    "chinese": "意式烩饭米"
+  },
+  {
+    "english": "Quinoa",
+    "chinese": "藜麦"
+  },
+  {
+    "english": "Couscous",
+    "chinese": "库斯库斯米"
+  },
+  {
+    "english": "Polenta",
+    "chinese": "玉米糁"
+  },
+  {
+    "english": "Spaghetti",
+    "chinese": "意大利长直面"
+  },
+  {
+    "english": "Penne",
+    "chinese": "通心斜管面"
+  },
+  {
+    "english": "Fettuccine",
+    "chinese": "意式宽面"
+  },
+  {
+    "english": "Fusilli",
+    "chinese": "螺旋意面"
+  },
+  {
+    "english": "Macaroni",
+    "chinese": "通心粉"
+  },
+  {
+    "english": "Linguine",
+    "chinese": "意式扁细面"
+  },
+  {
+    "english": "Rigatoni",
+    "chinese": "粗管意面"
+  },
+  {
+    "english": "Lasagne Sheets",
+    "chinese": "千层面片"
+  },
+  {
+    "english": "Rice Noodles",
+    "chinese": "米粉"
+  },
+  {
+    "english": "Rolled Oats",
+    "chinese": "燕麦片"
+  },
+  {
+    "english": "Porridge",
+    "chinese": "燕麦粥"
+  },
+  {
+    "english": "Muesli",
+    "chinese": "混合麦片"
+  },
+  {
+    "english": "Granola",
+    "chinese": "烘烤麦片"
+  },
+  {
+    "english": "Corn Flakes",
+    "chinese": "玉米片"
+  },
+  {
+    "english": "Bran",
+    "chinese": "麦麸"
+  },
+  {
+    "english": "Honey",
+    "chinese": "蜂蜜"
+  },
+  {
+    "english": "Jam",
+    "chinese": "果酱"
+  },
+  {
+    "english": "Marmalade",
+    "chinese": "柑橘果酱"
+  },
+  {
+    "english": "Hazelnut Spread",
+    "chinese": "榛子酱"
+  },
+  {
+    "english": "Maple Syrup",
+    "chinese": "枫糖浆"
+  },
+  {
+    "english": "Golden Syrup",
+    "chinese": "金黄糖浆"
+  },
+  {
+    "english": "Molasses",
+    "chinese": "糖蜜"
+  },
+  {
+    "english": "Plain Flour",
+    "chinese": "中筋面粉"
+  },
+  {
+    "english": "Self Raising Flour",
+    "chinese": "自发粉"
+  },
+  {
+    "english": "Cornflour",
+    "chinese": "玉米淀粉"
+  },
+  {
+    "english": "Baking Powder",
+    "chinese": "泡打粉"
+  },
+  {
+    "english": "Bicarbonate Soda",
+    "chinese": "小苏打"
+  },
+  {
+    "english": "Yeast",
+    "chinese": "酵母"
+  },
+  {
+    "english": "Caster Sugar",
+    "chinese": "细砂糖"
+  },
+  {
+    "english": "Icing Sugar",
+    "chinese": "糖粉"
+  },
+  {
+    "english": "Brown Sugar",
+    "chinese": "红糖"
+  },
+  {
+    "english": "Cocoa",
+    "chinese": "可可粉"
+  },
+  {
+    "english": "Vanilla Extract",
+    "chinese": "香草精"
+  },
+  {
+    "english": "Gelatine",
+    "chinese": "明胶"
+  },
+  {
+    "english": "Desiccated Coconut",
+    "chinese": "椰蓉"
+  },
+  {
+    "english": "Sultanas",
+    "chinese": "浅色葡萄干"
+  },
+  {
+    "english": "Raisins",
+    "chinese": "葡萄干"
+  },
+  {
+    "english": "Cinnamon",
+    "chinese": "肉桂"
+  },
+  {
+    "english": "Cumin",
+    "chinese": "孜然"
+  },
+  {
+    "english": "Turmeric",
+    "chinese": "姜黄"
+  },
+  {
+    "english": "Paprika",
+    "chinese": "红椒粉"
+  },
+  {
+    "english": "Nutmeg",
+    "chinese": "肉豆蔻"
+  },
+  {
+    "english": "Cardamom",
+    "chinese": "小豆蔻"
+  },
+  {
+    "english": "Cloves",
+    "chinese": "丁香"
+  },
+  {
+    "english": "Sesame Seeds",
+    "chinese": "芝麻"
+  },
+  {
+    "english": "Chia Seeds",
+    "chinese": "奇亚籽"
+  },
+  {
+    "english": "Peppercorns",
+    "chinese": "胡椒粒"
+  },
+  {
+    "english": "Sea Salt",
+    "chinese": "海盐"
+  },
+  {
+    "english": "Sardines",
+    "chinese": "沙丁鱼"
+  },
+  {
+    "english": "Mackerel",
+    "chinese": "鲭鱼"
+  },
+  {
+    "english": "Tuna",
+    "chinese": "金枪鱼"
+  },
+  {
+    "english": "Salmon",
+    "chinese": "三文鱼"
   }
 ]

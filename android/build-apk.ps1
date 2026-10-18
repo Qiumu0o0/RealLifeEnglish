@@ -21,6 +21,7 @@ foreach ($scriptPath in @('bootstrap.js','data/app/catalog.js','cloud.js','app.j
 $imageScript = [IO.File]::ReadAllText((Join-Path $projectDir 'data\app\images.js'))
 $html = $html.Replace('</head>', ('<script>' + $imageScript + '</script></head>'))
 [IO.File]::WriteAllText((Join-Path $assetsDir 'index.html'), $html, (New-Object Text.UTF8Encoding($false)))
+[IO.File]::WriteAllText((Join-Path $PSScriptRoot 'app\build\apk-startup-test.html'), $html, (New-Object Text.UTF8Encoding($false)))
 $assetData = Join-Path $assetsDir 'data'
 New-Item -ItemType Directory -Path $assetData -Force | Out-Null
 Copy-Item -LiteralPath (Join-Path $projectDir 'data\app\catalog.js') -Destination (Join-Path $assetData 'catalog.js')
