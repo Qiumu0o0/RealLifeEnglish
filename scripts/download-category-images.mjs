@@ -4,8 +4,8 @@ import { spawn } from 'node:child_process';
 
 // Input records are extracted from observed Coles product links, not guessed products.
 const root = path.resolve(import.meta.dirname, '..');
-const manifestPath=process.argv[2]||'data/image-downloads.json';
-const resultsPath=process.argv[3]||'data/image-download-results.json';
+const manifestPath=process.argv[2]||'tmp/coles/legacy/image-downloads.json';
+const resultsPath=process.argv[3]||'tmp/coles/legacy/image-download-results.json';
 const manifest = JSON.parse(await fs.readFile(path.join(root, manifestPath), 'utf8'));
 const results = [];
 let previous = [];
@@ -29,7 +29,9 @@ function isImage(bytes) {
 async function worker() {
   while (next < manifest.length) {
     const item = manifest[next++];
-    const filename = path.join(root, 'data', item.category, item.image);
+    const filename = item.category === 'collected'
+      ? path.join(root, 'tmp/coles/collected', item.image)
+      : path.join(root, 'data/app/categories', item.category, item.image);
     const pending = filename + '.part';
     await fs.mkdir(path.dirname(filename), { recursive: true });
     let result = { ...item, status: 'missing' };

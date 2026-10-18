@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from PIL import Image
 
-base = Path(__file__).resolve().parents[1] / 'data' / 'collected'
+base = Path(__file__).resolve().parents[1] / 'tmp' / 'coles' / 'collected'
 products = json.loads((base / 'products.json').read_text(encoding='utf-8'))
 terms = json.loads((base / 'term-candidates.json').read_text(encoding='utf-8'))
 results = json.loads((base / 'image-download-results.json').read_text(encoding='utf-8'))

@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-const root=path.resolve(import.meta.dirname,'..'),base=path.join(root,'data/collected');
+const root=path.resolve(import.meta.dirname,'..'),base=path.join(root,'tmp/coles/collected');
 const byProduct=new Map();
 for(const file of (await fs.readdir(path.join(base,'links'))).filter(f=>/^batch-\d+\.json$/.test(f)).sort()){
   for(const item of JSON.parse(await fs.readFile(path.join(base,'links',file),'utf8'))){

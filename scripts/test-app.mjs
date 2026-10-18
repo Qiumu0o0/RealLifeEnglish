@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import vm from 'node:vm';
 import assert from 'node:assert/strict';
-const bundle=fs.readFileSync(new URL('../data/app-catalog.js',import.meta.url),'utf8');
+const bundle=fs.readFileSync(new URL('../data/app/catalog.js',import.meta.url),'utf8');
 const code=fs.readFileSync(new URL('../app.js',import.meta.url),'utf8');
 function boot(saved=null,native=false,legacy=false,controlled=null,cloud=false){
   const nodes={};let stored=saved?JSON.stringify(saved):null,reads=0;
@@ -22,7 +22,7 @@ let app=boot(null,true);
 assert.equal(app.get('category').children.length,19);
 assert.equal(app.context.test.cards.length,342);
 assert.equal(app.context.test.deck.length,49);
-assert(app.get('picture').src.startsWith('data:image/jpeg;base64,data/app-images/'));
+assert(app.get('picture').src.startsWith('data:image/jpeg;base64,data/app/images/'));
 const reads=app.reads;app.get('card').onclick();assert.equal(app.reads,reads);
 assert.equal(app.get('word').textContent,'牛油果／鳄梨');
 app.get('remember').onclick();assert.equal(app.context.test.deck.length,48);
@@ -55,7 +55,7 @@ custom.choose('bakery');custom.get('reset').onclick();custom.choose('imported');
 assert.equal(custom.context.test.deck.length,1);
 const imported=boot();
 await imported.get('import').onchange({target:{files:[{text:async()=>JSON.stringify([{english:'Toothpaste',chinese:'牙膏'}])}],value:'test'}});
-assert.equal(imported.context.test.deck.length,1);assert(imported.get('picture').src.includes('data/app-images/'));
+assert.equal(imported.context.test.deck.length,1);assert(imported.get('picture').src.includes('data/app/images/'));
 await imported.get('import').onchange({target:{files:[{text:async()=>'{}'}],value:'test'}});
 assert(imported.get('status').textContent.includes('失败'));assert.equal(imported.context.test.deck.length,1);
 console.log('Category switching, image bridge, empty category, shared progress, distinct meanings, review, reload, legacy migration and imports: OK');

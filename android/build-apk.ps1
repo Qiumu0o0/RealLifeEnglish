@@ -11,19 +11,19 @@ if ($LASTEXITCODE -ne 0) { throw 'Image asset build failed' }
 if ($LASTEXITCODE -ne 0) { throw 'Catalog build failed' }
 New-Item -ItemType Directory -Path $assetsDir -Force | Out-Null
 $html = [IO.File]::ReadAllText((Join-Path $projectDir 'index.html'))
-foreach ($scriptPath in @('bootstrap.js','data/app-catalog.js','cloud.js','app.js')) {
+foreach ($scriptPath in @('bootstrap.js','data/app/catalog.js','cloud.js','app.js')) {
     $scriptText = [IO.File]::ReadAllText((Join-Path $projectDir $scriptPath))
     $tagPattern = '<script src="' + [regex]::Escape($scriptPath) + '(?:\?[^"\s]*)?"></script>'
     $replacement = '<script>' + $scriptText + '</script>'
     $html = [regex]::Replace($html, $tagPattern, [System.Text.RegularExpressions.MatchEvaluator]{ param($match) $replacement })
 }
 [IO.File]::WriteAllText((Join-Path $assetsDir 'index.html'), $html, (New-Object Text.UTF8Encoding($false)))
-$imageScript = [IO.File]::ReadAllText((Join-Path $projectDir 'data\app-images.js'))
+$imageScript = [IO.File]::ReadAllText((Join-Path $projectDir 'data\app\images.js'))
 $html = $html.Replace('</head>', ('<script>' + $imageScript + '</script></head>'))
 [IO.File]::WriteAllText((Join-Path $assetsDir 'index.html'), $html, (New-Object Text.UTF8Encoding($false)))
 $assetData = Join-Path $assetsDir 'data'
 New-Item -ItemType Directory -Path $assetData -Force | Out-Null
-Copy-Item -LiteralPath (Join-Path $projectDir 'data\app-catalog.js') -Destination $assetData
+Copy-Item -LiteralPath (Join-Path $projectDir 'data\app\catalog.js') -Destination (Join-Path $assetData 'catalog.js')
 $toolsDir = Join-Path $SdkPath "build-tools\$BuildToolsVersion"
 $platformJar = Join-Path $SdkPath 'platforms\android-35\android.jar'
 $buildDir = Join-Path $PSScriptRoot 'app\build\manual'

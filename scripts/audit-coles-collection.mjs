@@ -1,8 +1,8 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 const root=path.resolve(import.meta.dirname,'..');
-const base=path.join(root,'data/collected');
-const index=JSON.parse(await fs.readFile(path.join(root,'data/index.json'),'utf8'));
+const base=path.join(root,'tmp/coles/collected');
+const index=JSON.parse(await fs.readFile(path.join(root,'data/app/index.json'),'utf8'));
 const summary=[],all=[];
 for(const category of index.categories){
   const dir=path.join(base,category.category),pages=[];

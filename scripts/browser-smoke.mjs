@@ -32,7 +32,7 @@ try {
     await send('Page.addScriptToEvaluateOnNewDocument',{source:'Array.prototype.flatMap=undefined;Element.prototype.replaceChildren=undefined;'},sessionId);
   }
   if(process.env.MOCK_NATIVE){
-    const catalogText=await fs.readFile(path.join(root,'data/app-catalog.js'),'utf8');
+    const catalogText=await fs.readFile(path.join(root,'data/app/catalog.js'),'utf8');
     const catalog=JSON.parse(catalogText.match(/window.APP_CATALOG=(.*);/)[1]);
     const images={};
     for(const id of ['fruit-vegetables','meat-seafood']){

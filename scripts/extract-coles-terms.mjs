@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-const root=path.resolve(import.meta.dirname,'..'),base=path.join(root,'data/collected');
+const root=path.resolve(import.meta.dirname,'..'),base=path.join(root,'tmp/coles/collected');
 const source=JSON.parse(await fs.readFile(path.join(base,'products.json'),'utf8'));
 const lines=(await fs.readFile(path.join(base,'term-translations.tsv'),'utf8')).split(/\r?\n/).filter(l=>l&&!l.startsWith('#'));
 const output=[],notFound=[],formDifferences=[],rejected=[];
