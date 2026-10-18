@@ -1,0 +1,206 @@
+{
+  "category": "liquorland",
+  "page": 28,
+  "source_url": "https://www.coles.com.au/browse/liquorland?page=28",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,297 - 1,344 of 2,292 results",
+  "reported_total": 2292,
+  "reported_pages": 48,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Woodford Reserve Double Oak Kentucky Straight Bourbon 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Johnnie Walker Green Label Blended Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Donnari Bianco Lambrusco 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Belvedere Vodka 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Roseline Rose Prestige 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Kraken Black Cherry & Madagascan Vanilla Rum 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Peter Lehmann Eternal Optimist Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Proper No. Twelve Irish Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Squealing Pig Sparkling Rose Nv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Ugly Vodka Lemon Lime Can 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Mornington Pale Ale Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "GFB Gluten Free Draught Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Y Series Sangiovese Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Taylors Masterstroke Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Four Pillars Bloody Shiraz Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Yarra Burn Yb Rose Nv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Hero PF Grenache 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "James Busby Barossa Valley Grenache 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Taylors St Andrews Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jack Daniels Single Barrel 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bollinger Special Cuvee Brut Nv Champagne 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Johnnie Walker Black Ruby Whisky 50ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Zilzie Liv Lighter Prosecco 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Wildah Hard Ginger Beer Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Howard Park Terroir' Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Yellow Tail Chardonnay 187ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Rebel County Irish Whiskey 1l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Moon Dog Fizzer Tropical Crush 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Squealing Pig Tempranillo 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jacob's Creek Jacob's Cellar Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Saddleback Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Aradon Rioja 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Brown Brothers Moscato Rose Zero 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The LAB Red 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mud House Claim 431 Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Deep Woods Harmony Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "St Hugo Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Canadian Club & Zero Sugar Dry Can 375ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Brand's Laira Blockers Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Grant Burge Prosecco Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Paxton Vale Organics Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Grant Burge Hillcot Merlot 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Kalki Moon Classic Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Champagne Charpentier Tradition Brut Nv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Kentucky Bourbon Double Serve & No Sugar Can 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Devil's Lair Honeybomb Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Grant Burge Little Kings Grenache Shiraz Mourvedre 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Dolin Vermouth Rouge 750ml",
+      "pack_size": "1 Each"
+    }
+  ]
+}

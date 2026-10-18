@@ -1,0 +1,206 @@
+{
+  "category": "international-foods",
+  "page": 21,
+  "source_url": "https://www.coles.com.au/browse/pantry/international-foods?page=21",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "961 - 1,008 of 1,581 results",
+  "reported_total": 1581,
+  "reported_pages": 33,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Britannia Suji Rusks",
+      "pack_size": "610g"
+    },
+    {
+      "product_name": "I Dolci Di Montagna Sfogliatine Glassate Wafers",
+      "pack_size": "135g"
+    },
+    {
+      "product_name": "Argentina Meat Loaf",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Katoomba Fennel Seeds",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Haldirams Boondi Masala",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Al ameed Turkish Coffee With Cardamom Medium",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Bnei Darom Cucumbers In Brine",
+      "pack_size": "560g"
+    },
+    {
+      "product_name": "Kushi Mango Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Wagh Bakri Premium Tea",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Kozhikoden's Banana Chips",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Arth Rice Khichdi Masala Khichdi",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Want Want Qq Strawberry Gummies",
+      "pack_size": "70g"
+    },
+    {
+      "product_name": "Gits Khaman Dhokla Mix",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Lijjat Black Pepper Papadams",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Colman's Old English Mustard",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Britannia Milk Biscuits",
+      "pack_size": "540g"
+    },
+    {
+      "product_name": "Lee Kum Kee Sweet Soy Sauce",
+      "pack_size": "207mL"
+    },
+    {
+      "product_name": "Maharajah's Choice Dhal Tadka Ready Meal",
+      "pack_size": "283g"
+    },
+    {
+      "product_name": "Pattu Chilli Powder Kashmiri",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Britannia Tiger Glucose Biscuits",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Gits Rava Idli Mix",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Arth Rice Khichdi Brown Rice & Cumin Khichdi",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Mama Sita BBQ Marinade",
+      "pack_size": "680mL"
+    },
+    {
+      "product_name": "Passage To India Pilaf Rice",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Arizona Mucho Mango",
+      "pack_size": "650mL"
+    },
+    {
+      "product_name": "Siena Fine Polenta",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "MDH Kitchen King Masala",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Yakamoz Hot Baby Pepper Pickles",
+      "pack_size": "650mL"
+    },
+    {
+      "product_name": "Everest Tandoori Chicken Masala",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Al ameed Turkish Coffee Without Cardamom Medium",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Golden Swan Dry Apricot Paste",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "The Han Kitchen Pocha Ramyun Multi Pack",
+      "pack_size": "472g"
+    },
+    {
+      "product_name": "Royal Fields Lemon Juice",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "The Han Kitchen Organic Ramen Noodles",
+      "pack_size": "270g"
+    },
+    {
+      "product_name": "Parle G Gold",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Puck Cheese Triangles",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Cortas Broad Fava Beans",
+      "pack_size": "850g"
+    },
+    {
+      "product_name": "Cortas Broad Fava Beans",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Arizona Watermelon",
+      "pack_size": "650mL"
+    },
+    {
+      "product_name": "Orion Turtle Chips Choco Churros Flavour",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Orion Turtle Chips Sweet Corn Flavour",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Cortas Original Fava Beans & Chick Peas",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Watermelon Rice Paper",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Gaganis Sauerkraut & Carrot Polish",
+      "pack_size": "900g"
+    },
+    {
+      "product_name": "Century Tuna Calamansi",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Sera Pepper Paste Mild",
+      "pack_size": "720g"
+    },
+    {
+      "product_name": "Bnei Darom Mini Cucumbers In Brine",
+      "pack_size": "560g"
+    },
+    {
+      "product_name": "Watermelon Broken Rice",
+      "pack_size": "1kg"
+    }
+  ]
+}

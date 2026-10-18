@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 23,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=23",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,057 - 1,104 of 1,591 results",
+  "reported_total": 1591,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Fever-Tree Light Wild Raspberry Tonic Water",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Youfoodz Youjuice Getcha Greens",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Powerade Isotonic Mountain Blast Sports Drink Sipper Cap Bottle",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Lipton Peach Iced Tea Sachets",
+      "pack_size": "20 Pack"
+    },
+    {
+      "product_name": "Twinings Live Well Probiotic Blend Tea Bags",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Bushells Classic Gourmet Instant Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Vittoria Espresso Decaffeinated Ground Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Classic Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Lo Bros Kombucha Raspberry & Blackcurrant",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Mildura Orange And Passionfruit Drink",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "The Juice Lab Welness Shot Recover",
+      "pack_size": "60mL"
+    },
+    {
+      "product_name": "Bundaberg Brewed Diet Ginger Beer",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Higher Living Daily Detox Tea",
+      "pack_size": "15 Pack"
+    },
+    {
+      "product_name": "Campbell's V8 Breakfast Juice",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Nudie Tropical Breakfast Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Madame Flavour Green Jasmine & Pear Tea Bags18 Pack",
+      "pack_size": "36g"
+    },
+    {
+      "product_name": "Ocean Spray Pure Cranberry Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Grinders Espresso Ground Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Daley Street Dark Roast Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Lo Bros Brewed Ginger Beer",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "V Energy Zero Sugar Original",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Monster Energy Mango Loco Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Nescafe Kitkat Mocha Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Coca-Cola Diet Soft Drink Bottle",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Powerade Isotonic Berry Ice Sports Drink Sipper Cap Bottle",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Lavazza Tales Of Italy Napoli Ground Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Nescafe Dolce Gusto Cappuccino Coffee Capsules",
+      "pack_size": "16 Pack"
+    },
+    {
+      "product_name": "Dilmah Extra Strength Pure Ceylon Bags 200 Pack",
+      "pack_size": "480g"
+    },
+    {
+      "product_name": "Robert Timms Premium Espresso Extra Dark Roasted Granulated Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Vittoria Italian Blend Ground Coffee",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Twinings Cold Infusions Raspberry Lime",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Devondale Sparkler Grape",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Monster Energy Ultra Peachy Keen Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Monster Energy Drink Ultra Strawberry Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Monster Energy Ultra Violet Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Higher Living Organic Golden Turmeric Tea",
+      "pack_size": "15 Pack"
+    },
+    {
+      "product_name": "Cottee's Cordial Pine Lime",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Madura English Breakfast Tea Bags 50 Pack",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "H2coco Chocolate Coconut Water",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Bickford's Grape Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Nescafe Gold Short Black Strong Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "ST ALi Orthodox Blend Ground Coffee",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Vittoria Espresso Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "ST ALi Feels Good Blend Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Grinders Cafe - Q Organico Coffee Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Solo Energy Drink Lemon Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Red Bull Energy Drink White Peach",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Bushells Blue Label Tea Bags Extra Strong",
+      "pack_size": "50 Pack"
+    }
+  ]
+}

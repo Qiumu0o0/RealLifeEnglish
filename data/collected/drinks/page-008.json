@@ -1,0 +1,210 @@
+{
+  "category": "drinks",
+  "page": 8,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=8",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "337 - 384 of 1,616 results",
+  "reported_total": 1616,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Pepsi Max Soft Drink Zero Sugar Mini Cans 250ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Fierce Grape",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Gatorade No Sugar Orange",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Golden Circle Mango Nectar",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Lemon & Lime",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Jarrah Hot Chocolate Bulk",
+      "pack_size": "322g"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Tropical Fruit",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Bundaberg Brewed Drink Passionfruit 375mL",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Remedy Kombucha Organic Drinks Pineapple Lime 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Orange Ice",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Moccona Espresso Style Bold & Intense Instant Coffee",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Finest Orange Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Grinders Rich Espresso Coffee Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Pauls Zymil Low Fat Long Life Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Pureharvest Unsweetened Almond Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Coca-Cola Classic Soft Drink Multipack Glass Bottles 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Nudie Nothing But 100% Fresh Juice Orange Pulp Free",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Coles Finest Orange Juice Pulp Free",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Bundaberg Brewed Drink Guava 4x375ml",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Coles Simply Australian Full Cream Instant Milk Powder",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Boss Ice Tea Latte 4x237ml",
+      "pack_size": "948mL"
+    },
+    {
+      "product_name": "Schweppes Soda Water Bottle Classic Mixers Glass Multipack 300ml x 4 Pack",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Lavazza Quality Oro Coffee Beans",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Moccona Indulgence Specialty Blend Instant Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Red Bull Energy Drink Sugar Free 8x250ml",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Devondale Moo Flavoured Milk Chocolate Multipack 6x200ml",
+      "pack_size": "1.2L"
+    },
+    {
+      "product_name": "Bundaberg Brewed Drink Ginger Beer Diet 4x375ml",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Moccona Classic Medium Decaffeinated Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Bickford's Cloudy Pear Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Cadbury Drinking Chocolate",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Coca-Cola Diet Soft Drink Multipack Cans 375ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Moccona Cafe Classics Strong Cappuccino Coffee Sachets",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Bundaberg Brewed Drink Tropical 4x375ml",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Nudie Nothing But 100% Fresh Juice Orange",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Kirks Creaming Soda Soft Drink Multipack Cans 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Edenvale Non Alcoholic Sparkling Cuvee 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Gatorade G Active Sports Drinks Berry Water Electrolytes & Vitamins",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Boss Ice Tea Long Black 4x237ml",
+      "pack_size": "948mL"
+    },
+    {
+      "product_name": "Bundaberg Brewed Drink Lemon Lime Bitter 375mL",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Pureharvest Organic Oat Unsweetened Long Life Milk Uht",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Dilmah Pure Ceylon Premium Tea Bags 100 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Golden Circle Cordial Fruit Cup",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Solo Soft Drink Mini Cans 6x250ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Coles Juice Orange",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Bundaberg Brewed Drink Sarsaparilla 4x375mL",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Bickford's Prune Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Devondale Instant Full Cream Milk Powder",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Waterfords Sparkling Water Apple Berry",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Edenvale Non Alcoholic Drink Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    }
+  ]
+}

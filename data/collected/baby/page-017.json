@@ -1,0 +1,78 @@
+{
+  "category": "baby",
+  "page": 17,
+  "source_url": "https://www.coles.com.au/browse/baby?page=17",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "769 - 784 of 784 results",
+  "reported_total": 784,
+  "reported_pages": 17,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Tiny Twinkle Long Sleeve Bib Toddler Rose Burgundy",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "123 Nourish Me Chesty Rub Balm",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Bubba Bump Postpartum Herbal Sitz Soak",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Bubba Bump Pregnancy Bath Soak",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Tiny Twinkle Apron Bib Toddler Sand Cinnamon",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Tiny Twinkle Apron Bib Toddler Slate & Olive",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Tiny Twinkle Apron Bib Toddler Grey Indigo",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Tiny Twinkle Apron Bib Toddler Rose & Burgundy",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Sprout Infant Formula Individual Tin",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Sprout Toddler Drink Individual Tin",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Bubba Bump Breast Ice/Heat Gel Pack",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Mother Natal Complete Support Prenatal Vitamin",
+      "pack_size": "60 Pack"
+    },
+    {
+      "product_name": "Gaia Natural Baby Newborn Baby Set",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Itti Bitti Premium Double Pocket Wetbag And Medium Reusable Swim Nappy Rock Pool",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Huggies Ultra Dry Nappies Girls Size 5 (13-18kg)",
+      "pack_size": "96 Pack"
+    },
+    {
+      "product_name": "Huggies Ultra Dry Nappies Girls Size 6 (16kg+)",
+      "pack_size": "88 Pack"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 18,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=18",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "817 - 864 of 1,598 results",
+  "reported_total": 1598,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Vittoria Espresso Ground Coffee",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Starbucks By Nespresso House Blend Coffee Pods Intensity 8 Capsules",
+      "pack_size": "36 Pack"
+    },
+    {
+      "product_name": "Kirks Orange Soft Drink Bottle",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "The Juice Lab Wellness Shot Digestion",
+      "pack_size": "60mL"
+    },
+    {
+      "product_name": "Bickford's No Added Sugar Lime Cordial",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Queen Victoria English Breakfast Tea Bags",
+      "pack_size": "100 Pack"
+    },
+    {
+      "product_name": "Queen Victoria Peppermint Tea Bags",
+      "pack_size": "100 Pack"
+    },
+    {
+      "product_name": "Remedy Ginger Beer Ginger Beer 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Ito En Matcha Traditional Green Tea Bags 20 Pack",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Mountain Grown Instant Coffee",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Vittoria Latte Beans Coffee",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Pump Berry Storm Water Bottle",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Golden Circle 100% Apple Mango Banana Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Bickford's Cordial Cloudy Apple",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Bundaberg Brewed Ginger Beer",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Impressed Oh Mandy",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Living Planet Goats Long Life Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Bickford's Pomegranate Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Fever-Tree Lime & Yuzu Soda 4x250ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Nescafe Blend 43 Coffee Espresso",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Lemon Flavoured Ice Tea",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Powerade Active Water Lemon Lime",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Powerade Isotonic Mountain Blast Sports Drink Sipper Cap Bottle",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Australias Own Barista Macadamia Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Golden Circle 100% Juice Breakfast",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Twinings English Breakfast Leaf Tea",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Madura Premium Blend Tea Bags 100 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Daley Street Decaf Ground Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Mother Energy Drink Rainbow Sherbet 4x500ml",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Grinders Cafe - Q Cremello Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Vittoria Mountain Grown Coffee Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Bobby X Lucy & Nikki Strawberries & Cream",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Twinings Immune Support+",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Golden Circle 100% Pine Orange",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "H2coco Chocolate Coconut Water",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Coopers Ultra Light Bottle 6x375ml",
+      "pack_size": "2.25L"
+    },
+    {
+      "product_name": "Lavazza Espresso Barista Intenso Coffee Beans",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Bushells Blue Label Tea Bags",
+      "pack_size": "50 Pack"
+    },
+    {
+      "product_name": "Bushells Blue Label Loose Leaf Tea Extra Strong",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Lipton Ice Tea Peach Tea Iced Tea Bottle",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Ocean Spray Drink Ruby Red",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Robert Timms Premium Espresso Extra Dark Roasted Granulated Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Italian Instant Coffee",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "L'OR Espresso Ristretto Intensity 11 Coffee Capsules Nespresso* Compatible 52g",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "L'OR Espresso Lungo Estremo Intensity 10 Coffee Capsules Nespresso* Compatible 52g",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Twinings Green Tea & Lemon Tea Bags",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Grove Juice Orange Pulp Free",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Great Northern Zero Can 6x375ml",
+      "pack_size": "24 Carton"
+    }
+  ]
+}

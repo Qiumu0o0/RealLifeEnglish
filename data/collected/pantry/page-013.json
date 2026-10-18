@@ -1,0 +1,210 @@
+{
+  "category": "pantry",
+  "page": 13,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=13",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "577 - 624 of 6,135 results",
+  "reported_total": 6135,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Cadbury Milk Chocolate Baking Block",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Cadbury Baking 70% Dark Chocolate Block",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "White Wings Original Pancake Shake",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Cadbury Baking Dark Chocolate Block",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Cadbury Baking White Chocolate Block",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Coco Earth Almond Flour",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Sanitarium Up&go Protein Energize Chocolate 12x250ml",
+      "pack_size": "3L"
+    },
+    {
+      "product_name": "Coles Italian Passata Sauce",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Coles Italian Diced Tomatoes",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Simply White Sugar",
+      "pack_size": "2Kg"
+    },
+    {
+      "product_name": "Indomie Fried Mi Goreng Instant Noodles 5x85g",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Sunrice Jasmine White Rice",
+      "pack_size": "5kg"
+    },
+    {
+      "product_name": "Sirena Tuna in Oil Italian Style",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Bertolli Extra Virgin Olive Oil",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Grinders Crema Coffee Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Milklab Almond Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Kellogg's Nutri Grain Protein Breakfast Cereal",
+      "pack_size": "470g"
+    },
+    {
+      "product_name": "Coles Sweetened Condensed Milk",
+      "pack_size": "397g"
+    },
+    {
+      "product_name": "Coles Finest Pure Canadian Maple Syrup",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Coles Turkish Dried Apricot",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Mutti Polpa Finely Chopped Tomatoes",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Indya Crown Basmati Rice",
+      "pack_size": "5kg"
+    },
+    {
+      "product_name": "Capilano Pure Honey Upside Down Squeeze",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Campbell's Real Stock Chicken",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Kellogg's Coco Pops Chocolatey Breakfast Cereal",
+      "pack_size": "535g"
+    },
+    {
+      "product_name": "Vegemite Spread",
+      "pack_size": "380g"
+    },
+    {
+      "product_name": "Nutella Hazelnut Chocolate Spread",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Old El Paso Spice Mix For Tacos Mild",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Val Verde Passata Cooking Sauce",
+      "pack_size": "700mL"
+    },
+    {
+      "product_name": "Harvest Snaps Pea Original Salted",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "UP&GO Liquid Breakfast Choc Ice 12x250ml",
+      "pack_size": "3L"
+    },
+    {
+      "product_name": "Maggi Instant Noodles Cup Chicken Flavour",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Coles Urban Coffee Culture Strong Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coles Australian Sultanas",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coles Medjool Dates",
+      "pack_size": "454g"
+    },
+    {
+      "product_name": "Coles Simply Tuna Springwater",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Lavazza Espresso Barista Gran Crema Coffee Beans",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Coles I'm Perfect Onions Prepack",
+      "pack_size": "2Kg"
+    },
+    {
+      "product_name": "Kellogg's Nutri-grain Protein Breakfast Cereal",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Coles Basmati Rice",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "San Remo Spaghetti No 5",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Kellogg's Just Right Breakfast Cereal With Whole Grains Apricot Pieces And Sultanas",
+      "pack_size": "740g"
+    },
+    {
+      "product_name": "Queen Sugar Free Maple Flavoured Syrup",
+      "pack_size": "355mL"
+    },
+    {
+      "product_name": "Lavazza Espresso Barista Intenso Coffee Beans",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Maggi 2 Minute Instant Noodles Chicken Flavour 5 Pack",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "Ardmona Crushed Tomatoes",
+      "pack_size": "410g"
+    },
+    {
+      "product_name": "Vittoria Espresso Coffee Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Mission Original White Corn Tortilla Strips",
+      "pack_size": "230g"
+    },
+    {
+      "product_name": "Samyang Buldak Spicy Ramen Carbonara 5 Pack",
+      "pack_size": "650g"
+    }
+  ]
+}

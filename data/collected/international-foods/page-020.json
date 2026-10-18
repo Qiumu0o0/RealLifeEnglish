@@ -1,0 +1,206 @@
+{
+  "category": "international-foods",
+  "page": 20,
+  "source_url": "https://www.coles.com.au/browse/pantry/international-foods?page=20",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "913 - 960 of 1,591 results",
+  "reported_total": 1591,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Pattu Whole Black Urid",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Palirria Vine Leaves Stuffed With Rice",
+      "pack_size": "280g"
+    },
+    {
+      "product_name": "Lee Kum Kee Black Pepper Sauce",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Katoomba Crushed Ginger",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Zwan Chicken Luncheon Meat",
+      "pack_size": "340g"
+    },
+    {
+      "product_name": "Street Kitchen Thai Yellow Curry",
+      "pack_size": "285g"
+    },
+    {
+      "product_name": "Jacob's Club Milk 5 Pack",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "Cadbury Dairy Milk Giant Buttons",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Lotte Koala's March Chocolate Biscuits",
+      "pack_size": "195g"
+    },
+    {
+      "product_name": "Bnei Darom Cucumbers In Brine",
+      "pack_size": "560g"
+    },
+    {
+      "product_name": "Zahra Pickled Cucumber",
+      "pack_size": "1.4Kg"
+    },
+    {
+      "product_name": "Tasty Miso Ramen Paste",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Nola Ouma Buttermilk Rusks",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Marion's Kitchen Thai Yellow Curry Kit",
+      "pack_size": "404g"
+    },
+    {
+      "product_name": "Old El Paso Family Taco Kit",
+      "pack_size": "495g"
+    },
+    {
+      "product_name": "Puck Cream Cheese Spread Jar",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Katoomba Everyday Rice",
+      "pack_size": "5Kg"
+    },
+    {
+      "product_name": "Taj Mahal Black Tea Leaf",
+      "pack_size": "900g"
+    },
+    {
+      "product_name": "Daawat Select Basmati Rice",
+      "pack_size": "5kg"
+    },
+    {
+      "product_name": "Bon Bon Grape Drink",
+      "pack_size": "238mL"
+    },
+    {
+      "product_name": "Maharajah's Choice Green Chutney Twist",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Cortas Broad Fava Beans",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Dr. Oetker Chocolate Pudding",
+      "pack_size": "156g"
+    },
+    {
+      "product_name": "Pattu Besan Fine",
+      "pack_size": "800g"
+    },
+    {
+      "product_name": "Maharajah's Choice Chick Peas",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Nongshim Onion Flavoured Rings",
+      "pack_size": "75g"
+    },
+    {
+      "product_name": "MTR Dal Fry Mild",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Milka Crispy Rice Chocolate",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Calbee Grill A Corn BBQ",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Coles Asia Crispy Noodle Bites Pad Thai Flavour",
+      "pack_size": "70g"
+    },
+    {
+      "product_name": "Kushi Lychee Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Gaganis Fine Semolina",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Matilde Vicenzi Millefoglie D'italia Mini Snack Vanilla Cream",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Siena Fine Polenta",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Street Kitchen Pad Thai",
+      "pack_size": "255g"
+    },
+    {
+      "product_name": "Britannia Suji Rusks",
+      "pack_size": "610g"
+    },
+    {
+      "product_name": "PG Tips Tea Bags",
+      "pack_size": "40 Pack"
+    },
+    {
+      "product_name": "Patak's Lime Pickle Medium",
+      "pack_size": "283g"
+    },
+    {
+      "product_name": "Nongshim Shin Toomba Stir Fry 4x137g",
+      "pack_size": "548g"
+    },
+    {
+      "product_name": "U.K. Whole Wheat Biscuits",
+      "pack_size": "430g"
+    },
+    {
+      "product_name": "Benino Gourmet Selection Mild Ajvar",
+      "pack_size": "490g"
+    },
+    {
+      "product_name": "Tully'z Kitchen All Natural Butter Chicken Curry Sauce",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Samyang Buldak Spicy Ramen Habanero Lime 5 Pack",
+      "pack_size": "675g"
+    },
+    {
+      "product_name": "Pilsbury Mutigrain Atta Wheat Flour",
+      "pack_size": "5Kg"
+    },
+    {
+      "product_name": "Ching's Schezwan Instant Noodles",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Everest Tandoori Chicken Masala",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Hong Gong Chilli Oil",
+      "pack_size": "150mL"
+    },
+    {
+      "product_name": "MTR Cup Vegetable Upma",
+      "pack_size": "80g"
+    }
+  ]
+}

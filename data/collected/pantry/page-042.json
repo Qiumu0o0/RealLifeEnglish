@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 42,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=42",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,969 - 2,016 of 6,155 results",
+  "reported_total": 6155,
+  "reported_pages": 129,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Jordans Simply Crunchy Oat Granola",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Uncle Tobys Oats Quick Sachets Berry Variety",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Whole Earth Stevia Sugar Replacement Super Valuepack",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Coles Australian Original Bread Crumb",
+      "pack_size": "220g"
+    },
+    {
+      "product_name": "True Fruit Strips Apple & Strawberry",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Sanitarium Weet-bix Protein Bites Caramel Crunch",
+      "pack_size": "510g"
+    },
+    {
+      "product_name": "Coles Dried Cranberries",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "San Remo Instant Lasagna Sheets Family Pack",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Queen Organic Vanilla Extract",
+      "pack_size": "50mL"
+    },
+    {
+      "product_name": "Maharajah's Choice Sella Basmati Rice",
+      "pack_size": "5Kg"
+    },
+    {
+      "product_name": "Coles Toasted Original Style Muesli",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "CSR Raw Sugar",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Coles Sweet Chilli Sauce",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Coles Baked Beans Canned Regular",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Vege Chips Mini Rice Crackers Multi 12 Pack",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Sunbeam Australian Sultanas",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Coles Wellness Road Organic Psyllium Husk",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Sliced Beetroot",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Red Tractor Organic Cacao Powder",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Coles Organic Extra Virgin Coconut Oil Unrefined",
+      "pack_size": "900g"
+    },
+    {
+      "product_name": "Blu Gourmet Pearl Couscous",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Organic Coconut Milk",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Grill'd Famous Herbed Mayo",
+      "pack_size": "280mL"
+    },
+    {
+      "product_name": "Queen Pure Canadian Maple Syrup",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Sunrice Microwave Brown Rice & Quinoa Rice Cup 2x125g",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Durum Wheat Pasta Rigatoni",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Kellogg's Special K Original Breakfast Cereal",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "The Food Company Chopped Garlic",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Sanitarium Weet-bix Little Kids Essentials Breakfast Cereal",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Sweet Chilli And Lime Soy Crisps",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "MasterFoods Mild American Mustard Smooth & Tangy",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "Coles Whole Black Pepper Grinder",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Nature's Way Instant Natural Protein Plant-based Vanilla",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Dolmio Extra Italian Herb Pasta Sauce",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Sacla Genovese Classic Pesto Sauce",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Zafarelli Pasta Spaghetti No 4",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Dole Pineapple Chunks In Juice",
+      "pack_size": "432g"
+    },
+    {
+      "product_name": "Nestle Carnation Lite Cooking Cream",
+      "pack_size": "300mL"
+    },
+    {
+      "product_name": "Best Foods Real Mayonnaise Jar",
+      "pack_size": "810g"
+    },
+    {
+      "product_name": "Coles Durum Wheat Pasta Shells Large",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Uncle Tobys Oats Quick Sachets Classic Variety",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Coles Dried Apple Slices",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "John West Tuna Naturally Smoked",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Coles Microwavable Brown Rice 5 Pack",
+      "pack_size": "625g"
+    },
+    {
+      "product_name": "Gravox Traditional Gravy Mix Tin",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Red Tractor Wheat Free Rolled Oats",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Chang's Pad Thai Style Rice Noodles",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "John West Tuna Oven Dried Tomato Basil",
+      "pack_size": "95g"
+    }
+  ]
+}

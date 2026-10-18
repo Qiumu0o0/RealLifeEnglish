@@ -1,0 +1,210 @@
+{
+  "category": "cleaning-laundry",
+  "page": 12,
+  "source_url": "https://www.coles.com.au/browse/cleaning-laundry?page=12",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "529 - 576 of 1,495 results",
+  "reported_total": 1495,
+  "reported_pages": 32,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Lectric Washing Soda Powder",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Pine O Cleen Pine Disinfectant Liquid",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Sabco Nitrile Heavy Duty Disposable Gloves Large",
+      "pack_size": "100 Pack"
+    },
+    {
+      "product_name": "Handy Andy Clorox All Purpose Green Cleaner",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Fluffy Fabric Softener Concentrate Warm Vanilla & Creamy Coconut",
+      "pack_size": "1.9L"
+    },
+    {
+      "product_name": "Sard Power Spray",
+      "pack_size": "450mL"
+    },
+    {
+      "product_name": "Downy Fabric Enhancer Mystique Liquid",
+      "pack_size": "800mL"
+    },
+    {
+      "product_name": "Cuddly In Wash Laundry Scent Booster Beads Sunshine Fresh",
+      "pack_size": "480g"
+    },
+    {
+      "product_name": "Duck Extra Power Toilet Shield Gel Toilet Cleaner Ocean Burst",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Vileda All Purpose Cloth",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Sard Antibacterial Laundry Sanitiser",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "OMO Touch Of Comfort 3 in 1 Laundry Capsules 28 Washes",
+      "pack_size": "28 Pack"
+    },
+    {
+      "product_name": "Morning Fresh Easy Squeeze Lemon Dishwashing Liquid",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Chux Heavy Duty Scourer Pads",
+      "pack_size": "3 Pack"
+    },
+    {
+      "product_name": "Glade Solid Air Freshener Lavender",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Jif Cream Multipurpose Cleaner Lily Flower",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Air Wick Vi Poo Fruity Pin Up",
+      "pack_size": "55mL"
+    },
+    {
+      "product_name": "Finish Ultimate Dishwashing Tablets Lemon",
+      "pack_size": "56 Pack"
+    },
+    {
+      "product_name": "Coles Self Standing Garbage Bags With Draw Tape",
+      "pack_size": "3 Pack"
+    },
+    {
+      "product_name": "Palmolive Regular Dishwashing Liquid Lemon Lime Bulk Pack",
+      "pack_size": "1.3L"
+    },
+    {
+      "product_name": "Fab Sublime Velvet Front & Top Loader Laundry Powder",
+      "pack_size": "1.8kg"
+    },
+    {
+      "product_name": "Sard Wonder Soap Laundry Bar Eucalyptus",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Dishmatic All Purpose Brush",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Earthwise Diswashing Liquid Lemon Fresh",
+      "pack_size": "500 mL"
+    },
+    {
+      "product_name": "Morning Fresh Dishwashing Liquid Antibacterial Active Lemon",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Dettol Classic Antibacterial Disinfectant Liquid Solution",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Finish Ultimate 0% Dishwashing Tablets Regular",
+      "pack_size": "46 Pack"
+    },
+    {
+      "product_name": "Ajax Spray N Wipe Lemon Citrus 5 In 1 Multi Purpose Cleaner Trigger 3x500ml",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Palmolive Ultra Strength Concentrate Antibacterial Dishwashing Liquid Lemon",
+      "pack_size": "950mL"
+    },
+    {
+      "product_name": "Earth Choice Laundry Powder",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Pine O Cleen Platinum Laundry Sanitiser Fresh Breeze",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Cuddly Classic Fresh Fabric Softener Sachet",
+      "pack_size": "300mL"
+    },
+    {
+      "product_name": "Fluffy Fabric Softener Concentrate Sandalwood",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Bref Power Active Rim Block Lemon Toilet Cleaner",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Scentory Aerosol Luscious Petals",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Scentory Soy Blend Luscious Petals Double Wicked Candle",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Combat Ant Rid Ant Bait",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "White King Powerclean Toilet Bleach Gel Eucalyptus",
+      "pack_size": "700mL"
+    },
+    {
+      "product_name": "Chux Magic Eraser Cleaner Block",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Sabco Easy Clean Toilet Set",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Bar Keepers Friend Cleanser & Polish Powder",
+      "pack_size": "340g"
+    },
+    {
+      "product_name": "Ajax Wipes Bergamot & Vanilla Bean Luxury Home Multipurpose",
+      "pack_size": "110 Pack"
+    },
+    {
+      "product_name": "Ajax Spray & Wipe Vanilla & Berries Multipurpose Cleaner Refill",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Domestos Power Foam Toilet & Bathroom Arctic Fresh Spray",
+      "pack_size": "450mL"
+    },
+    {
+      "product_name": "Jif Cream Multipurpose Spray Lemon",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Carpet Power Carpet Cleaner Trigger Spray",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Coles Ultra Infusions Tropical Paradise Laundry Capsules",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Finish Ultimate Plus Dishwashing Tablets Lemon",
+      "pack_size": "56 Pack"
+    },
+    {
+      "product_name": "Chux Non-scratch Scourer + Super Absorbent Sponge",
+      "pack_size": "2 Pack"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 5,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=5",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "193 - 240 of 6,125 results",
+  "reported_total": 6125,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Cucina Matese Conchiglie Rigate Italian Pasta No 116",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Twining's Strawberry Raspberry & Loganberry Infusions Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Coles Simply White Choc Buttons",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Twining's Pure Camomile Infusions Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Continental Rice Oriental Fried",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Starbucks By Nespresso Caffe Verona Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Kan Tong Honey Soy & Garlic Stir Fry Meal Base Pouch",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Dolmio Extra Pasta Sauce Four Cheese",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Dolmio Hidden Vegetable Extra Pasta Sauce",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Twinings Cranberry & Pomegranate Infusions Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Ben's Original Light Flavour Garlic Rice Pouch",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Daley Street Dark/intense Aluminium Nespresso Compatible Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Aeroplane Lite Jelly Strawberry 2 Pack",
+      "pack_size": "18g"
+    },
+    {
+      "product_name": "Vege Deli Crisps Original Blend",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Twinings Chamomile & Spearmint Herbal Infusions Tea Bags 10 Pack",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Starbucks Breakfast Blend Capsules By Nespresso",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Cucina Matese Ditali Pasta",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Maggi Gluten Free Your Meal Your Way Chilli Con Carne",
+      "pack_size": "41g"
+    },
+    {
+      "product_name": "Cucina Matese Basilico Pasta Sauce",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "Dolmio Tomato Onion & Roast Garlic Salt Reduced Pasta Sauce",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Twinings English Breakfast Tea Bags 10 Pack",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "Cucina Matese Pesto Sundried Tomato",
+      "pack_size": "290g"
+    },
+    {
+      "product_name": "Coles Organic Pasta Spaghetti",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Continental Pasta & Sauce Chicken Curry",
+      "pack_size": "145g"
+    },
+    {
+      "product_name": "Continental Pasta & Sauce Family Sour Cream Chives",
+      "pack_size": "145g"
+    },
+    {
+      "product_name": "Starbucks Nespresso Compatible Capsules Vanilla",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "MasterFoods Tuscan Meatballs Recipe Base",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "MasterFoods Beef Stroganoff Recipe Base",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Twinings Pure Green Tea Bags 10 Pack",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Kan Tong Peanut Satay Stir Fry Cooking Sauce",
+      "pack_size": "505g"
+    },
+    {
+      "product_name": "Buontempo Gluten Free Penne",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Ben's Original Mexican Style Brown Rice Pouch",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "MasterFoods Satay Marinade",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Continental Chow Mein Mince Recipe Base Serves 4",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Buontempo Gluten Free Spirals",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Ben's Original Tomato & Basil Rice Pouch",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Vege Chips Deli Crisps Lentil Lightly Salted",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Bean Ground & Drunk Organic Decaffeinated Medium Roast Fairtrade Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Dolmio Three Cheese Pasta Bake",
+      "pack_size": "490g"
+    },
+    {
+      "product_name": "Kan Tong Sweet & Sour Stir Fry Cooking Sauce",
+      "pack_size": "515g"
+    },
+    {
+      "product_name": "Heinz Classic Italian Minestrone Soup Can",
+      "pack_size": "535g"
+    },
+    {
+      "product_name": "MasterFoods Horseradish Cream Sauce",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Sunrice Microwave Coconut Flavoured Rice Cup",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Twinings Camomile Honey And Vanilla Infusions Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "MasterFoods Stir Fry Honey Garlic & Soy Recipe Base",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Continental Rice Family Cheesy",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Vege Chips Deli Crisps Purple Sweet Potato",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Fountain Sweet Chilli Sauce",
+      "pack_size": "250mL"
+    }
+  ]
+}

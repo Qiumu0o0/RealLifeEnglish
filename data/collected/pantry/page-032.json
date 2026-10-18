@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 32,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=32",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,489 - 1,536 of 6,144 results",
+  "reported_total": 6144,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Betty Crocker Frosting Vanilla",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Protein Punch BBQ Flavour",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Protein Punch Original Flavour",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Maharajah's Choice Chilli Crush",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Maharajah's Choice Chilli Powder",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Maharajah's Choice Cumin Seed",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Maggie Beer Natural Chicken Free Range Broth",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "MasterFoods All Purpose Seasoning",
+      "pack_size": "65g"
+    },
+    {
+      "product_name": "Maggie Beer Nataural Beef Broth",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Mingle Spaghetti Bowl Recipe Base",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Moccona Ristretto Specialty Blend Instant Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "MasterFoods All Purpose Pepper Seasoning",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "The Man Shake Meal Replacement Variety 14 Pack",
+      "pack_size": "784g"
+    },
+    {
+      "product_name": "Whitlocks Baked Beans Fuego Chilli Sauce",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Whitlocks Baked Beans Smoky Campfire BBQ Sauce",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "The Lady Shake Meal Replacement Variety 14 Pack",
+      "pack_size": "784g"
+    },
+    {
+      "product_name": "MasterFoods Lemon Herb & Garlic Seasoning",
+      "pack_size": "46g"
+    },
+    {
+      "product_name": "Indomie Chitato MI Goreng Potato Chips",
+      "pack_size": "55g"
+    },
+    {
+      "product_name": "MasterFoods Mild Chicken Seasoning",
+      "pack_size": "49g"
+    },
+    {
+      "product_name": "Knorr Aromat Canister",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Continental Sensations Harvest Pumpkin & Sour Cream Soup Serves 2",
+      "pack_size": "70g"
+    },
+    {
+      "product_name": "Coles Sweet Chilli And Lime Soy Crisps",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Continental Sensation Creamy Roast Chicken Spring Onion Soup Serves 2",
+      "pack_size": "61g"
+    },
+    {
+      "product_name": "Continental Sensation Vine Ripened Tomato & Ricotta Soup Serves 2",
+      "pack_size": "54g"
+    },
+    {
+      "product_name": "Twinings Lemon & Ginger Infusions Tea Bags",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Uncle Tobys Vita Weeties Breakfast Cereal",
+      "pack_size": "510g"
+    },
+    {
+      "product_name": "Continental Sensation Garden Cauliflower & 4 Cheese Soup Serves 2",
+      "pack_size": "62g"
+    },
+    {
+      "product_name": "Shan Korma Recipe And Masala Mix",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Continental Sensations 2s Soup Farmhouse Potato & Leek",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Sunrice Jasmine Rice",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Queen Celebrating 120 Years Master Blend Pure Vanilla Extract",
+      "pack_size": "100mL"
+    },
+    {
+      "product_name": "Bean Ground & Drunk Organic Decaffeinated Medium Roast Fairtrade Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Continental Sensation Mushroom Bacon Soup Serves 2",
+      "pack_size": "48g"
+    },
+    {
+      "product_name": "Lavazza Decaf Ground Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Twinings English Breakfast Decaf Tea Bags",
+      "pack_size": "80 Pack"
+    },
+    {
+      "product_name": "BSc Crispy Bar Caramel Fudge",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Betty Crocker Strawberry & Cream Cake Mix",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Samyang Buldak Spicy Ramen Taco 5 Pack",
+      "pack_size": "675g"
+    },
+    {
+      "product_name": "Egmont Manuka Honey MGO 100+",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Muscle Nation Custard Protein Bar Cookies & Cream",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Indya Sona Masoori Rice",
+      "pack_size": "5Kg"
+    },
+    {
+      "product_name": "Castania Extra Nuts",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Nature's Way Super Greens Boost",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Nongshim Onion Flavoured Rings",
+      "pack_size": "75g"
+    },
+    {
+      "product_name": "Fodmapped Gluten Free Butter Chicken Simmer Sauce",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Bean Ground & Drunk Organic Classic Medium Roast Fairtrade Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Trident Sweet Chilli Sauce",
+      "pack_size": "285mL"
+    },
+    {
+      "product_name": "Marmarabirlik Dried Natural Black Olives",
+      "pack_size": "400g"
+    }
+  ]
+}

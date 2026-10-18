@@ -4,10 +4,12 @@ import { spawn } from 'node:child_process';
 
 // Input records are extracted from observed Coles product links, not guessed products.
 const root = path.resolve(import.meta.dirname, '..');
-const manifest = JSON.parse(await fs.readFile(path.join(root, 'data/image-downloads.json'), 'utf8'));
+const manifestPath=process.argv[2]||'data/image-downloads.json';
+const resultsPath=process.argv[3]||'data/image-download-results.json';
+const manifest = JSON.parse(await fs.readFile(path.join(root, manifestPath), 'utf8'));
 const results = [];
 let previous = [];
-try { previous = JSON.parse(await fs.readFile(path.join(root, 'data/image-download-results.json'), 'utf8')); } catch {}
+try { previous = JSON.parse(await fs.readFile(path.join(root, resultsPath), 'utf8')); } catch {}
 let next = 0;
 function curl(url, target) {
   return new Promise(resolve => {
@@ -54,5 +56,5 @@ async function worker() {
 }
 await Promise.all(Array.from({ length: 4 }, worker));
 results.sort((a,b) => (a.category+a.english).localeCompare(b.category+b.english));
-await fs.writeFile(path.join(root, 'data/image-download-results.json'), JSON.stringify(results, null, 2)+'\n');
+await fs.writeFile(path.join(root, resultsPath), JSON.stringify(results, null, 2)+'\n');
 console.log('Downloaded', results.filter(r=>r.status==='downloaded').length, '/', results.length);

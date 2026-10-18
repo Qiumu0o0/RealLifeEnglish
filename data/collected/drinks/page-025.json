@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 25,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=25",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,153 - 1,200 of 1,598 results",
+  "reported_total": 1598,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "V Enery Drink Grape Burst",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Powerade Isotonic Mountain Blast Sports Drink Flat Cap Bottle",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "The Juice Brothers Blueberry Blend Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "The Juice Brothers Pine Lime Twist",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Belvoir Farm Raspberry Lemonade 4x330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Bickford's Grape Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Lipton Decaffeinated Black Tea",
+      "pack_size": "50 Pack"
+    },
+    {
+      "product_name": "Dare Iced Espresso Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Dare Charged Strong Latte Iced Coffee",
+      "pack_size": "240mL"
+    },
+    {
+      "product_name": "Dare Charged Mocha",
+      "pack_size": "240mL"
+    },
+    {
+      "product_name": "Ocean Spray Drink Low Sugar Blackcurrant",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Perkii Mango Passionfruit Probiotic Drink",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Coles Organic Fair Trade Organic Drinking Choc",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Golden Circle 100% Orange Mango Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Robert Timms Italian Espresso Style Coffee Bags 8 Pack",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Pukka Tea Three Ginger",
+      "pack_size": "20 Pack"
+    },
+    {
+      "product_name": "Pukka Three Mint Herbal Tea Sachets 20 Pack",
+      "pack_size": "32g"
+    },
+    {
+      "product_name": "Strangelove Lo-cal Soda Mandarin 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Ito En Matcha Green Tea Organic Matcha Powder",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "ST ALi Orthodox Blend Ground Coffee",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "ST ALi Feels Good Blend Ground Coffee",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Caffe Aurora Italian Blend Beans Coffee",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Schweppes Lemonade Soft Drink Cans Multipack 375mL",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Coles Water Spring Natural",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "H2juice Sparkling Watermelon",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Dilmah Single Origin Ceylon Premium Tea Bags",
+      "pack_size": "50 Pack"
+    },
+    {
+      "product_name": "Bushells Blue Label Classic Tea Bags",
+      "pack_size": "200 Pack"
+    },
+    {
+      "product_name": "ST ALi Feels Good Blend Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Remedy Shot Energy",
+      "pack_size": "60mL"
+    },
+    {
+      "product_name": "Queen Victoria Lemon & Ginger Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "V Energy Zero Sugar Original",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Devondale Sparkler Grape",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "H2juice Pineapple Juice With Pulp",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Suncoast Gold Macadamia Unsweetened Long Life Milk 1l",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Powerade Isotonic Berry Ice Sports Drink Flat Cap Bottle",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Twinings Live Well Defense Tea Bags",
+      "pack_size": "20 Pack"
+    },
+    {
+      "product_name": "Remedy Sodaly Blood Orange",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Chicco D'Oro Premium Blend Delta Ground Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Mumble Peg Orange Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Nudie Juice Berry Burst",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Mountain Grown Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Melitta Filter Coffee Blue Mountain Style",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Fanta Orange Soft Drink 12x300ml",
+      "pack_size": "3.6L"
+    },
+    {
+      "product_name": "Grinders Crema Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Lavazza Tales Of Italy Roma Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Grinders Cafe - Q Classico Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Sunraysia Pouch 99.9% Tropical Juice",
+      "pack_size": "200mL"
+    },
+    {
+      "product_name": "Coles Simply Quality Black Tea Bags",
+      "pack_size": "100 Pack"
+    }
+  ]
+}

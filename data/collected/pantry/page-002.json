@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 2,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=2",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "49 - 96 of 6,126 results",
+  "reported_total": 6126,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Sunsol High Protein Granola Honey Nut Crunch",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Vida Zero Salty Lychee Drink",
+      "pack_size": "325mL"
+    },
+    {
+      "product_name": "Maharajah's Choice Sella Basmati Rice",
+      "pack_size": "5Kg"
+    },
+    {
+      "product_name": "John West Salmon Tempters Lemon Cracked Pepper",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Continental Chicken Rice Serves 3",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "John West Yellowfin Tuna Chilli In Oil",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Nescafe Coffee 98% Sugar Free Hazelnut Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Nescafe White Choc Mocha Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Twinings Australian Afternoon Tea Bags",
+      "pack_size": "100 Pack"
+    },
+    {
+      "product_name": "Twinings Irish Breakfast Tea Bags 100 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Nescafe Double Shot Latte Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Aunt Betty's Pudding Golden Syrup 2 Pack",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Heinz Mayo Seriously Good Garlic Lovers Aioli",
+      "pack_size": "295mL"
+    },
+    {
+      "product_name": "Nice & Natural Deluxe Protein Bar Almond Mocha 5 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Twinings French Earl Grey Tea Bags",
+      "pack_size": "80 Pack"
+    },
+    {
+      "product_name": "Continental Pasta & Sauce Alfredo",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Nescafe Farmers Origin Colombia Espresso Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Nescafe Latte Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Heinz Seriously Good Creamy Tartare Sauce For Seafood",
+      "pack_size": "295mL"
+    },
+    {
+      "product_name": "Nescafe Spiced Chai Latte Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Aunt Betty's Pudding Gooey Caramel 2 Pack",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Milo Mocha Original",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Temole Sea Salt Cauliflower Puffs",
+      "pack_size": "56g"
+    },
+    {
+      "product_name": "Nescafe Pistachio Latte Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Nescafe 98% Sugar Free Mocha Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Moccona Classic Dark Roast Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "John West Salmon Lime Chilli & Ginger",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Nescafe Farmers Origins Africa Ristretto Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Continental Pasta & Sauce Bacon Carbonara",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Continental Oriental Fried Rice",
+      "pack_size": "115g"
+    },
+    {
+      "product_name": "Nescafe Double Shot Caramel Latte Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Nescafe Caramel Latte Decaf",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Nescafe 98% Sugar Free Vanilla Latte Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Capsicana Mexican Style Tasty Taco Seasoning Mix",
+      "pack_size": "28g"
+    },
+    {
+      "product_name": "Continental Pasta & Sauce Chicken Curry",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Heinz Tomato Ketchup Sauce 8ml Portion",
+      "pack_size": "300 Pack"
+    },
+    {
+      "product_name": "Nescafe Krispy Kreme Doughnut Latte Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Twinings Lady Grey Tea Bags",
+      "pack_size": "100 Pack"
+    },
+    {
+      "product_name": "Twinings Assam Bold Tea Bags 80 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Mingle Japanese BBQ Sauce",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "John West Salmon Chilli",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Green's Chocolate Pudding Mix",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Twining's Vanilla Chai Tea Bags",
+      "pack_size": "80 Pack"
+    },
+    {
+      "product_name": "Twinings Matcha Green Tea",
+      "pack_size": "80 Pack"
+    },
+    {
+      "product_name": "Plumrose Skinless Hot Dog",
+      "pack_size": "560g"
+    },
+    {
+      "product_name": "Heinz Spicy BBQ Buffalo Flavour Hot Sauce",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Nescafe Farmers Origins India Espresso Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Green's Butterscotch Pudding Mix",
+      "pack_size": "260g"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "category": "dairy-eggs-fridge",
+  "page": 34,
+  "source_url": "https://www.coles.com.au/browse/dairy-eggs-fridge?page=34",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,585 - 1,632 of 2,271 results",
+  "reported_total": 2271,
+  "reported_pages": 48,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Boost All Berry Bang Juice Chilled",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Tahini Neri Dip Hummus Spicy",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Ashgrove Signature Vintage Eddington Cheddar",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Mr Fish Herring Fillets In Oil Matje",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Foxes Den Soup Miso Chicken Noodle",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Rana Mushroom Ravioli",
+      "pack_size": "325g"
+    },
+    {
+      "product_name": "Love Organics Sambal Tomat",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Tahini Neri Signature Tahini Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Lard Ass Salted Cultured Butter",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "My Muscle Chef Chicken Satay Basmati Rice",
+      "pack_size": "330g"
+    },
+    {
+      "product_name": "Casalingo Prosciutto Sliced",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Casalingo Sliced Pancetta",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "The Cultured Dairy Melt Shredded Cheese",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "My Muscle Chef Spaghetti Bolognese",
+      "pack_size": "330g"
+    },
+    {
+      "product_name": "Casalingo Salami Sliced",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Casalingo Hungarian Salami Sliced",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Casalingo Salami Calabrese Sliced",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "My Muscle Chef Chicken Pesto Pasta",
+      "pack_size": "330g"
+    },
+    {
+      "product_name": "East Coast Organic Fetta Cheese",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Fresh Fodder Taramosalata Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "QuiteLike Korma Chicken Rice Salad 2 Person Meal Kit 980g",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Organic Milk Co Organic Cheddar Slices",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Foxes Den Soba Noodle Salad",
+      "pack_size": "270g"
+    },
+    {
+      "product_name": "American Melt Swiss Burger Cheese Slices",
+      "pack_size": "224g"
+    },
+    {
+      "product_name": "Stonefire Original Naan Bread",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Zen Bacon & Cheese Frittata",
+      "pack_size": "290g"
+    },
+    {
+      "product_name": "Foxes Den Middle Eastern Chicken Soup",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Dari's Table Olive Hummus Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Zen Blueberry & Apple Oats",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Korea Kimchi",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Ashgrove Signature Red Leicester",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Casa Coco Coconut Water Double Choc",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Farmers Union Greek Style Protein Vanilla Yogurt No Added Sugar",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Yumi's Tuna Pate",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Dari's Table Harissa Hummus Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Dari's Table Mediterranean Hummus Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Foxes Den Omg Chicken Salad",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Stonefire Roasted Garlic Naan 2 Pack",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Nutrisoy Tasty Tempeh",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Pauls Smarter White Milk Immunity 2% Fat",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "H2coco Strawberry Matcha Latte Coconut Water",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Foxes Den Royale Chicken Salad",
+      "pack_size": "320g"
+    },
+    {
+      "product_name": "Black Swan Crafted Caramelised Onion And Balsamic Dip",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Pauls Physical Hi Calcium No Fat Milk",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "The Juice Lab Wellness Multidose Shot Uplift",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Cocobella Coconut Water Chocolate",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "H2juice Lychee Juice With Pulp",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Zen Veggie Frittata",
+      "pack_size": "290g"
+    }
+  ]
+}

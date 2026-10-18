@@ -1,0 +1,206 @@
+{
+  "category": "dairy-eggs-fridge",
+  "page": 42,
+  "source_url": "https://www.coles.com.au/browse/dairy-eggs-fridge?page=42",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,969 - 2,016 of 2,246 results",
+  "reported_total": 2246,
+  "reported_pages": 47,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Kenilworth Sweet Chilli Sour Cream & Bell Peppers Club Cheddar Cheese",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Coles Kitchen Tomato & Basil Soup",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "The Juice Brothers Blueberry Blend Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Tidbit Spanish Truffle Cheese",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Tahini Neri Matbucha Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Remedy Immune Plus Wellness Shot",
+      "pack_size": "60mL"
+    },
+    {
+      "product_name": "Casalingo Prosciutto Sliced",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Ice Break Iced Coffee No Sugar Added",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Vitasoy Oat Chocolate Brownie Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Jindi Dairy Cheese Camembert",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Lo Bros Organic Kombucha Pineapple And Lime",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Provedore Mild Sopressa",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Castello Double Cream Truffle Cheese",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Bun Boy Teryiaki Chicken Buns",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Pelmeni With Three Meat",
+      "pack_size": "800g"
+    },
+    {
+      "product_name": "The Juice Lab Wellness Multidose Shot Uplift",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Dare Charged Mocha",
+      "pack_size": "240mL"
+    },
+    {
+      "product_name": "Full+ Complete Nutrition Chocolate",
+      "pack_size": "480mL"
+    },
+    {
+      "product_name": "Giorgio's Artisan Cheese Burrata",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Nippy's Apple & Blackcurrant Juice Chilled",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Black Swan Crafted Basil Pesto Dip",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Lo Bros Organic Kombucha Tropical Crush",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Mushiki Free Range Pork & Prawn Gyoza",
+      "pack_size": "275g"
+    },
+    {
+      "product_name": "Dare Charged Strong Latte Iced Coffee",
+      "pack_size": "240mL"
+    },
+    {
+      "product_name": "Coles Kitchen Soup Potato Leek & Bacon",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "Black Swan Crafted Hommus And Garlic Dip",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Wonderbao BBQ Pork Bao 6 Pack",
+      "pack_size": "405g"
+    },
+    {
+      "product_name": "Yumi's Dip & Crackers Beetroot Hommus",
+      "pack_size": "65g"
+    },
+    {
+      "product_name": "Oak Chocolate Flavoured Milk",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Giorgio's Artisan Cheese Gourmet Mozzarella",
+      "pack_size": "275g"
+    },
+    {
+      "product_name": "Coles Kitchen Chipotle Cheese Guacamole & Corn Chips",
+      "pack_size": "55g"
+    },
+    {
+      "product_name": "Yumis Snacking Roasted Garlic Hommus 3 Pack",
+      "pack_size": "195g"
+    },
+    {
+      "product_name": "Bun Boy BBQ Pork Buns",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Yumis Snack Pack Gucamole Dip & Crackers",
+      "pack_size": "65g"
+    },
+    {
+      "product_name": "Hans Striker Mild Salami Sticks",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Maggie Beer Truffle Triple Cream Brie",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "The Yoghurt Shop Yoghurt Ancient Superfoods",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Original Juice Co. Black Label Limited Edition Juice",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Tahini Neri Spicy Tahini Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Emma & Tom's Juice Drink Green Power",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Pace Farm Cage Free Eggs 12 Pack",
+      "pack_size": "800g"
+    },
+    {
+      "product_name": "Cocobella Coconut Water Chocolate",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Coles Kitchen Chicken & Ancient Grain Soup",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "Sandhurst Farms Brie",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Mildura Apple And Guava Fruit Drink",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Nudie Nothing But Kids Apple & Strawberry",
+      "pack_size": "200mL"
+    },
+    {
+      "product_name": "Yoplait Yoghurt Natural",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Youfoodz Banana Mango Smoothie",
+      "pack_size": "350mL"
+    }
+  ]
+}

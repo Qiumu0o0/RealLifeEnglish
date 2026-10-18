@@ -1,0 +1,206 @@
+{
+  "category": "international-foods",
+  "page": 22,
+  "source_url": "https://www.coles.com.au/browse/pantry/international-foods?page=22",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,009 - 1,056 of 1,592 results",
+  "reported_total": 1592,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Finn Crisp Original",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Passage To India Extra Spicy Butter Chicken Simmer Sauce",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Lotte Koala's March Chocolate Biscuits",
+      "pack_size": "195g"
+    },
+    {
+      "product_name": "Lyles Golden Syrup",
+      "pack_size": "454g"
+    },
+    {
+      "product_name": "Coles Black Bean And Corn Salsa",
+      "pack_size": "439g"
+    },
+    {
+      "product_name": "Kedem Kids Animal Cookies",
+      "pack_size": "340g"
+    },
+    {
+      "product_name": "Daisho Ippudo Tonkotsu Hot Pot Soup",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Royal Fields Great Northern Beans",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Mr Chen's Vietnamese Pho Meal Kit",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Al ameed Turkish Coffee With Cardamom Medium",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Protea Foods Lekker Traditional Biltong Slices",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Samyang Buldak Spicy Ramen 2xspicy 5 Pack",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Osem Bissli Family Pack BBQ",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Regent Sweet Corn",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Ching's Schezwan Instant Noodles",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Kras Hazelnut Nougat Wafers",
+      "pack_size": "93g"
+    },
+    {
+      "product_name": "Kras Chocolate Cream Wafers",
+      "pack_size": "93g"
+    },
+    {
+      "product_name": "Maharajah's Choice Poha Rice Flakes",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Maharajah's Choice Himalayan Salt Chips",
+      "pack_size": "52g"
+    },
+    {
+      "product_name": "MTR Instant Khatta Meetha Poha",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Drava Liver Paste",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "S&B Curry Sauce With Vegetable Mild",
+      "pack_size": "210g"
+    },
+    {
+      "product_name": "Lee Kum Kee New Orleans Style Bbq Sauce",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Pattu Chilli Whole Stemless",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Tayas Coffee Intense Lollies",
+      "pack_size": "270g"
+    },
+    {
+      "product_name": "MTR Instant Dosa Mix",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Pattu Fenugreek Seeds",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Patak's Korma Paste",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "M.Y.San Skyflakes Condensada",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Gefen Chunk Light Tuna In Water",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Yopokki Sweet & Spicy Rapokki",
+      "pack_size": "145g"
+    },
+    {
+      "product_name": "Lee Kum Kee Panda Gluten Free Oyster Sauce",
+      "pack_size": "255g"
+    },
+    {
+      "product_name": "Maharajah's Choice Coloured Saffron Powder",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Maharajah's Choice Turmeric Powder",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Kissan Mixed Fruit Jam",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Penotti Cookie Spread Original",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Rowntress Fruit Pastilles Pouch",
+      "pack_size": "143g"
+    },
+    {
+      "product_name": "Orion Turtle Chips Sweet Corn Flavour",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Seyran Sunflower Seeds",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Street Market Tortilla Meal Kit BBQ",
+      "pack_size": "255g"
+    },
+    {
+      "product_name": "Wagh Bakri Masala Chai Tea",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Lee Kum Kee Sauce Shrimp Fine",
+      "pack_size": "227g"
+    },
+    {
+      "product_name": "Karachi Premium Cashew Biscuits",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Heinz Tangy Crunchy Sandwich Spread",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Nin Jiom Honey Extract",
+      "pack_size": "150mL"
+    },
+    {
+      "product_name": "Idhayam Gingelly Oil",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Kedem Juice Grape Concord",
+      "pack_size": "946mL"
+    },
+    {
+      "product_name": "Achdut Tahini With Sesame Seeds",
+      "pack_size": "500g"
+    }
+  ]
+}

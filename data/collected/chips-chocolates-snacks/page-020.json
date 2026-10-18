@@ -1,0 +1,206 @@
+{
+  "category": "chips-chocolates-snacks",
+  "page": 20,
+  "source_url": "https://www.coles.com.au/browse/chips-chocolates-snacks?page=20",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "913 - 960 of 1,673 results",
+  "reported_total": 1673,
+  "reported_pages": 35,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Jumpys S & V 5 Pack",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Cadbury Milk Chocolate Coated Hazelnuts",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Carman's Multigrain Muesli Bars Milk Choc Strawberry 5 Pack",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Mentos Pure Fresh Spearmint Chewing Gum",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Oreo Double Stuff Pascall Marshmallows Cookies",
+      "pack_size": "136g"
+    },
+    {
+      "product_name": "Noshu Low Carb Choc Mint Indulgence Bars",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Eclipse Spearmint Chewy Mints Tin",
+      "pack_size": "27g"
+    },
+    {
+      "product_name": "Arnott's Snackright Multipack Crispy Crackers Soy Chicken",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Carman's Protein Brownie Choc Nut Fudge 5 Pack",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "M&M's Minis Milk Chocolate Snack & Share Bag",
+      "pack_size": "335g"
+    },
+    {
+      "product_name": "Smith's Crackers BBQ",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Coles Milk Chocolate Digestive Biscuits",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Simply Muesli Bar Choc Chip 8 Pack",
+      "pack_size": "248g"
+    },
+    {
+      "product_name": "Twix Salted Caramel Milk Chocolate Bar",
+      "pack_size": "46g"
+    },
+    {
+      "product_name": "Darrell Lea Rocklea Road Block Chocolate",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Coles Macadamias",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Extra Intense Mint Sugar Free Chewing Gum",
+      "pack_size": "64g"
+    },
+    {
+      "product_name": "Cadbury Milk Chocolate Coated Sultanas",
+      "pack_size": "285g"
+    },
+    {
+      "product_name": "Mayver's Low Carb High Protein Caramelised Biscuit Bars",
+      "pack_size": "128g"
+    },
+    {
+      "product_name": "Table Of Plenty Family Topped Mini Rice Cakes Chocolate",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Life Savers Raspberry Stix",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Coles Simply Salted Mixed Nuts",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Olina's Bakehouse Gluten Free Seeded Crackers Original",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Arnott's Monte Chocolate Biscuits",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Arnott's Gluten Free Shapes Biscuits Chicken Crimpy",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "Allen's Red Ripperz Bag",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Noshu Protein+ Bars Variety 12 Pack",
+      "pack_size": "432g"
+    },
+    {
+      "product_name": "Poppin Popcorn M&M Flavour",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "Coles Natural Almonds",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Cobs Microwave Popcorn Butter",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Arnott's Shapes Light & Crispy Cheddar Cheese Cracker Biscuits",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Extra White Peppermint Sugar Free Chewing Gum 4x14g",
+      "pack_size": "56g"
+    },
+    {
+      "product_name": "Bhuja Nut Mix",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "True Fruit Strips Tropicana",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Cadbury Dairy Milk Top Deck Large Chocolate Block",
+      "pack_size": "340g"
+    },
+    {
+      "product_name": "Nestle Crunch",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "Master Crackles Oven Baked Pork Crackle Sea Salt",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Trolli Strawberry Clouds",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Mcvitie's Original Hobnobs",
+      "pack_size": "255g"
+    },
+    {
+      "product_name": "The Natural Confectionery Co Raspberry & Bananas",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Nice & Natural Protein Nut Bars Dark Choc & Cacao 5 Pack",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Maltesers Milk Chocolate Snack Party Bag",
+      "pack_size": "280g"
+    },
+    {
+      "product_name": "Whittaker's Block Chocolate Dark Almond 62%",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Ritz Cracked Pepper Crackers",
+      "pack_size": "227g"
+    },
+    {
+      "product_name": "Skittles Fruits Chewy Lollies Party Share Bag",
+      "pack_size": "380g"
+    },
+    {
+      "product_name": "The Natural Confectionery Co. Snakes Lollies Party Size",
+      "pack_size": "1.1 kg"
+    },
+    {
+      "product_name": "Arnott's Shapes Light & Crispy Honey Soy Chicken Cracker Biscuits",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Arnott's Value Cookies Butter Shortbread",
+      "pack_size": "400g"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "category": "pet",
+  "page": 17,
+  "source_url": "https://www.coles.com.au/browse/pet?sortBy=recommendedDescending&page=17",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "769 - 795 of 795 results",
+  "reported_total": 795,
+  "reported_pages": 17,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Optimum Adult Dog Food With Real Kangaroo & Vegetables",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Totalcare Brush Flexi Brush & Shine",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Coles Dog Collar With Steel O Ring & Safety Clip Large",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Bow Wow Pals Squeaker Toy Hamburger & Hot Dog",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Bow Wow Vinyl Squeaker Dumbbell",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Coles Dog Collar With Steel O Ring & Safety Clip Small",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Coles Cat Collar Reflective Medium",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Lux & Bones Rope Tug Dog Toy",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Coles Cat And Dog Double Bowl",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Bonkers Cat Treats Chicken 4 Pack",
+      "pack_size": "48g"
+    },
+    {
+      "product_name": "Nerf Dog 18in Led Air Strike Charging Glow Ball With Try Me Function 2 X AAA Batteries",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Coles Adjustable Dog Collar Medium",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Nerf Dog 5in Giggle Ball Blue/ Green/ Orange",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Outward Hound Sssupreme Snake Mat Dog Toy",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Outward Hound Tough Seamz Gorilla Plush Dog Toy",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Total Care Toy Crinkler Plush",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Rufus & Coco Ear & Wound Care",
+      "pack_size": "150mL"
+    },
+    {
+      "product_name": "Totalcare Shampoo Flea Control",
+      "pack_size": "350 mL"
+    },
+    {
+      "product_name": "Lux & Bones Interchangeable Cat Toy With Extendable 1m Pole",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Nerf 2.5inch Solid Foam Sonic Ball Dog Toy",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "The Natural Paw Company Tofu Cat Litter",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Lux & Bones Printed Leather Cat Collar With Bell",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Lux And Bones Arthouse Collection Printed Bamboo Cat Bowl",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "My Dog Shredded Meals Chicken Dog Food 6x100g",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Fancy Feast Gravy Lovers Chicken Feast Cat Food 6x85g",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Fancy Feast Gravy Lovers Ocean Whitefish & Tuna Cat Food 6x85g",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Lux & Bones Collapsible Bowl",
+      "pack_size": "1 Pack"
+    }
+  ]
+}

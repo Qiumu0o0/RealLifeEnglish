@@ -1,0 +1,206 @@
+{
+  "category": "deli",
+  "page": 8,
+  "source_url": "https://www.coles.com.au/browse/deli?page=8",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "337 - 384 of 470 results",
+  "reported_total": 470,
+  "reported_pages": 10,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "OB Finest Cranberry & Fig Crackers",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Unicorn Classic Brie Chilli",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "The Deli Sliced Devon",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Castello Danish Blue Extra Creamy",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "The Deli Skinless Franks",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Tasmanian Heritage Trilogy Summer Herbs Vintage Cheddar & Sundried Tomato",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "I&J Scallops Roe Off",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "OB Finest Specialty Crackers Date & Almond Gluten Free",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Gourmet Saba Premium Pasta Egg Fettucine",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Giorgio Artisan Cheese Baby Burrata",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Giorgio's Artisan Cheese Buffalo Mozzarella",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "That's Amore Cheese Grated Parmesan",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Tarago Shadows Of Blue",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "OB Finest Fig & Almond Crackers",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "The Deli Lunch Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "That's Amore Fior Di Latte Cheese",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Mersey Valley Club Green Peppercorn Cheese",
+      "pack_size": "235g"
+    },
+    {
+      "product_name": "Fine Foods Sesame Wafer Crackers",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Ricci's Bikkies Pita Crisp Olive Oil & Sea Salt",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "GS Sicilian Olives",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "The Deli Middle Bacon",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Fine Foods Cracked Pepper Wafer Crackers",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Tasmanian Heritage Club Cheddar Vintage",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Giorgio's Artisan Cheese Baby Bocconcini",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Coles Baby Bell Peppers Cream Cheese",
+      "pack_size": "280g"
+    },
+    {
+      "product_name": "Primo Saveloys",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Delre Pecorino Pepato",
+      "pack_size": "approx. 250g"
+    },
+    {
+      "product_name": "OB Finest Cashew & Rosemary Crackers",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "OB Finest Apricot & Macadamia Crackers",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Maggie Beer Cheddar Caramelised Onion",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Coles Deli Stuffed Green Olives In Garlic & Chilli",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Giorgio's Artisan Cheese Burrata",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "OB Finest Parmesan Crisps With Black Sesame",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "KB's Natural Squid Rings",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "The Deli Thin Frankfurts",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "180 Degrees Toasted Apricot & Pistachio Crackers",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Unicorn Classic Double Brie",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Castello Cheese Mild Blue",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Brownes Dairy Matured Cheddar Cheese",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Udder Delights Double Cream Brie",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Finest Grana Padano Dop",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Yarra Valley Cheese Persian Fetta Dill & Chive",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Zanetti Parmigiano Reggiano",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Fromager D' Affinois Cut & Wrap Bleu",
+      "pack_size": "approx. 160g"
+    },
+    {
+      "product_name": "OB Finest Fig & Pecan Crackers",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "180 Degrees Parmesan Oat Crackers",
+      "pack_size": "135g"
+    },
+    {
+      "product_name": "Casalingo Salami Calabrese Sliced",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Unicorn Selections Ash Brie",
+      "pack_size": "125g"
+    }
+  ]
+}

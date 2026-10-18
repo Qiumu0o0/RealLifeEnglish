@@ -1,0 +1,206 @@
+{
+  "category": "bakery",
+  "page": 6,
+  "source_url": "https://www.coles.com.au/browse/bakery?page=6",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "241 - 288 of 554 results",
+  "reported_total": 554,
+  "reported_pages": 12,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Bfree Low Carb High Protein Wraps",
+      "pack_size": "210g"
+    },
+    {
+      "product_name": "Coles Jumbo Hot Dog Rolls",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Coles Hedgehog Slices",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Coles Caramel Slice",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Noshu 95% Sugar Free Iced Carrot Cakes",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Noshu 95% Sugar Free Fudgy Peanut Brownies",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Coles Bakery Indulgent 40% Choc Chip Variety",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Coles Stone Baked By Laurent Mini White Pane Di Casa",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Lemon Slice",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Tip Top Super Thick Toast Soft White Bread",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Coles 85% Lower Carb High Protein Loaf",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Simson's Pantry Low Carb Keto 5 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Brioche Loaf Sliced",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Bakery Coconut Drops",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Coles Mini Mixed Danish Selection",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Coles Multigrain Rolls",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Scones Buttermilk",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Simsons Pantry High Protein Low Carb Wholemeal Wrap 5 Pack",
+      "pack_size": "210g"
+    },
+    {
+      "product_name": "Toscano Mini Pizza Base 4 Pack",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "Coles Bakery Apricot Crown",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Wonder Mini Loaf Wholemeal",
+      "pack_size": "320g"
+    },
+    {
+      "product_name": "Coles Soft Round Rolls",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Coles Wholemeal Sandwich Loaf",
+      "pack_size": "800g"
+    },
+    {
+      "product_name": "Toscano Crepes Chocolate",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Coles 50% Lower Carb White Sandwhich",
+      "pack_size": "680g"
+    },
+    {
+      "product_name": "Coles Country Loaf Wholemeal",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "La Fournee Doree Sliced Brioche Loaf Plain",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Bakery Stonebaked Sourdough Baguette",
+      "pack_size": "320g"
+    },
+    {
+      "product_name": "Coles Cupcakes Red Velvet 4 Pack",
+      "pack_size": "288g"
+    },
+    {
+      "product_name": "Mission Salt Reduced Wraps 8 Pack",
+      "pack_size": "567g"
+    },
+    {
+      "product_name": "Coles Sesame Hot Dog Rolls",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Coles Mini Pizza Bases",
+      "pack_size": "280g"
+    },
+    {
+      "product_name": "Buttercup Country Split Bread Wholemeal",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Liberate Gluten Free Crumpet",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Coles Bakery Mini Blueberry Crown",
+      "pack_size": "5 Pack"
+    },
+    {
+      "product_name": "Coles Bakery Traditional Cream Filled Dusted Sponge",
+      "pack_size": "380g"
+    },
+    {
+      "product_name": "Coles Hot Dog Rolls",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Abbott's Bakery Sourdough White English Muffins",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Sesame French Stick",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Cadbury Raspberry Mini Rolls Cakes 5 Pack",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Golden Pancakes 6 Pack",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "Coles Stone Baked By Laurent Mini Sub Rolls",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Helga's Spinach & Garden Herb Wraps 7 Pack",
+      "pack_size": "445g"
+    },
+    {
+      "product_name": "Coles Lemon Cheesecake Slices 2 Pack",
+      "pack_size": "220g"
+    },
+    {
+      "product_name": "Abe's Bagels Thins Natural",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Toscano Everything Brioche Burger Bun",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Coles Bakery Custard Tarts",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Coles Vanilla Mini Cupcakes 9 Pack",
+      "pack_size": "216g"
+    }
+  ]
+}

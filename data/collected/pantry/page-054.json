@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 54,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=54",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "2,545 - 2,592 of 6,126 results",
+  "reported_total": 6126,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Coles Wellness Road Organic Cacao Powder",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Campbell's Bone Broth Free Range Chicken",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Noshu Mango & Cream Protein Bars",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "McKenzie's Split Red Lentils",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Tandaco Yeast",
+      "pack_size": "84g"
+    },
+    {
+      "product_name": "Musashi Protein Crisp Choc Brownie",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Massel 7 Bouillon Cubes Beef Style",
+      "pack_size": "35g"
+    },
+    {
+      "product_name": "Capilano 100% Australian Organic Raw Honey",
+      "pack_size": "340g"
+    },
+    {
+      "product_name": "Always Fresh Stuffed Olives Pimento",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Coles Apple Slices In Juice",
+      "pack_size": "410g"
+    },
+    {
+      "product_name": "Vege Chips Rice Crackers Tasty Cheese Flavour",
+      "pack_size": "75g"
+    },
+    {
+      "product_name": "Red Tractor Protein Low Sugar Granola Choc Almond",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Colomba Anchovy Fillets",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "CSR Premium White Sugar Sticks",
+      "pack_size": "50 Pack"
+    },
+    {
+      "product_name": "Edgell Super Sweet Corn Kernels 4 Pack",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Caffe Aurora Italian Blend Beans Coffee",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Roll'd Chicken & Beef Pho Broth",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "McKenzie's Bicarbonate Soda",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Uncle Tobys Oats Quick Sachets Creamy Vanilla",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Coles Diced Pears In Syrup 4 Pack",
+      "pack_size": "480g"
+    },
+    {
+      "product_name": "Coles Cashew Peanut & Honey Clusters",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Vittoria Coffee Ground Special Italian Blend",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Robert Timms Decaffeinated Coffee Bags 105g",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Musashi 100% Whey Protein Powder Chocolate Milkshake",
+      "pack_size": "900g"
+    },
+    {
+      "product_name": "Dr Pepper Soft Drink Can",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Ayam Massaman Curry Paste",
+      "pack_size": "195g"
+    },
+    {
+      "product_name": "Cottee's Thick 'n' Rich Chocolate Flavoured Topping",
+      "pack_size": "615g"
+    },
+    {
+      "product_name": "Crisco Canola Oil",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Nescafe Cappuccino Sachets",
+      "pack_size": "90 Pack"
+    },
+    {
+      "product_name": "Sacla Cherry Tomato Parmigiano Reggiano Pasta Sauce",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Saxa Ground Black Pepper",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Best Foods Real Mayonnaise Jar",
+      "pack_size": "1.29Kg"
+    },
+    {
+      "product_name": "Gold Medal Pork Krackles Snacks",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Bega Peanut Butter Smooth",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Kalamata Olives Pitted",
+      "pack_size": "1.4kg"
+    },
+    {
+      "product_name": "French's Classic Yellow Mustard",
+      "pack_size": "226g"
+    },
+    {
+      "product_name": "Beerenberg Tomato Chutney",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Jarrah Salted Caramel Latte Instant Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "BSc High Protein Low Carb Bar Cookies & Cream 5 Bar Value Pack 5x60g",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Heinz Baked Beans No Added Sugar 3 Pack",
+      "pack_size": "220g"
+    },
+    {
+      "product_name": "Harvest Snaps Pea Salt & Vinegar",
+      "pack_size": "230g"
+    },
+    {
+      "product_name": "Cottees Breakfast Marmalade Jam",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Taylors Of Harrogate Yorkshire Tea Proper Strong",
+      "pack_size": "100 Pack"
+    },
+    {
+      "product_name": "Coles Yellowfin Tuna Chunks In Oil",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Coles Jalapeno Slices",
+      "pack_size": "205g"
+    },
+    {
+      "product_name": "Edgell Corn Kernels No Added Salt",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Angas Park Australian Pitted Prunes",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Jensens Organic Garlic",
+      "pack_size": "220g"
+    }
+  ]
+}

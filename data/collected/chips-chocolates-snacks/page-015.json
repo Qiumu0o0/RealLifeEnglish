@@ -1,0 +1,206 @@
+{
+  "category": "chips-chocolates-snacks",
+  "page": 15,
+  "source_url": "https://www.coles.com.au/browse/chips-chocolates-snacks?page=15",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "673 - 720 of 1,675 results",
+  "reported_total": 1675,
+  "reported_pages": 35,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Violet Crumble Chocolate Bar",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Extra Peppermint Sugar Free Chewing Gum",
+      "pack_size": "27g"
+    },
+    {
+      "product_name": "Cobs Popcorn Variety Multipack Lunchbox Snacks 16 Pack",
+      "pack_size": "205g"
+    },
+    {
+      "product_name": "X-Treme Candy Sour Straps Strawberry",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Lindt Excellence 85% Cocoa Dark Chocolate Block",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Coles Almond Meal",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Deli Style Potato Chips Sea Salt",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Extra White Bubblemint Sugar Free Chewing Gum Bottle",
+      "pack_size": "64g"
+    },
+    {
+      "product_name": "The Natural Confectionery Co. Party Mix Lollies Value Share Bag",
+      "pack_size": "430g"
+    },
+    {
+      "product_name": "Nutella Biscuits",
+      "pack_size": "193g"
+    },
+    {
+      "product_name": "Coles Pistachios",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Cadbury Dairy Milk Chocolate Roll Pack",
+      "pack_size": "55g"
+    },
+    {
+      "product_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Darrell Lea Milk Chocolate Liquorice Bullets",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Milkybar White Choc Block",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "KitKat Chunky Aero Mint Milk Chocolate Bar",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Peckish Rice Crackers Chicken",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Uncle Tobys Le Snak Cheese Dip And Crackers French Onion Kids Lunchbox",
+      "pack_size": "132g"
+    },
+    {
+      "product_name": "McVities Multipack Mini Biscuits Digestives Plain",
+      "pack_size": "390g"
+    },
+    {
+      "product_name": "Nice & Natural Nut Bars Honeycomb With Milk Choc Multipack Snacks 6 Pack",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Lindt Excellence 70% Smooth Dark Chocolate Block",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Heritage Mill High Protein Bars Dark Choc Almond",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Poppin Butter Microwave Popcorn",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Cadbury Favourites Marvellous Creations Chocolate Gift Box",
+      "pack_size": "264g"
+    },
+    {
+      "product_name": "Monetta Wafers Chocolate",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Bhuja Beer Mix",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Coles Chocolate Biscuits Whirlz Honeycomb",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "The Natural Confectionery Co. 50% Less Sugar Snakes Lollies",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Nice & Natural Roasted Chocolate Apricot 6 Pack",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Coles Chocolate Cream Biscuit",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Arnott's Plain Biscuits Milk Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Cadbury Freddo Milk Chocolate Coated Biscuits",
+      "pack_size": "167g"
+    },
+    {
+      "product_name": "Nice & Natural Nut Bars Salted Caramel With Dark Choc Multipack Snacks 6 Pack",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Cobs Popcorn Bars Sweet Salty Almond 5 Pack",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Red Rock Deli Potato Chips Sweet Chilli & Sour Cream",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Darrell Lea White Chocolate Raspberry Bullets",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Allen's Lollies Large Value Bag Killer Pythons",
+      "pack_size": "454g"
+    },
+    {
+      "product_name": "Jack Link's Original Beef Jerky",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Coles Jam Fancy Biscuits",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "The Natural Confectionery Co. Juicy Bursts Strawberry & Raspberry Lollies",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Harvest Snaps Pea Salt & Vinegar",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Di Leo I Savoiardi Biscuits",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Infuzions Air Fries Aioli",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Arnott's Shapes Light & Crispy Sour Cream & Chives Cracker Biscuits",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Bob Snail Fruit Roll Tropical Fruit",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Ferrero Collection Rocher Raffaello Rondnoir Chocolate Gift Box 24 Pack",
+      "pack_size": "269g"
+    },
+    {
+      "product_name": "Popbox Mega Butter Flavour Microwave Popcorn Gluten & Dairy Free Snack",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Cheetos Puffs Cheese Snacks Party Bag Cheese",
+      "pack_size": "165g"
+    }
+  ]
+}

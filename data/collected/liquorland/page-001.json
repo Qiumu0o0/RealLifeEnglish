@@ -1,0 +1,226 @@
+{
+  "category": "liquorland",
+  "page": 1,
+  "source_url": "https://www.coles.com.au/browse/liquorland",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1 - 48 of 2,310 results",
+  "reported_total": 2310,
+  "reported_pages": 49,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Great Northern Zero Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Grey Goose Vodka 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "1800 Anejo Tequila 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Carlton Dry Bottle 330ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Jack Daniels Tennessee Whiskey 1 Litre",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jack Daniels Bonded Tennessee Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "St Germain Elderflower Liqueur 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "1800 Coconut Tequila Liqueur 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "1800 Silver Tequila 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Peroni Nastro Azzurro 0.0% 6x330ml",
+      "pack_size": "1.98L"
+    },
+    {
+      "product_name": "Glenmorangie 12yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Heineken Bottle 330ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Talisker 10yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Dalwhinnie 15yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jim Beam Black Extra-aged Kentucky Straight Bourbon 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Kurayoshi The San-in Blended Japanese Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Glenfiddich 12yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hardys Brave New World Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hardys Brave New World Shiraz Black 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Wildly Organic Sparkling Nv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Carlton Dry Mid 3.5% Bottle 330ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Victoria Bitter Can 375ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Chandon Nv Sparkling Brut 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Wahu New Zealand Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mt Yengo Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Taylors One Giant Leap Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Chivas Regal 12yo Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Dimple 12yo Blended Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Ned Marlborough Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Monkey Shoulder Blended Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Great Northern Super Crisp Lager Block Can 375ml",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Belvedere Pure Vodka 1l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "McGuigan Black Label Red Blend 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hennessy VS Cognac 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Tanqueray Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Ned Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bisquit & Dubouche Vsop Cognac 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Singleton 12yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Laphroaig Select Cask Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Canard Duchene Brut Nv Champagne Gift Box 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Manly Spirits Australian Dry Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jim Beam White Bourbon 1 Litre",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Sisters Run Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Kirin Hyoketsu Lemon Can 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Glenfiddich 15yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Macallan 12yo Double Cask Single Malt Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jack Daniels Gentleman Jack Tennessee Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Ned Pinot Gris 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Glenkinchie 12yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Johnnie Walker Double Black Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Roku Japanese Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Veuve Clicquot Yellow Label Brut Nv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Buffalo Trace Kentucky Straight Bourbon Whiskey 700ml",
+      "pack_size": "1 Each"
+    }
+  ]
+}

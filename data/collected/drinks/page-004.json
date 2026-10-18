@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 4,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=4",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "145 - 192 of 1,599 results",
+  "reported_total": 1599,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "V Energy Drink 4x500ml",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "V Energy Drink Original 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Nudie Nothing But Juice Apple",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Vitasoy Almond Milky",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Twinings English Breakfast Extra Strong Tea Bags 80 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Powerade Ion4 Gold Rush Sports Drink Sipper Cap",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Schweppes Traditional Zero Sugar Pink Lemondade Soft Drink Bottle",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Gatorade G Active Sports Drinks Berry Water Electrolytes & Vitamins",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Sanitarium So Good High Protein Almond Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Milo Chocolate Malt Powder Hot Or Cold Drink",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coca-Cola Zero Sugar Vanilla Soft Drink Multipack Cans 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Diet Rite Apple Raspberry Cordial",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Schweppes Zero Sugar Blood Orange Infused Mineral Water Cans Multipack 10x375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Pureharvest Organic Soy Unsweetened Long Life Milk Uht",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Schweppes Traditional Zero Sugar Raspberry Soft Drink Bottle",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Golden Circle Tetra Drink Apple Blackcurrant 6 Pack",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Vitasoy Soy Milky Uht Lite",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Nescafe Caramel Latte Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Coca-Cola Diet Soft Drink Multipack Mini Cans 250ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Nescafe Vanilla Latte Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Orange Ice",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Avalanche 99% Sugarfree Drinking Sachets Chocolate",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Coles Lightly Sparkling Spring Water 12x500ml",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Coles Classic Granulated Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Soft Drink Lemon",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Golden Circle Mango Nectar",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Remedy Sodaly Passionfruit 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Coles No Sugar Soft Drink Pineapple",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Lemon & Lime",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Sprite Lemonade Natural Flavour 10x375ml",
+      "pack_size": "3.75L"
+    },
+    {
+      "product_name": "Diet Rite Apple Blackcurrant Cordial",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Golden Circle Tetra Drink Orange 6 Pack",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Rokeby Protein Smoothie Banana Honey Cinnamon",
+      "pack_size": "425mL"
+    },
+    {
+      "product_name": "Red Bull Energy Drink Sugar Free 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Pop Tops Apple Drink",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Australias Own Chocolate Kids Milk 6x200ml",
+      "pack_size": "1.2L"
+    },
+    {
+      "product_name": "Liddells Lactose Free Full Cream Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Devondale Sparkling Juice Apple",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Rokeby Protein Smoothie Vanilla Wafer",
+      "pack_size": "425mL"
+    },
+    {
+      "product_name": "Solo Zero Sugar Lime Soft Drink",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Twinings Lemon & Ginger Infusions Tea Bags 80 Pack",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Mount Franklin Lightly Sparkling Water Passionfruit Multipack Cans 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Kirks Pasito Zero Sugar Soft Drink Multipack Cans 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Red Bull Energy Drink Original Cans 8x250ml",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Schweppes Agrum Blood Orange Soft Drink Bottle",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Diet Rite Fruit Cocktail Cordial",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Pureau Pure Water 600ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Remedy Sodaly Pineapple 4x250ml",
+      "pack_size": "1L"
+    }
+  ]
+}

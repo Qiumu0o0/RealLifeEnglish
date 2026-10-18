@@ -1,0 +1,42 @@
+{
+  "category": "cleaning-laundry",
+  "page": 32,
+  "source_url": "https://www.coles.com.au/browse/cleaning-laundry?page=32",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,489 - 1,495 of 1,495 results",
+  "reported_total": 1495,
+  "reported_pages": 32,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Smash Leakproof Fruity Mover 400ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Smash Leakproof Snack Box",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Decor Square Lunch Box 2.2l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Decor Rectangle Lunch Box 2.4l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Smash Stainless Steel Epic Tumbler 860ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Snazzee Drink Bottle",
+      "pack_size": "520mL"
+    },
+    {
+      "product_name": "Smash Double Wall Magnet Bottle",
+      "pack_size": "1L"
+    }
+  ]
+}

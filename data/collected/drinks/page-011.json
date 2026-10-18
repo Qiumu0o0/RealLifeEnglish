@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 11,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=11",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "481 - 528 of 1,587 results",
+  "reported_total": 1587,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Starbucks Italian Roast Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Twining's Peppermint & Spearmint Infusions Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Pepsi Max No Sugar Cola Soft Drink Bottle",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Tropical Fruit",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Golden Circle Cordial Lemon",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Gatorade Sport Drink Glacefreeze No Sugar",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Twinings Pure Green Tea Bags 100 Pack",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Schweppes Soda Water Bottle Classic Mixers Glass Multipack 300ml x 4 Pack",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Green Apple With Electrolytes",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Schweppes Lemonade Soft Drink Bottle Glass Multipack 300ml x 4 Pack",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Dilmah Single Origin Ceylon Tea Sunset In Paradise",
+      "pack_size": "40 Pack"
+    },
+    {
+      "product_name": "Ocean Spray Drink Cranberry Pineapple Low Sugar",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Golden Circle 100% Tomato Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Vitasoy Soy Milky Uht Regular",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Classic Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Mountain Grown Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Coca-Cola Diet Soft Drink Bottle",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Italian Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Schweppes Bitter Lemon Soft Drink Classic Mixers Multipack 300ml x 4 Pack",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Golden Circle Cordial Zero Sugar Lime",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Sodastream Classic Orange & Mango Flavour",
+      "pack_size": "440mL"
+    },
+    {
+      "product_name": "Golden Circle Cordial Zero Sugar Raspberry",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Twinings Australian Afternoon Tea Bags 10 Pack",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "Nippy's Iced Chocolate Flavoured Milk 4x350ml",
+      "pack_size": "1.4L"
+    },
+    {
+      "product_name": "H2coco Pure Coconut Water",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Twining's Green Tea And Lemon Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Milklab Oat Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Golden Circle 100% Apple Mango Banana Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Golden Circle 100% Apple Blackcurrant Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Instant Decaf",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Vittoria Nespresso Compatible Capsules Variety Pack",
+      "pack_size": "40 Pack"
+    },
+    {
+      "product_name": "Grinders Cafe - Q Darkoko Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Sunkist Orange Soft Drink Mini Cans",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Nescafe Blend 43 Instant Coffee",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Sunraysia Pomegranate Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Golden Circle Cordial Zero Sugar Fruit Cup",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Golden Circle 100% Apple Juice No Added Sugar Fruit Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Golden Circle 100% Juice Tropical",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Dilmah Single Origin Ceylon Tea Paradise Breakfast",
+      "pack_size": "40 Pack"
+    },
+    {
+      "product_name": "Golden Circle 100% Juice Orange",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Cadbury Instant Hot Chocolate 150g",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Lavazza Qualita Oro Ground Coffee",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Daley Street Dark Aluminium Nespresso Compatible Coffee Capsules",
+      "pack_size": "10 pack"
+    },
+    {
+      "product_name": "Ocean Spray Drink Low Sugar Cranberry",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Nescafe Blend 43 Coffee Espresso",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Grinders Cafe - Q Cremello Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Fever-Tree Sicilian Lemon Soda 4x250ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Fever-Tree Pink Grapefruit Soda 4x250ml",
+      "pack_size": "1L"
+    }
+  ]
+}

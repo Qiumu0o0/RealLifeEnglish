@@ -1,0 +1,434 @@
+[
+  {
+    "category": "fruit-vegetables",
+    "term": "Bok Choy"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Pak Choy"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Snow Peas"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Bay Leaves"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Enoki Mushrooms"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Pecans"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Hazelnuts"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Pine Nuts"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Prunes"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Raisins"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Dried Figs"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Cherries"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Peaches"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Nectarines"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Plums"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Lychees"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Figs"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Tulips"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Lilies"
+  },
+  {
+    "category": "fruit-vegetables",
+    "term": "Sunflowers"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Pork Chops"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Sirloin"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Corned Beef"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Barramundi"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Snapper"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Scallops"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Oysters"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Squid"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Calamari"
+  },
+  {
+    "category": "meat-seafood",
+    "term": "Lobster"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "term": "Goat Milk"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "term": "Whipping Cream"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "term": "Greek Yoghurt"
+  },
+  {
+    "category": "bakery",
+    "term": "Focaccia"
+  },
+  {
+    "category": "bakery",
+    "term": "Doughnuts"
+  },
+  {
+    "category": "bakery",
+    "term": "Naan"
+  },
+  {
+    "category": "bakery",
+    "term": "Tortillas"
+  },
+  {
+    "category": "bakery",
+    "term": "Hot Cross Buns"
+  },
+  {
+    "category": "bakery",
+    "term": "Garlic Bread"
+  },
+  {
+    "category": "bakery",
+    "term": "Sausage Rolls"
+  },
+  {
+    "category": "bakery",
+    "term": "Meat Pies"
+  },
+  {
+    "category": "deli",
+    "term": "Anchovies"
+  },
+  {
+    "category": "deli",
+    "term": "Smoked Salmon"
+  },
+  {
+    "category": "deli",
+    "term": "Chicken Schnitzel"
+  },
+  {
+    "category": "deli",
+    "term": "Falafel"
+  },
+  {
+    "category": "deli",
+    "term": "Antipasto"
+  },
+  {
+    "category": "pantry",
+    "term": "Pearl Barley"
+  },
+  {
+    "category": "pantry",
+    "term": "Star Anise"
+  },
+  {
+    "category": "pantry",
+    "term": "Coriander Seeds"
+  },
+  {
+    "category": "pantry",
+    "term": "Flaxseed"
+  },
+  {
+    "category": "international-foods",
+    "term": "Teriyaki Sauce"
+  },
+  {
+    "category": "international-foods",
+    "term": "Chapatti"
+  },
+  {
+    "category": "international-foods",
+    "term": "Refried Beans"
+  },
+  {
+    "category": "health-dietary",
+    "term": "Psyllium Husk"
+  },
+  {
+    "category": "health-dietary",
+    "term": "Nutritional Yeast"
+  },
+  {
+    "category": "health-dietary",
+    "term": "Kombucha"
+  },
+  {
+    "category": "health-dietary",
+    "term": "Coconut Water"
+  },
+  {
+    "category": "health-dietary",
+    "term": "Almond Butter"
+  },
+  {
+    "category": "health-dietary",
+    "term": "Chia Seeds"
+  },
+  {
+    "category": "health-dietary",
+    "term": "Hemp Seeds"
+  },
+  {
+    "category": "health-dietary",
+    "term": "Stevia"
+  },
+  {
+    "category": "drinks",
+    "term": "Milkshake"
+  },
+  {
+    "category": "drinks",
+    "term": "Chamomile"
+  },
+  {
+    "category": "liquorland",
+    "term": "Sparkling Wine"
+  },
+  {
+    "category": "cleaning-laundry",
+    "term": "Dishwasher Cleaner"
+  },
+  {
+    "category": "cleaning-laundry",
+    "term": "Fly Spray"
+  },
+  {
+    "category": "cleaning-laundry",
+    "term": "Moth Balls"
+  },
+  {
+    "category": "health-beauty",
+    "term": "Denture Adhesive"
+  },
+  {
+    "category": "health-beauty",
+    "term": "Eyeshadow"
+  },
+  {
+    "category": "health-beauty",
+    "term": "Lipstick"
+  },
+  {
+    "category": "health-beauty",
+    "term": "Cotton Buds"
+  },
+  {
+    "category": "health-beauty",
+    "term": "Cotton Pads"
+  },
+  {
+    "category": "health-beauty",
+    "term": "Bandages"
+  },
+  {
+    "category": "health-beauty",
+    "term": "Antacid"
+  },
+  {
+    "category": "baby",
+    "term": "Breast Pump"
+  },
+  {
+    "category": "baby",
+    "term": "Bottle Brush"
+  },
+  {
+    "category": "baby",
+    "term": "Nappy Cream"
+  },
+  {
+    "category": "baby",
+    "term": "Romper"
+  },
+  {
+    "category": "pet",
+    "term": "Rabbit Food"
+  },
+  {
+    "category": "pet",
+    "term": "Dog Lead"
+  },
+  {
+    "category": "pet",
+    "term": "Dog Harness"
+  },
+  {
+    "category": "pet",
+    "term": "Poop Bags"
+  },
+  {
+    "category": "pet",
+    "term": "Dog Shampoo"
+  },
+  {
+    "category": "home-garden",
+    "term": "Tablespoons"
+  },
+  {
+    "category": "home-garden",
+    "term": "Forks"
+  },
+  {
+    "category": "home-garden",
+    "term": "Peeler"
+  },
+  {
+    "category": "home-garden",
+    "term": "Grater"
+  },
+  {
+    "category": "home-garden",
+    "term": "Colander"
+  },
+  {
+    "category": "home-garden",
+    "term": "Whisk"
+  },
+  {
+    "category": "home-garden",
+    "term": "Measuring Cups"
+  },
+  {
+    "category": "home-garden",
+    "term": "Measuring Spoons"
+  },
+  {
+    "category": "home-garden",
+    "term": "Chopping Board"
+  },
+  {
+    "category": "home-garden",
+    "term": "Frying Pan"
+  },
+  {
+    "category": "home-garden",
+    "term": "Saucepan"
+  },
+  {
+    "category": "home-garden",
+    "term": "Baking Tray"
+  },
+  {
+    "category": "home-garden",
+    "term": "Roasting Pan"
+  },
+  {
+    "category": "home-garden",
+    "term": "Muffin Pan"
+  },
+  {
+    "category": "home-garden",
+    "term": "Cake Pan"
+  },
+  {
+    "category": "home-garden",
+    "term": "Lunch Box"
+  },
+  {
+    "category": "home-garden",
+    "term": "Extension Lead"
+  },
+  {
+    "category": "home-garden",
+    "term": "Power Board"
+  },
+  {
+    "category": "home-garden",
+    "term": "Broom"
+  },
+  {
+    "category": "home-garden",
+    "term": "Dustpan"
+  },
+  {
+    "category": "home-garden",
+    "term": "Clothes Pegs"
+  },
+  {
+    "category": "home-garden",
+    "term": "Clothes Hangers"
+  },
+  {
+    "category": "home-garden",
+    "term": "Envelopes"
+  },
+  {
+    "category": "home-garden",
+    "term": "Adhesive Tape"
+  },
+  {
+    "category": "home-garden",
+    "term": "Underwear"
+  }
+]

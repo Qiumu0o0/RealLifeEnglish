@@ -1,0 +1,586 @@
+[
+  {
+    "category": "fruit-vegetables",
+    "retained": "Potatoes",
+    "observed_forms": [
+      "potato",
+      "potatoes"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "retained": "Carrots",
+    "observed_forms": [
+      "carrots",
+      "carrot"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "retained": "Capsicum",
+    "observed_forms": [
+      "capsicum",
+      "capsicums"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "retained": "Brown Onions",
+    "observed_forms": [
+      "brown onions",
+      "brown onion"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "retained": "Leeks",
+    "observed_forms": [
+      "leeks",
+      "leek"
+    ]
+  },
+  {
+    "category": "fruit-vegetables",
+    "retained": "Walnut",
+    "observed_forms": [
+      "walnut",
+      "walnuts"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "retained": "Chicken Wings",
+    "observed_forms": [
+      "chicken wings",
+      "chicken wing"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "retained": "Sausages",
+    "observed_forms": [
+      "sausages",
+      "sausage"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "retained": "Burgers",
+    "observed_forms": [
+      "burger",
+      "burgers"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "retained": "Ribs",
+    "observed_forms": [
+      "ribs",
+      "rib"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "retained": "Prawns",
+    "observed_forms": [
+      "prawn",
+      "prawns"
+    ]
+  },
+  {
+    "category": "meat-seafood",
+    "retained": "Mussels",
+    "observed_forms": [
+      "mussels",
+      "mussel"
+    ]
+  },
+  {
+    "category": "bakery",
+    "retained": "Bagels",
+    "observed_forms": [
+      "bagels",
+      "bagel"
+    ]
+  },
+  {
+    "category": "bakery",
+    "retained": "Crumpet",
+    "observed_forms": [
+      "crumpet",
+      "crumpets"
+    ]
+  },
+  {
+    "category": "bakery",
+    "retained": "Croissants",
+    "observed_forms": [
+      "croissant",
+      "croissants"
+    ]
+  },
+  {
+    "category": "bakery",
+    "retained": "Donuts",
+    "observed_forms": [
+      "donuts",
+      "donut"
+    ]
+  },
+  {
+    "category": "bakery",
+    "retained": "Muffins",
+    "observed_forms": [
+      "muffins",
+      "muffin"
+    ]
+  },
+  {
+    "category": "bakery",
+    "retained": "Wraps",
+    "observed_forms": [
+      "wraps",
+      "wrap"
+    ]
+  },
+  {
+    "category": "bakery",
+    "retained": "Pizza Bases",
+    "observed_forms": [
+      "pizza base",
+      "pizza bases"
+    ]
+  },
+  {
+    "category": "deli",
+    "retained": "Olives",
+    "observed_forms": [
+      "olives",
+      "olive"
+    ]
+  },
+  {
+    "category": "pantry",
+    "retained": "Pickles",
+    "observed_forms": [
+      "pickles",
+      "pickle"
+    ]
+  },
+  {
+    "category": "pantry",
+    "retained": "Gherkins",
+    "observed_forms": [
+      "gherkins",
+      "gherkin"
+    ]
+  },
+  {
+    "category": "pantry",
+    "retained": "Lentils",
+    "observed_forms": [
+      "lentil",
+      "lentils"
+    ]
+  },
+  {
+    "category": "pantry",
+    "retained": "Black Beans",
+    "observed_forms": [
+      "black beans",
+      "black bean"
+    ]
+  },
+  {
+    "category": "pantry",
+    "retained": "Rice Noodles",
+    "observed_forms": [
+      "rice noodles",
+      "rice noodle"
+    ]
+  },
+  {
+    "category": "pantry",
+    "retained": "Sultanas",
+    "observed_forms": [
+      "sultanas",
+      "sultana"
+    ]
+  },
+  {
+    "category": "pantry",
+    "retained": "Chia Seeds",
+    "observed_forms": [
+      "chia seeds",
+      "chia seed"
+    ]
+  },
+  {
+    "category": "pantry",
+    "retained": "Peppercorns",
+    "observed_forms": [
+      "peppercorn",
+      "peppercorns"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "retained": "Pretzels",
+    "observed_forms": [
+      "pretzels",
+      "pretzel"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "retained": "Rice Crackers",
+    "observed_forms": [
+      "rice crackers",
+      "rice cracker"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "retained": "Crackers",
+    "observed_forms": [
+      "crackers",
+      "cracker"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "retained": "Wafer",
+    "observed_forms": [
+      "wafer",
+      "wafers"
+    ]
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "retained": "Muesli Bar",
+    "observed_forms": [
+      "muesli bars",
+      "muesli bar"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "retained": "Pappadums",
+    "observed_forms": [
+      "pappadums",
+      "pappadum"
+    ]
+  },
+  {
+    "category": "international-foods",
+    "retained": "Taco Shells",
+    "observed_forms": [
+      "taco shells",
+      "taco shell"
+    ]
+  },
+  {
+    "category": "drinks",
+    "retained": "Sports Drink",
+    "observed_forms": [
+      "sports drink",
+      "sports drinks"
+    ]
+  },
+  {
+    "category": "liquorland",
+    "retained": "Rose",
+    "observed_forms": [
+      "rose",
+      "roses"
+    ]
+  },
+  {
+    "category": "frozen",
+    "retained": "Berries",
+    "observed_forms": [
+      "berries",
+      "berry"
+    ]
+  },
+  {
+    "category": "frozen",
+    "retained": "Pizza",
+    "observed_forms": [
+      "pizza",
+      "pizzas"
+    ]
+  },
+  {
+    "category": "frozen",
+    "retained": "Dumplings",
+    "observed_forms": [
+      "dumpling",
+      "dumplings"
+    ]
+  },
+  {
+    "category": "frozen",
+    "retained": "Dim Sims",
+    "observed_forms": [
+      "dim sim",
+      "dim sims"
+    ]
+  },
+  {
+    "category": "frozen",
+    "retained": "Hash Browns",
+    "observed_forms": [
+      "hash browns",
+      "hash brown"
+    ]
+  },
+  {
+    "category": "frozen",
+    "retained": "Sausage Roll",
+    "observed_forms": [
+      "sausage rolls",
+      "sausage roll"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "retained": "Paper Towel",
+    "observed_forms": [
+      "paper towel",
+      "paper towels"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "retained": "Facial Tissues",
+    "observed_forms": [
+      "facial tissues",
+      "facial tissue"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "retained": "Garbage Bags",
+    "observed_forms": [
+      "garbage bags",
+      "garbage bag"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "retained": "Bin Liners",
+    "observed_forms": [
+      "bin liner",
+      "bin liners"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "retained": "Sponges",
+    "observed_forms": [
+      "sponge",
+      "sponges"
+    ]
+  },
+  {
+    "category": "cleaning-laundry",
+    "retained": "Scourers",
+    "observed_forms": [
+      "scourer",
+      "scourers"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "retained": "Razor",
+    "observed_forms": [
+      "razor",
+      "razors"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "retained": "Razor Blades",
+    "observed_forms": [
+      "razor blade",
+      "razor blades"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "retained": "Multivitamin",
+    "observed_forms": [
+      "multivitamin",
+      "multivitamins"
+    ]
+  },
+  {
+    "category": "health-beauty",
+    "retained": "Probiotic",
+    "observed_forms": [
+      "probiotic",
+      "probiotics"
+    ]
+  },
+  {
+    "category": "baby",
+    "retained": "Nappies",
+    "observed_forms": [
+      "nappy",
+      "nappies"
+    ]
+  },
+  {
+    "category": "baby",
+    "retained": "Swim Nappies",
+    "observed_forms": [
+      "swim nappies",
+      "swim nappy"
+    ]
+  },
+  {
+    "category": "baby",
+    "retained": "Baby Bottle",
+    "observed_forms": [
+      "baby bottle",
+      "baby bottles"
+    ]
+  },
+  {
+    "category": "baby",
+    "retained": "Teats",
+    "observed_forms": [
+      "teat",
+      "teats"
+    ]
+  },
+  {
+    "category": "baby",
+    "retained": "Rice Rusks",
+    "observed_forms": [
+      "rice rusks",
+      "rice rusk"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Plates",
+    "observed_forms": [
+      "plate",
+      "plates"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Bowls",
+    "observed_forms": [
+      "bowl",
+      "bowls"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Cups",
+    "observed_forms": [
+      "cups",
+      "cup"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Batteries",
+    "observed_forms": [
+      "batteries",
+      "battery"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Lighter",
+    "observed_forms": [
+      "lighters",
+      "lighter"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Matches",
+    "observed_forms": [
+      "match",
+      "matches"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Candles",
+    "observed_forms": [
+      "candle",
+      "candles"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Pens",
+    "observed_forms": [
+      "pens",
+      "pen"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Pencils",
+    "observed_forms": [
+      "pencil",
+      "pencils"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Markers",
+    "observed_forms": [
+      "markers",
+      "marker"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Highlighters",
+    "observed_forms": [
+      "highlighters",
+      "highlighter"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Notebook",
+    "observed_forms": [
+      "notebook",
+      "notebooks"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Socks",
+    "observed_forms": [
+      "socks",
+      "sock"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Briefs",
+    "observed_forms": [
+      "brief",
+      "briefs"
+    ]
+  },
+  {
+    "category": "home-garden",
+    "retained": "Insoles",
+    "observed_forms": [
+      "insole",
+      "insoles"
+    ]
+  }
+]

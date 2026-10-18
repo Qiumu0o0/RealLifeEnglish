@@ -1,0 +1,206 @@
+{
+  "category": "international-foods",
+  "page": 33,
+  "source_url": "https://www.coles.com.au/browse/pantry/international-foods?page=33",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,537 - 1,584 of 1,590 results",
+  "reported_total": 1590,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Gaganis Premium Raw Sunflower Kernals",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Sabrini Puri Papdi",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Sera Dolmades",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Eti Wanted Pops Caramel",
+      "pack_size": "126g"
+    },
+    {
+      "product_name": "ETI Cocoa Biscuits",
+      "pack_size": "370g"
+    },
+    {
+      "product_name": "French Pantry Espelette Chilli Mayo 6 Each",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Ajishima Furikake Katsuo Fumi",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Arth Mint Chatpati Sauce",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Coles Creamy Salsa Verde Sauce",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "M&m Peanut Butter Std",
+      "pack_size": "46.2g"
+    },
+    {
+      "product_name": "Maharajah's Choice Chilli Crush",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Greenleaf Bites Sesame Crackers",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Arth Marinade Tandoori Marinade",
+      "pack_size": "270g"
+    },
+    {
+      "product_name": "M&S Colin The Caterpillar Fruit Gums",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "M&S Percy Pig Phizzy Pigtails",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Protein Punch BBQ Flavour",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Kvuzat Yavne Pickled Cucumbers In Brine",
+      "pack_size": "540g"
+    },
+    {
+      "product_name": "Yakamoz Hot Baby Pepper Pickles",
+      "pack_size": "650mL"
+    },
+    {
+      "product_name": "Royal Fields Egg Noodles",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Orion O!karto Potato Chips Chilli Flavour",
+      "pack_size": "115g"
+    },
+    {
+      "product_name": "Gaganis Red Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Golden Swan Dry Apricot Paste",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Kvuzat Yavneh Cucumber In Mini Brine",
+      "pack_size": "540g"
+    },
+    {
+      "product_name": "Kvuzat Yavne Pitted Green Olives",
+      "pack_size": "540g"
+    },
+    {
+      "product_name": "M&S Outrageously Milk Choc Biscuits",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Glico Pocky Chocolate Value Pack",
+      "pack_size": "176g"
+    },
+    {
+      "product_name": "Kras Chocolate Cream Wafers Block",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Squid Brand Premium Fish Sauce With Himalayan Salt",
+      "pack_size": "180mL"
+    },
+    {
+      "product_name": "Bokomo Pro Nutro Chocolate Flavoured Instant Porridge Cereal",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Telma P Kneidl Matzo Ball Mix 12 Pack",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Bnei Darom Mini Cucumbers In Brine",
+      "pack_size": "560g"
+    },
+    {
+      "product_name": "Ottogi Yeul Ramen 5x120g",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Albeni Ulker 4 Pack",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "M&S Luxury Gold Shortbread Tea",
+      "pack_size": "116g"
+    },
+    {
+      "product_name": "Krikita Kri Kri Peanuts",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Gefen Classic Italian Pizza Sauce",
+      "pack_size": "680g"
+    },
+    {
+      "product_name": "Uludag Lemonade Drink 250ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Camille Bloch Torino Milk",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Binggrae Milk Drink Banana 6x200ml",
+      "pack_size": "1.2L"
+    },
+    {
+      "product_name": "M&S All Butter Sentry Shortbread",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Lyons Original Blend 80's",
+      "pack_size": "232g"
+    },
+    {
+      "product_name": "Ungars Pickles",
+      "pack_size": "900g"
+    },
+    {
+      "product_name": "Chick-Fil-A Polynesian Sauce",
+      "pack_size": "473mL"
+    },
+    {
+      "product_name": "Chick-Fil-A Sweet N Spicy Siriacha Sauce",
+      "pack_size": "473mL"
+    },
+    {
+      "product_name": "Chick-Fil-A Original Sauce",
+      "pack_size": "473mL"
+    },
+    {
+      "product_name": "Katoomba Fennel Seeds",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Tukas Black Olive Medium Size",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "M&S Milk Dark And White Selection",
+      "pack_size": "300g"
+    }
+  ]
+}

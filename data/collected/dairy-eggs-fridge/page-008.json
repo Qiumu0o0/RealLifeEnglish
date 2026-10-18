@@ -1,0 +1,206 @@
+{
+  "category": "dairy-eggs-fridge",
+  "page": 8,
+  "source_url": "https://www.coles.com.au/browse/dairy-eggs-fridge?page=8",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "337 - 384 of 2,264 results",
+  "reported_total": 2264,
+  "reported_pages": 48,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Pauls Zymil Low Fat Long Life Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "East Coast Sustainable Organic Full Cream Milk",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "YoPro Perform High Protein Yoghurt No Added Sugar M/passionfruit",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Coles Mozzarella Pear",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Nudie Nothing But Juice Apple",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Liddells Lactose Free 99% Low Fat Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Dairy Farmers High Protein Milk",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Coles Cage Free Eggs 12 Pack",
+      "pack_size": "800g"
+    },
+    {
+      "product_name": "YoPro Perform High Protein Yoghurt Pouch No Added Sugar Mixed Berries",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Chobani Flip Cookies & Cream Crunch Yoghurt",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Tamar Valley Dairy The Creamery Yoghurt Pouch Mango & Cream",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Perfect Italiano Dairy Cheese Grated Mozzarella:mozzarella",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Activia Probiotics Yoghurt No Added Sugar Vanilla 4x125g",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Impressed Essentials Orange Juice Pulp Free",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Jarlsberg Dairy Original Swiss Cheese Slices",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Devondale Extra Soft Butter Less Fat",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Vitasoy Almond Milky",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Tamar Valley The Creamery Yoghurt Pouch Blueberry",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Ultimate Limited Edition 4x115g",
+      "pack_size": "460g"
+    },
+    {
+      "product_name": "Chobani No Sugar Added Yogurt Pouch Strawberry",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Chobani Greek Yogurt Mango",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Devondale Full Cream Milk",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Coles Sliced Peri Peri Roast Chicken Breast",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Cocobella Dairy Free Natural Coconut Yoghurt",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Spicy Capsicum Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "YoPro Perform High Protein Yoghurt Pouch No Added Sugar M/passionfruit",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Sanitarium So Good High Protein Almond Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Yakult Light Probiotic Drink 5x65ml",
+      "pack_size": "325mL"
+    },
+    {
+      "product_name": "Pureharvest Organic Soy Unsweetened Long Life Milk Uht",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "YoPro Perform High Protein Yoghurt Pouch No Added Sugar Strawberry",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Coles Dairy Cheese Camembert Wrapped",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Nestle Milo Energy Dairy Snack",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "La Famiglia Garlic Bread",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Coles Cheese & Chive Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Yumi's Kalamata Olive Dip Dairy & Gluten Free",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Black Swan Spicy Capsicum Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Vitasoy Soy Milky Uht Lite",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Tamar Valley The Creamery Yoghurt Strawberries & Cream",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Perfect Italiano Cheese Extra Sharp Parmesan Block",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Rokeby Protein Smoothie Banana Honey Cinnamon",
+      "pack_size": "425mL"
+    },
+    {
+      "product_name": "Obela Classic Tzatziki",
+      "pack_size": "220g"
+    },
+    {
+      "product_name": "Coles Australian Pizza Blend Shredded Cheese",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Vaalia Boost Yoghurt Pouch Mango Magic",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Vitasoy Soy Milky Low Sugar 2% Fat",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Vaalia Kids Pouch Yoghurt Honeycomb",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Obela Classic Smooth Hommus",
+      "pack_size": "220g"
+    },
+    {
+      "product_name": "YoPro High Protein Yoghurt No Added Sugar Salted Caramel",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Riverina Haloumi",
+      "pack_size": "180g"
+    }
+  ]
+}

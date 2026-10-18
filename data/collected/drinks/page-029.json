@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 29,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=29",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,345 - 1,392 of 1,598 results",
+  "reported_total": 1598,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Vittoria Mountain Grown Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Nescafe Caramel Latte Coffee Sachets",
+      "pack_size": "78 Pack"
+    },
+    {
+      "product_name": "Queen Victoria English Breakfast Extra Strong Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Solo Thirst Crusher Original Lemon Soft Drink Bottle",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Lo Bros Kombucha Raspberry & Blackcurrant",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Monster Energy Drink Zero Sugar Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Golden Circle Cordial Apple Blackcurrant",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Nudie Mocktail Cosmopolitan",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Oro Nero Instant Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Vittoria Freeze Dried Brazil Rex Instant Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Vittoria Supreme Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Harris Strong Coffee Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Soda Stream Quick Connect Pink Gas Cylinder",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Perfect Ted Healthy Energy Drink Apple Raspberry",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Grove Juice Pineapple- Lime & Ruby Grapefruit",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Emma & Tom's Juice Drink Karmarama",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Remedy Sodaly Passionfruit",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Sprite Lemonade Soft Drink Bottle",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Coca-Cola Zero Sugar Zero Caffeine Bottle",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Arepa Nootropic Brain Drink Performance",
+      "pack_size": "300mL"
+    },
+    {
+      "product_name": "Bushells Coffee & Chicory Essence",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Queen Victoria Tea Calming Blend Tea Bags",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Madame Flavour Green Lychee Rose Pyramids",
+      "pack_size": "15 Pack"
+    },
+    {
+      "product_name": "Al ameed Turkish Coffee With Cardamom Medium",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Strangelove Lo-cal Soda Lime & Jalapeno 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Buddha Teas Organic Herbal Tea Bags Turmeric Ginger Tea",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Espressotoria Vittoria Coffee Mountain Grown Coffee Capsules",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Vittoria Espresso Magic Coffee",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Remedy Ginger Beer Original",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Twinings Cold Infusions Lemon & Ginger",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Sunkist Soft Drink Orange",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Remedy Sodaly Yuzu Lemon",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Buddha Teas Organic Herbal Tea Bags Dandelion Root Tea",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "ST. Ali Decaf Ground Coffee",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Sunraysia Pouch 99.9% Apple & Blackcurrent Juice",
+      "pack_size": "200mL"
+    },
+    {
+      "product_name": "Mr D's Cola Drink",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Mildura Zooper Dooper Cola",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Sodastream Classic Ginger Beer Syrup",
+      "pack_size": "440mL"
+    },
+    {
+      "product_name": "Cocobella Straight Up",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Sodastream Lipton Ice Tea Peach Soda Mix",
+      "pack_size": "440mL"
+    },
+    {
+      "product_name": "Mother Energy Drink Orange Dreamsicle Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "H2juice Lychee Juice With Pulp",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Emma & Tom's Old Fashioned Light Lemonade",
+      "pack_size": "450mL"
+    },
+    {
+      "product_name": "Remedy Sodaly Raspberry",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Original Black Label Apple & Blackcurrant Juice",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Grove Juice Plum- Apple- Strawberry- Pineapple & Lime",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Illy Forte Espresso Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Capi Blood Orange 4x250ml",
+      "pack_size": "1L"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 88,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=88",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "4,177 - 4,224 of 6,126 results",
+  "reported_total": 6126,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Maesri Red Curry Paste",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Ayam Sweet & Sour Sauce",
+      "pack_size": "210mL"
+    },
+    {
+      "product_name": "Fehlbergs Brown Pickled Onions",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Chicken Flavoured Stock Cubes",
+      "pack_size": "105g"
+    },
+    {
+      "product_name": "Zafarelli Elicoidali Pasta No 57",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Golden Circle Australian Pineapple Crushed In Syrup",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "MasterFoods Ground Ginger",
+      "pack_size": "25g"
+    },
+    {
+      "product_name": "Poonsin Stir-fry Mixed Vegetables",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Always Fresh Grilled Eggplant Sliced",
+      "pack_size": "320g"
+    },
+    {
+      "product_name": "Khao Shong Wasabi Coated Green Peas",
+      "pack_size": "280g"
+    },
+    {
+      "product_name": "Avalanche 99% Sugar Free Chai Turmeric",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Wicked Pitted Kalamata Olives",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Green's Deluxe Chocolate Mud Cake Mix",
+      "pack_size": "530g"
+    },
+    {
+      "product_name": "Quest Protein Bar Cookies & Cream",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Buderim Ginger Crystallised Ginger",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Red Tractor Farmers Market Super Seed Muesli",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Ally Fancy Salmon Pink",
+      "pack_size": "105g"
+    },
+    {
+      "product_name": "The Dutch Company Speculaas Spiced Cookies",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Sirena Garlic & Chilli Linguini With Tuna",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Coles Simply Cream Of Chicken Condensed Soup",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Arth Marinade Tandoori Marinade",
+      "pack_size": "270g"
+    },
+    {
+      "product_name": "Coles Simply Traditional Gravy",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Vittoria Decaffeinated Nespresso Compatible Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Queen Writing Icing Multipack Colour Tubes 5 Pack",
+      "pack_size": "105g"
+    },
+    {
+      "product_name": "The Spice Tailor Keralan Coconut Curry",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Cheetos Flamin Hot",
+      "pack_size": "226g"
+    },
+    {
+      "product_name": "Saxa Iodised Rock Salt Refill",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Clif Bar Crunchy Peanut Butter Bar",
+      "pack_size": "68g"
+    },
+    {
+      "product_name": "Tom & Luke Snackaballs Salted Caramel Pot",
+      "pack_size": "224g"
+    },
+    {
+      "product_name": "Coles Whole Fennel Seeds",
+      "pack_size": "36g"
+    },
+    {
+      "product_name": "Fresh Bake Almond Fingers 6 Pack",
+      "pack_size": "280g"
+    },
+    {
+      "product_name": "Continental Spring Vegetable Soup Serves 4",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Mckenzie's White Beans",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Heinz Big'n Chunky Beef And Veggies Soup",
+      "pack_size": "535g"
+    },
+    {
+      "product_name": "MasterFoods Garlic Granules",
+      "pack_size": "155g"
+    },
+    {
+      "product_name": "Glico Pocky Biscuits Chocolate",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Masterfoods Buttermilk Ranch",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Jensens Organic Ginger",
+      "pack_size": "210g"
+    },
+    {
+      "product_name": "Royal Fields Peanuts In Shell",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Laucke Bread Mix Barossa Sour Dough",
+      "pack_size": "2.4Kg"
+    },
+    {
+      "product_name": "Squeaky Gate White Balsamic Vinegar",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Hoyts Turmeric",
+      "pack_size": "25g"
+    },
+    {
+      "product_name": "McKenzie's Chickpeas",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Otoki Germinated Black Cooked Rice",
+      "pack_size": "210g"
+    },
+    {
+      "product_name": "Three Threes Mint Jelly",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Coles Jelly Crystals Raspberry Flavoured",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Pandaroo Vietnamese Salad Dressing",
+      "pack_size": "270mL"
+    },
+    {
+      "product_name": "Pattu Coriander Powder",
+      "pack_size": "200g"
+    }
+  ]
+}

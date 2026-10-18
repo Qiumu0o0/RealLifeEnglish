@@ -1,0 +1,206 @@
+{
+  "category": "international-foods",
+  "page": 14,
+  "source_url": "https://www.coles.com.au/browse/pantry/international-foods?page=14",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "625 - 672 of 1,592 results",
+  "reported_total": 1592,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Royal Fields Sesame Seeds",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Royal Fields Popping Corn",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Taokaenoi Big Roll Classic 9x3g",
+      "pack_size": "27g"
+    },
+    {
+      "product_name": "Passage Foods Passage To India Tikka Masala Simmer Sauce Pouch",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Nissin Hokkaido Miso Noodles 5 Pack",
+      "pack_size": "530g"
+    },
+    {
+      "product_name": "Otoki Jin Ramen Spicy Instant Noodles 5x120g",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Libby's Pumpkin",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Lee Kum Kee Premium Soy Sauce",
+      "pack_size": "1.75L"
+    },
+    {
+      "product_name": "Monika Lemon Juice",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Glico Pocky Biscuit Stick Milk",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Wai Wai Rice Vermicelli Noodles",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Shan Chicken Biryani",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Pandaroo Fruit Jelly Mini Cups 20 Pack",
+      "pack_size": "380g"
+    },
+    {
+      "product_name": "Lee Kum Kee Ready Sauce Lemon Chicken",
+      "pack_size": "145g"
+    },
+    {
+      "product_name": "Mae Ploy Thai Style Salad Dressing",
+      "pack_size": "285mL"
+    },
+    {
+      "product_name": "Pattu Chick Peas Tyson",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Jelly B Drinkable Konjac Jelly Mango Flavour",
+      "pack_size": "150mL"
+    },
+    {
+      "product_name": "Haday Gold Label Oyster Sauce",
+      "pack_size": "530g"
+    },
+    {
+      "product_name": "The Spice Tailor Indonesian Rendang Curry",
+      "pack_size": "275g"
+    },
+    {
+      "product_name": "The Spice Tailor Japanese Teriyaki",
+      "pack_size": "245g"
+    },
+    {
+      "product_name": "Swedish Fish Theatre Red Box",
+      "pack_size": "88g"
+    },
+    {
+      "product_name": "Yoosh Aloe Vera Drink Lychee",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Frooti Mango Drink",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Olympian Almond Crescents Kourambies Greek Biscuits",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Royal Fields Peanuts In Shell",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "La Tortilleria Blue Totopos",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Guerrero Fajita Tortillas 20 Pack",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Callipo Tuna In Olive Oil 2x160g",
+      "pack_size": "320g"
+    },
+    {
+      "product_name": "Protea Foods Lekker Traditional Droewors",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Maggi Onion Soup",
+      "pack_size": "32g"
+    },
+    {
+      "product_name": "Lotte Pepero White Cookie",
+      "pack_size": "32g"
+    },
+    {
+      "product_name": "Indomie Chitato MI Goreng Potato Chips",
+      "pack_size": "55g"
+    },
+    {
+      "product_name": "Maharajah's Choice Ground Coriander",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Passage To Asia Mee Goreng",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Maharajah's Choice Garam Masala",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "The Spice Tailor Fiery Goan Curry",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Natures Delight Salsa Medium",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Patak's Rogan Josh Simmer Sauce Medium",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "ETi Classic Tea Biscuits",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coles Pineapple Salsa",
+      "pack_size": "439g"
+    },
+    {
+      "product_name": "Marion's Kitchen Pad See Ew Meal Kit",
+      "pack_size": "315g"
+    },
+    {
+      "product_name": "Bisto Chicken Flavour Gravy Granules",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "ITO En Peach Ice Tea",
+      "pack_size": "535mL"
+    },
+    {
+      "product_name": "Otoki Jin Ramen Cup Noodle Spicy",
+      "pack_size": "65g"
+    },
+    {
+      "product_name": "Podravka Chicken Paste",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Bull Head Chicken Broth",
+      "pack_size": "411mL"
+    },
+    {
+      "product_name": "Britannia Digestive Biscuits",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Coles Asia Crispy Fried Garlic",
+      "pack_size": "110g"
+    }
+  ]
+}

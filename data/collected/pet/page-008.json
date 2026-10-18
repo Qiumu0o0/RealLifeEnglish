@@ -1,0 +1,214 @@
+{
+  "category": "pet",
+  "page": 8,
+  "source_url": "https://www.coles.com.au/browse/pet?sortBy=recommendedDescending&page=8",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "337 - 384 of 799 results",
+  "reported_total": 799,
+  "reported_pages": 17,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Nature's Gift Adult All Breeds Wet Dog Food Casserole Gravy Kangaroo & Vegetables",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Fancy Feast Grilled Liver & Chicken Cat Food",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Optimum Adult Wet Dog Food With Beef & Rice Can",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Purina One Healthy Kitten With Chicken In Gravy Cat Food 12x70g",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Nature's Gift Chicken Rice And Vegetable Dog Food",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Fancy Feast Dry Cat Food Tuna Prawn Mackerel Crab",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Pedigree Homestyle Chicken With Rice & Vegies Adult Wet Dog Food Can",
+      "pack_size": "1.2kg"
+    },
+    {
+      "product_name": "Fancy Feast Gravy Lovers With Beef Cat Food",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Purr Cat Food Seafood Selection 27x85g",
+      "pack_size": "27 Pack"
+    },
+    {
+      "product_name": "Fancy Feast Grilled Ocean Whitefish Tuna Cat Food",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Coles Meat Variety Cat Food Pouch 12x85g",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Coles Adult Dry Cat Food With Chicken & Salmon",
+      "pack_size": "4kg"
+    },
+    {
+      "product_name": "Fancy Feast Savory Centers Chicken Pate Cat Food",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Coles Dog Food Casserole Lamb Pasta & Vegetable",
+      "pack_size": "1.2kg"
+    },
+    {
+      "product_name": "Bow Wow Peamutt Butter Roll Dog Treat",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Dine Classic Collection Adult Wet Cat Food Cuts in Gravy With Beef & Liver 7x85g Trays",
+      "pack_size": "7 Pack"
+    },
+    {
+      "product_name": "Coles Dental Stick Daily Oral Care Dog Treat",
+      "pack_size": "7 Pack"
+    },
+    {
+      "product_name": "Fancy Feast Gravy Lovers With Salmon Cat Food",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Coles Adult Dry Dog Food With Chicken",
+      "pack_size": "8kg"
+    },
+    {
+      "product_name": "Coles Adult Chilled Fresh Dog Food Roll Lamb & Beef",
+      "pack_size": "3kg"
+    },
+    {
+      "product_name": "Fancy Feast Dry Cat Food Beef Salmon Cheese",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Whiskas Favourites Mixed Selections Cat Food 36x85g",
+      "pack_size": "36 Pack"
+    },
+    {
+      "product_name": "Whiskas Adult 1+ Years Dry Cat Food Chicken & Turkey Flavour",
+      "pack_size": "1.8kg"
+    },
+    {
+      "product_name": "Optimum Adult Weight Control Wet Dog Food With Chicken & Rice Can",
+      "pack_size": "680g"
+    },
+    {
+      "product_name": "My Dog Adult 7+ With Juicy Lamb Rice & Carrots Can Wet Dog Food",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Applaws Tin Multipack Cat Food Chicken Selection 8x70g",
+      "pack_size": "560g"
+    },
+    {
+      "product_name": "Breeders Choice Cat Litter Paper",
+      "pack_size": "6L"
+    },
+    {
+      "product_name": "Pets Own Dog & Puppy Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Nature's Gift Meatballs With Kangaroo Peas & Sweet Potato Dog Food",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Love'em Dog Training Treats Chicken",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Optimum Adult Lamb & Rice Dog Food",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Whiskas Kitten Dry Cat Food Chicken & Tuna Flavours",
+      "pack_size": "800g"
+    },
+    {
+      "product_name": "Rufus & Coco Elasticised Litter Tray Liners Large",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Fresh Pet Food Co Kangaroo Dog Food Mince",
+      "pack_size": "2Kg"
+    },
+    {
+      "product_name": "Coles Liver Pieces Dog Treats",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Dine Classic Collections Pouch Cat Food Fish Selection In Jelly 24x85g",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "My Dog Adult Wet Dog Food Classic Loaf With Tender Chicken Tray",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "My Dog Classic Loaf With Gourmet Beef Tray Adult Wet Dog Food",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Nature's Gift Lamb Pasta And Vegetable Dog Food",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Coles Cat Food Mince With Chicken Gravy Adult",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Purina Lucky Dog Dry Minced Beef, Vegetable & Marrowbone Flavour Dog Food",
+      "pack_size": "3Kg"
+    },
+    {
+      "product_name": "Vitapet Jerhigh Milky Sticks With Real Chicken Dog Treats",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Adult Dry Cat Food With Ocean Fish",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Love'em Grain Free Dog Treats Lamb Jerky With Rosemary Flavour",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Optimum Senior 7+ Years All Breeds Dry Dog Food With Chicken Vegetables & Rice",
+      "pack_size": "2.7Kg"
+    },
+    {
+      "product_name": "Optimum Adult Wet Dog Food With Chicken & Rice 24x100g Trays",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Optimum Real Kangaroo & Vegetables Adult Wet Dog Food Can",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Optimum Adult Toy Small Breed Dry Dog Food With Chicken Vegetables & Rice",
+      "pack_size": "3kg"
+    },
+    {
+      "product_name": "Optimum Dry Cat Food Furball Chicken",
+      "pack_size": "1.4kg"
+    },
+    {
+      "product_name": "Dine Melting Soup Adult Wet Cat Food Tuna & Salmon Pouch",
+      "pack_size": "40g"
+    }
+  ]
+}

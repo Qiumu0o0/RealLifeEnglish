@@ -1,0 +1,238 @@
+{
+  "category": "bakery",
+  "page": 1,
+  "source_url": "https://www.coles.com.au/browse/bakery",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1 - 48 of 592 results",
+  "reported_total": 592,
+  "reported_pages": 13,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Coles Bakery Indulgent White 40% Choc Chip Cookie",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Coles Bakery Mini Wholemeal Cheesy Vegemite Scrolls",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Coles Cheesy Vegemite Scroll",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Cadbury Milk Chocolate Mini Rolls Cakes 5 Pack",
+      "pack_size": "115g"
+    },
+    {
+      "product_name": "Coles Vegemite Twist",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "MEB Pittes Souvlaki",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Cadbury Milk Chocolate Cake Bars 5 Pack",
+      "pack_size": "105g"
+    },
+    {
+      "product_name": "Toscano Mini Pizza Base 4 Pack",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "Liberate Gluten Free Crumpet",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Coles Bakery ANZAC Biscuits",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Coles Oat & Raisin Cookies",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Coles Mini Cinnamon Swirl Danish",
+      "pack_size": "5 Pack"
+    },
+    {
+      "product_name": "Coles Bakery Choc Chip Cookies Value Pack",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Coles Bakery Cinnamon Donuts",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Coles Bakery Pancakes",
+      "pack_size": "5 Pack"
+    },
+    {
+      "product_name": "Coles Bakery Mini Blueberry Crown",
+      "pack_size": "5 Pack"
+    },
+    {
+      "product_name": "Coles Bakery Vanilla Crown Mini Danish",
+      "pack_size": "5 Pack"
+    },
+    {
+      "product_name": "Coles Hawaiian Tear And Share",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Coles Bakery Double Choc Cookies",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Coles Finest By Laurent 7 Seed And Grain Vienna",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Finest By Laurent Rye Sourdough Vienna",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Banoffee Turnover",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Coles Finest By Laurent Black Olive And Chilli Vienna",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Bakery Mini Apple Crown",
+      "pack_size": "5 Pack"
+    },
+    {
+      "product_name": "La Fournee Doree Brioche Burger Buns",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Bakery Indulgent Choc 40% Choc Chip Cookie",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "La Fournee Doree Brioche Burger Buns With Sesame Seeds 4 Pack",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "La Fournee Doree Brioche Sliders 10 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Mr Kipling Christmas Cake Slices 6 Pack",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Mission Original Wraps 8 Pack",
+      "pack_size": "567g"
+    },
+    {
+      "product_name": "Coles White Chocolate & Macadamia Cookies",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Noshu 95% Sugar Free Banana Bread Slices",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Mighty Soft Cafe Fruit Loaf",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Mountain Bread Natural Wraps 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Noshu 95% Sugar Free Iced Carrot Cakes",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Golden Pikelets Original",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Mr Kipling Fruit Mince Pies 6 Pack",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Mountain Bread Rye Wraps 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Noshu 95% Sugar Free Fudgy Peanut Brownies",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "La Fournee Doree Split Top Brioche Hot Dog Rolls 6 Pack",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Great Temptations Fairy Cakes 8 Pack",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "La Fournee Doree Sliced Brioche Loaf Plain",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Salted Caramel & White Chocolate Cookies",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Helga's Gluten Free Traditional Wholemeal Bread",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Mr Kipling Raspberry Flavoured Festive Tarts 6 Pack",
+      "pack_size": "230g"
+    },
+    {
+      "product_name": "Wonder Mini Loaf White Sandwich Vitamin",
+      "pack_size": "320g"
+    },
+    {
+      "product_name": "Helga's Gluten Free White Bread Slices",
+      "pack_size": "470g"
+    },
+    {
+      "product_name": "Laurent Almond Croissant",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Helga's Gluten Free Mixed Grain Bread",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Mission Lite Wrap 8 Pack",
+      "pack_size": "567g"
+    },
+    {
+      "product_name": "Cadbury Mini Yule Log 5 Pack",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "Abe's Bagels Natural 4 Pack",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "Greens Deluxe Jam & Cream Lamington Cake Roll",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Golden Pancakes 6 Pack",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "Abbott's Bakery Lower Carb White Bread",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Great Temptations Choc Confetti Cakes 8 Pack",
+      "pack_size": "180g"
+    }
+  ]
+}

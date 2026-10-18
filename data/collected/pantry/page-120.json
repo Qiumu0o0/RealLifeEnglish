@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 120,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=120",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "5,713 - 5,760 of 6,121 results",
+  "reported_total": 6121,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Arizona Green Tea",
+      "pack_size": "650mL"
+    },
+    {
+      "product_name": "Cortas Broad Fava Beans",
+      "pack_size": "850g"
+    },
+    {
+      "product_name": "Dots Box",
+      "pack_size": "64g"
+    },
+    {
+      "product_name": "Gits Rava Idli Mix",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Eti Cin Jelly Biscuit Orange",
+      "pack_size": "325g"
+    },
+    {
+      "product_name": "Starburst Favourite Reds",
+      "pack_size": "58g"
+    },
+    {
+      "product_name": "Starburst Fruit Chews Original",
+      "pack_size": "58g"
+    },
+    {
+      "product_name": "Galaxy Caramel Chocolate Bar",
+      "pack_size": "48g"
+    },
+    {
+      "product_name": "French Pantry Espelette Chilli Mayo 6 Each",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Coles Easy To Use Sauce Base",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Milk Duds",
+      "pack_size": "141g"
+    },
+    {
+      "product_name": "Sabrini Butter Chicken Simmer Sauce",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Excellent Rice Stick Special Bihon",
+      "pack_size": "454g"
+    },
+    {
+      "product_name": "Tasty Rich And Spicy Miso Glaze",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Kushi Basil Seed Strawberry Drink 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Get Ya Yum On 90 Sec Keto Bread In A Mug - English Muffin",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Gaganis Original Sesame Halva With Cocoa",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Ulker Halley Koli",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Gaganis Premium Continental Style Soup Mix",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Del Monte Mango Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Tunisian Shakshuka Meal Base",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Daisho Shellfish And Yuzu Hot Pot Soup",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Al Chai Black Tea Bags",
+      "pack_size": "100 Pack"
+    },
+    {
+      "product_name": "Fancy Hank's BBQ Pepper",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Don Antonio Pasta Sauce Porcini Mushrooms",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Gaganis Hulled Tahini",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Sabrini Sev",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Fancy Hank's Chicken Salt Mayonnaise",
+      "pack_size": "230g"
+    },
+    {
+      "product_name": "Herr's Carolina Reaper",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Katoomba Coriander Powder",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Olympian Turkish Delight With Rose & Almond",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Fancy Hank's Coffee & Molasses Sauce",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Cafe Najjar Classic Ground Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Sera Pepper Paste Mild",
+      "pack_size": "720g"
+    },
+    {
+      "product_name": "Camille Bloch Torino Milk",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Buddha Teas Organic Herbal Tea Bags Detox Dharma Blend",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Buddha Teas Organic Herbal Tea Bags Meditation Moment",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Buddha Teas Organic Herbal Tea Bags Throat Bliss Blend",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Drunken Sailor Onion Cranberry & Bourbon Relish",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Drunken Sailor Jalapeno & Tequila Relish",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Drunken Sailor Whisky Piccalilli",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Drunken Sailor Strawberry Rose Jam",
+      "pack_size": "290g"
+    },
+    {
+      "product_name": "Pattu Turmeric Powder",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Dilmah Elixir Of Ceylon Black Tea With Rose & Vanilla",
+      "pack_size": "375mL"
+    },
+    {
+      "product_name": "Tea Tonic Apple Tree Tea Bags Box",
+      "pack_size": "20 Pack"
+    },
+    {
+      "product_name": "Maggi. Stock Cubes Halal",
+      "pack_size": "18g"
+    },
+    {
+      "product_name": "Pablo And Rusty's Pioneer Specialty Coffee Pods",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Pablo And Rusty's Trailblazer Specialty Coffee Pods",
+      "pack_size": "10 Pack"
+    }
+  ]
+}

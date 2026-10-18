@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 12,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=12",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "529 - 576 of 1,588 results",
+  "reported_total": 1588,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Pepsi Soft Drink Cola Bottle",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Bundaberg Brewed Drink Ginger Beer 4x375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Violet Crumble Flavoured Drinking Powder",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Solo Lemon Raspberry No Sugar Soft Drink 375mL",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Ovaltine Original Energy Choc Malt",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Remedy Kombucha Blood Orange Switchel 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Green Apple With Electrolytes",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Daley Street Dark Roast Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Powerade Ion4 Gold Rush Sports Drink Sipper Cap",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Daley Street Medium/dark Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Powerade Ion4 Mountain Blast Sports Drink Sipper Cap",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Sunkist Orange Soft Drink Mini Cans",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Monster Energy Ultra Peachy Keen Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Remedy Kombucha Mango Passion 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Cottee's Cordial Lemon Crush Zero Sugar",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Cottee's Cordial Passiona Passionfruit",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Powerade Ion4 Berry Ice Sports Drink Sipper Cap",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Sprite Lemonade Soft Drink Multipack Bottles 300ml",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Monster Energy Aussie Lemonade Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Sprite Zero Sugar Lemonade Multipack Bottles 300ml",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Fanta Orange Zero Sugar Soft Drink Multipack Bottles 300ml",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Fanta Orange Soft Drink 12x300ml",
+      "pack_size": "3.6L"
+    },
+    {
+      "product_name": "Cottee's Cordial Orange Crush",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Cottee's Cordial Apple Raspberry",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Queen Victoria Tea Calming Blend Tea Bags",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Lavazza Espresso Barista Intenso Coffee Beans",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Dare Iced Mocha Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Lavazza Espresso Barista Gran Crema Coffee Beans",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Kirks Lemonade Zero Sugar Soft Drink Multipack Cans 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Dare Iced Espresso Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Cottees Cordial Cola",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Lavazza A Modo Mio Delizioso Coffee Capsules",
+      "pack_size": "16 Pack"
+    },
+    {
+      "product_name": "Solo Zero Sugar Original Lemon Soft Drink",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Solo Zero Sugar Lime Soft Drink",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Caffe Ducale Heritage Blend Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Solo Zero Sugar Lime Soft Drink",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Vittoria Espresso Ground Coffee",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Schweppes Zero Sugar Lemon Lime Bitters Soft Drink Classic Mixers Multipack Bottles 300ml x 4 Pack",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Kirks Lemon Squash Zero Sugar Soft Drink Multipack Cans 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Blue Bolt Minis 4x350ml",
+      "pack_size": "1.4L"
+    },
+    {
+      "product_name": "H2juice Sparkling Watermelon",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "H2juice Sparkling Pink Guava",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "H2juice Sparkling Passionfruit",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "V Energy Drink Can Strawberry Crush",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Powerade Ion4 Blackcurrant Sports Drink Sipper Cap",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Jarrah French Vanilla Latte Instant Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Jarrah Brazilian Cafe Latte Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Powerade Ion4 Lemon Lime Sports Drink Sipper Cap",
+      "pack_size": "600mL"
+    }
+  ]
+}

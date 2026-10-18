@@ -1,0 +1,206 @@
+{
+  "category": "dairy-eggs-fridge",
+  "page": 29,
+  "source_url": "https://www.coles.com.au/browse/dairy-eggs-fridge?page=29",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,345 - 1,392 of 2,254 results",
+  "reported_total": 2254,
+  "reported_pages": 47,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Siggi's Yoghurt Pouch Strawberry",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "The Yoghurt Shop Apple Crumble",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Coles Multipack Skim Uht Milk 6 Pack",
+      "pack_size": "1200mL"
+    },
+    {
+      "product_name": "Fresh Pasta Beef Ravioli",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Vitasoy Oat Yogurt Vanilla",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Herbert Adams Pancetta With Cheddar And Leek",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Latina Fresh Ham & Cheese Tortellini",
+      "pack_size": "625g"
+    },
+    {
+      "product_name": "Bega Cheese Easy Melt Colby Block",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Youfoodz Fueld Chicken Carbonara",
+      "pack_size": "451g"
+    },
+    {
+      "product_name": "Jarlsberg Original Cheese Block",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Kitchen Bolognese Bake",
+      "pack_size": "1.8kg"
+    },
+    {
+      "product_name": "Coles Organic Full Cream Milk Uht",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Original Juice Co. Black Label Chilled Orange Juice",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Boss Iced Latte Coffee",
+      "pack_size": "237mL"
+    },
+    {
+      "product_name": "Ice Break Triple Shot Triple Shot Lactose Free",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Mornington Peninsula Cage Free Eggs 12 Pack",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Sunny Queen Odd Eggs Ready To Pour Egg Mix",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Castello Blue Cheese Mini 5 Pack",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Coles Dairy Orange Juice",
+      "pack_size": "3L"
+    },
+    {
+      "product_name": "Youfoodz Fueld Chicken & Spinach Penne With Parmesan",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Coles Kitchen Family Chicken & Bacon Pasta Bake",
+      "pack_size": "1.2Kg"
+    },
+    {
+      "product_name": "Coles Vintage Cheese & Crackers",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Ice Break Iced Coffee Strong Espresso + Protein",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Tahini Neri Signature Tahini Dip",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Island Harvest Tasmania Panna Cotta With Raspberry Coulis",
+      "pack_size": "145g"
+    },
+    {
+      "product_name": "Mainland On The Go Cheese & Balsamic Beetroot Lunch Pack",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "Dari's Tomato Soup",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "Coles Kitchen Cottage Pie",
+      "pack_size": "1.2kg"
+    },
+    {
+      "product_name": "Tamar Valley The Creamery Yoghurt Vanilla Bean",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Bio Cheese Creamy Original Spreadable",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Soyco Scrambled Tofu",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Coles Kitchen Chicken Korma And Rice",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Coles Kitchen Chicken Satay",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Bega Strong & Bitey Cheese & Water Cracker",
+      "pack_size": "38g"
+    },
+    {
+      "product_name": "Dairy Farmers Thick & Creamy Caramelised Fig Yoghurt",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Black Swan Seasonal Edition Creamy Ranch",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Nuffin Creamy Garlic Dip With Fresh Parsley",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Red Tab Fresh Pulp Orange Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Normandie Dairy Champagne Pate",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Aunty Kath's Cookie Dough M&M",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Dineamic Meal Chicken & Mushroom Risotto",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "The Juice Lab Wellness Shot Uplift",
+      "pack_size": "60mL"
+    },
+    {
+      "product_name": "Ice Break Iced Coffee Regular Strength",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Nudie Nothing But Orange Juice",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Cocobella Coconut Yoghurt Blueberry",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Normandie Dairy Black Pepper Pate",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Coles Light Cheese & Crackers",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Yoplait Yoghurt Natural",
+      "pack_size": "500g"
+    }
+  ]
+}

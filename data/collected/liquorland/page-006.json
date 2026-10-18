@@ -1,0 +1,206 @@
+{
+  "category": "liquorland",
+  "page": 6,
+  "source_url": "https://www.coles.com.au/browse/liquorland?page=6",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "241 - 288 of 1,900 results",
+  "reported_total": 1900,
+  "reported_pages": 40,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Black Bottle Brandy 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Rock Paper Scissors Sparkling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Postcards from Italy Organic Pinot Grigio 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Choosy Beggars Sauvignon Blanc Semillon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jules Taylor Marlborough Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Taylors Estate Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Wolf Blass Red Label Shiraz Cabernet 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "High Commissioner Blended Scotch Whisky 1l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jamiesons Run Grazier Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jacob's Creek Reserve Sparkling Prosecco 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hard Rated Zero Sugar Can 375ml 10pk",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Jam Shed Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Piper Heidsieck Brut Nv Champagne 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Kim Crawford Pinot Gris 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jacob's Creek Trilogy Sparkling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Pepperjack Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Banrock Station Sauvignon Blanc Cask 2l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jansz Non Vintage Sparkling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jacob's Creek Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Captain Morgan Spiced Rum 1 Litre",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Yellow Tail Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Whispers Sparkling Pink Moscato 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hardys Tintara Mclaren Vale Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Little Fat Lamb Brewed Ginger Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Winesmiths Premium Selection Chardonnay Cask 2l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Devilish Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jamiesons Run Grazier Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Fireball Cinnamon Flavoured Whisky 200ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jam Shed Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Two Churches The Preacher Pinot Gris",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Wynns The Siding Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Lana's Bike Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jacob's Creek Shiraz Cabernet 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Tangled Vine Crisp Dry White Cask 4l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Somersby Apple Cider Can 375ml 10pk",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "St Andrews Cabernet Sauvignon 1l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Somersby Pear Cider Bottle 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Gordons Dry Gin 1 Litre",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Canadian Club Whisky 1 Litre",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Zilzie Bulloak Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Two Towns Adelaide Hills Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Tempus Two Graphite Series Pinot Grigio 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Zilzie Bulloak Pinot Grigio 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Veuve Clicquot Yellow Label Brut Nv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Johnnie Walker Black Scotch Whisky Min 50ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Stones Green Ginger Wine 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bone Dry Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Vodka O 700ml",
+      "pack_size": "1 Each"
+    }
+  ]
+}

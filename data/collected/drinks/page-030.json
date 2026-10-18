@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 30,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=30",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,393 - 1,440 of 1,587 results",
+  "reported_total": 1587,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Pukka Elderberry & Echinacea Tea Sachets",
+      "pack_size": "20 Pack"
+    },
+    {
+      "product_name": "Nescafe Dolce Gusto Americano Rich Aroma Coffee Capsules",
+      "pack_size": "16 Pack"
+    },
+    {
+      "product_name": "Campbell's V8 Pineapple Passion Fruit Juice",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "La Ice Cola Soft Drink",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Strangelove Lime & Jalepeno 4 Pack",
+      "pack_size": "300mL"
+    },
+    {
+      "product_name": "Arkadia Chai Tea Low Sugar",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Vitasoy Almond Milky",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Schweppes Orange Mango Natural Mineral Water Bottle",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Golden Circle Cordial Raspberry",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Bundaberg Diet Ginger Beer Multipack 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Golden Circle Cordial Lime Crush",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Golden Circle Cordial Lemon",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Schweppes Zero Sugar Classic Mixers Indian Tonic Water Bottle",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Devondale Full Cream Long Life Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Schweppes Lemon Lime Bitters Soft Drink Classic Mixers Bottle",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Schweppes Soda Water Bottle Classic Mixers",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Schweppes Zero Sugar Agrum Citrus Blend Soft Drink Bottle",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Nescafe Blend 43 Coffee Espresso",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Sunkist Orange Soft Drink Mini Cans",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Schweppes Dry Ginger Ale Soft Drink Classic Mixers Bottle",
+      "pack_size": "1.1L"
+    },
+    {
+      "product_name": "Oatly Organic Oat Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Madura Organics Black Tea Leaf",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Higher Living Organic Tea Ginger Kick",
+      "pack_size": "15 Pack"
+    },
+    {
+      "product_name": "Sodastream Pepsi Max Flavour",
+      "pack_size": "440mL"
+    },
+    {
+      "product_name": "Higher Living Organic Golden Turmeric Tea",
+      "pack_size": "15 Pack"
+    },
+    {
+      "product_name": "Ocean Spray Drink Low Sugar Cranberry",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Coca-Cola Zero Sugar Soft Drink Bottle",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Celestial Seasonings Bengal Spice Tea Bags 20 Pack",
+      "pack_size": "47g"
+    },
+    {
+      "product_name": "Bundaberg Brewed Ginger Beer",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Nescafe Gold Smooth Mild Ground Coffee",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Rockstar Energy Drink Guava Can",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Inglewood Downtown Seasonal Espresso Whole Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Ito En Matcha Traditional Green Tea Bags 20 Pack",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Fever-Tree Elderflower Tonic Water 4x200ml",
+      "pack_size": "0.8L"
+    },
+    {
+      "product_name": "Nescafe Gold Intense Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Ribena Blackcurrant Juice Syrup",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Liddells Lactose Free 99% Low Fat Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Sanpellegrino Pet Sparkling Mineral Water Bottle",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Pukka Three Mint Herbal Tea Sachets 20 Pack",
+      "pack_size": "32g"
+    },
+    {
+      "product_name": "Sodastream Classic Orange & Mango Flavour",
+      "pack_size": "440mL"
+    },
+    {
+      "product_name": "Mount Franklin Lightly Sparkling Water Lime Multipack Cans 375ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Nerada Organics Pure Chai Tea Bags 50 Pack",
+      "pack_size": "92.5g"
+    },
+    {
+      "product_name": "Belvoir Farm Elderflower Cordial",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Sunraysia Pomegranate Juice",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Cadbury Instant Hot Chocolate 150g",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Alka Power Ionic Alkaline Spring Water Ph9-10 With 5 Natural Electrolytes",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Mount Franklin Lightly Sparkling Water Natural Bottle",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Pukka Night Time Tea Sachets 20 Pack",
+      "pack_size": "20g"
+    }
+  ]
+}

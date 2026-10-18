@@ -1,0 +1,206 @@
+{
+  "category": "liquorland",
+  "page": 2,
+  "source_url": "https://www.coles.com.au/browse/liquorland?page=2",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "49 - 96 of 2,303 results",
+  "reported_total": 2303,
+  "reported_pages": 48,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Oyster Bay Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Buffalo Trace Kentucky Straight Bourbon Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Gordons Pink Gin Rtd Bottle 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Pepperjack Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Summerhouse Marlborough Pinot Gris 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Chandon Nv Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Postcards from Italy Organic Pinot Grigio 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Land of Giants Marlborough Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Fireball Cinnamon Whiskey 50ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "De Bortoli Sacred Hill Semillon Sauv Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Lana's Bike Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jim Barry Watervale Riesling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jamiesons Run Grazier Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Parson's Paddock Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Rose D'Amelie Aoc Luberon Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "St Hugo Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Grant Burge 5th Generation Barossa Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Peter Lehmann Shoulder To Shoulder Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "4 Pines Brewing Pale Ale Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Vodka Cruiser Pure Pineapple 275ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "James Squire Ginger Beer Low Sugar Can 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Oyster Bay Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Two Churches The Preacher Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Zilzie Liv Lighter Pinot Grigio 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jam Shed Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Ned Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Zilzie Liv Lighter Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hardys Tintara Mclaren Vale Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Little Creatures Pale Ale Bottle 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Jacob's Creek Double Barrel Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Red Hill Estate Cool Climate Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mountain Culture Status Quo Pale Ale Can 355ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "4 Pines Brewing Japanese Lager Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Penfolds Max's Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jam Shed Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Two Churches The Preacher Pinot Gris",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Winton Road Barossa Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Stoneleigh Lighter Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Abbey Vale Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Winton Road Eden Valley Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Pepperjack Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mountain Goat Tasty Pale Ale Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Winton Road Barossa Valley Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Pepperjack Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Two Churches The Preacher Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jamiesons Run Grazier Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "West Cape Howe Semillon Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Two Churches The Preacher Riesling 750ml",
+      "pack_size": "1 Each"
+    }
+  ]
+}

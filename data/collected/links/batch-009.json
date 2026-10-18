@@ -1,0 +1,290 @@
+[
+  {
+    "category": "pantry",
+    "english": "Paprika",
+    "product_name": "Coles Ground Paprika",
+    "pack_size": "39g",
+    "product_url": "https://www.coles.com.au/product/coles-ground-paprika-39g-8982961",
+    "product_id": "8982961",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Nutmeg",
+    "product_name": "Masterfoods Ground Nutmeg",
+    "pack_size": "35g",
+    "product_url": "https://www.coles.com.au/product/masterfoods-ground-nutmeg-35g-9467009",
+    "product_id": "9467009",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Cardamom",
+    "product_name": "Pattu Green Cardamom",
+    "pack_size": "50g",
+    "product_url": "https://www.coles.com.au/product/pattu-green-cardamom-50g-3339276",
+    "product_id": "3339276",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Cloves",
+    "product_name": "Hoyts Whole Cloves",
+    "pack_size": "15g",
+    "product_url": "https://www.coles.com.au/product/hoyts-whole-cloves-15g-287460",
+    "product_id": "287460",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Sesame Seeds",
+    "product_name": "Coles Sesame Seeds",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/coles-sesame-seeds-150g-3559523",
+    "product_id": "3559523",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Chia Seeds",
+    "product_name": "Red Tractor Black Chia Seeds",
+    "pack_size": "600g",
+    "product_url": "https://www.coles.com.au/product/red-tractor-black-chia-seeds-600g-4306818",
+    "product_id": "4306818",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Peppercorns",
+    "product_name": "Coles Cracked Black Peppercorns",
+    "pack_size": "48g",
+    "product_url": "https://www.coles.com.au/product/coles-cracked-black-peppercorns-48g-8987808",
+    "product_id": "8987808",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Sea Salt",
+    "product_name": "Maldon Smoked Sea Salt",
+    "pack_size": "125g",
+    "product_url": "https://www.coles.com.au/product/maldon-smoked-sea-salt-125g-3790941",
+    "product_id": "3790941",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Sardines",
+    "product_name": "Safcol Brisling Sardines Oil",
+    "pack_size": "110g",
+    "product_url": "https://www.coles.com.au/product/safcol-brisling-sardines-oil-110g-2508287",
+    "product_id": "2508287",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Mackerel",
+    "product_name": "Sole Mare Mackerel In Olive Oil",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/sole-mare-mackerel-in-olive-oil-120g-2509825",
+    "product_id": "2509825",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Tuna",
+    "product_name": "Coles Sweetcorn & Mayonnaise Tuna",
+    "pack_size": "95g",
+    "product_url": "https://www.coles.com.au/product/coles-sweetcorn-and-mayonnaise-tuna-95g-7475957",
+    "product_id": "7475957",
+    "status": "resolved"
+  },
+  {
+    "category": "pantry",
+    "english": "Salmon",
+    "product_name": "John West Wild Alaskan Red Salmon",
+    "pack_size": "105g",
+    "product_url": "https://www.coles.com.au/product/john-west-wild-alaskan-red-salmon-105g-124761",
+    "product_id": "124761",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Pretzels",
+    "product_name": "Parker's Baked Pretzels Wheat Original",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/parker%27s-baked-pretzels-wheat-original-200g-6133970",
+    "product_id": "6133970",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Popcorn",
+    "product_name": "Cobs Lightly Salted Slightly Sweet Popcorn",
+    "pack_size": "120g",
+    "product_url": "https://www.coles.com.au/product/cobs-lightly-salted-slightly-sweet-popcorn-120g-6772389",
+    "product_id": "6772389",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Rice Crackers",
+    "product_name": "Coles Seaweed Rice Crackers",
+    "pack_size": "100g",
+    "product_url": "https://www.coles.com.au/product/coles-seaweed-rice-crackers-100g-7908395",
+    "product_id": "7908395",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Corn Chips",
+    "product_name": "CC's Nacho Cheese Corn Chips",
+    "pack_size": "175g",
+    "product_url": "https://www.coles.com.au/product/cc%27s-nacho-cheese-corn-chips-175g-1795376",
+    "product_id": "1795376",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Tortilla Chips",
+    "product_name": "Tostitos Splash Of Lime Tortilla Chips",
+    "pack_size": "175g",
+    "product_url": "https://www.coles.com.au/product/tostitos-splash-of-lime-tortilla-chips-175g-3950607",
+    "product_id": "3950607",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Crackers",
+    "product_name": "Sunbites Sea Salt Snack Crackers",
+    "pack_size": "105g",
+    "product_url": "https://www.coles.com.au/product/sunbites-sea-salt-snack-crackers-105g-2976853",
+    "product_id": "2976853",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Wafer",
+    "product_name": "Coles Wafer Crackers",
+    "pack_size": "100g",
+    "product_url": "https://www.coles.com.au/product/coles-wafer-crackers-100g-1327822",
+    "product_id": "1327822",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Shortbread",
+    "product_name": "Butterfingers Macadamia Shortbread",
+    "pack_size": "175g",
+    "product_url": "https://www.coles.com.au/product/butterfingers-macadamia-shortbread-175g-5767204",
+    "product_id": "5767204",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Marshmallows",
+    "product_name": "Coles Pink And White Marshmallows",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/coles-pink-and-white-marshmallows-150g-3797157",
+    "product_id": "3797157",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Liquorice",
+    "product_name": "Darrell Lea Batch 37 Fresh Liquorice",
+    "pack_size": "260g",
+    "product_url": "https://www.coles.com.au/product/darrell-lea-batch-37-fresh-liquorice-260g-3449117",
+    "product_id": "3449117",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Jelly Beans",
+    "product_name": "Allen's Lollies Jelly Beans Vegan Friendly",
+    "pack_size": "190g",
+    "product_url": "https://www.coles.com.au/product/allen%27s-lollies-jelly-beans-vegan-friendly-190g-5196840",
+    "product_id": "5196840",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Gummy",
+    "product_name": "The Natural Confec Co. Soft Jellies Mini Gummy Bears",
+    "pack_size": "80g",
+    "product_url": "https://www.coles.com.au/product/the-natural-confec-co.-soft-jellies-mini-gummy-bears-80g-1710680",
+    "product_id": "1710680",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Toffee",
+    "product_name": "Cadbury Cadbury Dairy Milk Slices Sticky Toffee Chocolate Block",
+    "pack_size": "178g",
+    "product_url": "https://www.coles.com.au/product/cadbury-cadbury-dairy-milk-slices-sticky-toffee-chocolate-block-178g-9960884",
+    "product_id": "9960884",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Fudge",
+    "product_name": "Carman's Protein Brownie Choc Nut Fudge 5 Pack",
+    "pack_size": "175g",
+    "product_url": "https://www.coles.com.au/product/carman%27s-protein-brownie-choc-nut-fudge-5-pack-175g-1515662",
+    "product_id": "1515662",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Nougat",
+    "product_name": "Mars Milk Chocolate Bar Caramel Nougat",
+    "pack_size": "47g",
+    "product_url": "https://www.coles.com.au/product/mars-milk-chocolate-bar-caramel-nougat-47g-138201",
+    "product_id": "138201",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Muesli Bar",
+    "product_name": "Uncle Tobys Kit Kat Muesli Bar",
+    "pack_size": "145g",
+    "product_url": "https://www.coles.com.au/product/uncle-tobys-kit-kat-muesli-bar-145g-1862189",
+    "product_id": "1862189",
+    "status": "resolved"
+  },
+  {
+    "category": "chips-chocolates-snacks",
+    "english": "Trail Mix",
+    "product_name": "Nice & Natural Nut Bars Yoghurt Trail Mix 6 Pack",
+    "pack_size": "192g",
+    "product_url": "https://www.coles.com.au/product/nice-and-natural-nut-bars-yoghurt-trail-mix-6-pack-192g-1018260",
+    "product_id": "1018260",
+    "status": "resolved"
+  },
+  {
+    "category": "international-foods",
+    "english": "Coconut Cream",
+    "product_name": "Ayam 100% Natural Coconut Cream",
+    "pack_size": "400mL",
+    "product_url": "https://www.coles.com.au/product/ayam-100percent-natural-coconut-cream-400ml-3753559",
+    "product_id": "3753559",
+    "status": "resolved"
+  },
+  {
+    "category": "international-foods",
+    "english": "Coconut Milk",
+    "product_name": "Ayam 100% Natural Light Coconut Milk",
+    "pack_size": "270mL",
+    "product_url": "https://www.coles.com.au/product/ayam-100percent-natural-light-coconut-milk-270ml-9124341",
+    "product_id": "9124341",
+    "status": "resolved"
+  },
+  {
+    "category": "international-foods",
+    "english": "Rice Paper",
+    "product_name": "Roll'd Rice Paper",
+    "pack_size": "375g",
+    "product_url": "https://www.coles.com.au/product/roll%27d-rice-paper-375g-4207543",
+    "product_id": "4207543",
+    "status": "resolved"
+  }
+]

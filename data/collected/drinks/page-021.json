@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 21,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=21",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "961 - 1,008 of 1,575 results",
+  "reported_total": 1575,
+  "reported_pages": 33,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Mother Energy Drink Rainbow Sherbet 4x500ml",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Remedy Ginger Beer Ginger Beer 4x250ml",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Remedy Kombucha Raspberry Lemonade",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Red Bull Energy Drink Original 4x473ml",
+      "pack_size": "1.89L"
+    },
+    {
+      "product_name": "Vittoria Italian Blend Coffee Bag",
+      "pack_size": "20 Pack"
+    },
+    {
+      "product_name": "Gatorade Sports Drink Lemon & Lime",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Ribena Blackcurrant Fruit Drink",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Monster Energy Drink Ultra Vice",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "L'OR Espresso Lungo Estremo Intensity 10 Coffee Capsules Nespresso* Compatible 52g",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Madame Flavour Green Jasmine & Pear Tea Bags18 Pack",
+      "pack_size": "36g"
+    },
+    {
+      "product_name": "Vittoria Espresso Ground Coffee",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Nescafe Blend 43 Refill Instant Coffee Pouch",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Vittoria Mountain Grown Ground Coffee",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "V Energy Blue",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Perkii Strawberry Watermelon Probiotic Drink",
+      "pack_size": "350mL"
+    },
+    {
+      "product_name": "Lipton Decaffeinated Black Tea",
+      "pack_size": "50 Pack"
+    },
+    {
+      "product_name": "Sodasmith Finger Lime Soda Water Can 4x200ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Coles Spring Water",
+      "pack_size": "4L"
+    },
+    {
+      "product_name": "Pepsi Soft Drink Cola Bottle",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Bickford's Cordial Orange Lemon Lime",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Cottee's Cordial Pine Lime",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Remedy Sodaly Blood Orange",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Golden Circle 100% Orange Mango Juice",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Nippy's Apple & Blackcurrant Juice Chilled",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Preshafruit Cold Pressed Pink Guava Apple Juice",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Grove Juice Mango Peach Apple Strawberry",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Pukka Tea Peppermint & Licorice",
+      "pack_size": "20 Pack"
+    },
+    {
+      "product_name": "T2 Peppermint Tea Bags",
+      "pack_size": "25 Pack"
+    },
+    {
+      "product_name": "Bobby Prebiotic Soft Drink Vanilla Cola",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Vittoria Mountain Grown Nespresso Compatible Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Robert Timms Italian Espresso Style Coffee Bags 8 Pack",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Remedy Kombucha Mango Passion",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Arkadia Original Matcha Latte",
+      "pack_size": "220g"
+    },
+    {
+      "product_name": "Pukka Lemon Ginger & Manuka Honey Tea Sachets 20 Pack",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Lavazza Tales Of Italy Roma Ground Coffee",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Mount Franklin Spring Water Bottle",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "The Juice Lab Wellness Shot Digestion",
+      "pack_size": "60mL"
+    },
+    {
+      "product_name": "H2juice Sparkling Pink Guava",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Remedy Kombucha Raspberry Lemonade Drink",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Lo Bros Organic Kombucha Tropical Crush",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Tetley Classic Chai Latte Tea Sachets 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Grove Mandarin Juice",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Sustagen Nutrional Powder Vanilla Flavour",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "Starbucks Breakfast Blend Capsules By Nespresso",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Twinings Lady Grey Tea Bags",
+      "pack_size": "100 Pack"
+    },
+    {
+      "product_name": "Liddells Lactose Free High Protein Full Cream Milk",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Sunkist Zero Sugar Orange Soda Syrup Sugar Free Cordial",
+      "pack_size": "300mL"
+    },
+    {
+      "product_name": "Higher Living Organic Tea Ginger Kick",
+      "pack_size": "15 Pack"
+    }
+  ]
+}

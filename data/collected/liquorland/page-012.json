@@ -1,0 +1,202 @@
+{
+  "category": "liquorland",
+  "page": 12,
+  "source_url": "https://www.coles.com.au/browse/liquorland?page=12",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "529 - 576 of 2,301 results",
+  "reported_total": 2301,
+  "reported_pages": 48,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Basil Hayden Kentucky Straight Bourbon Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "St Germain Elderflower Liqueur 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "First Press Espresso Martini Can 200ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Somersby Pear Cider Bottle 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Devilish Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Vodka Cruiser Double Guava Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Coopers Sparkling Ale Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Frangelico Hazelnut Liqueur 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Carlton Draught Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Yellow Tail Sparkling Cuvee Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Oyster Bay Sparkling Cuvee Brut 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Annie's Lane Clare Valley Riesling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Vodka Cruiser Double Low Sugar Blackcurrant Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Smithy's Premium Lager Bottle 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Midori Melon Liqueur 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Sour Puss Rtd Mixed Pack Can 330ml",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Matso's Ginger Beer Can 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Jim Barry Barry & Sons' Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Barossa Valley Wine Co. Gravel Track Cab Sauv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Casamigos Blanco Tequila 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "St Agnes VS Brandy 150ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Zilzie Estate Prosecco 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Tooheys Extra Dry Can 375ml",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Barossa Valley Wine Co. Gravel Track Gsm 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jack Daniels & No Sugar Cola Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Taylors Estate Riesling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Taylors Estate Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Oyster Bay Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jose Cuervo Sparkling Margarita 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Penfolds Koonunga Hill Shiraz Cabernet 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mr Finch Apple Cider Can 375ml 10pk",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Melbourne Bitter Can 375ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Vasse Felix Classic Dry White 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Nepenthe Elevation Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Pure Origin Dry Gin & Soda With Lime Can 250ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Jameson Zero Sugar Smooth Dry & Lime 6.3% Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "The Shin Blended Japanese Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Annie's Lane Cabernet Merlot 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coopers Extra Stout Bottle 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Appleton Estate Signature Blend Rum 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "The Kraken Black Cherry & Madagascan Vanilla Rum 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "El Jimador Reposado Tequila 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Sapporo Bottles 355ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "-196 Double Peach 6% Can 330ml",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Smirnoff Crush Mango & Peach Zero Sugar 6% Can 440ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "La Promesse Loire Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "BentSpoke Crankshaft Ipa Can 375ml",
+      "pack_size": "4 Pack"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "category": "liquorland",
+  "page": 38,
+  "source_url": "https://www.coles.com.au/browse/liquorland?page=38",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,777 - 1,824 of 2,319 results",
+  "reported_total": 2319,
+  "reported_pages": 49,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Glenfiddich 18yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bird In Hand Two in The Bush Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds St Henri Shiraz 2019 (clr) 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Abbey Vale Chenin Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Rapaura Springs Bull Paddock Vyd Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bernard Michaut Petit Chablis 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Iron Jack Block Can 375ml",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Johnnie Walker 18yo Blended Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Byron Bay Lager Bottle 355ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Maretti Langhe Rosso 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mountain Goat Steam Ale Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Rapaura Springs Reserve Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Manly Spirits Lilly Pilly Pink Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Stonehaven Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "St Huberts The Stag Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Barry Watermelon & Lemon Can 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Devil's Lair Honeybomb Cabernet Sauvignon Malbec 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "19 Crimes Snoop Dogg Cali Gold 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Cowpunk Natural Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mount Langi Ghiran Grampians Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Clos de los Siete Malbec Blend 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Remy Martin Vsop Cognac 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Angove Organic Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Fowles Are You Game Arneis 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Cave de Lugny Bourgogne Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bloom Passionfruit & Vanilla Blossom Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "West Cork Port Cask Single Malt Irish Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Martell Blue Swift 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Xanadu Circa 77 Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Just Pink Gin Soda 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Chateau Tanunda Single Vineyard Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Campari Negroni 500ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "818 Tequila Blanco 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Nikka Days Japanese Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Stonehaven Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Stonehaven Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Tahbilk Marsanne 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Cowpunk Natural Pinot Gris 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Gweilo Rainbow Sherbet Sour Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "78 Degrees Classic Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Peregrine Otago Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Kylie Minogue Signature Prosecco Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Leogate Estate Arrowfield Central Ranges Merlot 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bundaberg Master Distillers' Solera Rum 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Cloudbreak Adelaide Hills Nouveau Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Cune Reserva Tempranillo 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds Bin 28 Shiraz 2022 Holiday GB 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Baileys Cinnamon Scroll 700ml",
+      "pack_size": "1 Each"
+    }
+  ]
+}

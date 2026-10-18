@@ -1,0 +1,206 @@
+{
+  "category": "fruit-vegetables",
+  "page": 2,
+  "source_url": "https://www.coles.com.au/browse/fruit-vegetables?page=2",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "49 - 96 of 499 results",
+  "reported_total": 499,
+  "reported_pages": 11,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Coles Pink Lady Apples Medium",
+      "pack_size": "approx. 200g"
+    },
+    {
+      "product_name": "Coles Natural Almonds",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Coles Kitchen Honey Mustard & Crouton Salad Kit",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Coles Glasshouse Grape Tomatoes",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Green Kiwifruit",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Orange Navel",
+      "pack_size": "approx. 250g"
+    },
+    {
+      "product_name": "Coles Lemons",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Green Asparagus",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Coles Gold Kiwifruit",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Pear Packham",
+      "pack_size": "approx. 240g"
+    },
+    {
+      "product_name": "Eureka Blueberries Premium",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Tomatoes Cherry Vine Ripened",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Red Seedless Grapes",
+      "pack_size": "approx. 1kg"
+    },
+    {
+      "product_name": "Coles Rockmelon Whole",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Bravo Apples",
+      "pack_size": "approx. 200g"
+    },
+    {
+      "product_name": "Coles Rockmelon Half",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Coles Brushed Potatoes",
+      "pack_size": "2Kg"
+    },
+    {
+      "product_name": "Coles Sleeved Herbs Coriander",
+      "pack_size": "1 Bunch"
+    },
+    {
+      "product_name": "Coles Baby Asparagus",
+      "pack_size": "1 Bunch"
+    },
+    {
+      "product_name": "Coles Grandma's Heirloom Tomatoes Red",
+      "pack_size": "approx. 250g"
+    },
+    {
+      "product_name": "Coles Sleeved Herbs Parsley Continental",
+      "pack_size": "1 Bunch"
+    },
+    {
+      "product_name": "Coles Mini Capsicum",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Coles Limes Medium Loose",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Coles Purple Eggplant",
+      "pack_size": "approx. 500g"
+    },
+    {
+      "product_name": "Coles Kestrel Washed Potatoes",
+      "pack_size": "2Kg"
+    },
+    {
+      "product_name": "Coles Potatoes Washed",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Coles Butternut Pumpkin Whole",
+      "pack_size": "approx. 2kg"
+    },
+    {
+      "product_name": "Coles Herb Punnets Dill",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Fresh Grab N Glow Pink Lady",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Coles Herb Punnets Coriander",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Coles Sleeved Herbs Mint",
+      "pack_size": "1 Bunch"
+    },
+    {
+      "product_name": "Coles Herb Punnets Chives",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Coles Sleeved Herbs Parsley",
+      "pack_size": "1 Bunch"
+    },
+    {
+      "product_name": "Coles Herb Punnets Rosemary",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Thyme",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Mint",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Sage",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Parsley Continental",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Curry Leaves",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Lemongrass",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Lime Leaves",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Lemon Thyme",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Oregano",
+      "pack_size": "10g"
+    },
+    {
+      "product_name": "Coles Herb Punnets Vietnamese Mint",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Coles Bananas",
+      "pack_size": "approx. 170g"
+    },
+    {
+      "product_name": "Coles Kitchen Caesar Salad Kit",
+      "pack_size": "290g"
+    },
+    {
+      "product_name": "Coles Carrots",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Coles Cauliflower Medium",
+      "pack_size": "1 Each"
+    }
+  ]
+}

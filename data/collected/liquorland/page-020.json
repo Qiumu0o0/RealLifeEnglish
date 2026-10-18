@@ -1,0 +1,206 @@
+{
+  "category": "liquorland",
+  "page": 20,
+  "source_url": "https://www.coles.com.au/browse/liquorland?page=20",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "913 - 960 of 2,292 results",
+  "reported_total": 2292,
+  "reported_pages": 48,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "The Kraken Spiced Rum & Dry Can 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Mountain Goat Summer Ale Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "St Hallett Faith 375ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Canadian Club & Dry Can 375ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "De Bortoli Premium Traminer Riesling Cask 4l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Wild Turkey & Cola 101 Zero Sugar Cans 375ml 10pk",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Yellowglen Yellow 65 Nv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bombay Sapphire Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jim Beam Zero Sugar Cola Cans 375ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Lana's Bike Riesling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Orion The Dark Can 350ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Taylors Jaraman Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Protocolo Tempranillo 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penola Estate Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Carlton Dry Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Bijou Terre De Providence Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coldstream Hills The Hills Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Sisters Run Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Pewsey Vale Riesling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Altos Margarita Lime Cocktails Can 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Barry Shochu Tropical Mango Soda Can 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Berri Dolce Bianco Cask 5l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Grey Goose Vodka 1 Litre",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Portone Pinot Grigio Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "La Promesse Loire Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Dead Mans Fingers Spiced Rum 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "De Bortoli Sacred Hill Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Pure Origin Tasmanian Pink Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jim Beam White Bourbon 50ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Brown Brothers Prosecco Yuzu Lemon Spritz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Tamnavulin Double Cask Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mumm Cordon Rouge Nv 375ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Abbey Vale Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Malfy Gin Rosa 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Cinta Prosecco Doc Nv 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penola Estate Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Peroni Nastro 3.5% Bottle 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Banrock Station Crimson Cabernet 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "George Wyndham Bin 555 Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Peroni Nastro Azzurro 0.0% 6x330ml",
+      "pack_size": "1.98L"
+    },
+    {
+      "product_name": "Yellow Tail Light And Bright Sparkling Cuvee 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Zilzie Bulloak Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Donna Lorenza Chianti Docg 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Heineken Can 500ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Baileys Australian Rivermint Chocolate Liqueur 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Taylors Estate Merlot 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Young Henrys Cloudy Cider Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Petaluma White Label Chardonnay 750ml",
+      "pack_size": "1 Each"
+    }
+  ]
+}

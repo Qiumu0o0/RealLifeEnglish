@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 97,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=97",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "4,609 - 4,656 of 6,094 results",
+  "reported_total": 6094,
+  "reported_pages": 127,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Knorr Yellow Chicken Powder",
+      "pack_size": "1 kg"
+    },
+    {
+      "product_name": "Nutra Naturals Collagen Hot Chocolate",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Musashi Creatine Unflavoured",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "BSC High Protein Powder Vanilla",
+      "pack_size": "800g"
+    },
+    {
+      "product_name": "Musashi Shred And Burn Vanilla",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "McCormick Street Food Seasoning Caribbean",
+      "pack_size": "25g"
+    },
+    {
+      "product_name": "Pigeon Brand Pickled Mustard Half Brine",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Aeroplane Jelly Crystals Purple Grape Flavoured",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Dollar Sweets Pink And White Mallows",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "BC Snacks Raspberry Truffle Flavoured High Protein Bar",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Musashi Protein Crisp Bar White Choc Salted Caramel",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Century Tuna Calamansi",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Maharajah's Choice Masala Crunch",
+      "pack_size": "52g"
+    },
+    {
+      "product_name": "Cortas Broad Fava Beans",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Ching's Manchurian Instant Noodles",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Suraya Fried Rice Sauce",
+      "pack_size": "230g"
+    },
+    {
+      "product_name": "S&B Curry Sauce With Vegetable Mild",
+      "pack_size": "210g"
+    },
+    {
+      "product_name": "Britannia Tiger Glucose Biscuits",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Crackle & Co Sea Salt Pork Crackle",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Milka. Alpine Chocolate",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "ATP Science Noway Collagen Fusion Bar Berries & Cream",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "MTR Dal Fry Mild",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Noway Collagen Jelly Bar Belgian Choc",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Gaganis Lentils Red Whole Kye",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "B2 Pork Luncheon Meat Round",
+      "pack_size": "397g"
+    },
+    {
+      "product_name": "Pantai Sweet Chilli Sauce Sugar Free",
+      "pack_size": "200mL"
+    },
+    {
+      "product_name": "Masterfoods Umami Garlic Herb Seasoning Can",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Masterfoods Airfry Smokey Chicken Seasoning Can",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Green Leaf Spices Sumac",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Watermelon Glutinous Rice",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "MasterFoods Whole Cumin Seeds",
+      "pack_size": "28g"
+    },
+    {
+      "product_name": "Nescafe Farmers Origins India Espresso Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Yopokki Cheese Rapokki",
+      "pack_size": "145g"
+    },
+    {
+      "product_name": "Sunrice Protein+ Brown Rice Pouch",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Muscle Nation Custard Plant Protein Bar Choc Hazelnut",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Gaufrettes Chocolate Coated Wafers",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "The Dutch Company Salmiak Rockies Licorice 20 Pack",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Musashi Protein Wafer Bar White Choc Caramel",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Masterfoods Creamy BBQ",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Lotte Koala's March Chocolate Biscuits",
+      "pack_size": "195g"
+    },
+    {
+      "product_name": "Quest Bar Chocolate Peanut Butter",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Siena Fine Polenta",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Patak's Mango Chicken Simmer Sauce",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Betty Crocker Strawberry & Cream Cake Mix",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Orion Turtle Chips Choco Churros Flavour",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Lyles Golden Syrup",
+      "pack_size": "454g"
+    },
+    {
+      "product_name": "Coles Black Bean And Corn Salsa",
+      "pack_size": "439g"
+    },
+    {
+      "product_name": "Queen Victoria Tea Calming Blend Tea Bags",
+      "pack_size": "18 Pack"
+    }
+  ]
+}

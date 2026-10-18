@@ -1,0 +1,206 @@
+{
+  "category": "drinks",
+  "page": 15,
+  "source_url": "https://www.coles.com.au/browse/drinks?page=15",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "673 - 720 of 1,598 results",
+  "reported_total": 1598,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Nudie Nothing But Kids Tropical Juice",
+      "pack_size": "200mL"
+    },
+    {
+      "product_name": "Pauls Bluey Chocolate Flavoured Milk",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Higher Living Organic Tea Peppermint & Licorice",
+      "pack_size": "15 Pack"
+    },
+    {
+      "product_name": "Nerada Camomile Herbal Infusion Tea Bags 40 Pack",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Starbucks By Nespresso Blonde Espresso Roast Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Grinders Cafe - Q Cremello Coffee Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coles Simply Orange & Mango Fruit Drink",
+      "pack_size": "3L"
+    },
+    {
+      "product_name": "Belvoir Farm Elderflower Cordial",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Cottee's Cordial Apple Raspberry",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Nescafe Double Shot Caramel Latte Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Cadbury Instant Hot Chocolate 150g",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Milo Mocha Original",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "ST ALi Italo Disco Coffee Beans",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Twinings Honeybush Orange Mandarin Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Vittoria Strong Cappuccino Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "L'OR Espresso Caramel Coffee Capsules Nespresso* Compatible",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Bundaberg Brewed Passionfruit 6x200ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Starbucks Nespresso Compatible Capsules Caramel",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Moccona Cafe Classics Latte Coffee Sachets",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Twining's Green Tea And Lemon Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Golden Circle Tetra Drink Apricot Nectar",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Remedy Kombucha Raspberry",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Devondale High Protein Full Cream Milk 6x200ml",
+      "pack_size": "1.2L"
+    },
+    {
+      "product_name": "Nudie Nothing But 100% Juice Orange Double Pulp",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Coles Urban Coffee Culture Organic Ground",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Nescafe Hazelnut Latte Coffee Sachets",
+      "pack_size": "26 Pack"
+    },
+    {
+      "product_name": "Twining's Green Tea & Jasmine Tea Bags",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Harris Coffee Filter Papers 10-12 Cup Size 4",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Nestle Nesquik Banana Flavoured Milk Drink",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Remedy Kombucha Ginger",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Schweppes Lemonade Soft Drink Mini Cans 250ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Nescafe Mocha Coffee Sachets",
+      "pack_size": "26 Pack"
+    },
+    {
+      "product_name": "Twinings Australian Afternoon Tea Bags 10 Pack",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "Vittoria Mocha Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Fanta Fantasies Dreamy Cream & Lemon Soft Drink",
+      "pack_size": "1.25L"
+    },
+    {
+      "product_name": "Coles Dairy Orange Juice",
+      "pack_size": "3L"
+    },
+    {
+      "product_name": "H2coco Pure Coconut Water",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Golden Circle Cordial Pineapple Mango & Passionfruit",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Ocean Spray Drink Cranberry Pineapple Low Sugar",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Daley Street Medium/dark Aluminium Nespresso Compatible Coffee Capsules",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Sanpellegrino Sparkling Mineral Water Bottle",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Nerada Organics Pure Chai Tea Bags 50 Pack",
+      "pack_size": "92.5g"
+    },
+    {
+      "product_name": "L'OR Espresso Decaffeinato Ristretto Intensity 9 Coffee Capsules Nespresso* Compatible 52g",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Golden Circle Cordial Golden Pash",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Bickford's Iced Coffee Syrup",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Nescafe Dolce Gusto Cafe Au Lait Coffee Capsules",
+      "pack_size": "16 Pack"
+    },
+    {
+      "product_name": "Pauls Bluey Strawberry Flavoured Milk",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Avalanche 99% Sugar Free Caramelised White Choc 10 Pack",
+      "pack_size": "10 Pack"
+    }
+  ]
+}

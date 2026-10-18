@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 56,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=56",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "2,641 - 2,688 of 6,125 results",
+  "reported_total": 6125,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Maille Hollandaise Sauce",
+      "pack_size": "185g"
+    },
+    {
+      "product_name": "Coles Australian Apricot Halves In Juice",
+      "pack_size": "410g"
+    },
+    {
+      "product_name": "Kellogg's Nutri- Grain Bars 330g",
+      "pack_size": "15 Pack"
+    },
+    {
+      "product_name": "Caffe Aurora Italian Blend Ground Coffee",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Cobram Estate Garlic And Onion Infused Oil",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Coles Wellness Road Organic Coconut Flakes",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Kan Yen Jan Pork Sausage",
+      "pack_size": "127g"
+    },
+    {
+      "product_name": "Pana Organic Mylk Coconut Rough Chocolate",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Coles Baked Beans In Tomato Sauce 3 Pack",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Crisco Rice Bran Oil",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "SPC Spaghetti in Rich Tomato",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Gravox Pepper Steak Sauce Liquid Pouch",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Coles Turmeric Ground",
+      "pack_size": "47g"
+    },
+    {
+      "product_name": "Caffe Aurora Italian Blend Beans Coffee",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Mission Deli Style Tortilla Triangles",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Vittoria Espresso Nespresso Compatible Coffee Capsules",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "McKenzie's Whole Black Pepper Grinders",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Providore Vine Ripened Tomato And Red Chilli Paste Sauce",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "UP&GO Liquid Breakfast Strawberry 6x250ml",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Coles 30% Sugar Reduced Tomato Sauce",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Hoyts Hungarian Sweet Paprika",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "John West Wild Alaskan Red Salmon",
+      "pack_size": "210g"
+    },
+    {
+      "product_name": "Uncle Tobys Oats Quick Sachets Creamy Vanilla",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "French's Classic Yellow Mustard",
+      "pack_size": "226g"
+    },
+    {
+      "product_name": "San Remo Pasta Instant Spaghetti",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Simply Tuna In Oil",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Beerenberg Tomato Chutney",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Happy Snack Company Fava Beans Red Pepper & Chilli 6 Pack",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Coles Wellness Road Psyllium Husk Powder",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Sunrice Premium Long Grain Rice",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Valcom Water Chestnut Slices",
+      "pack_size": "227g"
+    },
+    {
+      "product_name": "Coles Simply Breakfast Marmalade",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Zafarelli Fettuccine Pasta No 12",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Heinz Baked Beans Tomato Sauce 3x420g",
+      "pack_size": "1260g"
+    },
+    {
+      "product_name": "Capilano Pure Australian Honey Pail",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Kez's Kitchen Gluten Free Lemon Cream Melting Moment",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Coles Wellness Road Organic Cacao Powder",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Aunt Betty's Creamy Rice Snack With Vanilla",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Coles Mini Toasty Garlic And Herb Naan 5 Pack",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Sunrice Low GI White Rice",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Health Lab Gluten Free Holy Hazelnut Nut-butter Filled Ball",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Old El Paso Stand 'n Stuff Soft Tortillas 8 Pack",
+      "pack_size": "193g"
+    },
+    {
+      "product_name": "Guzzi's Pappardelle Pasta",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Queen Finest Vanilla Pure Extract Madagascar",
+      "pack_size": "50mL"
+    },
+    {
+      "product_name": "Sanitarium Weet-bix Gluten Free Coconut & Cinnamon Breakfast Cereal",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Leggo's Tomato Puree",
+      "pack_size": "410g"
+    },
+    {
+      "product_name": "Carman's Protein Clusters Vanilla Cinnamon Crumble",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Rosella Fruit Chutney",
+      "pack_size": "525g"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "category": "chips-chocolates-snacks",
+  "page": 1,
+  "source_url": "https://www.coles.com.au/browse/chips-chocolates-snacks",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1 - 48 of 1,684 results",
+  "reported_total": 1684,
+  "reported_pages": 36,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Mars Chocolate Fun Size Share Bag 12 Pieces",
+      "pack_size": "192g"
+    },
+    {
+      "product_name": "Smith's Crinkle Cut Original Potato Chips",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Sakata Stars 12 Pack",
+      "pack_size": "156g"
+    },
+    {
+      "product_name": "Sunbites Crackers Mix Kids' Lunchbox Multipack 12 Pack",
+      "pack_size": "288g"
+    },
+    {
+      "product_name": "Pringles Potato Chips Sour Cream & Onion",
+      "pack_size": "134g"
+    },
+    {
+      "product_name": "Sunbites Cheddar & Chives Snack Crackers With Quinoa Share Pack",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "Mars Variety Fun Size Chocolate Party Bag",
+      "pack_size": "257g"
+    },
+    {
+      "product_name": "Cadbury Twirl Milk Chocolate Sharepack 12 Pack",
+      "pack_size": "168g"
+    },
+    {
+      "product_name": "Thins Light & Tangy Potato Chips",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Oreo Milk Chocolate Wafer Sticks Cookies 10 Pack",
+      "pack_size": "128g"
+    },
+    {
+      "product_name": "Arnott's Cream Favourites Assorted Biscuits",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Oreo Mini Original Cookies Multipack 10 Pack",
+      "pack_size": "204g"
+    },
+    {
+      "product_name": "Cheezels Cheese Snacks Share Pack",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Milky Way Chocolate Party Share Bag 15 Piece",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Arnott's Mini Choc Chip Cookies Multipack 7 Pack",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "KitKat Mini Milk Chocolate Share Pack 11 Pieces",
+      "pack_size": "154g"
+    },
+    {
+      "product_name": "Cadbury Dairy Milk Chocolate Block",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Snickers Chocolate Party Share Bag 12 Pieces",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Maltesers Milk Chocolate Party Share Bag 11 Piece",
+      "pack_size": "132g"
+    },
+    {
+      "product_name": "Skittles Fruits Chewy Lollies Party Share Bag 12 Pieces",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Mcvities Digestives Biscuits Milk Chocolate",
+      "pack_size": "266g"
+    },
+    {
+      "product_name": "Smith's Crinkle Cut Salt And Vinegar Potato Chips",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Arnott's Chocolate Scotch Finger Half Coat Biscuits",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Cobs Lightly Salted Slightly Sweet Popcorn",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Table Of Plenty Snack Pack Topped Sweet Mini Rice Cakes Milk Choc",
+      "pack_size": "84g"
+    },
+    {
+      "product_name": "Arnott's Mint Slice Chocolate Biscuits",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Arnott's Tiny Teddy Chocolate Biscuits Multipack 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Kellogg's Nutri-Grain Original Bars 5 Pack",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "Arnott's Shapes Mini Chicken Crimpy Lunchbox Multipack 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Arnott's Tiny Teddy Hundreds & Thousands Multipack 8 Pack",
+      "pack_size": "184g"
+    },
+    {
+      "product_name": "M&M'S Milk Chocolate Party Share Bag 11 Piece",
+      "pack_size": "148g"
+    },
+    {
+      "product_name": "Arnott's Mini Scotch Finger Biscuits Multipack 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Table Of Plenty Mini Rice Cakes 100s & 1000s Snack Packs",
+      "pack_size": "102g"
+    },
+    {
+      "product_name": "Sunbites Grain Waves Chips Sour Cream & Chives",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Smith's Crinkle Cut Cheese & Onion Potato Chips",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Mars Milk Chocolate Bar Caramel Nougat",
+      "pack_size": "47g"
+    },
+    {
+      "product_name": "Twix Milk Chocolate Caramel Biscuit Party Share Bag 11 Pieces",
+      "pack_size": "159g"
+    },
+    {
+      "product_name": "Cobs Gluten Free Popcorn Sea Salt",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Arnott's Shapes Barbecue Lunchbox Multipack 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Snickers Milk Chocolate Bar Peanuts Caramel",
+      "pack_size": "44g"
+    },
+    {
+      "product_name": "Kellogg's Lcms Rice Bubbles Choc Chip 5 Pack",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Smith's Crinkle Cut Chicken Potato Chips",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Allen's Lollies Snakes Alive Lolly Bag",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Parkers Pretzels Kids' Lunchbox Snacks Multipack Salted 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Smith's Crinkle BBQ Potato Chips",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Kellogg's Lcms Split Stix Yoghurty 5 Pack",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "Arnott's Shapes Pizza Lunchbox Multipack 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Allen's Lollies Killer Pythons",
+      "pack_size": "192g"
+    },
+    {
+      "product_name": "Arnott's Royals Milk Chocolate Biscuits",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Sakata Rice Crackers Plain",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Sakata Rice Crackers Seaweed",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Allen's Party Mix Lollies Bag",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Kellogg's Lcms Rice Bubbles Kaleidos 5 Pack",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Uncle Tobys Muesli Bars Chewy Choc Chip Kids School Lunchbox Snacks",
+      "pack_size": "185g"
+    },
+    {
+      "product_name": "Uncle Tobys Kit Kat Muesli Bar",
+      "pack_size": "145g"
+    },
+    {
+      "product_name": "Smarties Milk Choc Share Pack 11 Pieces",
+      "pack_size": "127g"
+    },
+    {
+      "product_name": "Cobs Gluten Free Popcorn Butter",
+      "pack_size": "90g"
+    }
+  ]
+}

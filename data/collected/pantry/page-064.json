@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 64,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=64",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "3,025 - 3,072 of 6,126 results",
+  "reported_total": 6126,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Vittoria Strong Cappuccino Coffee Sachets",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Grill'd Perfect Pickl'd Mayo",
+      "pack_size": "280mL"
+    },
+    {
+      "product_name": "Ayam 100% Natural Coconut Milk",
+      "pack_size": "200mL"
+    },
+    {
+      "product_name": "Raw C Organic Coconut Oil",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Hoyts Oregano",
+      "pack_size": "25g"
+    },
+    {
+      "product_name": "Sirena Tuna Garlic & Chilli",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Heinz Soup Of The Day Buttercup Pumpkin Soup",
+      "pack_size": "430g"
+    },
+    {
+      "product_name": "Sanitarium Weet-bix Honey & Golden Oats Breakfast Cereal",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Betty Crocker Cake Mix Chocolate Fudge",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Heinz Big Red Tomato Soup Can Salt Reduced",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Uncle Tobys Oats Quick Sachets Protein Variety",
+      "pack_size": "280g"
+    },
+    {
+      "product_name": "Franks Redhot Original Sauce",
+      "pack_size": "354mL"
+    },
+    {
+      "product_name": "Nescafe Cappuccino Skim Coffee Sachets",
+      "pack_size": "26 Pack"
+    },
+    {
+      "product_name": "Mayvers Smooth Chocolate Protein+ Peanut Butter",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Erawan Glutinous Rice Flour",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Divella Potato Gnocchi Di Patate",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Glace Cherries",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Moro Red Wine Vinegar",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "John West Anchovies Fillets in Olive Oil",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Saunders Malt Extract",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Sirena Napoli Style Pasta With Tuna",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Zafarelli Pasta Spaghettini No 3",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Mckenzie's Whole Green Lentils",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coles Asia Soy Sauce",
+      "pack_size": "1.9L"
+    },
+    {
+      "product_name": "Pukka Night Time Tea Sachets 20 Pack",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "Promite Spread",
+      "pack_size": "290g"
+    },
+    {
+      "product_name": "Coles Mi Goreng Instant Noodles 5x85g",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Angas Park Fancy Large Dried Apricots",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Old El Paso Mild Chunky Salsa Dip",
+      "pack_size": "312g"
+    },
+    {
+      "product_name": "Coles Simply Chocolate Flavoured Topping",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "San Remo Plain Fettuccine Pasta",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Dollar Sweets Artificial 100s & 1000s",
+      "pack_size": "145g"
+    },
+    {
+      "product_name": "Coles Baking Powder",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Kellogg's Corn Flakes Crumbs",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Countree Sliced Beetroot",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Munchme Nutritious Snack Almond Blueberry",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Patak's Butter Chicken Curry Paste",
+      "pack_size": "312g"
+    },
+    {
+      "product_name": "Heinz Soup Of The Day 7 Veg With Herbs Vegetable Soup",
+      "pack_size": "430g"
+    },
+    {
+      "product_name": "Coles Pink Himalayan Fine Salt",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Raw C Organic Coconut Oil",
+      "pack_size": "700mL"
+    },
+    {
+      "product_name": "Nutella Go Hazelnut Spread With Cocoa Breadsticks Multipack 48g",
+      "pack_size": "192g"
+    },
+    {
+      "product_name": "Betty Crocker Red Velvet Cake Mix",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Campbell's Condensed Soup Can Tomato",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Moro Tradicional Olive Oil",
+      "pack_size": "1L"
+    },
+    {
+      "product_name": "Masterfoods Chilli Flakes Jar",
+      "pack_size": "76g"
+    },
+    {
+      "product_name": "Cadbury Baking White Chocolate Block",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Carman's Aussie Oat Clusters Honey Crunch",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "UP&GO Liquid Breakfast Vanilla Ice 3x250ml",
+      "pack_size": "750mL"
+    }
+  ]
+}

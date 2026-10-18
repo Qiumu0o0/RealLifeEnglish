@@ -1,0 +1,206 @@
+{
+  "category": "liquorland",
+  "page": 11,
+  "source_url": "https://www.coles.com.au/browse/liquorland?page=11",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "481 - 528 of 2,306 results",
+  "reported_total": 2306,
+  "reported_pages": 49,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Penfolds Bin 389 Cabernet Shiraz 2023 Holiday GB 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds Bin 407 Cabernet Sauvignon 2024 GB 750mL",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Jack Daniels American Serve & Cola 250ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Jim Beam Double Serve Can 375ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Jack Daniels & Cola Bottle 330ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Hard Rated Orange Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Land of Giants Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Land of Giants Marlborough Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jack Daniels & Cola Bottle 330ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Madfish Coastline Cabernet Merlot 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds Bin 311 Chardonnay 2025 750mL",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Coopers Extra Stout Bottle 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Espolon Anejo Tequila 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Great Northern Super Crisp Lager Bottle 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Penfolds Bin 389 Cabernet Shiraz 2024 750mL",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Carlton Dry Can 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Earthworks South Australia Riesling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Cass Fresh Beer Can 355ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "The Ned Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Glen Grant 15yo Single Malt Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds Max's Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Petaluma White Label Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mayfair Pink Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Mayfair Blood Orange & Yuzu Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Fat Bastard Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jim Beam Devils Cut Kentucky Straight Bourbon Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Postcards from Italy Organic Nero D'avola 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Wynns The Siding Cabernet Sauvignon 375ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Asahi Super Dry Cans 500ml",
+      "pack_size": "24 Pack"
+    },
+    {
+      "product_name": "Postcards from Italy Organic Montepulciano 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hoshi Japanese Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Charles de Cazanove Tradition Brut Vintage 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Kentucky Bourbon Double Serve & Cola Can 375ml 10pk",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Devil's Lair Honeybomb Chardonnay 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds Grange Shiraz 2021 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Loch Lomond 12 Yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Crown Lager Bottle 375ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Banrock Station Sauvignon Blanc Cask 2l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Ch Guillon Graves Rouge 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Winston Quinn Dry Cut Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Beyond the Wilderness Riesling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Ink Sloe & Berry Gin Liqueur 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Nepenthe Elevation Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Kalki Moon Classic Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Earthworks Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Chateau Tanunda Parishes Cabernet Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Stella Artois Bottle 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Sour Puss Grape 700ml",
+      "pack_size": "1 Each"
+    }
+  ]
+}

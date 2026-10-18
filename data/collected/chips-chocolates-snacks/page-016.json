@@ -1,0 +1,206 @@
+{
+  "category": "chips-chocolates-snacks",
+  "page": 16,
+  "source_url": "https://www.coles.com.au/browse/chips-chocolates-snacks?page=16",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "721 - 768 of 1,684 results",
+  "reported_total": 1684,
+  "reported_pages": 36,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Charlie's Mini Rice Square Crisps Dark Chocolate",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Darrell Lea White Raspberry Block",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Eclipse Peppermint Chewy Mints Bottle",
+      "pack_size": "93g"
+    },
+    {
+      "product_name": "Mayver's Protein+ Bars Peanut Butter Milk Chocolate Nuts & Seeds 5 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Mayver's Protein+ Bars Salted Caramel & Peanut Butter Swirl Fruit",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Extra Peppermint Sugar Free Chewing Gum 4x14g",
+      "pack_size": "56g"
+    },
+    {
+      "product_name": "Peckish Rice Crackers Cheese & Bacon",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Harvest Box Freeze Dried Dipped Mango",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Orgran Gluten Free Multigrain Quinoa Wafer Crackers",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Mentos Bubble Fresh",
+      "pack_size": "30g"
+    },
+    {
+      "product_name": "Wrigley's Eclipse Grape Sugar Free Mint Tin",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Pico Super Dark Chocolate",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Arnott's Tim Tam Deluxe Chocolate Biscuits Triple Choc",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Nestle Crunch",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "Ferrero Collection Rocher Raffaello Rondnoir Chocolate Gift Box 15 Pack",
+      "pack_size": "172g"
+    },
+    {
+      "product_name": "Harvest Snaps Scoopers Jalapeno & Cheddar",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Milkybar Cookies White Choc Bar",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "Extra White Lemon Lime Sugar Free Chewing Gum",
+      "pack_size": "64g"
+    },
+    {
+      "product_name": "Darrell Lea Rocklea Road Peppermint Block Chocolate",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Eclipse Duos Sugar Free Mints Tin Pine Mango",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Cadbury & More Raspberry Cheesecake Chocolate Block",
+      "pack_size": "195g"
+    },
+    {
+      "product_name": "Tic Tac Peppermint Mints",
+      "pack_size": "24g"
+    },
+    {
+      "product_name": "Well Naturally No Sugar Added Milk Chocolate Coconut Delight",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Jila Sugar Free Spearmint Mints",
+      "pack_size": "34g"
+    },
+    {
+      "product_name": "Byron Beef Jerky Smokey",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Tic Tac Orange Mints",
+      "pack_size": "24g"
+    },
+    {
+      "product_name": "Olina's Bakehouse Gluten Free Seeded Crackers Pepita Seed",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Donski Snack Pack Mild",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Life Savers Grape Sherbert Crunch Stix",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Olina's Bakehouse Gluten Free Seeded Brown Rice Crackers Herb & Garlic",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Cadbury & More Tiramisu Swirl Chocolate Block",
+      "pack_size": "195g"
+    },
+    {
+      "product_name": "Hooleys Waves Barbeque",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Arnott's Gold Label Seed Crackers Black Pepper",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Mentos Fruit",
+      "pack_size": "37.5g"
+    },
+    {
+      "product_name": "Cadbury Roses Chocolate Gift Pouch",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Kez's Kitchen Caramelised Biscuit Cinnamon Creams",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Snackify Yoghurt Coated Berry Bite Mix",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Mentos Single Roll Limited Edition",
+      "pack_size": "37.5g"
+    },
+    {
+      "product_name": "Red Rock Deli Crostini Crackers Parmersan & Black Pepper",
+      "pack_size": "115g"
+    },
+    {
+      "product_name": "Charlie's Mini Rice Square Crisps Milk Chocolate",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Red Rock Deli Mini Grissini Salted Sourdough With Rosemary",
+      "pack_size": "135g"
+    },
+    {
+      "product_name": "Cadbury Old Gold Bundaberg Rum Dark Chocolate Block",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Nestle Nesquik Bar Strawberry Choc Flavour",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Trolli Sour Mates Bag",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Mentos Mint",
+      "pack_size": "37.5g"
+    },
+    {
+      "product_name": "Oreo Grab And Go",
+      "pack_size": "236g"
+    },
+    {
+      "product_name": "Maggie Beer Quince & Champagne Paste",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Double D Smart Sweets Sour Watermelon Bears",
+      "pack_size": "35g"
+    }
+  ]
+}

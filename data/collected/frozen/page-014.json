@@ -1,0 +1,210 @@
+{
+  "category": "frozen",
+  "page": 14,
+  "source_url": "https://www.coles.com.au/browse/frozen?page=14",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "625 - 672 of 1,215 results",
+  "reported_total": 1215,
+  "reported_pages": 26,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Coles Finest Sorrentina Gnocchi",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Peters Frosty Fruits Watermelon Ice Sticks 8 Pack",
+      "pack_size": "520mL"
+    },
+    {
+      "product_name": "Peters Original Vanilla Lil Pops 9 Pack",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Bulla Creamy Classics Choc Mint Chip Ice Cream",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Fropro Protein Pizza BBQ Meatlovers",
+      "pack_size": "325g"
+    },
+    {
+      "product_name": "Hong Kong Dim Sim Kitchen Pork Prawn & Mushroom Siu Mai",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Steggles Chicken Fingers Original",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Simply Wize Gluten Free Puff Pastry Sheets",
+      "pack_size": "540g"
+    },
+    {
+      "product_name": "Coles Frozen Carrot Battons",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "McCain Red Box Tray Tuna Mornay",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Nature's Kitchen Hearty Mushroom And Lentil Pies 2 Pack",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Tempura Chicken Nuggets",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Hellmann's Superbowl Limited Edition Sauce",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Frozen Chicken Breast Schnitzel",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Haldirams Paneer Onion Paratha",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "McCain Red Box Tray Lasagna",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Birds Eye Steam Fresh Beans Broccoli & Sugar Snap Peas Frozen Mixed Vegetables",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Nanna's Classic Apple Crumble",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "Peters Maxibon Monster Cookie 4 Pack",
+      "pack_size": "560mL"
+    },
+    {
+      "product_name": "Bulla Vanilla Ice Cream Choc Bars 8 Pack",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Coles Simply Fish Fingers",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Peters Oreo Ice Cream Tub",
+      "pack_size": "1.2L"
+    },
+    {
+      "product_name": "McCain Red Box Tray Fettucine Carbonara",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "McCain Pub Size Chicken & Bacon Bake",
+      "pack_size": "480g"
+    },
+    {
+      "product_name": "Cadbury Dairy Milk Freddo Party Cake Frozen Dessert",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Coles Nature's Kitchen Chicken Style Sweet Chilli Tenders",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Bulla Creamy Classics Boysenberry Sundae Cones 4 Pack",
+      "pack_size": "580mL"
+    },
+    {
+      "product_name": "Coles Frozen Fruit Blackberries",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Finest Cacio E Pepe Gnocchi",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Nature's Kitchen Cheesy Cauliflower Pies 2 Pack",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Charlotte'S Bakery Slow Cooked Steak & Mushroom Pies 2 Pack",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Frozen Buttermilk Chicken Tenders",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Simply Vanilla Flavoured Frozen Dessert Tub",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Coles Nature's Kitchen Chicken Style Schnitzel 2 Pack",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Coles Frozen Chicken Chips",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Bulla Creamy Classic Vanilla Choc Fudge Cone 4 Pack",
+      "pack_size": "520mL"
+    },
+    {
+      "product_name": "Haldirams Punjabi Samosa",
+      "pack_size": "650g"
+    },
+    {
+      "product_name": "Coles Sliced Onion",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Haldirams Cocktail Samosa",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Katoomba Roti Bread Plain",
+      "pack_size": "390g"
+    },
+    {
+      "product_name": "Birds Eye Deli Rosemary & Garlic Frozen Roast Potatoes",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "FroPro Protein Chilli Con Carne Burrito",
+      "pack_size": "245g"
+    },
+    {
+      "product_name": "Steggles Frozen Crumbed Chicken Breast Nuggets",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "McCain Frozen Onion Rings",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Simply Beef Lasagne",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "I&J Beer Batter Fish Fillets",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Birds Eye Frozen Fish Fillets With Original Lightly Battered Oven Bake 6 Pack",
+      "pack_size": "425g"
+    },
+    {
+      "product_name": "Connoisseur Murray River Salted Caramel & Macadamia Ice Cream Sticks 4 Pack",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Twisted Healthy Treats Strawberry Vanilla & Chocolate Vanilla Minis Frozen Yoghurt 4 Pack",
+      "pack_size": "480mL"
+    }
+  ]
+}

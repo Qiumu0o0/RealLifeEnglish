@@ -1,0 +1,206 @@
+{
+  "category": "pet",
+  "page": 15,
+  "source_url": "https://www.coles.com.au/browse/pet?sortBy=recommendedDescending&page=15",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "673 - 720 of 799 results",
+  "reported_total": 799,
+  "reported_pages": 17,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Peters Alfalfa & Fruit Rabbit & Guinea Pig Food",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Coles Large Wild Bird Bird Seed",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Nature's Gift Adult All Breeds Wet Dog Food Loaf Puppy Mince With Chicken",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Purr Cat Treat Tuna & Salmon Creamy Treat 4x12g",
+      "pack_size": "48g"
+    },
+    {
+      "product_name": "Schmackos Strapz Meat Pie Dog Treats",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Vitapet Dry Dog Food Junior Chicken",
+      "pack_size": "3kg"
+    },
+    {
+      "product_name": "Purina One Cat Food Pouch Kitten With Chicken",
+      "pack_size": "70g"
+    },
+    {
+      "product_name": "Dine Farm Collection With Salmon Sweet Potato & Spinach Cat Food 7x85g",
+      "pack_size": "7 Pack"
+    },
+    {
+      "product_name": "Back To Nature Small Animal Bedding & Litter",
+      "pack_size": "10L"
+    },
+    {
+      "product_name": "Coles Sunflower Bird Seed",
+      "pack_size": "1.25kg"
+    },
+    {
+      "product_name": "Peters Rabbit & Guinea Pig Lucerne Pellets",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Peters Pasture Hay Bedding And Food",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Nood Wet Dog Food Chicken In Gravy 12x100g",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "My Dog Shredded Meals Beef Dog Food 6x100g",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Totalcare Heartworm Flea Prot Large Dog Treatment",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Dine Gravy Indulgence Wet Cat Food Chicken In Gravy 7x85g",
+      "pack_size": "7 Pack"
+    },
+    {
+      "product_name": "Woofin Good Joints Dog Treat",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Bow Wow Treat & Eat Beef Burgers Dog Treats",
+      "pack_size": "9 Pack"
+    },
+    {
+      "product_name": "Coles Cat Litter Tray",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Exelpet Vet Series Spot On Flea Treatment Cat Kitten",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Woofin Good Dental Brush Medium Dog Treat",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Nature's Gift Puppy With Chicken Dry Dog Food",
+      "pack_size": "2.5Kg"
+    },
+    {
+      "product_name": "Nature's Gift Chicken Jerky Bites Dog Treats",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Totalcare Heartworm Flea Prot Med Dog Treatment",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Bird Munchies Sunflower Block Bird Treat",
+      "pack_size": "880g"
+    },
+    {
+      "product_name": "Coles Adult Dry Dog Food With Fish",
+      "pack_size": "3kg"
+    },
+    {
+      "product_name": "Purina Total Care Flea Control Plus Cat Treatment",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Dine Gravy Indulgence Wet Cat Food Tuna 7x85g Trays",
+      "pack_size": "7 pack"
+    },
+    {
+      "product_name": "Trill Fruit & Nut Blend Bird Food",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Nature's Gift Grain Free Homestyle Stew With Chicken Duck Dog Food 100g",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Nature's Gift Kangaroo Jerky Strips Dog Treats",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Woofin' Good Kangaroo Jerky Strips Dog Treats",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "My Dog Shredded Meals Chicken Dog Food",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Harmony Lorikeet & Honey Eater Wild Bird Seed",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Trill Bird Seed Canary & Finch Mix",
+      "pack_size": "1.8Kg"
+    },
+    {
+      "product_name": "Lux & Bones Compostible Pee Pads Dog",
+      "pack_size": "7 Pack"
+    },
+    {
+      "product_name": "Coles Cockatiel Bird Seed",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Purina Total Care Flea Knockdown For Medium & Large Dogs Treatment Tablets",
+      "pack_size": "3 Pack"
+    },
+    {
+      "product_name": "Trill Toppers Bird Treat",
+      "pack_size": "112g"
+    },
+    {
+      "product_name": "Totalcare Shampoo Flea Control",
+      "pack_size": "350 mL"
+    },
+    {
+      "product_name": "Schmackos Twirlz With Beef Liver Dog Treats",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Coles Cat Food Tuna With Chicken Senior",
+      "pack_size": "85g"
+    },
+    {
+      "product_name": "Woofin Good Beef Ear Dog Treat",
+      "pack_size": "1 Pack"
+    },
+    {
+      "product_name": "Schmackos Twirlz With Chicken Liver Dog Treats",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Coles Gold Fish Food Flakes",
+      "pack_size": "36g"
+    },
+    {
+      "product_name": "Coles Puppy Dry Dog Food With Chicken",
+      "pack_size": "3Kg"
+    },
+    {
+      "product_name": "Trill Mix In Dry Bird Seed Food Vegies Pouch",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Mayver's Rover's Reward Peanut Butter & Carob Biscuits Dog Treats",
+      "pack_size": "250g"
+    }
+  ]
+}

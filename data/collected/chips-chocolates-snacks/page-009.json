@@ -1,0 +1,206 @@
+{
+  "category": "chips-chocolates-snacks",
+  "page": 9,
+  "source_url": "https://www.coles.com.au/browse/chips-chocolates-snacks?page=9",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "385 - 432 of 1,700 results",
+  "reported_total": 1700,
+  "reported_pages": 36,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Toblerone Milk Chocolate",
+      "pack_size": "340g"
+    },
+    {
+      "product_name": "Twisties Zigzags",
+      "pack_size": "65g"
+    },
+    {
+      "product_name": "Arnott's Tic Toc Biscuit",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Nestle Kit Kat Chocolate Milkybar 4 Finger",
+      "pack_size": "42g"
+    },
+    {
+      "product_name": "Toblerone Biscoff Pralines",
+      "pack_size": "176g"
+    },
+    {
+      "product_name": "Lindt Excellence 70% Cocoa Dark Chocolate Block",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Double D Smart Sweets Sour Watermelon Bears",
+      "pack_size": "35g"
+    },
+    {
+      "product_name": "Pico Super Dark Chocolate",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Lindt No Sugar Added Milk Chocolate Block",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Ritz Cracked Pepper Crackers",
+      "pack_size": "227g"
+    },
+    {
+      "product_name": "Smith's Fun Mix Chips Lunchbox Snacks Multipack 20 Pack",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Noshu Low Carb Choc Mint Indulgence Bars",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Arnott's Gingernut Biscuits",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Tuckers Crackers Avocado Oil & Fermented Sourdough",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Lindt Excellence 90% Cocoa Dark Chocolate Block",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Red Rock Deli Potato Chips Trio Of Cheese",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Peckish Fancies Rice Crackers Chilli & Lime",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "KitKat Chunky Gooey Caramel Milk Chocolate Bar",
+      "pack_size": "48g"
+    },
+    {
+      "product_name": "M&M'S Minis Milk Chocolate Treats Tube",
+      "pack_size": "35g"
+    },
+    {
+      "product_name": "Mentos Multipack Spearmint",
+      "pack_size": "112g"
+    },
+    {
+      "product_name": "Red Rock Deli Potato Chips Share Pack Lime & Pepper",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Guylian Chocolate Seashells",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Sakata Rice Crackers Plain",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Macy & Tailor Pressed Pretzels Sea Salt 8 Pack",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Peckish Fancies Rice Crackers Cheese & Chives",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Kinder Surprise Chocolate Egg",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "Cooks Confectionery Scorched Peanut Bar",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Amos Peelerz Mango",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Arnott's Orange Slice Cream Biscuits",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Nice & Natural Protein Nut Bars Dark Choc & Cacao 5 Pack",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Uncle Tobys Muesli Bars Yoghurt Honeycomb Kids School Lunchbox Snacks",
+      "pack_size": "185g"
+    },
+    {
+      "product_name": "Arnott's 50% Less Sugar Scotch Finger Biscuits",
+      "pack_size": "232g"
+    },
+    {
+      "product_name": "Nestle Aero Chocolate Milk Medium Bar",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Arnott's Shapes Fully Loaded Garlic Bread Cracker Biscuits",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Red Rock Deli Gourmet Crackers Caramelised Onion",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Red Rock Deli Gourmet Crackers Salt Black Pepper",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Parkers Pretzels BBQ Multipack 8 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Arnott's Teddy Bear Biscuits",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Nice & Natural Nut Butter Bars Peanut Butter & Salted Caramel Snacks 5 Pack",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Olina's Bakehouse Gluten Free Seeded Brown Rice Crispbread Original",
+      "pack_size": "126g"
+    },
+    {
+      "product_name": "Lindt Excellence 95% Cocoa Ultimate Dark Chocolate Block",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Smiths Baked Fusions Margherita",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Extra Intense Mint Sugar Free Chewing Gum",
+      "pack_size": "27g"
+    },
+    {
+      "product_name": "Sakata Rice Cracker Barbecue",
+      "pack_size": "90g"
+    },
+    {
+      "product_name": "Arnott's Biscuit Granita Regular",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Noshu Low Carb Pistachio Indulgence Bars",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Arnott's Delta Cream Biscuits",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Pringles Potato Chips Original Lightly Salted",
+      "pack_size": "134g"
+    }
+  ]
+}

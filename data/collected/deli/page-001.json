@@ -1,0 +1,246 @@
+{
+  "category": "deli",
+  "page": 1,
+  "source_url": "https://www.coles.com.au/browse/deli",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1 - 48 of 472 results",
+  "reported_total": 472,
+  "reported_pages": 10,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Coles Free Range Chicken Breast Carved Roast",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Castello Double Cream Brie",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Mersey Valley Club Classic Cheddar Cheese",
+      "pack_size": "235g"
+    },
+    {
+      "product_name": "Jindi Camembert",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Jindi Brie",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Don Double Smoked Leg Ham",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Don Artusi Australian Prosciutto",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Maggie Beer Cheddar Caramelised Onion",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Maggie Beer Triple Creamy Brie",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Maggie Beer Cheddar Vintage",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "I&J The Finest Frozen Salmon Portions Skin Off",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Primo Champagne Leg Ham",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Primo Stacker Mild Salami Cheese & Crackers",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Primo Bacon Style Pieces Twin Pack Dairy Pieces",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Primo Mild Hungarian Salami",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Don Leg Ham Shaved",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Primo Double Smoked Ham",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Primo Streaky Bacon",
+      "pack_size": "650g"
+    },
+    {
+      "product_name": "Primo Chicken Breast Thinly Sliced",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Primo Short Cut Bacon",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Primo Pepperoni Hot Salami",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Primo Shredded Ham Twin Pack",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Primo Roast Beef Thinly Sliced",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Primo Middle Bacon",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Primo Classic Chorizo 2 Pack",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Primo Original Twiggy Sticks",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "I&j Frozen Basa Fillets",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Primo Danish Salami",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Primo Roast Pastrami Thinly Sliced",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Primo Silverside",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Don Champagne Shaved Leg Ham",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Jarlsberg Original Cheese Block",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Primo Hot Hungarian Salami",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Primo Leg Ham 25% Less Salt",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Primo Manuka Honey Leg Ham",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Don Mild Hungarian Salami",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Don Chicken Breast Thinly Sliced",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Primo Protein Double Smoked Leg Ham",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Provedore Garlic & Fennel Salami",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Provedore Mild Chorizo Salami",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Primo Protein Roast Chicken Breast",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Primo Mortadella Slices",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Don English Style Leg Ham Thinly Sliced",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Primo Rindless Middle Bacon",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Castello Aged Havarti",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Moira Mac's Pulled Chicken Breast",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Don Italian Style Shaved Salami",
+      "pack_size": "160g"
+    },
+    {
+      "product_name": "Primo Maple Streaky Bacon",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Primo Short Cut Salt Reduced Rindless Bacon",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Moondarra Cheese Honey Fig & Macadamia",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Jarlsberg Cheese Wedge",
+      "pack_size": "230g"
+    },
+    {
+      "product_name": "Don Honey Leg Ham Thinly Sliced",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "I&J The Finest Frozen Prawns Cooked & Peeled Tail Off",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "I&J Scallops Roe Off",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "South Cape Apricot & Almond Cream Cheese",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "South Cape Spring Onion & Chive Cream Cheese",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Castello Herbs & Garlic In Oil Marinated Fetta",
+      "pack_size": "265g"
+    },
+    {
+      "product_name": "I&J The Finest Frozen Squid Tubes",
+      "pack_size": "1kg"
+    }
+  ]
+}

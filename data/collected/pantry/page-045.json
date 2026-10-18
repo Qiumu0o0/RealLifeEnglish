@@ -1,0 +1,210 @@
+{
+  "category": "pantry",
+  "page": 45,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=45",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "2,113 - 2,160 of 6,129 results",
+  "reported_total": 6129,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Coles Bi Carbonate Soda",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Best Foods Real Mayonnaise",
+      "pack_size": "405g"
+    },
+    {
+      "product_name": "Carmelina Chick Peas",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Heinz Seriously Good Mayonnaise Vegan Mayo",
+      "pack_size": "270mL"
+    },
+    {
+      "product_name": "Leggo's Tomato Paste No Added Salt 4 Pack",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Coles Turkish Apricots",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Kewpie Japanese Dressing Roasted Sesame",
+      "pack_size": "210mL"
+    },
+    {
+      "product_name": "Nescafe 98% Sugar Free Latte Coffee Sachets",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "SPC Canned Regular 4 Pack",
+      "pack_size": "880g"
+    },
+    {
+      "product_name": "Coles Classic Olive Oil",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Aunt Betty's Pudding Chocolate 2 Pack",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Wellness Road Australian Hulled Hemp Seeds",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Lavazza A Modo Mio Delizioso Coffee Capsules",
+      "pack_size": "16 Pack"
+    },
+    {
+      "product_name": "Coles Shredded Coconut",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Coles Urban Coffee Culture Syrup Caramel",
+      "pack_size": "360mL"
+    },
+    {
+      "product_name": "Coles Urban Coffee Culture Medium Roast Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Pureharvest Organic Tamari Soy Sauce Wheat Free Salt Reduced",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Ben's Original Savoury Chicken Flavour Rice Pouch",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "ABC Sweet Soy Sauce",
+      "pack_size": "620mL"
+    },
+    {
+      "product_name": "Coles Simply Tomato Condensed Soup",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Mckenzies Baking Powder",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Coles Prunes Pitted",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "L'Or Espresso Ristretto Intensity 11 Coffee Capsules Nespresso* Compatible",
+      "pack_size": "50 Pack"
+    },
+    {
+      "product_name": "Hakubaku Organic Soba Noodles",
+      "pack_size": "270g"
+    },
+    {
+      "product_name": "Nescafe Hazelnut Latte Coffee Sachets",
+      "pack_size": "26 Pack"
+    },
+    {
+      "product_name": "Coles Pesto Sundried Tomato",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Kellogg's Variety Pack Assorted Breakfast Cereals Sachets 8 Pack",
+      "pack_size": "275g"
+    },
+    {
+      "product_name": "Daley Street Medium/dark Aluminium Nespresso Compatible Coffee Capsules",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Beechworth Honey 100% Pure Australian Honey Tub",
+      "pack_size": "1.5kg"
+    },
+    {
+      "product_name": "Coles Premium Strawberry Jam",
+      "pack_size": "345g"
+    },
+    {
+      "product_name": "Coles Ultimate Gluten Free Cookies 40% Chocolate Chip",
+      "pack_size": "252g"
+    },
+    {
+      "product_name": "Hakubaku Organic Udon Noodles",
+      "pack_size": "270g"
+    },
+    {
+      "product_name": "Sanitarium Up&go Protein Energize Liquid Breakfast Banana 250ml",
+      "pack_size": "12 Pack"
+    },
+    {
+      "product_name": "Old El Paso Mild Fajita Kit Mexican Style",
+      "pack_size": "485g"
+    },
+    {
+      "product_name": "Coles Pear Slices In Juice",
+      "pack_size": "825g"
+    },
+    {
+      "product_name": "Obento Sushi Rice",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Sunsol Protein Granola Chocolate Almond Crunch",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Ben's Original Lightly Flavoured Coconut Microwave Rice Pouch",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Jumbo Tortilla Wraps 6 Pack",
+      "pack_size": "545g"
+    },
+    {
+      "product_name": "Urban Coffee Culture Freeze Dried Instant Coffee",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Trident Sriracha Sauce",
+      "pack_size": "480mL"
+    },
+    {
+      "product_name": "Sunrice Microwave Long Grain Rice Pouch",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Coles Peach Slice In Pear Fruit Juice",
+      "pack_size": "695g"
+    },
+    {
+      "product_name": "Sanitarium Weet-bix Multi-grain Breakfast Cereal",
+      "pack_size": "575g"
+    },
+    {
+      "product_name": "Coles Organic Extra Virgin Olive Oil",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Coles Simply Light Coconut Milk",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Coles Australian Sultanas",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Carmelina Cannellini Beans",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Bake & Create White Chocolate Chips",
+      "pack_size": "200g"
+    }
+  ]
+}

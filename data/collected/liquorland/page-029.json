@@ -1,0 +1,206 @@
+{
+  "category": "liquorland",
+  "page": 29,
+  "source_url": "https://www.coles.com.au/browse/liquorland?page=29",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,345 - 1,392 of 2,301 results",
+  "reported_total": 2301,
+  "reported_pages": 48,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Mortlach 12yo Single Malt Whisky 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds St Henri Shiraz 2019 (clr) 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds Bin 128 Shiraz 2024 750mL",
+      "pack_size": "750mL"
+    },
+    {
+      "product_name": "Stones Green Ginger Wine 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Berri Traditional Dry Red Cask 5l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jacob's Creek Merlot 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jack Daniels Single Barrel 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Gee Up Grape Vodka Bottle 275ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Brown Brothers Crouchen Riesling 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Matua Valley First Frost Sauvignon Blanc 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Berri Crisp Dry White Cask 5l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jacob's Creek Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Lorry Boys Pale Ale Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Tullamore Dew Irish Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Lorry Boys Pacific Ale Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "The Glenlivet Caribbean Res. Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hammer N Tongs Bitter Block Can 330ml",
+      "pack_size": "30 Pack"
+    },
+    {
+      "product_name": "Woodford Reserve Double Oak Kentucky Straight Bourbon 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Bacardi Spiced Rum 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Patron Reposado Tequila 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jeffersons Very Small Batch Bourbon Whiskey 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Ink Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "James Busby Vineyard Series Tasmania Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Chandon Garden Spritz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Penfolds Grandfather Fine Old Liqueur Tawny 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Pure Origin Tasmanian Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "High Commissioner Blended Scotch Whisky 500ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Villa Massa Limoncello 500ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Hahn Super Dry Gluten Free Bottle 330ml",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Loch Lomond 18 Yo Single Malt Scotch Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Espolon Tequila Reposado 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Andrew Garrett Sparkling Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Banrock Station Cabernet Merlot Cask 2l",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Grey Goose Vodka 200ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Strongbow Original Cider Can 375ml 10pk",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Papa Salt Coastal Gin 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Jack Daniels Bonded Tennessee Whiskey 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Balter Black Lager Can 375mL",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Wirra Wirra Mclaren Vale Vineyards Shiraz 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Innocent Bystander Pinot Noir 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Patron Anejo Tequila 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Innocent Bystander Pinot Gris 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Don Julio Anejo Tequila 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Brown Brothers Prosecco Rose 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Balter Ipa Can 375ml",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Makers Mark 46 Kentucky Straight Bourbon Whisky 700ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Lindemans Bin 45 Cabernet Sauvignon 750ml",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "De Bortoli Premium Varietal Old Tawny 4l",
+      "pack_size": "1 Each"
+    }
+  ]
+}

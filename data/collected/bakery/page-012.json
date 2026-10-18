@@ -1,0 +1,202 @@
+{
+  "category": "bakery",
+  "page": 12,
+  "source_url": "https://www.coles.com.au/browse/bakery?page=12",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "529 - 576 of 594 results",
+  "reported_total": 594,
+  "reported_pages": 13,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Cimino Handmade Florentines Chocolate Dipped",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Tip Top The One White Toast Bread",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Helga's Pumpkin Five Seed Bread",
+      "pack_size": "720g"
+    },
+    {
+      "product_name": "Great Temptations Choc Confetti Cakes 8 Pack",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Great Temptations Fairy Cakes 8 Pack",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Toscano Pizza Base Pane 2 Pack",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Simson's Pantry Low Carb Mini 6 Pack",
+      "pack_size": "156g"
+    },
+    {
+      "product_name": "Mission Soft & Fluffy Wrap 12 Pack",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Mission Spinach & Herb Wraps 8 Pack",
+      "pack_size": "567g"
+    },
+    {
+      "product_name": "Helga's Traditional Wholemeal Bread",
+      "pack_size": "750g"
+    },
+    {
+      "product_name": "Coles All Butter Mini Pain Au Choc 8 Pack",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Toscano Mini Waffles",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "M&M's Cookies",
+      "pack_size": "8 Pack"
+    },
+    {
+      "product_name": "Scones Buttermilk",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Mission Lite Wrap 8 Pack",
+      "pack_size": "567g"
+    },
+    {
+      "product_name": "Mission Wholegrain Wraps 8 Pack",
+      "pack_size": "567g"
+    },
+    {
+      "product_name": "Tip Top 9 Grain Classic Sandwich",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Coles Margherita Tear And Share",
+      "pack_size": "1 each"
+    },
+    {
+      "product_name": "Bakery Du Jour Vegan Croissant 3 Pack",
+      "pack_size": "168g"
+    },
+    {
+      "product_name": "Coles Hamburger Rolls",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Herman Brot Low Carb Bread",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Greens Deluxe Jam & Cream Lamington Cake Roll",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Toscano Gluten Free Pizza Base",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Helga's Light Rye Bread",
+      "pack_size": "680g"
+    },
+    {
+      "product_name": "MEB Foods Pockets Wholemeal Pita",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Bakery Indulgent Choc 40% Choc Chip Cookie",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "MEB Pittes Souvlaki",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Coles White Chocolate & Macadamia Cookies",
+      "pack_size": "6 Pack"
+    },
+    {
+      "product_name": "Mr Kipling Lemon Whirls",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Toscano Crepes Chocolate",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Cimino Handmade Amaretti Pistachio",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Wonder Mini Loaf White Sandwich Vitamin",
+      "pack_size": "320g"
+    },
+    {
+      "product_name": "Wonder Bread Wholemeal Plus Iron",
+      "pack_size": "700g"
+    },
+    {
+      "product_name": "Cadbury Milk Chocolate Mini Rolls Cakes 10 Pack",
+      "pack_size": "230g"
+    },
+    {
+      "product_name": "Simson's Pantry High Protein White Wraps 6 Pack",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Coles Stone Baked By Laurent Mini White Sourdough",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Ital Fruit Biscotti",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Laurent Patisserie Chocolate Tart",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Mission Salt Reduced Wraps 8 pack",
+      "pack_size": "567g"
+    },
+    {
+      "product_name": "Coles Tart Shells 6 Pack",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Wonder Mini Loaf Wholemeal",
+      "pack_size": "320g"
+    },
+    {
+      "product_name": "Coles Stone Baked By Laurent Mini Wholemeal Pane Di Casa",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Cremorne St Bakers Lamingtons",
+      "pack_size": "2 Pack"
+    },
+    {
+      "product_name": "Coles Stone Baked By Laurent Mini Parmesan & Onion Pane Di Casa",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Stone Baked By Laurent Mini White Pane Di Casa",
+      "pack_size": "1 Each"
+    },
+    {
+      "product_name": "Coles Stone Baked By Laurent Pane Di Casa Rolls",
+      "pack_size": "4 Pack"
+    },
+    {
+      "product_name": "Coles Stone Baked By Laurent Mini Rye Pane Di Casa Oc",
+      "pack_size": "1 Each"
+    }
+  ]
+}

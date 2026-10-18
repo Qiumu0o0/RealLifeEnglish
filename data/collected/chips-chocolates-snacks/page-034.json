@@ -1,0 +1,206 @@
+{
+  "category": "chips-chocolates-snacks",
+  "page": 34,
+  "source_url": "https://www.coles.com.au/browse/chips-chocolates-snacks?page=34",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,585 - 1,632 of 1,667 results",
+  "reported_total": 1667,
+  "reported_pages": 35,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Cadbury Variety Jumbo Chocolate Box",
+      "pack_size": "1 BOX"
+    },
+    {
+      "product_name": "Oreo Sour Patch Kids Biscuits",
+      "pack_size": "131g"
+    },
+    {
+      "product_name": "Mars Milk Chocolate Bar Caramel Nougat 2 Pack",
+      "pack_size": "64g"
+    },
+    {
+      "product_name": "Nestle Kit Kat Chocolate Chunky Hazelnut",
+      "pack_size": "41 g"
+    },
+    {
+      "product_name": "M&S Colin The Caterpillar Party Time",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "M&S Colin The Caterpillar Cherry Gums",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "KitKat Chunky Cookie Dough Bar",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Aussie Drops Eucalyptus",
+      "pack_size": "70g"
+    },
+    {
+      "product_name": "Tic Tac Fruit Adventure Mints",
+      "pack_size": "24g"
+    },
+    {
+      "product_name": "Coles Spearmint Mint",
+      "pack_size": "36g"
+    },
+    {
+      "product_name": "Coles Muesli Bars Strawberry Yoghurt Top 8 Pack",
+      "pack_size": "248g"
+    },
+    {
+      "product_name": "Fishermans Friend Lozenges Mixed Berries",
+      "pack_size": "25g"
+    },
+    {
+      "product_name": "M&S All Butter Pistachio And Almond Cookies",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "M&S All Butter Mini Oat Biscuits",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Coles Christmas Peppermint Candy Canes 30 Pack",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Pringles Potato Chips Zesty Chilli & Lime",
+      "pack_size": "118g"
+    },
+    {
+      "product_name": "Life Savers Strawberries And Cream",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Life Savers Thirst Stix",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Nut Bar Choc Coated",
+      "pack_size": "210g"
+    },
+    {
+      "product_name": "Coles Christmas Milk Chocolate Coins",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Coles Mocha Protein Bars 5 Pack",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Nice & Natural Deluxe Protein Bars Almond & Double Choc Multipack Snacks 5 Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Chupa Chups Incredible Chew Bag",
+      "pack_size": "175g"
+    },
+    {
+      "product_name": "Polly Waffle Bag",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Extra Cream Bourbon Creams",
+      "pack_size": "165g"
+    },
+    {
+      "product_name": "Sour Patch Kids Lollies Value Pack",
+      "pack_size": "430g"
+    },
+    {
+      "product_name": "Cadbury Dairy Milk Strawberry Chocolate Bites",
+      "pack_size": "142g"
+    },
+    {
+      "product_name": "Cadbury Turkish Delight Milk Chocolate Jelly Bites",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Hershey's Chocolate Block Cookies 'n' Creme",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Maltesers Honeycomb Milk Chocolate Snack & Share Bag",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Nestle Aero Strawberry Block Chocolate",
+      "pack_size": "118g"
+    },
+    {
+      "product_name": "Frisp Freeze Dried Mango Crisps",
+      "pack_size": "15g"
+    },
+    {
+      "product_name": "Kit Kat Cookie Crush Fun Pack Bag 11 Piece",
+      "pack_size": "154g"
+    },
+    {
+      "product_name": "Mars Cookie Dough Flavoured Snack & Share Bag",
+      "pack_size": "192g"
+    },
+    {
+      "product_name": "Lindt Excellence Vanilla Chocolate Block",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Kellogg's Lcms Variety Pack 40 Pack",
+      "pack_size": "824g"
+    },
+    {
+      "product_name": "Haribo Starmix Share Pack",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Lindt Lindor Milk Chocolate Mini Cornet Box",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "5 Gum Blueberry Sugar Free Chewing Gum 3 Pack",
+      "pack_size": "96g"
+    },
+    {
+      "product_name": "Cadbury Caramilk Marvellous Creations Chocolate Block",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Cadbury Cadbury Dairy Milk Slices Sticky Toffee Chocolate Block",
+      "pack_size": "178g"
+    },
+    {
+      "product_name": "Always Fresh Grissini Breadsticks Three Seed",
+      "pack_size": "125g"
+    },
+    {
+      "product_name": "Arnott's Gold Label Oat Crackers Parmesan",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Smiths Baked Chips Cheese & Herb",
+      "pack_size": "130g"
+    },
+    {
+      "product_name": "Mr Nuts Pretzel Mini Bites Peanut Butter",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "M&S Choc Marks Blond Chocolate And Pistachio Bar",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Darrell Lea Allsorts Liquorice Value Pack",
+      "pack_size": "470g"
+    },
+    {
+      "product_name": "Chupa Chups Mix Of Mini's 35 Pack",
+      "pack_size": "290g"
+    }
+  ]
+}

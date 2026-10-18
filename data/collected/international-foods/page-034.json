@@ -1,0 +1,22 @@
+{
+  "category": "international-foods",
+  "page": 34,
+  "source_url": "https://www.coles.com.au/browse/pantry/international-foods?page=34",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,585 - 1,586 of 1,586 results",
+  "reported_total": 1586,
+  "reported_pages": 34,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "M&S Milk Chocolate Selection",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Neriot Candle Refills",
+      "pack_size": "72 Pack"
+    }
+  ]
+}

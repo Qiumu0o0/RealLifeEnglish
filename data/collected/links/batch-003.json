@@ -1,0 +1,290 @@
+[
+  {
+    "category": "meat-seafood",
+    "english": "Chicken Tenderloins",
+    "product_name": "The Bare Bird Chicken Tenderloins",
+    "pack_size": "480g",
+    "product_url": "https://www.coles.com.au/product/the-bare-bird-chicken-tenderloins-480g-7382528",
+    "product_id": "7382528",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Whole Chicken",
+    "product_name": "The Bare Bird Whole Chicken",
+    "pack_size": "approx. 1.6kg",
+    "product_url": "https://www.coles.com.au/product/the-bare-bird-whole-chicken-approx.-1.6kg-each-3091126",
+    "product_id": "3091126",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Turkey",
+    "product_name": "Fettayleh Meat Smoked Turkey",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/fettayleh-meat-smoked-turkey-150g-2806784",
+    "product_id": "2806784",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Duck",
+    "product_name": "Always Fresh French Duck Fat Spread",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/always-fresh-french-duck-fat-spread-200g-2679847",
+    "product_id": "2679847",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Beef Mince",
+    "product_name": "Coles Graze Grass Fed No Added Hormone Beef Mince",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-graze-grass-fed-no-added-hormone-beef-mince-500g-2820606",
+    "product_id": "2820606",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Pork Mince",
+    "product_name": "Coles Regular Pork Mince",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-regular-pork-mince-500g-8781518",
+    "product_id": "8781518",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Lamb Mince",
+    "product_name": "Coles 3 Star Lamb Mince",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-3-star-lamb-mince-500g-8850461",
+    "product_id": "8850461",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Sausages",
+    "product_name": "Peppercorn Extra Lean Beef Sausages",
+    "pack_size": "450g",
+    "product_url": "https://www.coles.com.au/product/peppercorn-extra-lean-beef-sausages-450g-8888307",
+    "product_id": "8888307",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Burgers",
+    "product_name": "Coles Finest Angus Beef Burgers",
+    "pack_size": "300g",
+    "product_url": "https://www.coles.com.au/product/coles-finest-angus-beef-burgers-300g-1327877",
+    "product_id": "1327877",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Meatballs",
+    "product_name": "Coles Beef & Pork Meatballs",
+    "pack_size": "560g",
+    "product_url": "https://www.coles.com.au/product/coles-beef-and-pork-meatballs-560g-3569447",
+    "product_id": "3569447",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Ribs",
+    "product_name": "Coles Beef Slow Cook Short Ribs",
+    "pack_size": "approx. 800g",
+    "product_url": "https://www.coles.com.au/product/coles-beef-slow-cook-short-ribs-approx.-800g-each-2888519",
+    "product_id": "2888519",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Pork Belly",
+    "product_name": "Coles Free Range Pork Belly Slices",
+    "pack_size": "400g",
+    "product_url": "https://www.coles.com.au/product/coles-free-range-pork-belly-slices-400g-1532810",
+    "product_id": "1532810",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Lamb Cutlets",
+    "product_name": "Coles Lamb Cutlets",
+    "pack_size": "approx. 775g",
+    "product_url": "https://www.coles.com.au/product/coles-lamb-cutlets-approx.-775g-1757810",
+    "product_id": "1757810",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Lamb Shanks",
+    "product_name": "Coles Made Easy Slow Cooked Lamb Shanks",
+    "pack_size": "900g",
+    "product_url": "https://www.coles.com.au/product/coles-made-easy-slow-cooked-lamb-shanks-900g-1200402",
+    "product_id": "1200402",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Lamb Leg",
+    "product_name": "Coles Lamb Leg Diced",
+    "pack_size": "450g",
+    "product_url": "https://www.coles.com.au/product/coles-lamb-leg-diced-450g-3580600",
+    "product_id": "3580600",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Sirloin",
+    "product_name": "Coles Pork Sirloin Steak",
+    "pack_size": "500g",
+    "product_url": null,
+    "product_id": null,
+    "status": "not_resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Rump Steak",
+    "product_name": "Drovers Choice No Added Hormone Beef Rump Steak",
+    "pack_size": "approx. 1.05kg",
+    "product_url": "https://www.coles.com.au/product/drovers-choice-no-added-hormone-beef-rump-steak-approx.-1.05kg-2591870",
+    "product_id": "2591870",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Scotch Fillet",
+    "product_name": "Coles No Added Hormone Beef Quick Cook Scotch Fillet Steak",
+    "pack_size": "170g",
+    "product_url": "https://www.coles.com.au/product/coles-no-added-hormone-beef-quick-cook-scotch-fillet-steak-170g-3293594",
+    "product_id": "3293594",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Eye Fillet",
+    "product_name": "Coles No Added Hormone Beef Eye Fillet Roast",
+    "pack_size": "approx. 450g",
+    "product_url": "https://www.coles.com.au/product/coles-no-added-hormone-beef-eye-fillet-roast-approx.-450g-3332040",
+    "product_id": "3332040",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Brisket",
+    "product_name": "Coles No Added Hormone Beef Brisket",
+    "pack_size": "approx. 1.9kg",
+    "product_url": "https://www.coles.com.au/product/coles-no-added-hormone-beef-brisket-approx.-1.9kg-4256538",
+    "product_id": "4256538",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Veal",
+    "product_name": "Continental Kosher Butcher Veal Salami",
+    "pack_size": "300g",
+    "product_url": "https://www.coles.com.au/product/continental-kosher-butcher-veal-salami-300g-4264875",
+    "product_id": "4264875",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Kangaroo",
+    "product_name": "K-Roo Kangaroo Burgers",
+    "pack_size": "440g",
+    "product_url": "https://www.coles.com.au/product/k-roo-kangaroo-burgers-440g-8450565",
+    "product_id": "8450565",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Salmon",
+    "product_name": "Ocean Blue Sliced Smoked Salmon",
+    "pack_size": "50g",
+    "product_url": "https://www.coles.com.au/product/ocean-blue-sliced-smoked-salmon-50g-2846745",
+    "product_id": "2846745",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Tuna",
+    "product_name": "KB's Tuna Steaks",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-tuna-steaks-200g-5306642",
+    "product_id": "5306642",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Trout",
+    "product_name": "Ocean Blue Sliced Smoked Ocean Trout",
+    "pack_size": "100g",
+    "product_url": "https://www.coles.com.au/product/ocean-blue-sliced-smoked-ocean-trout-100g-2740766",
+    "product_id": "2740766",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Basa",
+    "product_name": "Coles Basa Portions Skin Off 2 Pack",
+    "pack_size": "260g",
+    "product_url": "https://www.coles.com.au/product/coles-basa-portions-skin-off-2-pack-260g-1567000",
+    "product_id": "1567000",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Prawns",
+    "product_name": "KB's Garlic Prawns",
+    "pack_size": "280g",
+    "product_url": "https://www.coles.com.au/product/kb%27s-garlic-prawns-280g-4750294",
+    "product_id": "4750294",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Mussels",
+    "product_name": "Seabounty Fresh Blue Mussels",
+    "pack_size": "1Kg",
+    "product_url": "https://www.coles.com.au/product/seabounty-fresh-blue-mussels-1kg-5145758",
+    "product_id": "5145758",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Oyster",
+    "product_name": "Coles No Added Hormone Beef Oyster Blade Steak",
+    "pack_size": "500g",
+    "product_url": "https://www.coles.com.au/product/coles-no-added-hormone-beef-oyster-blade-steak-500g-6068856",
+    "product_id": "6068856",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Octopus",
+    "product_name": "Fremantle Marinated Octopus Original",
+    "pack_size": "250g",
+    "product_url": "https://www.coles.com.au/product/fremantle-marinated-octopus-original-250g-3854807",
+    "product_id": "3854807",
+    "status": "resolved"
+  },
+  {
+    "category": "meat-seafood",
+    "english": "Crab",
+    "product_name": "Ocean Blue Premium Blue Swimmer Crab Meat",
+    "pack_size": "140g",
+    "product_url": "https://www.coles.com.au/product/ocean-blue-premium-blue-swimmer-crab-meat-140g-3024300",
+    "product_id": "3024300",
+    "status": "resolved"
+  },
+  {
+    "category": "dairy-eggs-fridge",
+    "english": "Full Cream Milk",
+    "product_name": "Pura Full Cream Milk",
+    "pack_size": "2L",
+    "product_url": "https://www.coles.com.au/product/pura-full-cream-milk-2l-5477930",
+    "product_id": "5477930",
+    "status": "resolved"
+  }
+]

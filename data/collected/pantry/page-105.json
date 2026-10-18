@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 105,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=105",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "4,993 - 5,040 of 6,125 results",
+  "reported_total": 6125,
+  "reported_pages": 128,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "The Dutch Company Red Cabbage & Apple",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Cottee's Caramel Topping",
+      "pack_size": "3L"
+    },
+    {
+      "product_name": "Nombox Meal Box Chicken Stroganoff With Rice",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Double Phoenix Vermicelli Bean Noodles",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "B2 Pork Luncheon Meat Round",
+      "pack_size": "397g"
+    },
+    {
+      "product_name": "Masterfoods Signature Sauce",
+      "pack_size": "250mL"
+    },
+    {
+      "product_name": "Taj Classic Basmati Rice",
+      "pack_size": "5kg"
+    },
+    {
+      "product_name": "Beerenberg Australian Apricot Jam",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Miller Canola Oil",
+      "pack_size": "4L"
+    },
+    {
+      "product_name": "Cortas Broad Fava Beans",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Wicked Giant Pimento Stuffed Olives",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Masterfoods Herbs And Spices Tuscan Seasoning Jar",
+      "pack_size": "45g"
+    },
+    {
+      "product_name": "Gaganis Premium Black Turtle Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "MasterFoods Whole Cloves",
+      "pack_size": "20g"
+    },
+    {
+      "product_name": "MTR Cup Vegetable Upma",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Mrs H S Balls Peach Chutney",
+      "pack_size": "470g"
+    },
+    {
+      "product_name": "Lotte Pepero White Cookie",
+      "pack_size": "32g"
+    },
+    {
+      "product_name": "Oxyshred Ultra Passionfruit 20 Serves",
+      "pack_size": "110g"
+    },
+    {
+      "product_name": "CSR Jam Setting Sugar",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Chicken Tonight Classic Creamy Cheese And Bacon Flavour Simmer Sauce",
+      "pack_size": "490g"
+    },
+    {
+      "product_name": "Siena Fine Polenta",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Mr Chen's Vietnamese Pho Meal Kit",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Aoun Rose Water",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Purabon Peanut Butter Protein Ball",
+      "pack_size": "43g"
+    },
+    {
+      "product_name": "Sirena Ready To Eat Meal Chicken Korean Style Rice",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Hoyts Poppy Seeds",
+      "pack_size": "240g"
+    },
+    {
+      "product_name": "Optimum Nutrition Amino Energy Whacky Watermelon",
+      "pack_size": "355mL"
+    },
+    {
+      "product_name": "The Spice Tailor Thai Red Curry",
+      "pack_size": "275g"
+    },
+    {
+      "product_name": "McCormick Street Food Seasoning Caribbean",
+      "pack_size": "25g"
+    },
+    {
+      "product_name": "Queen Dinosaur Icing Decorations",
+      "pack_size": "18g"
+    },
+    {
+      "product_name": "Musashi Protein Crisp Bar White Choc Salted Caramel",
+      "pack_size": "60g"
+    },
+    {
+      "product_name": "Dollar Sweets Edible Glitter Gold Spray",
+      "pack_size": "4g"
+    },
+    {
+      "product_name": "Island Pasta Company Casarecce",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Island Pasta Company Torchietti",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "INCA Organics Wellness Bioactive Collagen + Hyaluronic Acid + Vitamin C Powder - Unflavoured",
+      "pack_size": "230g"
+    },
+    {
+      "product_name": "Buddha Teas Organic Herbal Tea Bags Nettle Leaf Tea",
+      "pack_size": "18 Pack"
+    },
+    {
+      "product_name": "Inglewood Downtown Seasonal Espresso Whole Beans",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Kraft Raspberry Spread",
+      "pack_size": "2.5Kg"
+    },
+    {
+      "product_name": "Fortune Everyday Basmati Rice",
+      "pack_size": "10kg"
+    },
+    {
+      "product_name": "Nutra Naturals Collagen Matcha Latte",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Don Antonio Napoletana Tomato Sauce",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Mighty Mite Yeast Spread",
+      "pack_size": "290g"
+    },
+    {
+      "product_name": "Tropeaka The Healthy Meal Shake Smooth & Creamy Vanilla",
+      "pack_size": "560g"
+    },
+    {
+      "product_name": "Brittania Marie Gold",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Mckenzie's Mung Beans",
+      "pack_size": "375g"
+    },
+    {
+      "product_name": "Duru Coarse Bulgur With Vermicelli",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coles Simply Peppercorn Gravy",
+      "pack_size": "200mL"
+    },
+    {
+      "product_name": "Pattu Fenugreek Seeds",
+      "pack_size": "400g"
+    }
+  ]
+}

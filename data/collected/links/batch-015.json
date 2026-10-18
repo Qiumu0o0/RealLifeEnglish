@@ -1,0 +1,290 @@
+[
+  {
+    "category": "health-beauty",
+    "english": "Antiperspirant",
+    "product_name": "Dove Women Advanced Deodorant Roll On 72hr Antiperspirant Pomegranate",
+    "pack_size": "50mL",
+    "product_url": "https://www.coles.com.au/product/dove-women-advanced-deodorant-roll-on-72hr-antiperspirant-pomegranate-50ml-9317618",
+    "product_id": "9317618",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Razor",
+    "product_name": "Gilette Blue 3 Disposablest Razor",
+    "pack_size": "10 Pack",
+    "product_url": "https://www.coles.com.au/product/gilette-blue-3-disposablest-razor-10-pack-9287368",
+    "product_id": "9287368",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Razor Blades",
+    "product_name": "Gillette Venus Comfortglide Sensitive Razor Blades",
+    "pack_size": "4 Pack",
+    "product_url": "https://www.coles.com.au/product/gillette-venus-comfortglide-sensitive-razor-blades-4-pack-6435593",
+    "product_id": "6435593",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Shaving Cream",
+    "product_name": "Sanofi Shave Cream - Moisturising Shaving Cream",
+    "pack_size": "75g",
+    "product_url": "https://www.coles.com.au/product/sanofi-shave-cream-moisturising-shaving-cream-75g-173086",
+    "product_id": "173086",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Shave Gel",
+    "product_name": "Nivea Men Sensitive Stubble Shave Gel",
+    "pack_size": "200mL",
+    "product_url": "https://www.coles.com.au/product/nivea-men-sensitive-stubble-shave-gel-200ml-3819136",
+    "product_id": "3819136",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Moisturiser",
+    "product_name": "Olay Regenerist Whip Uv SPF 30 Active Moisturiser",
+    "pack_size": "50g",
+    "product_url": "https://www.coles.com.au/product/olay-regenerist-whip-uv-spf-30-active-moisturiser-50g-3537462",
+    "product_id": "3537462",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Sunscreen",
+    "product_name": "Invisible Zinc Face & Body SPF 50 Sunscreen",
+    "pack_size": "150g",
+    "product_url": "https://www.coles.com.au/product/invisible-zinc-face-and-body-spf-50-sunscreen-150g-1479955",
+    "product_id": "1479955",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Cleanser",
+    "product_name": "QV Face Gentle Cleanser",
+    "pack_size": "200g",
+    "product_url": "https://www.coles.com.au/product/qv-face-gentle-cleanser-200g-1422379",
+    "product_id": "1422379",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Toner",
+    "product_name": "Tony Moly Wonder Ceramide Mochi Toner",
+    "pack_size": "100mL",
+    "product_url": "https://www.coles.com.au/product/tony-moly-wonder-ceramide-mochi-toner-100ml-1897525",
+    "product_id": "1897525",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Serum",
+    "product_name": "Hey Bud Hyaluronic Acid Hydrating Serum",
+    "pack_size": "30mL",
+    "product_url": "https://www.coles.com.au/product/hey-bud-hyaluronic-acid-hydrating-serum-30ml-1924480",
+    "product_id": "1924480",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Concealer",
+    "product_name": "Maybelline Fit Me Medium Concealer",
+    "pack_size": "6.8 ML",
+    "product_url": "https://www.coles.com.au/product/maybelline-fit-me-medium-concealer-6.8-ml-3033491",
+    "product_id": "3033491",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Foundation",
+    "product_name": "Maybelline Superstay Lumi Matte 119 Foundation",
+    "pack_size": "35mL",
+    "product_url": "https://www.coles.com.au/product/maybelline-superstay-lumi-matte-119-foundation-35ml-9040376",
+    "product_id": "9040376",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Mascara",
+    "product_name": "Revlon Colorstay Xtensionnaire Lengthening Blackest Black Waterproof Mascara",
+    "pack_size": "8mL",
+    "product_url": "https://www.coles.com.au/product/revlon-colorstay-xtensionnaire-lengthening-blackest-black-waterproof-mascara-8ml-7032934",
+    "product_id": "7032934",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Eyeliner",
+    "product_name": "Revlon Colorstay Multiplayer Liquid Glide Eyeliner Checkmate",
+    "pack_size": "0.9g",
+    "product_url": "https://www.coles.com.au/product/revlon-colorstay-multiplayer-liquid-glide-eyeliner-checkmate-0.9g-1324518",
+    "product_id": "1324518",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Lip Balm",
+    "product_name": "Dermal Therapy Tinted Lip Balm Mocha",
+    "pack_size": "8g",
+    "product_url": "https://www.coles.com.au/product/dermal-therapy-tinted-lip-balm-mocha-8g-1853031",
+    "product_id": "1853031",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Nail Polish",
+    "product_name": "Cutex Nourishing Nail Polish Remover",
+    "pack_size": "100mL",
+    "product_url": "https://www.coles.com.au/product/cutex-nourishing-nail-polish-remover-100ml-8497048",
+    "product_id": "8497048",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Tampons",
+    "product_name": "Libra Regular Tampons",
+    "pack_size": "32 Pack",
+    "product_url": "https://www.coles.com.au/product/libra-regular-tampons-32-pack-459544",
+    "product_id": "459544",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Panty Liners",
+    "product_name": "Cottons Organic Long Panty Liners",
+    "pack_size": "32 Pack",
+    "product_url": "https://www.coles.com.au/product/cottons-organic-long-panty-liners-32-pack-2375300",
+    "product_id": "2375300",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Pads",
+    "product_name": "Swisspers Cotton Round Make Up Pads",
+    "pack_size": "80 Pack",
+    "product_url": "https://www.coles.com.au/product/swisspers-cotton-round-make-up-pads-80-pack-5232014",
+    "product_id": "5232014",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Plasters",
+    "product_name": "Band Aid Advanced Healing Plasters Large",
+    "pack_size": "6 Pack",
+    "product_url": "https://www.coles.com.au/product/band-aid-advanced-healing-plasters-large-6-pack-8985890",
+    "product_id": "8985890",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Antiseptic",
+    "product_name": "Listerine Mouthwash Antiseptic",
+    "pack_size": "1L",
+    "product_url": "https://www.coles.com.au/product/listerine-mouthwash-antiseptic-1l-5240351",
+    "product_id": "5240351",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Paracetamol",
+    "product_name": "Coles Paracetamol Capsules",
+    "pack_size": "16 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-paracetamol-capsules-16-pack-7063778",
+    "product_id": "7063778",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Ibuprofen",
+    "product_name": "Coles Ibuprofen Tablets 200mg",
+    "pack_size": "24 Pack",
+    "product_url": "https://www.coles.com.au/product/coles-ibuprofen-tablets-200mg-24-pack-6181702",
+    "product_id": "6181702",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Multivitamin",
+    "product_name": "Centrum Advance 50+ Multivitamin",
+    "pack_size": "100 Pack",
+    "product_url": "https://www.coles.com.au/product/centrum-advance-50%2B-multivitamin-100-pack-7473645",
+    "product_id": "7473645",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Fish Oil",
+    "product_name": "Swisse Ultiboost Odourless Wild Fish Oil",
+    "pack_size": "400 Pack",
+    "product_url": "https://www.coles.com.au/product/swisse-ultiboost-odourless-wild-fish-oil-400-pack-8099067",
+    "product_id": "8099067",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Probiotic",
+    "product_name": "Ultralife Probiotic",
+    "pack_size": "30 Pack",
+    "product_url": "https://www.coles.com.au/product/ultralife-probiotic-30-pack-5325421",
+    "product_id": "5325421",
+    "status": "resolved"
+  },
+  {
+    "category": "health-beauty",
+    "english": "Magnesium",
+    "product_name": "Nature's Way High Strength Magnesium",
+    "pack_size": "250 Pack",
+    "product_url": "https://www.coles.com.au/product/nature%27s-way-high-strength-magnesium-250-pack-8165252",
+    "product_id": "8165252",
+    "status": "resolved"
+  },
+  {
+    "category": "baby",
+    "english": "Nappies",
+    "product_name": "Huggies Little Swimmers Swim Nappies Large (14+kg)",
+    "pack_size": "10 Pack",
+    "product_url": "https://www.coles.com.au/product/huggies-little-swimmers-swim-nappies-large-%2814%2Bkg%29-10-pack-8383413",
+    "product_id": "8383413",
+    "status": "resolved"
+  },
+  {
+    "category": "baby",
+    "english": "Nappy Pants",
+    "product_name": "Huggies Skin Protect Nappy Pants Size 4",
+    "pack_size": "58 Pack",
+    "product_url": "https://www.coles.com.au/product/huggies-skin-protect-nappy-pants-size-4-58-pack-9263304",
+    "product_id": "9263304",
+    "status": "resolved"
+  },
+  {
+    "category": "baby",
+    "english": "Baby Wipes",
+    "product_name": "Tooshies Water Baby Wipes",
+    "pack_size": "70 Pack",
+    "product_url": "https://www.coles.com.au/product/tooshies-water-baby-wipes-70-pack-5239680",
+    "product_id": "5239680",
+    "status": "resolved"
+  },
+  {
+    "category": "baby",
+    "english": "Water Wipes",
+    "product_name": "Marquise Pure Water Wipes",
+    "pack_size": "64 Pack",
+    "product_url": "https://www.coles.com.au/product/marquise-pure-water-wipes-64-pack-1601254",
+    "product_id": "1601254",
+    "status": "resolved"
+  },
+  {
+    "category": "baby",
+    "english": "Infant Formula",
+    "product_name": "Alula Gold Allergy 0-12 Months Infant Formula",
+    "pack_size": "800g",
+    "product_url": "https://www.coles.com.au/product/alula-gold-allergy-0-12-months-infant-formula-800g-6184391",
+    "product_id": "6184391",
+    "status": "resolved"
+  }
+]

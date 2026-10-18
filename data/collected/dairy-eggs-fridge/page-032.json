@@ -1,0 +1,206 @@
+{
+  "category": "dairy-eggs-fridge",
+  "page": 32,
+  "source_url": "https://www.coles.com.au/browse/dairy-eggs-fridge?page=32",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,489 - 1,536 of 2,264 results",
+  "reported_total": 2264,
+  "reported_pages": 48,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Grove Juice Orange Pulp Free",
+      "pack_size": "1.5L"
+    },
+    {
+      "product_name": "Bio Original Cheese Block",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Jalna A2 Protein Yoghurt Natural",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Norco Natural Dairy Cheese Slices 12 Pack",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Finest Beef Ragu Fettucine",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Kitchen Spinach & Ricotta Cannelloni",
+      "pack_size": "1.2kg"
+    },
+    {
+      "product_name": "Oak Chocolate Lactose Free Flavoured Milk",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Black Swan Seasonal Edition Buffalo Ranch",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Yumi's Mousse Smoked Trout",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Castello Blue Cheese Mini 5 Pack",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Don Footy Franks Skin On",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Oak Plus Protein Salted Caramel Milk",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Cracker Barrel Special Reserve Cheese Block",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Jalna Yoghurt Natural",
+      "pack_size": "2kg"
+    },
+    {
+      "product_name": "Arla Protein Pudding Caramel",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "The Juice Lab Wellness Shot Uplift",
+      "pack_size": "60mL"
+    },
+    {
+      "product_name": "Kenilworth Dairies Choc Mint Mousse",
+      "pack_size": "170g"
+    },
+    {
+      "product_name": "Yumi's Gluten Free Roasted Veggies & Peas Bites",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Nudie Nothing But Apple Juice",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Coles Dutch Maasdam",
+      "pack_size": "260g"
+    },
+    {
+      "product_name": "Coles Kitchen Cheese Arancini",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Lemnos Dairy Organic Haloumi Cheese",
+      "pack_size": "180g"
+    },
+    {
+      "product_name": "Youfoodz Regular Vietnamese Lemongrass Beef With Basmati Rice",
+      "pack_size": "330g"
+    },
+    {
+      "product_name": "Dineamic Meal Chicken & Mushroom Risotto",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "Farro Organic Spelt Pizza Veggie 10in",
+      "pack_size": "440g"
+    },
+    {
+      "product_name": "Moondarra Honey & Pistachio Cream Cheese",
+      "pack_size": "120g"
+    },
+    {
+      "product_name": "Sanitarium Up&go Protein Energize Choc",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "The Yoghurt Shop Caramel Crumble",
+      "pack_size": "190g"
+    },
+    {
+      "product_name": "Red Rock Deli Dip Balsamic Beetroot Feta & Cashew",
+      "pack_size": "135g"
+    },
+    {
+      "product_name": "Perfect Italiano Cheese Romano Block",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Kitchen Pizza Hawaiian",
+      "pack_size": "435g"
+    },
+    {
+      "product_name": "My Muscle Chef Chicken Pesto Pasta",
+      "pack_size": "330g"
+    },
+    {
+      "product_name": "Bobby X Lucy & Nikki Strawberries & Cream",
+      "pack_size": "330mL"
+    },
+    {
+      "product_name": "Fifya Dip Greek Tzatziki",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Coles Kitchen Cauliflower Cheese",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Provedore Mild Chorizo Salami",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Dari's Potato & Leek Soup",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "Dari's Chunky Minestrone Soup",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "National Pies Chunky Beef, Red Wine & Mushroom Pies 2 Pack",
+      "pack_size": "360g"
+    },
+    {
+      "product_name": "Primo Stackers Leg Ham Cheese & Crackers 3 Pack",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Fantastic Singapore Noodles",
+      "pack_size": "350g"
+    },
+    {
+      "product_name": "Coles Singapore Noodles",
+      "pack_size": "600g"
+    },
+    {
+      "product_name": "Dare Charged Mocha",
+      "pack_size": "240mL"
+    },
+    {
+      "product_name": "Yenson's Fresh Tofu",
+      "pack_size": "550g"
+    },
+    {
+      "product_name": "South Cape Cream Cheese Sweet Chilli",
+      "pack_size": "80g"
+    },
+    {
+      "product_name": "Black Swan Dip Babaganoush",
+      "pack_size": "200g"
+    },
+    {
+      "product_name": "Babushka High Protein Kefir Strawberry",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Kenilworth Roast Garlic & Cracked Pepper Cheddar",
+      "pack_size": "165g"
+    }
+  ]
+}

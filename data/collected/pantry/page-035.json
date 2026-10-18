@@ -1,0 +1,206 @@
+{
+  "category": "pantry",
+  "page": 35,
+  "source_url": "https://www.coles.com.au/browse/pantry?page=35",
+  "access_method": "web_tool_text_snapshot",
+  "checked_at": "2026-10-18",
+  "live_inventory": false,
+  "reported_range": "1,633 - 1,680 of 6,154 results",
+  "reported_total": 6154,
+  "reported_pages": 129,
+  "status": "readable",
+  "products": [
+    {
+      "product_name": "Coles Simply Sliced Black Olives",
+      "pack_size": "445g"
+    },
+    {
+      "product_name": "Coles Simply Creamy Pumpkin Soup",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Strong Cappuccino Instant Coffee Sachets 130g",
+      "pack_size": "10 Pack"
+    },
+    {
+      "product_name": "Coles Special Burger Pickles",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Dried Cranberries",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Coles Onions Cocktail White",
+      "pack_size": "150g"
+    },
+    {
+      "product_name": "Coles Pink Fine Himalayan Salt",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coles Fruit Filled Variety Bars 12 Pack",
+      "pack_size": "450g"
+    },
+    {
+      "product_name": "Coles Australian Almond Butter",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Simply Corn Flakes",
+      "pack_size": "440g"
+    },
+    {
+      "product_name": "Coles Australian Diced Tomatoes",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Frooty Rings",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Coles Peach Slice In Pear Fruit Juice",
+      "pack_size": "695g"
+    },
+    {
+      "product_name": "Coles Clasica Salsa",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Coles Whole Egg Mayonnaise",
+      "pack_size": "445g"
+    },
+    {
+      "product_name": "Coles Cranberry Sauce",
+      "pack_size": "275g"
+    },
+    {
+      "product_name": "Coles Diced Pears In Syrup 4 Pack",
+      "pack_size": "480g"
+    },
+    {
+      "product_name": "Coles Simply Stuffed Green Olives",
+      "pack_size": "445g"
+    },
+    {
+      "product_name": "Coles Cinnamon Ground",
+      "pack_size": "41g"
+    },
+    {
+      "product_name": "Coles Simply Light Coconut Milk",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Coles Asia Egg Noodles Thin",
+      "pack_size": "340g"
+    },
+    {
+      "product_name": "Coles Caramelised Biscuit Spread Smooth",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Hazelnut Smooth Spread",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Bake And Create Vanilla Paste",
+      "pack_size": "100g"
+    },
+    {
+      "product_name": "Coles Simply Chocolate Flavoured Topping",
+      "pack_size": "600mL"
+    },
+    {
+      "product_name": "Coles Australian Almond Flour",
+      "pack_size": "300g"
+    },
+    {
+      "product_name": "Coles Microwave Rice Long Grain White",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Mini Toasty Garlic And Herb Naan 5 Pack",
+      "pack_size": "225g"
+    },
+    {
+      "product_name": "Coles Simply Tomato Sauce",
+      "pack_size": "2L"
+    },
+    {
+      "product_name": "Coles Microwave Rice Pouch Coconut Chilli Lime",
+      "pack_size": "250g"
+    },
+    {
+      "product_name": "Coles Two Fruits In Strawberry Jelly 4 Pack",
+      "pack_size": "500g"
+    },
+    {
+      "product_name": "Coles Dried Fruit Mixed",
+      "pack_size": "1kg"
+    },
+    {
+      "product_name": "Coles Mexican Seasoning Mix",
+      "pack_size": "40g"
+    },
+    {
+      "product_name": "Coles Bone Broth Chicken",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Coles Sugar Brown",
+      "pack_size": "1Kg"
+    },
+    {
+      "product_name": "Coles Extra Virgin Olive Oil",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Coles Simply Tuna In Sweet Chilli",
+      "pack_size": "95g"
+    },
+    {
+      "product_name": "Coles Italian Tomato Paste",
+      "pack_size": "140g"
+    },
+    {
+      "product_name": "Coles Bran Flakes With Sultanas",
+      "pack_size": "580g"
+    },
+    {
+      "product_name": "Coles Simply Cake Mix Butter",
+      "pack_size": "340g"
+    },
+    {
+      "product_name": "Coles Right Start Fruit & Fibre Cereal",
+      "pack_size": "420g"
+    },
+    {
+      "product_name": "Coles Diced Tomatoes Sofrito Style",
+      "pack_size": "400g"
+    },
+    {
+      "product_name": "Coles Beef Flavoured Stock Cubes",
+      "pack_size": "105g"
+    },
+    {
+      "product_name": "Coles Simply Coconut Milk",
+      "pack_size": "400mL"
+    },
+    {
+      "product_name": "Coles Jumbo Tortilla Wraps 6 Pack",
+      "pack_size": "545g"
+    },
+    {
+      "product_name": "Coles Rice Wine Vinegar",
+      "pack_size": "500mL"
+    },
+    {
+      "product_name": "Coles Ground Black Pepper",
+      "pack_size": "50g"
+    },
+    {
+      "product_name": "Coles Raspberry Coulis",
+      "pack_size": "150g"
+    }
+  ]
+}
