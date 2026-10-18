@@ -43,16 +43,8 @@ function parseVocabulary(data) {
   }
   return [...unique.values()];
 }
-function sameWords(a,b) {
-  return a.length === b.length && a.every(w=>b.some(x=>normalize(x.english)===normalize(w.english)&&x.chinese===w.chinese));
-}
-// Keep old fruit progress, but do not let the old saved default dictionary hide new categories.
 try {
   if (saved.customVocabulary) customVocabulary = parseVocabulary(saved.customVocabulary);
-  else if (saved.vocabulary) {
-    const previous = parseVocabulary(Array.isArray(saved.vocabulary) ? saved.vocabulary : flatMap(saved.vocabulary.products,p=>p.terms));
-    if (!sameWords(previous,catalog.legacyWords)) { customVocabulary=previous; selected="imported"; }
-  }
 } catch {}
 function setCustomCategory(words) {
   const mapped = {};
@@ -66,13 +58,6 @@ function setCustomCategory(words) {
   if (position < 0) categories.push(custom); else categories[position]=custom;
 }
 if (customVocabulary) setCustomCategory(customVocabulary);
-for (const [key,value] of Object.entries(marks)) {
-  if (!key.includes("::")) {
-    const matches=flatMap(categories,c=>c.words).filter(w=>normalize(w.english)===normalize(key));
-    for(const word of matches){const id=wordKey(word);if(value==="known"||!marks[id])marks[id]=value;}
-    if(matches.length)delete marks[key];
-  }
-}
 if (selected!=="all-categories"&&!categories.some(c=>c.id===selected)) selected="fruit-vegetables";
 function rebuildCards() {
   cards=flatMap(categories,category=>category.words.map(word=>({

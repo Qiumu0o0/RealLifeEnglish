@@ -44,12 +44,7 @@ app.get('again').onclick();app.get('review').onclick();assert.equal(app.context.
 app=boot(app.stored);assert.equal(app.context.test.deck.length,1);
 app.choose('all-categories');app.get('all').onclick();
 assert.equal(new Set(app.context.test.deck.map(w=>w.key)).size,app.context.test.deck.length);
-const catalog=app.context.window.APP_CATALOG;
-const migrated=boot({marks:{apple:'known',apples:'again',avocados:'known'},vocabulary:catalog.legacyWords});
-assert.equal(migrated.get('category').value,'fruit-vegetables');
-assert.equal(migrated.context.test.deck.length,47);
-assert(!migrated.context.test.deck.some(w=>w.english==='Apples'));
-const custom=boot({marks:{avocados:'known'},vocabulary:[{english:'Avocados',chinese:'牛油果／鳄梨'},{english:'Example',chinese:'例子'}]});
+const custom=boot({category:'imported',marks:{'avocados::牛油果／鳄梨':'known'},customVocabulary:[{english:'Avocados',chinese:'牛油果／鳄梨'},{english:'Example',chinese:'例子'}]});
 assert.equal(custom.get('category').value,'imported');assert.equal(custom.context.test.deck.length,1);
 custom.choose('bakery');custom.get('reset').onclick();custom.choose('imported');
 assert.equal(custom.context.test.deck.length,1);
@@ -58,8 +53,8 @@ await imported.get('import').onchange({target:{files:[{text:async()=>JSON.string
 assert.equal(imported.context.test.deck.length,1);assert(imported.get('picture').src.includes('data/app/images/'));
 await imported.get('import').onchange({target:{files:[{text:async()=>'{}'}],value:'test'}});
 assert(imported.get('status').textContent.includes('失败'));assert.equal(imported.context.test.deck.length,1);
-console.log('Category switching, image bridge, empty category, shared progress, distinct meanings, review, reload, legacy migration and imports: OK');
-for(const saved of [null,{marks:{apples:'known'},vocabulary:catalog.legacyWords},{marks:{avocados:'known'},vocabulary:[{english:'Avocados',chinese:'牛油果／鳄梨'},{english:'Example',chinese:'例子'}]}]){
+console.log('Category switching, image bridge, empty category, shared progress, distinct meanings, review, reload and imports: OK');
+for(const saved of [null,{category:'imported',marks:{'avocados::牛油果／鳄梨':'known'},customVocabulary:[{english:'Avocados',chinese:'牛油果／鳄梨'},{english:'Example',chinese:'例子'}]}]){
   const old=boot(saved,true,true);
   assert.equal(old.context.window.APP_READY,true);
   assert(old.context.test.deck.length>0);
@@ -67,7 +62,7 @@ for(const saved of [null,{marks:{apples:'known'},vocabulary:catalog.legacyWords}
 }
 const switching=boot();switching.get('review').onclick();assert.equal(switching.context.test.deck.length,0);
 switching.choose('bakery');assert.equal(switching.context.test.deck.length,20);
-console.log('Missing flatMap/replaceChildren, legacy progress/custom imports and empty-review category switching: OK');
+console.log('Missing flatMap/replaceChildren, custom imports and empty-review category switching: OK');
 const listeners={};let updates=0;
 const recovery={window:{AndroidApp:{checkUpdates(){updates++;}},addEventListener(name,callback){listeners[name]=callback;}},document:{getElementById:id=>({status:{},update:{}}[id]),addEventListener(name,callback){listeners[name]=callback;}}};
 const recoveryNodes={status:{textContent:''},update:{}};
