@@ -7,10 +7,10 @@ function boot(saved=null,native=false,legacy=false,controlled=null,cloud=false){
   const nodes={};let stored=saved?JSON.stringify(saved):null,reads=0;
   const element=()=>({textContent:'',value:'',children:[],dataset:{},classList:{toggle(){}},setAttribute(name,value){this[name]=value;},getAttribute(name){return this[name];},removeAttribute(name){delete this[name];},replaceChildren:legacy?undefined:function(){this.children=[];this.textContent='';},append(child){this.children.push(child);this.textContent+=child.textContent||'';}});
   const get=id=>nodes[id]||(nodes[id]=element());
-  const window=native?{AndroidApp:{getImageData(path){reads++;return 'data:image/jpeg;base64,'+path;},checkUpdates(){},installSpeechData(){this.installerOpened=true;},englishVoices(){return JSON.stringify([{name:'GB Voice',locale:'en-GB',network:false}]);},speechLocale(){return 'ok|en-GB|GB Voice';},speak(text){this.lastSpoken=text;return 'ok|en-GB|GB Voice';}}}:{};
+  const window=native?{AndroidApp:{getImageData(path){reads++;return 'data:image/jpeg;base64,'+path;},checkUpdates(){},installSpeechData(){this.installerOpened=true;},refreshSpeechData(){this.refreshed=true;},englishVoices(){return JSON.stringify([{name:'GB Voice',locale:'en-GB',network:false}]);},speechLocale(){return 'ok|en-GB|GB Voice';},speak(text){this.lastSpoken=text;return 'ok|en-GB|GB Voice';}}}:{};
   const stores=new Map(saved?[['real-life-english-fruit-v1',stored]]:[]);
   if(cloud)window.Cloud={userId:()=>null,changed(){},mount(adapter){this.adapter=adapter;}};
-  const context={window,document:{getElementById:get,createElement:element,createTextNode:text=>({textContent:text}),addEventListener(){}},localStorage:{getItem:key=>stores.get(key)||null,setItem:(k,v)=>{stored=v;stores.set(k,v);}},confirm:()=>true};
+  const context={window,document:{getElementById:get,createElement:element,createTextNode:text=>({textContent:text}),addEventListener(){}},localStorage:{getItem:key=>stores.get(key)||null,setItem:(k,v)=>{stored=v;stores.set(k,v);}},confirm:()=>true,setTimeout:()=>1,clearTimeout(){}};
   if(controlled)context.Image=function(){controlled.push(this);};
   vm.createContext(context);if(legacy)vm.runInContext('Array.prototype.flatMap=undefined;',context);vm.runInContext(bundle,context);
   if(native){window.APP_IMAGE_DATA={};for(const category of window.APP_CATALOG.categories)for(const image of Object.values(category.images))window.APP_IMAGE_DATA[image]='data:image/jpeg;base64,'+image;}
@@ -45,6 +45,7 @@ app.get('speech-voice').value='GB Voice';app.get('speech-voice').onchange();asse
 app.get('auto-speak').checked=false;app.get('auto-speak').onchange();assert.equal(app.get('auto-speak').checked,false);
 app.get('install-speech').onclick();assert.equal(app.context.window.AndroidApp.installerOpened,true);
 assert.equal(typeof app.context.window.refreshSpeechVoices,'function');app.context.window.refreshSpeechVoices();
+app.get('refresh-speech').onclick();assert.equal(app.context.window.AndroidApp.refreshed,true);
 app.get('dictionary-close').onclick();assert.equal(app.get('dictionary-overlay').hidden,true);
 app.get('remember').onclick();assert.equal(app.context.test.deck.length,fruitCount-1);
 app.choose('meat-seafood');assert.equal(app.context.test.deck.length,meatCount);

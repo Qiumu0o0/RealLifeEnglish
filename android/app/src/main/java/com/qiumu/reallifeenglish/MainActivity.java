@@ -88,9 +88,12 @@ public class MainActivity extends Activity {
         }
     }
     @Override protected void onSaveInstanceState(Bundle state) { super.onSaveInstanceState(state); webView.saveState(state); }
+    public void refreshSpeechVoices(){
+        if(bridge!=null)bridge.refreshSpeechEngine(new Runnable(){@Override public void run(){webView.evaluateJavascript("window.refreshSpeechVoices&&window.refreshSpeechVoices()",null);}});
+    }
     @Override protected void onResume(){
         super.onResume();
-        if(bridge!=null&&bridge.consumeSpeechInstallerOpened())bridge.refreshSpeechEngine(new Runnable(){@Override public void run(){webView.evaluateJavascript("window.refreshSpeechVoices&&window.refreshSpeechVoices()",null);}});
+        if(bridge!=null&&bridge.consumeSpeechInstallerOpened())refreshSpeechVoices();
     }
     @Override protected void onDestroy() {
         if (fileCallback != null) fileCallback.onReceiveValue(null);

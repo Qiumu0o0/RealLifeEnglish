@@ -39,6 +39,7 @@ public class AppBridge {
             catch(Exception first){try{activity.startActivity(new Intent("com.android.settings.TTS_SETTINGS"));}catch(Exception second){activity.startActivity(new Intent(Settings.ACTION_SETTINGS));}}
         }});
     }
+    @JavascriptInterface public void refreshSpeechData(){if(activity instanceof MainActivity)((MainActivity)activity).refreshSpeechVoices();}
     public boolean consumeSpeechInstallerOpened(){boolean opened=speechInstallerOpened;speechInstallerOpened=false;return opened;}
     public void refreshSpeechEngine(final Runnable ready){
         final TextToSpeech[] replacement=new TextToSpeech[1];
