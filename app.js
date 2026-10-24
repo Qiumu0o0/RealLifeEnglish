@@ -93,13 +93,17 @@ function openDictionary(token,card){
   $("dictionary-word").textContent=token;
   $("dictionary-phonetic").textContent=entry.phonetic||"";
   $("dictionary-meaning").textContent=entry.chinese;
+  $("dictionary-audio-status").textContent="";
   $("dictionary-speak").onclick=()=>speakWord(token);
   $("dictionary-overlay").hidden=false;
 }
 function speakWord(word){
-  if(window.AndroidApp&&typeof window.AndroidApp.speak==="function"){window.AndroidApp.speak(word);return;}
+  if(window.AndroidApp&&typeof window.AndroidApp.speak==="function"){
+    const result=window.AndroidApp.speak(word),messages={loading:"语音引擎尚未就绪，请稍后重试。",missing:"缺少美式英语语音包，请在系统文字转语音设置中安装。",unsupported:"当前语音引擎不支持美式英语。",invalid:"无法朗读该单词。"};
+    $("dictionary-audio-status").textContent=messages[result]||"";return;
+  }
   if("speechSynthesis" in window){window.speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(word);utterance.lang="en-AU";window.speechSynthesis.speak(utterance);return;}
-  $("dictionary-meaning").textContent="当前设备不支持语音播放。";
+  $("dictionary-audio-status").textContent="当前设备不支持语音播放。";
 }
 function renderCardWord(card){
   const root=$("word");root.textContent="";

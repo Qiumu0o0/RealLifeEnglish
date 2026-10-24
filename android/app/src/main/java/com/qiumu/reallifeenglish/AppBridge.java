@@ -25,9 +25,14 @@ public class AppBridge {
         });
     }
     @JavascriptInterface public void checkUpdates() { updater.checkUpdates(); }
-    @JavascriptInterface public void speak(String word) {
-        if(word==null||!word.matches("[A-Za-z'-]+"))return;
-        activity.runOnUiThread(new Runnable(){@Override public void run(){if(speechReady)textToSpeech.speak(word,TextToSpeech.QUEUE_FLUSH,null,"word");}});
+    @JavascriptInterface public String speak(String word) {
+        if(word==null||!word.matches("[A-Za-z'-]+"))return "invalid";
+        if(!speechReady)return "loading";
+        int availability=textToSpeech.isLanguageAvailable(Locale.US);
+        if(availability==TextToSpeech.LANG_MISSING_DATA)return "missing";
+        if(availability==TextToSpeech.LANG_NOT_SUPPORTED)return "unsupported";
+        activity.runOnUiThread(new Runnable(){@Override public void run(){textToSpeech.speak(word,TextToSpeech.QUEUE_FLUSH,null,"word");}});
+        return "ok";
     }
     public void shutdown(){if(textToSpeech!=null)textToSpeech.shutdown();}
     @JavascriptInterface public synchronized String getImageData(String path) {
