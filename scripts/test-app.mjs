@@ -22,6 +22,8 @@ function boot(saved=null,native=false,legacy=false,controlled=null,cloud=false){
 let app=boot(null,true);
 const catalog=app.context.window.APP_CATALOG;
 const totalCount=catalog.categories.reduce((sum,category)=>sum+category.words.length,0);
+const clickableTokens=[...new Set(catalog.categories.flatMap(category=>category.words.flatMap(word=>(word.english.match(/[A-Za-z]+(?:[-'][A-Za-z]+)*/g)||[]).map(token=>token.toLowerCase()))))];
+assert.equal(clickableTokens.filter(token=>!catalog.wordDictionary[token]).length,0);
 const fruitCount=catalog.categories.find(category=>category.id==='fruit-vegetables').words.length;
 const meatCount=catalog.categories.find(category=>category.id==='meat-seafood').words.length;
 const bakeryCount=catalog.categories.find(category=>category.id==='bakery').words.length;

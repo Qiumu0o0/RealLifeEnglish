@@ -2,7 +2,8 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 const root=path.resolve(import.meta.dirname,'..');
 const index=JSON.parse(await fs.readFile(path.join(root,'data/app/index.json'),'utf8'));
-const dictionary={};
+let dictionary={};
+try{dictionary=JSON.parse(await fs.readFile(path.join(root,'data/app/word-dictionary.json'),'utf8'));}catch{}
 for(const item of index.categories){
   const words=JSON.parse(await fs.readFile(path.join(root,'data/app',item.vocabulary),'utf8'));
   for(const word of words){
