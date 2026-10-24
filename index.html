@@ -18,7 +18,7 @@ button:focus-visible{outline:2px solid #285c3c;outline-offset:3px}
 <style>
 [hidden]{display:none!important}main{padding-bottom:100px}.bottom-nav{position:fixed;bottom:0;left:0;right:0;display:flex;justify-content:center;gap:12px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:#f5f7f1;border-top:1px solid #dbe2d7;z-index:10}.bottom-nav button{flex:1;max-width:350px}.profile-card{background:white;border:1px solid #dbe2d7;border-radius:20px;padding:24px;margin:24px 0}.profile-card h2{margin-top:0;font-size:20px}.profile-card p{margin-bottom:0}@media(max-width:480px){main{padding-bottom:100px}}
 </style>
-<script src="bootstrap.js?v=1.8.0"></script>
+<script src="bootstrap.js?v=1.8.1"></script>
 </head>
 <body>
 <main>
@@ -51,14 +51,14 @@ button:focus-visible{outline:2px solid #285c3c;outline-offset:3px}
 <div id="account-actions" hidden><p><button id="sync-now">立即同步</button> <button id="sign-out">退出登录</button></p><p><button id="import-local">导入本机未登录进度</button></p></div>
 <p>登录后同步词条学习状态；未登录记录仅保存在本机。注册密码至少 8 位，邮箱验证后再登录。</p><p id="auth-status" class="status" role="status" aria-live="polite"></p></div>
 <div class="profile-card"><h2>学习进度</h2><p id="profile-progress"></p></div>
-<div class="profile-card"><h2>发音声音</h2><label for="speech-voice">英语语音</label><select id="speech-voice" style="display:block;width:100%;padding:12px;margin-top:10px;font:inherit"><option value="auto">自动选择</option></select><p id="speech-voice-status" class="status">正在读取设备语音……</p><p>选择仅保存在当前设备。</p></div>
-<div class="profile-card"><h2>应用更新</h2><p>当前版本：1.8.0</p><button id="update">检查更新</button><p id="update-status" class="status" role="status" aria-live="polite"></p></div>
+<div class="profile-card"><h2>发音声音</h2><label for="speech-voice">英语语音</label><select id="speech-voice" style="display:block;width:100%;padding:12px;margin-top:10px;font:inherit"><option value="auto">自动选择</option></select><p id="speech-voice-status" class="status">正在读取设备语音……</p><p><label><input id="auto-speak" type="checkbox"> 进入新卡片时自动朗读</label></p><p id="auto-speak-status" class="status">设置仅保存在当前设备。</p></div>
+<div class="profile-card"><h2>应用更新</h2><p>当前版本：1.8.1</p><button id="update">检查更新</button><p id="update-status" class="status" role="status" aria-live="polite"></p></div>
 </section>
 </main>
 <div id="dictionary-overlay" class="dictionary-overlay" hidden><div class="dictionary-card" role="dialog" aria-modal="true" aria-labelledby="dictionary-word"><h2 id="dictionary-word"></h2><p id="dictionary-phonetic"></p><p id="dictionary-meaning"></p><p id="dictionary-audio-status" class="status" role="status"></p><button id="dictionary-speak">🔊 发音</button> <button id="dictionary-close">关闭</button></div></div>
 <nav class="bottom-nav" aria-label="主导航"><button id="tab-study" class="primary" aria-current="page">学习</button><button id="tab-words">词表</button><button id="tab-profile">我的</button></nav>
-<script src="data/app/catalog.js?v=1.8.0"></script>
-<script src="cloud.js?v=1.8.0"></script>
-<script src="app.js?v=1.8.0"></script>
+<script src="data/app/catalog.js?v=1.8.1"></script>
+<script src="cloud.js?v=1.8.1"></script>
+<script src="app.js?v=1.8.1"></script>
 </body>
 </html>

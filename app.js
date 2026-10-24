@@ -7,6 +7,8 @@ const guestStorageKey = "real-life-english-fruit-v1";
 let storageKey=guestStorageKey+(window.Cloud&&window.Cloud.userId()?":user:"+window.Cloud.userId():"");
 const speechVoiceKey="real-life-english-speech-voice-v1";
 let speechVoice=localStorage.getItem(speechVoiceKey)||"auto",speechVoices=[];
+const autoSpeakKey="real-life-english-auto-speak-v1";
+let autoSpeak=localStorage.getItem(autoSpeakKey)!=="false",lastAutoSpokenKey="";
 const wordForms = {apple:"apples",avocado:"avocados",banana:"bananas",lemon:"lemons",orange:"oranges",pear:"pears",cookies:"cookie",scroll:"scrolls",croquettes:"croquette",yogurt:"yoghurt","dog treat":"dog treats"};
 const normalize = english => wordForms[english.trim().toLowerCase()] || english.trim().toLowerCase();
 const wordKey = word => normalize(word.english)+"::"+word.chinese.trim();
@@ -97,7 +99,7 @@ function openDictionary(token,card){
   $("dictionary-meaning").textContent=entry.chinese;
   $("dictionary-audio-status").textContent="";
   if(window.AndroidApp&&typeof window.AndroidApp.speechLocale==="function")showSpeechStatus(window.AndroidApp.speechLocale(speechVoice));
-  $("dictionary-speak").onclick=()=>speakWord(token);
+  $("dictionary-speak").onclick=()=>speakText(token,true);
   $("dictionary-overlay").hidden=false;
 }
 function speechLabel(tag){const labels={"en-AU":"澳洲英语","en-US":"美式英语","en-GB":"英式英语","en-CA":"加拿大英语"};return labels[tag]||tag||"英语";}
@@ -107,12 +109,12 @@ function showSpeechStatus(result){
   if(result&&result.startsWith("ok|")){const parts=result.split("|");$("dictionary-audio-status").textContent="发音："+parts.slice(2).join("|")+"（"+speechLabel(parts[1])+"）";return;}
   $("dictionary-audio-status").textContent=messages[result]||"";
 }
-function speakWord(word){
+function speakText(word,report){
   if(window.AndroidApp&&typeof window.AndroidApp.speak==="function"){
-    showSpeechStatus(window.AndroidApp.speak(word,speechVoice));return;
+    const result=window.AndroidApp.speak(word,speechVoice);if(report)showSpeechStatus(result);return result;
   }
   if("speechSynthesis" in window){window.speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(word),selected=speechVoices.find(voice=>(voice.voiceURI||voice.name)===speechVoice);if(selected){utterance.voice=selected;utterance.lang=selected.lang;}else utterance.lang="en-AU";window.speechSynthesis.speak(utterance);return;}
-  $("dictionary-audio-status").textContent="当前设备不支持语音播放。";
+  if(report)$("dictionary-audio-status").textContent="当前设备不支持语音播放。";
 }
 function renderCardWord(card){
   const root=$("word");root.textContent="";
@@ -159,6 +161,7 @@ function render() {
     picture.alt=c?c.chinese+"商品图片":"";
     $("image-placeholder").hidden=!!source||!c;
     for(const id of ["again","remember","card"])$(id).disabled=!c;
+    if(c&&!flipped&&autoSpeak&&lastAutoSpokenKey!==c.key){lastAutoSpokenKey=c.key;speakText(c.english,false);}
     for(let offset=1;offset<=3;offset++){const next=deck[index+offset];if(next)loadImage(next.image,()=>{});}
   });
   $("context").textContent=c?c.categoryLabel:(!current.length?"请选择其他分类。":"已掌握词不会重复出现，可选择其他分类继续学习。");
@@ -214,6 +217,8 @@ function fillSpeechVoices(){
 }
 fillSpeechVoices();if("speechSynthesis" in window)window.speechSynthesis.onvoiceschanged=fillSpeechVoices;
 $("speech-voice").onchange=()=>{speechVoice=$("speech-voice").value;localStorage.setItem(speechVoiceKey,speechVoice);const option=$("speech-voice").selectedOptions&&$("speech-voice").selectedOptions[0];$("speech-voice-status").textContent="已保存："+(option?option.textContent:"自动选择");};
+$("auto-speak").checked=autoSpeak;
+$("auto-speak").onchange=()=>{autoSpeak=$("auto-speak").checked;localStorage.setItem(autoSpeakKey,String(autoSpeak));$("auto-speak-status").textContent=autoSpeak?"已开启：进入新卡片时自动朗读完整词组。":"已关闭自动朗读。";};
 $("category").onchange=()=>{selected=$("category").value;mode="all";$("status").textContent="";$("search").value="";buildDeck();persist();};
 $("card").onclick=()=>{if(deck.length&&!loadingCard){flipped=!flipped;render();}};
 $("card").onkeydown=event=>{if((event.key==="Enter"||event.key===" ")&&event.target===$("card")){event.preventDefault();$("card").click();}};

@@ -61,7 +61,7 @@ public class AppBridge {
         return "ok|"+localeName(locale)+"|"+name;
     }
     @JavascriptInterface public String speak(String word,String preferredVoice) {
-        if(word==null||!word.matches("[A-Za-z'-]+"))return "invalid";
+        if(word==null||word.length()>120||!word.matches("[A-Za-z][A-Za-z '\\-]*"))return "invalid";
         String status=speechLocale(preferredVoice);if(!status.startsWith("ok|")&&!status.startsWith("fallback|"))return status;
         activity.runOnUiThread(new Runnable(){@Override public void run(){textToSpeech.speak(word,TextToSpeech.QUEUE_FLUSH,null,"word");}});
         return status;
