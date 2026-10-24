@@ -9,6 +9,7 @@ import java.io.InputStream;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Locale;
+import java.util.Set;
 
 public class AppBridge {
     private final Activity activity;
@@ -25,14 +26,22 @@ public class AppBridge {
         });
     }
     @JavascriptInterface public void checkUpdates() { updater.checkUpdates(); }
+    private Locale selectEnglishLocale(){
+        Locale[] preferred={new Locale("en","AU"),Locale.US,Locale.UK,Locale.CANADA,Locale.ENGLISH};
+        for(Locale locale:preferred){if(textToSpeech.isLanguageAvailable(locale)>=TextToSpeech.LANG_AVAILABLE&&textToSpeech.setLanguage(locale)>=TextToSpeech.LANG_AVAILABLE)return locale;}
+        Set<Locale> available=textToSpeech.getAvailableLanguages();
+        if(available!=null)for(Locale locale:available){if("en".equals(locale.getLanguage())&&textToSpeech.setLanguage(locale)>=TextToSpeech.LANG_AVAILABLE)return locale;}
+        return null;
+    }
+    @JavascriptInterface public String speechLocale(){
+        if(!speechReady)return "loading";
+        Locale locale=selectEnglishLocale();return locale==null?"missing":"ok|"+locale.toLanguageTag();
+    }
     @JavascriptInterface public String speak(String word) {
         if(word==null||!word.matches("[A-Za-z'-]+"))return "invalid";
-        if(!speechReady)return "loading";
-        int availability=textToSpeech.isLanguageAvailable(Locale.US);
-        if(availability==TextToSpeech.LANG_MISSING_DATA)return "missing";
-        if(availability==TextToSpeech.LANG_NOT_SUPPORTED)return "unsupported";
+        String status=speechLocale();if(!status.startsWith("ok|"))return status;
         activity.runOnUiThread(new Runnable(){@Override public void run(){textToSpeech.speak(word,TextToSpeech.QUEUE_FLUSH,null,"word");}});
-        return "ok";
+        return status;
     }
     public void shutdown(){if(textToSpeech!=null)textToSpeech.shutdown();}
     @JavascriptInterface public synchronized String getImageData(String path) {
