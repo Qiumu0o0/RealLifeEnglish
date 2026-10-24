@@ -1,6 +1,8 @@
 package com.qiumu.reallifeenglish;
 
 import android.app.Activity;
+import android.content.Intent;
+import android.provider.Settings;
 import android.util.Base64;
 import android.webkit.JavascriptInterface;
 import android.speech.tts.TextToSpeech;
@@ -29,6 +31,12 @@ public class AppBridge {
         });
     }
     @JavascriptInterface public void checkUpdates() { updater.checkUpdates(); }
+    @JavascriptInterface public void installSpeechData(){
+        activity.runOnUiThread(new Runnable(){@Override public void run(){
+            try{activity.startActivity(new Intent(TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA));}
+            catch(Exception first){try{activity.startActivity(new Intent("com.android.settings.TTS_SETTINGS"));}catch(Exception second){activity.startActivity(new Intent(Settings.ACTION_SETTINGS));}}
+        }});
+    }
     private String localeName(Locale locale){return locale==null?"":locale.toLanguageTag();}
     @JavascriptInterface public String englishVoices(){
         JSONArray result=new JSONArray();if(!speechReady)return result.toString();

@@ -217,6 +217,7 @@ function fillSpeechVoices(){
 }
 fillSpeechVoices();if("speechSynthesis" in window)window.speechSynthesis.onvoiceschanged=fillSpeechVoices;
 $("speech-voice").onchange=()=>{speechVoice=$("speech-voice").value;localStorage.setItem(speechVoiceKey,speechVoice);const option=$("speech-voice").selectedOptions&&$("speech-voice").selectedOptions[0];$("speech-voice-status").textContent="已保存："+(option?option.textContent:"自动选择");};
+if(window.AndroidApp&&typeof window.AndroidApp.installSpeechData==="function"){$("install-speech").hidden=false;$("install-speech").onclick=()=>window.AndroidApp.installSpeechData();}
 $("auto-speak").checked=autoSpeak;
 $("auto-speak").onchange=()=>{autoSpeak=$("auto-speak").checked;localStorage.setItem(autoSpeakKey,String(autoSpeak));$("auto-speak-status").textContent=autoSpeak?"已开启：进入新卡片时自动朗读完整词组。":"已关闭自动朗读。";};
 $("category").onchange=()=>{selected=$("category").value;mode="all";$("status").textContent="";$("search").value="";buildDeck();persist();};
