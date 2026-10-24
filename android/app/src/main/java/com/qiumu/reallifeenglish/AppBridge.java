@@ -21,6 +21,7 @@ public class AppBridge {
     private final AppUpdater updater;
     private TextToSpeech textToSpeech;
     private boolean speechReady;
+    private boolean speechInstallerOpened;
     private final Map<String,String> imageCache = new LinkedHashMap<String,String>(8,0.75f,true) {
         @Override protected boolean removeEldestEntry(Map.Entry<String,String> entry) { return size()>6; }
     };
@@ -33,8 +34,18 @@ public class AppBridge {
     @JavascriptInterface public void checkUpdates() { updater.checkUpdates(); }
     @JavascriptInterface public void installSpeechData(){
         activity.runOnUiThread(new Runnable(){@Override public void run(){
+            speechInstallerOpened=true;
             try{activity.startActivity(new Intent(TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA));}
             catch(Exception first){try{activity.startActivity(new Intent("com.android.settings.TTS_SETTINGS"));}catch(Exception second){activity.startActivity(new Intent(Settings.ACTION_SETTINGS));}}
+        }});
+    }
+    public boolean consumeSpeechInstallerOpened(){boolean opened=speechInstallerOpened;speechInstallerOpened=false;return opened;}
+    public void refreshSpeechEngine(final Runnable ready){
+        final TextToSpeech[] replacement=new TextToSpeech[1];
+        replacement[0]=new TextToSpeech(activity,new TextToSpeech.OnInitListener(){@Override public void onInit(int status){
+            if(status==TextToSpeech.SUCCESS){TextToSpeech previous=textToSpeech;textToSpeech=replacement[0];speechReady=true;textToSpeech.setLanguage(Locale.US);if(previous!=null)previous.shutdown();}
+            else replacement[0].shutdown();
+            activity.runOnUiThread(ready);
         }});
     }
     private String localeName(Locale locale){return locale==null?"":locale.toLanguageTag();}

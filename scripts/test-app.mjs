@@ -44,6 +44,7 @@ app.get('dictionary-speak').onclick();assert(app.get('dictionary-audio-status').
 app.get('speech-voice').value='GB Voice';app.get('speech-voice').onchange();assert.equal(app.get('speech-voice').value,'GB Voice');
 app.get('auto-speak').checked=false;app.get('auto-speak').onchange();assert.equal(app.get('auto-speak').checked,false);
 app.get('install-speech').onclick();assert.equal(app.context.window.AndroidApp.installerOpened,true);
+assert.equal(typeof app.context.window.refreshSpeechVoices,'function');app.context.window.refreshSpeechVoices();
 app.get('dictionary-close').onclick();assert.equal(app.get('dictionary-overlay').hidden,true);
 app.get('remember').onclick();assert.equal(app.context.test.deck.length,fruitCount-1);
 app.choose('meat-seafood');assert.equal(app.context.test.deck.length,meatCount);

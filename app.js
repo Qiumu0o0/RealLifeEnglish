@@ -215,6 +215,7 @@ function fillSpeechVoices(){
   if(items.some(item=>item.id===speechVoice))select.value=speechVoice;else {speechVoice="auto";select.value="auto";}
   $("speech-voice-status").textContent=items.length?"找到 "+items.length+" 个英语语音。":"尚未发现英语语音，请检查系统语音设置。";
 }
+window.refreshSpeechVoices=fillSpeechVoices;
 fillSpeechVoices();if("speechSynthesis" in window)window.speechSynthesis.onvoiceschanged=fillSpeechVoices;
 $("speech-voice").onchange=()=>{speechVoice=$("speech-voice").value;localStorage.setItem(speechVoiceKey,speechVoice);const option=$("speech-voice").selectedOptions&&$("speech-voice").selectedOptions[0];$("speech-voice-status").textContent="已保存："+(option?option.textContent:"自动选择");};
 if(window.AndroidApp&&typeof window.AndroidApp.installSpeechData==="function"){$("install-speech").hidden=false;$("install-speech").onclick=()=>window.AndroidApp.installSpeechData();}

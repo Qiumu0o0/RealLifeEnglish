@@ -88,6 +88,10 @@ public class MainActivity extends Activity {
         }
     }
     @Override protected void onSaveInstanceState(Bundle state) { super.onSaveInstanceState(state); webView.saveState(state); }
+    @Override protected void onResume(){
+        super.onResume();
+        if(bridge!=null&&bridge.consumeSpeechInstallerOpened())bridge.refreshSpeechEngine(new Runnable(){@Override public void run(){webView.evaluateJavascript("window.refreshSpeechVoices&&window.refreshSpeechVoices()",null);}});
+    }
     @Override protected void onDestroy() {
         if (fileCallback != null) fileCallback.onReceiveValue(null);
         if (bridge != null) bridge.shutdown();
