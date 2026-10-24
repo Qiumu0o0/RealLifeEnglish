@@ -4,12 +4,15 @@ import android.app.Activity;
 import android.util.Base64;
 import android.webkit.JavascriptInterface;
 import android.speech.tts.TextToSpeech;
+import android.speech.tts.Voice;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Locale;
 import java.util.Set;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 public class AppBridge {
     private final Activity activity;
@@ -27,6 +30,13 @@ public class AppBridge {
     }
     @JavascriptInterface public void checkUpdates() { updater.checkUpdates(); }
     private String localeName(Locale locale){return locale==null?"":locale.toLanguageTag();}
+    @JavascriptInterface public String englishVoices(){
+        JSONArray result=new JSONArray();if(!speechReady)return result.toString();
+        Set<Voice> voices=textToSpeech.getVoices();if(voices==null)return result.toString();
+        for(Voice voice:voices){if(!"en".equals(voice.getLocale().getLanguage()))continue;JSONObject item=new JSONObject();try{item.put("name",voice.getName());item.put("locale",voice.getLocale().toLanguageTag());item.put("network",voice.isNetworkConnectionRequired());result.put(item);}catch(Exception ignored){}}
+        return result.toString();
+    }
+    private Voice findVoice(String name){Set<Voice> voices=textToSpeech.getVoices();if(voices!=null)for(Voice voice:voices)if(voice.getName().equals(name))return voice;return null;}
     private Locale selectEnglishLocale(String preferredTag){
         Locale[] preferred={new Locale("en","AU"),Locale.US,Locale.UK,Locale.CANADA,Locale.ENGLISH};
         if(preferredTag!=null&&!"auto".equals(preferredTag)){
@@ -38,16 +48,21 @@ public class AppBridge {
         if(available!=null)for(Locale locale:available){if("en".equals(locale.getLanguage())&&textToSpeech.setLanguage(locale)>=TextToSpeech.LANG_AVAILABLE)return locale;}
         return null;
     }
-    @JavascriptInterface public String speechLocale(String preferredTag){
+    @JavascriptInterface public String speechLocale(String preferredVoice){
         if(!speechReady)return "loading";
-        Locale locale=selectEnglishLocale(preferredTag);
+        if(preferredVoice!=null&&!"auto".equals(preferredVoice)){
+            Voice requested=findVoice(preferredVoice);
+            if(requested!=null&&"en".equals(requested.getLocale().getLanguage())&&textToSpeech.setVoice(requested)==TextToSpeech.SUCCESS)return "ok|"+localeName(requested.getLocale())+"|"+requested.getName();
+        }
+        Locale locale=selectEnglishLocale("auto");
         if(locale==null)return "missing";
-        if(preferredTag!=null&&!"auto".equals(preferredTag)&&!preferredTag.equalsIgnoreCase(localeName(locale)))return "fallback|"+preferredTag+"|"+localeName(locale);
-        return "ok|"+localeName(locale);
+        Voice actual=textToSpeech.getVoice();String name=actual==null?"系统默认":actual.getName();
+        if(preferredVoice!=null&&!"auto".equals(preferredVoice))return "fallback|"+preferredVoice+"|"+localeName(locale)+"|"+name;
+        return "ok|"+localeName(locale)+"|"+name;
     }
-    @JavascriptInterface public String speak(String word,String preferredTag) {
+    @JavascriptInterface public String speak(String word,String preferredVoice) {
         if(word==null||!word.matches("[A-Za-z'-]+"))return "invalid";
-        String status=speechLocale(preferredTag);if(!status.startsWith("ok|")&&!status.startsWith("fallback|"))return status;
+        String status=speechLocale(preferredVoice);if(!status.startsWith("ok|")&&!status.startsWith("fallback|"))return status;
         activity.runOnUiThread(new Runnable(){@Override public void run(){textToSpeech.speak(word,TextToSpeech.QUEUE_FLUSH,null,"word");}});
         return status;
     }
