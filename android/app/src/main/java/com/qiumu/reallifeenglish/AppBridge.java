@@ -13,6 +13,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Locale;
 import java.util.Set;
+import java.util.List;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -22,32 +23,42 @@ public class AppBridge {
     private TextToSpeech textToSpeech;
     private boolean speechReady;
     private boolean speechInstallerOpened;
+    private String activeEngine;
     private final Map<String,String> imageCache = new LinkedHashMap<String,String>(8,0.75f,true) {
         @Override protected boolean removeEldestEntry(Map.Entry<String,String> entry) { return size()>6; }
     };
     AppBridge(Activity activity, AppUpdater updater) {
         this.activity=activity; this.updater=updater;
         textToSpeech=new TextToSpeech(activity,new TextToSpeech.OnInitListener(){
-            @Override public void onInit(int status){speechReady=status==TextToSpeech.SUCCESS;if(speechReady)textToSpeech.setLanguage(Locale.US);}
+            @Override public void onInit(int status){speechReady=status==TextToSpeech.SUCCESS;if(speechReady){activeEngine=textToSpeech.getDefaultEngine();textToSpeech.setLanguage(Locale.US);}}
         });
     }
     @JavascriptInterface public void checkUpdates() { updater.checkUpdates(); }
     @JavascriptInterface public void installSpeechData(){
         activity.runOnUiThread(new Runnable(){@Override public void run(){
             speechInstallerOpened=true;
-            try{activity.startActivity(new Intent(TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA));}
+            try{Intent install=new Intent(TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA);if(activeEngine!=null)install.setPackage(activeEngine);activity.startActivity(install);}
             catch(Exception first){try{activity.startActivity(new Intent("com.android.settings.TTS_SETTINGS"));}catch(Exception second){activity.startActivity(new Intent(Settings.ACTION_SETTINGS));}}
         }});
     }
     @JavascriptInterface public void refreshSpeechData(){if(activity instanceof MainActivity)((MainActivity)activity).refreshSpeechVoices();}
+    @JavascriptInterface public void switchSpeechEngine(String engine){if(activity instanceof MainActivity)((MainActivity)activity).switchSpeechEngine(engine);}
     public boolean consumeSpeechInstallerOpened(){boolean opened=speechInstallerOpened;speechInstallerOpened=false;return opened;}
-    public void refreshSpeechEngine(final Runnable ready){
+    public void refreshSpeechEngine(final String engine,final Runnable ready){
         final TextToSpeech[] replacement=new TextToSpeech[1];
-        replacement[0]=new TextToSpeech(activity,new TextToSpeech.OnInitListener(){@Override public void onInit(int status){
-            if(status==TextToSpeech.SUCCESS){TextToSpeech previous=textToSpeech;textToSpeech=replacement[0];speechReady=true;textToSpeech.setLanguage(Locale.US);if(previous!=null)previous.shutdown();}
+        TextToSpeech.OnInitListener listener=new TextToSpeech.OnInitListener(){@Override public void onInit(int status){
+            if(status==TextToSpeech.SUCCESS){TextToSpeech previous=textToSpeech;textToSpeech=replacement[0];speechReady=true;activeEngine=engine==null?textToSpeech.getDefaultEngine():engine;textToSpeech.setLanguage(Locale.US);if(previous!=null)previous.shutdown();}
             else replacement[0].shutdown();
             activity.runOnUiThread(ready);
-        }});
+        }};
+        replacement[0]=engine==null?new TextToSpeech(activity,listener):new TextToSpeech(activity,listener,engine);
+    }
+    public String getActiveEngine(){return activeEngine;}
+    @JavascriptInterface public String activeSpeechEngine(){return activeEngine==null?"":activeEngine;}
+    @JavascriptInterface public String speechEngines(){
+        JSONArray result=new JSONArray();if(textToSpeech==null)return result.toString();List<TextToSpeech.EngineInfo> engines=textToSpeech.getEngines();
+        if(engines!=null)for(TextToSpeech.EngineInfo engine:engines){JSONObject item=new JSONObject();try{item.put("name",engine.name);item.put("label",engine.label);result.put(item);}catch(Exception ignored){}}
+        return result.toString();
     }
     private String localeName(Locale locale){return locale==null?"":locale.toLanguageTag();}
     @JavascriptInterface public String englishVoices(){

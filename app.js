@@ -7,6 +7,8 @@ const guestStorageKey = "real-life-english-fruit-v1";
 let storageKey=guestStorageKey+(window.Cloud&&window.Cloud.userId()?":user:"+window.Cloud.userId():"");
 const speechVoiceKey="real-life-english-speech-voice-v1";
 let speechVoice=localStorage.getItem(speechVoiceKey)||"auto",speechVoices=[];
+const speechEngineKey="real-life-english-speech-engine-v1";
+let speechEngine=localStorage.getItem(speechEngineKey)||"";
 const autoSpeakKey="real-life-english-auto-speak-v1";
 let autoSpeak=localStorage.getItem(autoSpeakKey)!=="false",lastAutoSpokenKey="";
 const wordForms = {apple:"apples",avocado:"avocados",banana:"bananas",lemon:"lemons",orange:"oranges",pear:"pears",cookies:"cookie",scroll:"scrolls",croquettes:"croquette",yogurt:"yoghurt","dog treat":"dog treats"};
@@ -215,9 +217,20 @@ function fillSpeechVoices(){
   if(items.some(item=>item.id===speechVoice))select.value=speechVoice;else {speechVoice="auto";select.value="auto";}
   $("speech-voice-status").textContent=items.length?"找到 "+items.length+" 个英语语音。":"尚未发现英语语音，请检查系统语音设置。";
 }
+function fillSpeechEngines(){
+  if(!window.AndroidApp||typeof window.AndroidApp.speechEngines!=="function")return;
+  const wrapper=$("speech-engine-row"),select=$("speech-engine");wrapper.hidden=false;let items=[];
+  try{items=JSON.parse(window.AndroidApp.speechEngines());}catch(_){}
+  select.textContent="";for(const item of items){const option=document.createElement("option");option.value=item.name;option.textContent=item.label+" · "+item.name;select.append(option);}
+  const active=window.AndroidApp.activeSpeechEngine?window.AndroidApp.activeSpeechEngine():"";
+  if(items.some(item=>item.name===speechEngine))select.value=speechEngine;else {speechEngine=active;select.value=active;}
+  $("speech-engine-status").textContent=items.length?"找到 "+items.length+" 个 TTS 引擎。":"未发现 TTS 引擎。";
+}
 let speechRefreshTimers=[];
 window.refreshSpeechVoices=()=>{speechRefreshTimers.forEach(clearTimeout);speechRefreshTimers=[];fillSpeechVoices();for(const delay of [800,2000,5000])speechRefreshTimers.push(setTimeout(fillSpeechVoices,delay));};
-fillSpeechVoices();if("speechSynthesis" in window)window.speechSynthesis.onvoiceschanged=fillSpeechVoices;
+window.speechEngineReady=()=>{fillSpeechEngines();window.refreshSpeechVoices();};
+fillSpeechEngines();fillSpeechVoices();if("speechSynthesis" in window)window.speechSynthesis.onvoiceschanged=fillSpeechVoices;
+$("speech-engine").onchange=()=>{speechEngine=$("speech-engine").value;localStorage.setItem(speechEngineKey,speechEngine);speechVoice="auto";localStorage.setItem(speechVoiceKey,speechVoice);$("speech-engine-status").textContent="正在加载所选 TTS 引擎……";if(window.AndroidApp&&window.AndroidApp.switchSpeechEngine)window.AndroidApp.switchSpeechEngine(speechEngine);};
 $("speech-voice").onchange=()=>{speechVoice=$("speech-voice").value;localStorage.setItem(speechVoiceKey,speechVoice);const option=$("speech-voice").selectedOptions&&$("speech-voice").selectedOptions[0];$("speech-voice-status").textContent="已保存："+(option?option.textContent:"自动选择");};
 if(window.AndroidApp&&typeof window.AndroidApp.installSpeechData==="function"){$("install-speech").hidden=false;$("install-speech").onclick=()=>window.AndroidApp.installSpeechData();}
 if(window.AndroidApp&&typeof window.AndroidApp.refreshSpeechData==="function"){$("refresh-speech").hidden=false;$("refresh-speech").onclick=()=>{$("speech-voice-status").textContent="正在重新加载语音引擎……";window.AndroidApp.refreshSpeechData();};}

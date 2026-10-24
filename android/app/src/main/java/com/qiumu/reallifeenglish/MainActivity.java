@@ -89,8 +89,9 @@ public class MainActivity extends Activity {
     }
     @Override protected void onSaveInstanceState(Bundle state) { super.onSaveInstanceState(state); webView.saveState(state); }
     public void refreshSpeechVoices(){
-        if(bridge!=null)bridge.refreshSpeechEngine(new Runnable(){@Override public void run(){webView.evaluateJavascript("window.refreshSpeechVoices&&window.refreshSpeechVoices()",null);}});
+        if(bridge!=null)bridge.refreshSpeechEngine(bridge.getActiveEngine(),new Runnable(){@Override public void run(){webView.evaluateJavascript("window.speechEngineReady&&window.speechEngineReady()",null);}});
     }
+    public void switchSpeechEngine(String engine){if(bridge!=null)bridge.refreshSpeechEngine(engine,new Runnable(){@Override public void run(){webView.evaluateJavascript("window.speechEngineReady&&window.speechEngineReady()",null);}});}
     @Override protected void onResume(){
         super.onResume();
         if(bridge!=null&&bridge.consumeSpeechInstallerOpened())refreshSpeechVoices();
