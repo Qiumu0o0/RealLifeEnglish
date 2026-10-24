@@ -16,6 +16,7 @@ import java.io.IOException;
 public class MainActivity extends Activity {
     private WebView webView;
     private AppUpdater updater;
+    private AppBridge bridge;
     private ValueCallback<Uri[]> fileCallback;
     private static final int PICK_FILE = 100;
     private static final String HOST = "appassets.androidplatform.net";
@@ -39,7 +40,8 @@ public class MainActivity extends Activity {
         webView.getSettings().setAllowFileAccess(false);
         webView.getSettings().setAllowContentAccess(true);
         updater = new AppUpdater(this);
-        webView.addJavascriptInterface(new AppBridge(this, updater), "AndroidApp");
+        bridge = new AppBridge(this, updater);
+        webView.addJavascriptInterface(bridge, "AndroidApp");
         webView.setWebViewClient(new WebViewClient() {
             @Override public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) {
                 Uri uri = request.getUrl();
@@ -88,6 +90,7 @@ public class MainActivity extends Activity {
     @Override protected void onSaveInstanceState(Bundle state) { super.onSaveInstanceState(state); webView.saveState(state); }
     @Override protected void onDestroy() {
         if (fileCallback != null) fileCallback.onReceiveValue(null);
+        if (bridge != null) bridge.shutdown();
         webView.destroy();
         super.onDestroy();
     }

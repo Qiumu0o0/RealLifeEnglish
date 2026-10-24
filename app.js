@@ -86,12 +86,20 @@ function deduplicate(items) {
 function currentCards() { return deduplicate(cards.filter(c=>selected==="all-categories"||c.category===selected)); }
 function tokenMeaning(token,card){
   const key=token.toLowerCase(),base=key.replace(/(?:ies|es|s)$/i,ending=>ending==="ies"?"y":"");
-  return wordDictionary[key]||wordDictionary[base]||"暂无独立释义；在“"+card.english+"”中表示："+card.chinese;
+  return wordDictionary[key]||wordDictionary[base]||{chinese:"暂无独立释义；在“"+card.english+"”中表示："+card.chinese,phonetic:""};
 }
 function openDictionary(token,card){
+  const entry=tokenMeaning(token,card);
   $("dictionary-word").textContent=token;
-  $("dictionary-meaning").textContent=tokenMeaning(token,card);
+  $("dictionary-phonetic").textContent=entry.phonetic||"";
+  $("dictionary-meaning").textContent=entry.chinese;
+  $("dictionary-speak").onclick=()=>speakWord(token);
   $("dictionary-overlay").hidden=false;
+}
+function speakWord(word){
+  if(window.AndroidApp&&typeof window.AndroidApp.speak==="function"){window.AndroidApp.speak(word);return;}
+  if("speechSynthesis" in window){window.speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(word);utterance.lang="en-AU";window.speechSynthesis.speak(utterance);return;}
+  $("dictionary-meaning").textContent="当前设备不支持语音播放。";
 }
 function renderCardWord(card){
   const root=$("word");root.textContent="";

@@ -1,764 +1,3050 @@
 {
-  "adaptor": "转换插头",
-  "aid": "辅助剂",
-  "air": "空气",
-  "ale": "麦芽啤酒",
-  "almond": "杏仁",
-  "almonds": "杏仁",
-  "aluminium": "铝",
-  "ammonia": "氨水清洁剂",
-  "antiperspirant": "止汗剂",
-  "antiseptic": "抗菌消毒剂",
-  "apple": "苹果",
-  "apples": "苹果",
-  "apricot": "杏",
-  "arancini": "意式炸饭团",
-  "arborio": "意大利烩饭米",
-  "arils": "假种皮；果粒",
-  "asparagus": "芦笋",
-  "avocados": "牛油果／鳄梨",
-  "baby": "幼小的；迷你的",
-  "bacon": "培根",
-  "bagels": "贝果",
-  "bags": "袋子",
-  "baguette": "法棍面包",
-  "baits": "诱饵",
-  "baked": "烘烤的",
-  "baking": "烘焙用的",
-  "balm": "膏剂",
-  "balsamic": "意大利黑醋的",
-  "banana": "香蕉",
-  "bananas": "香蕉",
-  "bao": "包子",
-  "bar": "条；棒",
-  "barbecue": "烧烤；烧烤酱",
-  "barramundi": "尖吻鲈／金目鲈",
-  "bars": "谷物棒／条状零食",
-  "basa": "巴沙鱼",
-  "base": "底；饼底",
-  "bases": "底；饼底",
-  "basil": "罗勒",
-  "basmati": "巴斯马蒂香米",
-  "bathroom": "浴室",
-  "batteries": "电池",
-  "beans": "豆；豆类",
-  "beauty": "美容；美妆",
-  "beef": "牛肉",
-  "beer": "啤酒",
-  "beetroot": "甜菜根",
-  "belly": "腹部；五花肉",
-  "berries": "浆果",
-  "bib": "围嘴",
-  "bicarbonate": "碳酸氢盐",
-  "bin": "垃圾桶",
-  "bird": "鸟；鸟用的",
-  "biscuits": "饼干",
-  "bites": "小块；一口大小食物",
-  "black": "黑色的；黑豆",
-  "blackberries": "黑莓",
-  "blades": "刀片",
-  "blanc": "白葡萄酒；白色",
-  "bleach": "漂白剂",
-  "blend": "混合；混酿",
-  "block": "块",
-  "blood": "血；血红色",
-  "blue": "蓝色的；蓝尖尾鱼",
-  "blueberries": "蓝莓",
-  "body": "身体；身体用的",
-  "bodysuit": "婴儿连体衣",
-  "bodywash": "沐浴露",
-  "bomb": "烟雾杀虫剂",
-  "bone": "骨头",
-  "bottle": "瓶；奶瓶",
-  "bouquet": "花束",
-  "bourbon": "波本威士忌",
-  "bowl": "碗",
-  "bowls": "碗",
-  "braised": "炖制的",
-  "bran": "麦麸",
-  "brandy": "白兰地",
-  "brazil": "巴西的；巴西坚果",
-  "bread": "面包",
-  "breast": "胸部；胸肉",
-  "brie": "布里奶酪",
-  "briefs": "三角内裤",
-  "brioche": "布里欧修面包",
-  "brisket": "牛胸肉",
-  "broccoli": "西兰花",
-  "broth": "高汤",
-  "brown": "棕色的",
-  "brownie": "布朗尼蛋糕",
-  "brownies": "布朗尼",
-  "browns": "煎薯饼",
-  "brussels": "抱子甘蓝的",
-  "bucket": "水桶",
-  "buckwheat": "荞麦",
-  "bun": "小圆面包；包子",
-  "buns": "小圆面包",
-  "burger": "汉堡",
-  "burgers": "汉堡肉饼",
-  "butter": "黄油",
-  "buttermilk": "酪乳",
-  "butternut": "奶油南瓜",
-  "cabbage": "卷心菜",
-  "cabernet": "赤霞珠葡萄",
-  "cable": "连接线",
-  "caesar": "凯撒式的",
-  "cakes": "蛋糕",
-  "camembert": "卡芒贝尔奶酪",
-  "candle": "蜡烛",
-  "candles": "蜡烛",
-  "cannellini": "白腰豆",
-  "cannelloni": "意式烤馅卷",
-  "canola": "菜籽",
-  "capers": "刺山柑花蕾",
-  "capsicum": "甜椒",
-  "capsules": "胶囊；咖啡胶囊",
-  "caramel": "焦糖",
-  "carbonara": "卡邦尼意面",
-  "cardamom": "小豆蔻",
-  "carrot": "胡萝卜",
-  "carrots": "胡萝卜",
-  "cashews": "腰果",
-  "caster": "细砂糖",
-  "cat": "猫；猫用的",
-  "cauliflower": "花椰菜／菜花",
-  "celery": "芹菜",
-  "chai": "印度香料茶",
-  "champagne": "香槟",
-  "chardonnay": "霞多丽葡萄酒",
-  "cheddar": "切达奶酪",
-  "cheese": "奶酪",
-  "cheeseburger": "芝士汉堡",
-  "cheesecake": "芝士蛋糕",
-  "cherry": "樱桃",
-  "chewables": "咀嚼片",
-  "chewy": "有嚼劲的",
-  "chia": "奇亚籽",
-  "chicken": "鸡；鸡肉",
-  "chickpeas": "鹰嘴豆",
-  "chilli": "辣椒",
-  "chillies": "辣椒",
-  "chips": "薯片；巧克力豆",
-  "chives": "细香葱",
-  "choc": "巧克力",
-  "chocolate": "巧克力",
-  "chops": "排骨；肉排",
-  "chorizo": "西班牙辣香肠",
-  "choy": "菜；白菜",
-  "chrysanthemum": "菊花",
-  "chutney": "酸甜果蔬酱",
-  "ciabatta": "夏巴塔面包",
-  "cider": "苹果酒",
-  "cinnamon": "肉桂",
-  "cleaner": "清洁剂",
-  "cleaning": "清洁用的",
-  "cleanser": "洁面产品",
-  "cling": "紧贴；保鲜膜",
-  "cloths": "清洁布",
-  "cloves": "丁香",
-  "cockroach": "蟑螂",
-  "cocoa": "可可粉",
-  "coconut": "椰子",
-  "coffee": "咖啡",
-  "cognac": "干邑白兰地",
-  "cola": "可乐",
-  "coleslaw": "卷心菜丝沙拉",
-  "collagen": "胶原蛋白",
-  "collar": "项圈",
-  "colour": "颜色；染色",
-  "concealer": "遮瑕膏",
-  "conditioner": "护发素",
-  "container": "储物盒",
-  "control": "控制；防治",
-  "cookie": "曲奇饼干",
-  "cookies": "曲奇饼干",
-  "cordial": "浓缩果味饮料",
-  "coriander": "香菜",
-  "corn": "玉米",
-  "cornflour": "玉米淀粉",
-  "cos": "长叶生菜",
-  "cottage": "农舍式的",
-  "couscous": "库斯库斯米",
-  "crab": "螃蟹",
-  "crackers": "薄脆饼干",
-  "cranberry": "蔓越莓",
-  "cream": "奶油",
-  "crispbread": "脆面包",
-  "croissants": "可颂",
-  "croquette": "可乐饼",
-  "croquettes": "可乐饼",
-  "croutons": "面包丁",
-  "crumpet": "英式酵母松饼",
-  "cucumbers": "黄瓜",
-  "cumin": "孜然",
-  "cup": "杯子",
-  "cupcakes": "纸杯蛋糕",
-  "cups": "杯子",
-  "curry": "咖喱",
-  "custard": "蛋奶酱",
-  "cutlery": "餐具",
-  "cutlets": "小块肉排",
-  "danish": "丹麦酥",
-  "dates": "椰枣",
-  "deep": "深层的",
-  "dental": "牙齿的；口腔的",
-  "deodorant": "除臭剂",
-  "desiccated": "干燥切碎的",
-  "diced": "切丁的",
-  "diffuser": "香薰扩散器",
-  "dill": "莳萝",
-  "dim": "点心的",
-  "dishwasher": "洗碗机",
-  "dishwashing": "洗碗用的",
-  "disinfectant": "消毒剂",
-  "dog": "狗；狗用的",
-  "donuts": "甜甜圈",
-  "dragonfruit": "火龙果",
-  "drain": "排水口；疏通剂",
-  "dried": "干制的",
-  "drink": "饮料",
-  "drops": "滴剂；小滴",
-  "drumsticks": "鸡小腿",
-  "dry": "干的；干性用的",
-  "duck": "鸭肉",
-  "dumpling": "饺子",
-  "dumplings": "饺子",
-  "eggplant": "茄子",
-  "elderflower": "接骨木花",
-  "energy": "能量；能量饮料",
-  "english": "英式的；英语",
-  "extra": "额外的；特级的",
-  "extract": "提取物；香精",
-  "eye": "眼睛；中心部位",
-  "eyeliner": "眼线笔",
-  "fabric": "织物",
-  "facial": "面部的；面巾纸",
-  "fennel": "茴香球茎",
-  "feta": "菲达奶酪",
-  "fettuccine": "意式宽面",
-  "fillet": "去骨肉片；鱼片",
-  "fillets": "去骨肉片；鱼片",
-  "fingers": "条状食品；手指",
-  "fish": "鱼；鱼肉",
-  "flakes": "薄片；麦片",
-  "flatbread": "扁面包",
-  "flaxseed": "亚麻籽",
-  "floor": "地板",
-  "floss": "牙线",
-  "flour": "面粉",
-  "foil": "箔；铝箔",
-  "food": "食物",
-  "formula": "配方奶",
-  "foundation": "粉底",
-  "free": "不含……的；免费的",
-  "freezer": "冷冻室；冷冻用的",
-  "freshener": "清新剂",
-  "fried": "油炸的；炒制的",
-  "fritters": "煎饼；炸饼",
-  "fruit": "水果",
-  "fry": "油炸；炒",
-  "fudge": "软糖块",
-  "full": "全脂的；完整的",
-  "fusilli": "螺旋意面",
-  "garbage": "垃圾",
-  "garlic": "大蒜",
-  "gel": "凝胶",
-  "gelatine": "明胶",
-  "gelato": "意式冰淇淋",
-  "gems": "小块；宝石薯球",
-  "ghee": "酥油",
-  "gherkins": "酸黄瓜",
-  "gin": "金酒",
-  "ginger": "姜",
-  "glass": "玻璃；玻璃清洁剂",
-  "globes": "灯泡",
-  "gloves": "手套",
-  "glue": "胶水",
-  "gnocchi": "意式土豆团子",
-  "gochujang": "韩式辣椒酱",
-  "golden": "金色的；金黄糖浆",
-  "granola": "烘烤麦片",
-  "grape": "葡萄",
-  "grapefruit": "葡萄柚／西柚",
-  "grapes": "葡萄",
-  "gravy": "肉汁酱",
-  "green": "绿色的；蔬菜",
-  "greens": "绿叶蔬菜",
-  "grigio": "灰皮诺葡萄",
-  "gris": "灰皮诺葡萄",
-  "ground": "研磨的；地面",
-  "gua": "刈包的",
-  "guacamole": "牛油果酱",
-  "guinea": "豚鼠的",
-  "gummy": "软糖",
-  "gyoza": "日式煎饺",
-  "hair": "头发；护发的",
-  "halloumi": "哈罗米奶酪",
-  "haloumi": "哈罗米奶酪",
-  "ham": "火腿",
-  "hand": "手；手部用的",
-  "hargow": "虾饺",
-  "harissa": "北非辣椒酱",
-  "hash": "切碎煎制食品",
-  "havarti": "哈瓦蒂奶酪",
-  "hazelnut": "榛子",
-  "highlighters": "荧光笔",
-  "hoisin": "海鲜酱",
-  "hoki": "蓝鳕鱼",
-  "honey": "蜂蜜",
-  "honeydew": "蜜瓜",
-  "hot": "热的；辣的",
-  "hummus": "鹰嘴豆泥",
-  "ibuprofen": "布洛芬",
-  "ice": "冰",
-  "iceberg": "球生菜",
-  "iced": "冰镇的",
-  "icing": "糖霜；糖粉",
-  "in": "在……内",
-  "infant": "婴儿",
-  "insect": "昆虫",
-  "insoles": "鞋垫",
-  "instant": "速食的；即食的",
-  "intimate": "私密部位的",
-  "jalapeno": "墨西哥辣椒",
-  "jam": "果酱",
-  "japanese": "日式的；日本的",
-  "jasmine": "茉莉香米",
-  "jelly": "果冻",
-  "juice": "果汁",
-  "kale": "羽衣甘蓝",
-  "kangaroo": "袋鼠肉",
-  "kebabs": "烤肉串",
-  "kefir": "开菲尔发酵乳",
-  "kidney": "肾形的；芸豆",
-  "killer": "杀虫剂",
-  "kimchi": "韩式泡菜",
-  "kit": "套装；配料包",
-  "kiwifruit": "猕猴桃／奇异果",
-  "knives": "刀",
-  "kombucha": "康普茶",
-  "kung": "宫保式的",
-  "kyiv": "基辅式鸡肉卷",
-  "lactose": "乳糖",
-  "lager": "拉格啤酒",
-  "laksa": "叻沙",
-  "lamb": "羊羔；羊肉",
-  "lasagne": "千层面",
-  "laundry": "洗衣",
-  "lean": "瘦的；低脂的",
-  "leave": "留置；免洗的",
-  "led": "发光二极管",
-  "leek": "韭葱",
-  "leeks": "韭葱",
-  "leg": "腿；腿肉",
-  "legs": "腿；腿肉",
-  "lemonade": "柠檬汽水",
-  "lemongrass": "柠檬草",
-  "lemons": "柠檬",
-  "lentils": "扁豆",
-  "lettuce": "生菜",
-  "light": "灯；轻的",
-  "lighter": "点火器",
-  "limes": "青柠",
-  "liner": "衬袋；垃圾袋",
-  "liners": "护垫",
-  "linguine": "意式扁细面",
-  "lip": "嘴唇；唇部用的",
-  "liqueur": "利口酒",
-  "liquid": "液体；液态的",
-  "liquorice": "甘草糖",
-  "litter": "猫砂；垫料",
-  "loaf": "一条面包",
-  "loin": "腰脊肉",
-  "lollies": "糖果",
-  "lotion": "乳液",
-  "mac": "通心粉",
-  "macadamias": "夏威夷果",
-  "macaroni": "通心粉",
-  "machine": "机器；洗衣机",
-  "mackerel": "鲭鱼",
-  "magnesium": "镁补充剂",
-  "mandarins": "橘子",
-  "mango": "芒果",
-  "mangoes": "芒果",
-  "maple": "枫树；枫糖",
-  "margarine": "人造黄油",
-  "markers": "记号笔",
-  "marmalade": "柑橘果酱",
-  "marshmallows": "棉花糖",
-  "mascara": "睫毛膏",
-  "mascarpone": "马斯卡彭奶酪",
-  "mashies": "土豆泥制品",
-  "massaman": "马萨曼咖喱",
-  "matches": "火柴",
-  "mayonnaise": "蛋黄酱",
-  "meal": "一餐；餐食",
-  "meat": "肉",
-  "meatballs": "肉丸",
-  "melon": "甜瓜",
-  "merlot": "梅洛葡萄酒",
-  "microfibre": "超细纤维",
-  "milk": "牛奶",
-  "mince": "肉末；绞碎",
-  "mineral": "矿物质；矿泉的",
-  "mint": "薄荷",
-  "miso": "味噌",
-  "mist": "喷雾",
-  "mix": "混合物；混合",
-  "mixed": "混合的",
-  "moisturiser": "保湿霜",
-  "molasses": "糖蜜",
-  "mop": "拖把",
-  "mortadella": "意式大肉肠",
-  "moscato": "莫斯卡托葡萄酒",
-  "mosquito": "蚊子",
-  "mouthwash": "漱口水",
-  "mozzarella": "马苏里拉奶酪",
-  "muesli": "混合麦片",
-  "muffins": "玛芬蛋糕",
-  "mug": "马克杯",
-  "multipurpose": "多用途的",
-  "multivitamin": "复合维生素",
-  "mushrooms": "蘑菇",
-  "mussels": "青口贝",
-  "mustard": "芥末酱",
-  "nail": "指甲；美甲的",
-  "nappies": "纸尿裤",
-  "nappy": "尿布",
-  "nashi": "亚洲梨；丰水梨",
-  "noir": "黑皮诺；黑色",
-  "noodle": "面条",
-  "noodles": "面条",
-  "nori": "海苔",
-  "notebook": "笔记本",
-  "notes": "便签；笔记",
-  "nougat": "牛轧糖",
-  "nuggets": "块；鸡块",
-  "nursing": "哺乳用的",
-  "nutmeg": "肉豆蔻",
-  "nuts": "坚果",
-  "oat": "燕麦",
-  "oats": "燕麦",
-  "octopus": "章鱼",
-  "oil": "油",
-  "oils": "油；香薰油",
-  "olive": "橄榄",
-  "olives": "橄榄",
-  "onion": "洋葱",
-  "onions": "洋葱",
-  "orange": "橙子；橙味的",
-  "oranges": "橙子",
-  "oregano": "牛至",
-  "oven": "烤箱",
-  "oyster": "牡蛎；蚝",
-  "pad": "泰式炒制的；垫",
-  "padlock": "挂锁",
-  "pads": "卫生巾",
-  "pale": "浅色的；淡色艾尔",
-  "pancakes": "薄煎饼",
-  "pancetta": "意式腌猪腹肉",
-  "pants": "裤子；拉拉裤",
-  "panty": "内裤的",
-  "pao": "宫保式的",
-  "papaya": "木瓜",
-  "paper": "纸；米纸",
-  "pappadums": "印度脆饼",
-  "paprika": "红椒粉",
-  "paracetamol": "对乙酰氨基酚",
-  "parma": "帕尔马式的",
-  "parmesan": "帕尔马干酪",
-  "parsley": "欧芹",
-  "passionfruit": "百香果",
-  "pasta": "意大利面",
-  "paste": "酱；糊",
-  "pastrami": "香料腌熏肉",
-  "pastry": "酥皮面团",
-  "peanut": "花生",
-  "pears": "梨",
-  "peas": "豌豆",
-  "pee": "尿液；排尿",
-  "peking": "北京式的",
-  "pencils": "铅笔",
-  "penne": "通心斜管面",
-  "pens": "笔",
-  "peppercorns": "胡椒粒",
-  "peppermint": "胡椒薄荷",
-  "pepperoni": "意式辣香肠",
-  "peptides": "肽",
-  "pesto": "青酱",
-  "pick-up": "手拿式的；即取的",
-  "pickles": "腌菜",
-  "pie": "馅饼；派",
-  "pies": "馅饼；派",
-  "pig": "猪；豚鼠",
-  "pikelets": "澳式小煎饼",
-  "pineapple": "菠萝",
-  "pinot": "皮诺葡萄",
-  "pistachios": "开心果",
-  "pita": "皮塔饼",
-  "pizza": "披萨",
-  "plain": "原味的；普通的",
-  "plasters": "创可贴",
-  "plate": "盘子",
-  "plates": "盘子",
-  "polenta": "玉米糁",
-  "polish": "指甲油；抛光",
-  "pomegranate": "石榴",
-  "popcorn": "爆米花",
-  "pork": "猪肉",
-  "porridge": "燕麦粥",
-  "porterhouse": "上等腰肉牛排",
-  "potato": "土豆",
-  "potatoes": "土豆",
-  "pouch": "袋装食品；小袋",
-  "powder": "粉末",
-  "prawns": "虾",
-  "pressed": "压制的",
-  "pretzels": "椒盐脆饼",
-  "probiotic": "益生菌",
-  "prosciutto": "意式生火腿",
-  "prosecco": "普罗塞克起泡酒",
-  "protein": "蛋白质",
-  "pudding": "布丁",
-  "puff": "酥皮；泡芙",
-  "puffs": "泡芙；蓬松块",
-  "pumpkin": "南瓜",
-  "puree": "果蔬泥",
-  "quiche": "法式咸派",
-  "quinoa": "藜麦",
-  "radish": "小萝卜",
-  "raising": "发酵用的；膨松的",
-  "raisins": "葡萄干",
-  "ramen": "拉面",
-  "raspberries": "覆盆子／树莓",
-  "ravioli": "意式馅饺",
-  "razor": "剃须刀",
-  "red": "红色的",
-  "reed": "藤条；香薰挥发棒",
-  "refill": "补充装",
-  "regular": "普通的；常规的",
-  "relish": "碎蔬菜调味酱",
-  "remover": "去除剂",
-  "repellent": "驱虫剂",
-  "rhubarb": "食用大黄",
-  "ribs": "肋排",
-  "rice": "米饭",
-  "ricotta": "乳清奶酪",
-  "riesling": "雷司令葡萄酒",
-  "rigatoni": "粗管意面",
-  "rinse": "漂洗；漂洗剂",
-  "roast": "烤制的；烤肉",
-  "rocket": "芝麻菜",
-  "rockmelon": "哈密瓜／网纹甜瓜",
-  "roll": "卷",
-  "rolled": "压片的；卷制的",
-  "rolls": "面包卷",
-  "rose": "玫瑰",
-  "rosemary": "迷迭香",
-  "roti": "印度薄饼",
-  "rubber": "橡胶",
-  "rum": "朗姆酒",
-  "rump": "臀部；臀肉",
-  "rusk": "脆饼；磨牙饼",
-  "rusks": "磨牙饼",
-  "sage": "鼠尾草",
-  "salad": "沙拉",
-  "salami": "萨拉米香肠",
-  "salmon": "三文鱼",
-  "salt": "盐",
-  "samosa": "咖喱角",
-  "sandwich": "三明治",
-  "sardines": "沙丁鱼",
-  "satay": "沙嗲",
-  "sauce": "调味酱",
-  "sauerkraut": "德式酸菜",
-  "sausage": "香肠",
-  "sausages": "香肠",
-  "sauvignon": "长相思葡萄",
-  "savoy": "皱叶甘蓝",
-  "scented": "带香味的",
-  "schnitzel": "炸肉排",
-  "scissors": "剪刀",
-  "scones": "司康",
-  "scotch": "苏格兰式的；肋眼肉",
-  "scourers": "百洁布",
-  "scrolls": "卷状面包",
-  "scrub": "磨砂膏；擦洗",
-  "sea": "海；海产的",
-  "seasoning": "调味料",
-  "seaweed": "海藻",
-  "seed": "种子；鸟食",
-  "seeds": "种子",
-  "self": "自身；自发的",
-  "serum": "精华液",
-  "sesame": "芝麻",
-  "shallots": "红葱头",
-  "shampoo": "洗发水",
-  "shanks": "腿胫肉",
-  "shave": "剃须",
-  "shaving": "剃须用的",
-  "sheets": "片；薄片",
-  "shells": "壳；贝壳形面食",
-  "shiitake": "香菇",
-  "shiraz": "设拉子葡萄酒",
-  "shortbread": "黄油酥饼",
-  "shortcrust": "酥脆馅饼皮",
-  "shower": "淋浴",
-  "silverbeet": "叶用甜菜",
-  "silverside": "腌制牛后腿肉",
-  "sims": "烧卖",
-  "singapore": "新加坡式的",
-  "sippy": "学饮用的",
-  "skim": "脱脂的",
-  "sliders": "迷你汉堡",
-  "smoked": "烟熏的",
-  "smoothie": "思慕雪／水果奶昔",
-  "snack": "零食",
-  "snacks": "零食",
-  "snap": "脆嫩的；豌豆荚",
-  "soap": "香皂",
-  "soba": "荞麦面",
-  "socks": "袜子",
-  "soda": "苏打",
-  "soft": "软的；无酒精的",
-  "softener": "柔顺剂",
-  "soother": "安抚奶嘴",
-  "sorbet": "雪葩",
-  "soup": "汤",
-  "sour": "酸的；酸奶油",
-  "sourdough": "酸种面包",
-  "southern": "南方的",
-  "soy": "大豆",
-  "spaghetti": "意大利长直面",
-  "sparkling": "起泡酒",
-  "spatula": "锅铲",
-  "spice": "香料",
-  "spinach": "菠菜",
-  "split": "去皮分瓣的",
-  "sponges": "海绵",
-  "sports": "运动的",
-  "spray": "喷雾",
-  "spread": "涂抹酱",
-  "spring": "春季的；嫩的",
-  "sprouts": "芽菜；抱子甘蓝",
-  "squeaker": "发声玩具",
-  "sriracha": "是拉差辣椒酱",
-  "stain": "污渍",
-  "stapler": "订书机",
-  "star": "星形；明星",
-  "steak": "肉排",
-  "steaks": "肉排",
-  "sticks": "条；棒",
-  "sticky": "有黏性的",
-  "stir": "搅拌；翻炒",
-  "stock": "高汤",
-  "storage": "储存；收纳",
-  "stout": "世涛啤酒",
-  "strainer": "滤网",
-  "straw": "吸管",
-  "strawberries": "草莓",
-  "straws": "吸管",
-  "strips": "条；肉条",
-  "sugar": "糖",
-  "sultanas": "浅色葡萄干",
-  "sum": "菜心",
-  "sunflower": "向日葵",
-  "sunscreen": "防晒霜",
-  "surface": "表面",
-  "sushi": "寿司",
-  "swedes": "芜菁甘蓝",
-  "sweet": "甜的；甜食",
-  "swim": "游泳；游泳用的",
-  "syrup": "糖浆",
-  "tablets": "片剂；清洁片",
-  "taco": "墨西哥玉米卷",
-  "tahini": "芝麻酱",
-  "tamarind": "罗望子",
-  "tampons": "卫生棉条",
-  "tarts": "挞；小馅饼",
-  "tea": "茶",
-  "teaspoons": "茶匙",
-  "teats": "奶嘴",
-  "teether": "牙胶",
-  "tempeh": "天贝",
-  "tenderloins": "里脊肉",
-  "tequila": "龙舌兰酒",
-  "thai": "泰式的；泰国的",
-  "thickened": "增稠的",
-  "thigh": "大腿；腿肉",
-  "thyme": "百里香",
-  "tissue": "纸巾",
-  "tissues": "纸巾",
-  "to": "到；用于",
-  "toddler": "幼儿",
-  "toe": "脚趾",
-  "toffee": "太妃糖",
-  "tofu": "豆腐",
-  "toilet": "马桶；厕所",
-  "tomato": "番茄",
-  "tomatoes": "番茄",
-  "toner": "爽肤水",
-  "tongs": "夹子",
-  "tonic": "汤力水；滋补品",
-  "toothbrush": "牙刷",
-  "toothpaste": "牙膏",
-  "top": "顶部；上身",
-  "tortellini": "意式环形馅饺",
-  "tortilla": "墨西哥薄饼",
-  "towel": "毛巾；厨房纸",
-  "toy": "玩具",
-  "trail": "什锦坚果的",
-  "travel": "旅行；旅行装的",
-  "tray": "托盘",
-  "treats": "零食；奖励食品",
-  "tropical": "热带的",
-  "trout": "鳟鱼",
-  "tuna": "金枪鱼",
-  "turkey": "火鸡肉",
-  "turmeric": "姜黄",
-  "turnips": "芜菁",
-  "turnover": "折叠馅酥饼",
-  "twiggy": "细条状的",
-  "udon": "乌冬面",
-  "uht": "超高温灭菌的",
-  "usb": "通用串行总线接口",
-  "vanilla": "香草",
-  "veal": "小牛肉",
-  "vegetable": "蔬菜；植物的",
-  "vegetables": "蔬菜",
-  "veggie": "蔬菜；素食的",
-  "vienna": "维也纳面包",
-  "vietnamese": "越南的",
-  "vinegar": "醋",
-  "vodka": "伏特加",
-  "wafer": "威化饼",
-  "waffle": "华夫饼",
-  "walnut": "核桃",
-  "warmer": "加热器",
-  "wasabi": "日式山葵酱",
-  "wash": "洗液；清洗",
-  "washing": "洗涤用的",
-  "water": "水",
-  "watercress": "西洋菜",
-  "watermelon": "西瓜",
-  "waterproof": "防水的",
-  "wax": "蜡",
-  "wet": "湿的；湿粮",
-  "whey": "乳清",
-  "whiskey": "威士忌",
-  "whisky": "威士忌",
-  "whiting": "无须鳕；白肉鱼",
-  "whole": "完整的；整只的",
-  "wings": "翅膀；鸡翅",
-  "wipes": "清洁湿巾",
-  "wombok": "大白菜",
-  "wontons": "馄饨",
-  "worcestershire": "伍斯特郡酱的",
-  "wrap": "包裹；保鲜膜",
-  "wraps": "卷饼",
-  "yeast": "酵母",
-  "yoghurt": "酸奶",
-  "yogurt": "酸奶",
-  "zucchini": "西葫芦"
+  "adaptor": {
+    "chinese": "转换插头",
+    "phonetic": "/ɐdˈæptɐ/"
+  },
+  "aid": {
+    "chinese": "辅助剂",
+    "phonetic": "/ˈeɪd/"
+  },
+  "air": {
+    "chinese": "空气",
+    "phonetic": "/ˈeə/"
+  },
+  "ale": {
+    "chinese": "麦芽啤酒",
+    "phonetic": "/ˈeɪl/"
+  },
+  "almond": {
+    "chinese": "杏仁",
+    "phonetic": "/ˈɒlmənd/"
+  },
+  "almonds": {
+    "chinese": "杏仁",
+    "phonetic": "/ˈɒlməndz/"
+  },
+  "aluminium": {
+    "chinese": "铝",
+    "phonetic": "/ˌæljʊmˈɪniəm/"
+  },
+  "ammonia": {
+    "chinese": "氨水清洁剂",
+    "phonetic": "/æmˈəʊniə/"
+  },
+  "antiperspirant": {
+    "chinese": "止汗剂",
+    "phonetic": "/ˌæntɪpəspˈɪɹənt/"
+  },
+  "antiseptic": {
+    "chinese": "抗菌消毒剂",
+    "phonetic": "/ˌæntɪsˈɛptɪk/"
+  },
+  "apple": {
+    "chinese": "苹果",
+    "phonetic": "/ˈæpəl/"
+  },
+  "apples": {
+    "chinese": "苹果",
+    "phonetic": "/ˈæpəlz/"
+  },
+  "apricot": {
+    "chinese": "杏",
+    "phonetic": "/ˈeɪpɹɪkˌɒt/"
+  },
+  "arancini": {
+    "chinese": "意式炸饭团",
+    "phonetic": "/ˌærənˈtʃiːni/"
+  },
+  "arborio": {
+    "chinese": "意大利烩饭米",
+    "phonetic": "/ɑːrˈbɔːrioʊ/"
+  },
+  "arils": {
+    "chinese": "假种皮；果粒",
+    "phonetic": "/ˈærɪlz/"
+  },
+  "asparagus": {
+    "chinese": "芦笋",
+    "phonetic": "/ɐspˈæɹəɡəs/"
+  },
+  "avocados": {
+    "chinese": "牛油果／鳄梨",
+    "phonetic": "/ˌævəkˈɑːdəʊz/"
+  },
+  "baby": {
+    "chinese": "幼小的；迷你的",
+    "phonetic": "/bˈeɪbi/"
+  },
+  "bacon": {
+    "chinese": "培根",
+    "phonetic": "/bˈeɪkən/"
+  },
+  "bagels": {
+    "chinese": "贝果",
+    "phonetic": "/bˈeɪɡəlz/"
+  },
+  "bags": {
+    "chinese": "袋子",
+    "phonetic": "/bˈæɡz/"
+  },
+  "baguette": {
+    "chinese": "法棍面包",
+    "phonetic": "/bˈeɪɡt/"
+  },
+  "baits": {
+    "chinese": "诱饵",
+    "phonetic": "/bˈeɪts/"
+  },
+  "baked": {
+    "chinese": "烘烤的",
+    "phonetic": "/bˈeɪkt/"
+  },
+  "baking": {
+    "chinese": "烘焙用的",
+    "phonetic": "/bˈeɪkɪŋ/"
+  },
+  "balm": {
+    "chinese": "膏剂",
+    "phonetic": "/bˈɑːm/"
+  },
+  "balsamic": {
+    "chinese": "意大利黑醋的",
+    "phonetic": "/bɔːlsˈæmɪk/"
+  },
+  "banana": {
+    "chinese": "香蕉",
+    "phonetic": "/bɐnˈɑːnɐ/"
+  },
+  "bananas": {
+    "chinese": "香蕉",
+    "phonetic": "/bɐnˈɑːnəz/"
+  },
+  "bao": {
+    "chinese": "包子",
+    "phonetic": "/ˈbaʊ/"
+  },
+  "bar": {
+    "chinese": "条；棒",
+    "phonetic": "/bˈɑː/"
+  },
+  "barbecue": {
+    "chinese": "烧烤；烧烤酱",
+    "phonetic": "/bˈɑːbɪkjˌuː/"
+  },
+  "barramundi": {
+    "chinese": "尖吻鲈／金目鲈",
+    "phonetic": "/ˌbærəˈmʌndi/"
+  },
+  "bars": {
+    "chinese": "谷物棒／条状零食",
+    "phonetic": "/bˈɑːz/"
+  },
+  "basa": {
+    "chinese": "巴沙鱼",
+    "phonetic": "/ˈbɑsə/"
+  },
+  "base": {
+    "chinese": "底；饼底",
+    "phonetic": "/bˈeɪs/"
+  },
+  "bases": {
+    "chinese": "底；饼底",
+    "phonetic": "/ˈbeɪsəz/"
+  },
+  "basil": {
+    "chinese": "罗勒",
+    "phonetic": "/bˈæzəl/"
+  },
+  "basmati": {
+    "chinese": "巴斯马蒂香米",
+    "phonetic": "/bæsˈmɑːti/"
+  },
+  "bathroom": {
+    "chinese": "浴室",
+    "phonetic": "/bˈɑːθɹuːm/"
+  },
+  "batteries": {
+    "chinese": "电池",
+    "phonetic": "/bˈætəɹiz/"
+  },
+  "beans": {
+    "chinese": "豆；豆类",
+    "phonetic": "/bˈiːnz/"
+  },
+  "beauty": {
+    "chinese": "美容；美妆",
+    "phonetic": "/bjˈuːti/"
+  },
+  "beef": {
+    "chinese": "牛肉",
+    "phonetic": "/bˈiːf/"
+  },
+  "beer": {
+    "chinese": "啤酒",
+    "phonetic": "/bˈiə/"
+  },
+  "beetroot": {
+    "chinese": "甜菜根",
+    "phonetic": "/bˈiːtɹuːt/"
+  },
+  "belly": {
+    "chinese": "腹部；五花肉",
+    "phonetic": "/bˈɛli/"
+  },
+  "berries": {
+    "chinese": "浆果",
+    "phonetic": "/bˈɛɹɪz/"
+  },
+  "bib": {
+    "chinese": "围嘴",
+    "phonetic": "/bˈɪb/"
+  },
+  "bicarbonate": {
+    "chinese": "碳酸氢盐",
+    "phonetic": "/baɪkˈɑːbənˌeɪt/"
+  },
+  "bin": {
+    "chinese": "垃圾桶",
+    "phonetic": "/bˈɪn/"
+  },
+  "bird": {
+    "chinese": "鸟；鸟用的",
+    "phonetic": "/bˈɜːd/"
+  },
+  "biscuits": {
+    "chinese": "饼干",
+    "phonetic": "/bˈɪskɪts/"
+  },
+  "bites": {
+    "chinese": "小块；一口大小食物",
+    "phonetic": "/bˈaɪts/"
+  },
+  "black": {
+    "chinese": "黑色的；黑豆",
+    "phonetic": "/blˈæk/"
+  },
+  "blackberries": {
+    "chinese": "黑莓",
+    "phonetic": "/blˈækbəɹɪz/"
+  },
+  "blades": {
+    "chinese": "刀片",
+    "phonetic": "/blˈeɪdz/"
+  },
+  "blanc": {
+    "chinese": "白葡萄酒；白色",
+    "phonetic": "/ˈbɫæŋk/"
+  },
+  "bleach": {
+    "chinese": "漂白剂",
+    "phonetic": "/blˈiːtʃ/"
+  },
+  "blend": {
+    "chinese": "混合；混酿",
+    "phonetic": "/blˈɛnd/"
+  },
+  "block": {
+    "chinese": "块",
+    "phonetic": "/blˈɒk/"
+  },
+  "blood": {
+    "chinese": "血；血红色",
+    "phonetic": "/blˈʌd/"
+  },
+  "blue": {
+    "chinese": "蓝色的；蓝尖尾鱼",
+    "phonetic": "/blˈuː/"
+  },
+  "blueberries": {
+    "chinese": "蓝莓",
+    "phonetic": "/blˈuːbɛɹɪz/"
+  },
+  "body": {
+    "chinese": "身体；身体用的",
+    "phonetic": "/bˈɒdi/"
+  },
+  "bodysuit": {
+    "chinese": "婴儿连体衣",
+    "phonetic": "/bˈɒdɪsˌuːt/"
+  },
+  "bodywash": {
+    "chinese": "沐浴露",
+    "phonetic": "/ˈbɒdi wɒʃ/"
+  },
+  "bomb": {
+    "chinese": "烟雾杀虫剂",
+    "phonetic": "/bˈɒm/"
+  },
+  "bone": {
+    "chinese": "骨头",
+    "phonetic": "/bˈəʊn/"
+  },
+  "bottle": {
+    "chinese": "瓶；奶瓶",
+    "phonetic": "/bˈɒtəl/"
+  },
+  "bouquet": {
+    "chinese": "花束",
+    "phonetic": "/buːkˈeɪ/"
+  },
+  "bourbon": {
+    "chinese": "波本威士忌",
+    "phonetic": "/bˈɜːbən/"
+  },
+  "bowl": {
+    "chinese": "碗",
+    "phonetic": "/bˈəʊl/"
+  },
+  "bowls": {
+    "chinese": "碗",
+    "phonetic": "/bˈəʊlz/"
+  },
+  "braised": {
+    "chinese": "炖制的",
+    "phonetic": "/bɹˈeɪzd/"
+  },
+  "bran": {
+    "chinese": "麦麸",
+    "phonetic": "/bɹˈæn/"
+  },
+  "brandy": {
+    "chinese": "白兰地",
+    "phonetic": "/bɹˈændi/"
+  },
+  "brazil": {
+    "chinese": "巴西的；巴西坚果",
+    "phonetic": "/bɹɐzˈɪl/"
+  },
+  "bread": {
+    "chinese": "面包",
+    "phonetic": "/bɹˈɛd/"
+  },
+  "breast": {
+    "chinese": "胸部；胸肉",
+    "phonetic": "/bɹˈɛst/"
+  },
+  "brie": {
+    "chinese": "布里奶酪",
+    "phonetic": "/bɹˈiː/"
+  },
+  "briefs": {
+    "chinese": "三角内裤",
+    "phonetic": "/bɹˈiːfs/"
+  },
+  "brioche": {
+    "chinese": "布里欧修面包",
+    "phonetic": "/bɹiːˈəʊʃ/"
+  },
+  "brisket": {
+    "chinese": "牛胸肉",
+    "phonetic": "/bɹˈɪskɪt/"
+  },
+  "broccoli": {
+    "chinese": "西兰花",
+    "phonetic": "/bɹˈɒkəlˌi/"
+  },
+  "broth": {
+    "chinese": "高汤",
+    "phonetic": "/bɹˈɒθ/"
+  },
+  "brown": {
+    "chinese": "棕色的",
+    "phonetic": "/bɹˈaʊn/"
+  },
+  "brownie": {
+    "chinese": "布朗尼蛋糕",
+    "phonetic": "/bɹˈaʊni/"
+  },
+  "brownies": {
+    "chinese": "布朗尼",
+    "phonetic": "/bɹˈaʊnɪz/"
+  },
+  "browns": {
+    "chinese": "煎薯饼",
+    "phonetic": "/bɹˈaʊnz/"
+  },
+  "brussels": {
+    "chinese": "抱子甘蓝的",
+    "phonetic": "/ˈbɹəsəɫz/"
+  },
+  "bucket": {
+    "chinese": "水桶",
+    "phonetic": "/bˈʌkɪt/"
+  },
+  "buckwheat": {
+    "chinese": "荞麦",
+    "phonetic": "/bˈʌkwiːt/"
+  },
+  "bun": {
+    "chinese": "小圆面包；包子",
+    "phonetic": "/bˈʌn/"
+  },
+  "buns": {
+    "chinese": "小圆面包",
+    "phonetic": "/bˈʌnz/"
+  },
+  "burger": {
+    "chinese": "汉堡",
+    "phonetic": "/bˈɜːɡɐ/"
+  },
+  "burgers": {
+    "chinese": "汉堡肉饼",
+    "phonetic": "/bˈɜːɡəz/"
+  },
+  "butter": {
+    "chinese": "黄油",
+    "phonetic": "/bˈʌtɐ/"
+  },
+  "buttermilk": {
+    "chinese": "酪乳",
+    "phonetic": "/bˈʌtəmˌɪlk/"
+  },
+  "butternut": {
+    "chinese": "奶油南瓜",
+    "phonetic": "/bˈʌtənˌʌt/"
+  },
+  "cabbage": {
+    "chinese": "卷心菜",
+    "phonetic": "/kˈæbɪdʒ/"
+  },
+  "cabernet": {
+    "chinese": "赤霞珠葡萄",
+    "phonetic": "/kˌæbənˈeɪ/"
+  },
+  "cable": {
+    "chinese": "连接线",
+    "phonetic": "/kˈeɪbəl/"
+  },
+  "caesar": {
+    "chinese": "凯撒式的",
+    "phonetic": "/sˈiːzɐ/"
+  },
+  "cakes": {
+    "chinese": "蛋糕",
+    "phonetic": "/kˈeɪks/"
+  },
+  "camembert": {
+    "chinese": "卡芒贝尔奶酪",
+    "phonetic": "/ˈkæməmbeər/"
+  },
+  "candle": {
+    "chinese": "蜡烛",
+    "phonetic": "/kˈændəl/"
+  },
+  "candles": {
+    "chinese": "蜡烛",
+    "phonetic": "/kˈændəlz/"
+  },
+  "cannellini": {
+    "chinese": "白腰豆",
+    "phonetic": "/ˌkænəˈliːni/"
+  },
+  "cannelloni": {
+    "chinese": "意式烤馅卷",
+    "phonetic": "/kˌænɪlˈəʊni/"
+  },
+  "canola": {
+    "chinese": "菜籽",
+    "phonetic": "/kænˈəʊlɐ/"
+  },
+  "capers": {
+    "chinese": "刺山柑花蕾",
+    "phonetic": "/kˈeɪpəz/"
+  },
+  "capsicum": {
+    "chinese": "甜椒",
+    "phonetic": "/kˈæpsɪkəm/"
+  },
+  "capsules": {
+    "chinese": "胶囊；咖啡胶囊",
+    "phonetic": "/kˈæpsjuːlz/"
+  },
+  "caramel": {
+    "chinese": "焦糖",
+    "phonetic": "/kˈæɹəmˌɛl/"
+  },
+  "carbonara": {
+    "chinese": "卡邦尼意面",
+    "phonetic": "/kɑɹboʊˈnɑɹə/"
+  },
+  "cardamom": {
+    "chinese": "小豆蔻",
+    "phonetic": "/kˈɑːdæməm/"
+  },
+  "carrot": {
+    "chinese": "胡萝卜",
+    "phonetic": "/kˈæɹət/"
+  },
+  "carrots": {
+    "chinese": "胡萝卜",
+    "phonetic": "/kˈæɹəts/"
+  },
+  "cashews": {
+    "chinese": "腰果",
+    "phonetic": "/kˈæʃjuːz/"
+  },
+  "caster": {
+    "chinese": "细砂糖",
+    "phonetic": "/kˈɑːstɐ/"
+  },
+  "cat": {
+    "chinese": "猫；猫用的",
+    "phonetic": "/kˈæt/"
+  },
+  "cauliflower": {
+    "chinese": "花椰菜／菜花",
+    "phonetic": "/kˈɒlɪflˌaʊɐ/"
+  },
+  "celery": {
+    "chinese": "芹菜",
+    "phonetic": "/sˈɛləɹi/"
+  },
+  "chai": {
+    "chinese": "印度香料茶",
+    "phonetic": "/ˈtʃaɪ/"
+  },
+  "champagne": {
+    "chinese": "香槟",
+    "phonetic": "/ʃæmpˈeɪn/"
+  },
+  "chardonnay": {
+    "chinese": "霞多丽葡萄酒",
+    "phonetic": "/ʃˌɑːdənˈeɪ/"
+  },
+  "cheddar": {
+    "chinese": "切达奶酪",
+    "phonetic": "/tʃˈɛdɐ/"
+  },
+  "cheese": {
+    "chinese": "奶酪",
+    "phonetic": "/tʃˈiːz/"
+  },
+  "cheeseburger": {
+    "chinese": "芝士汉堡",
+    "phonetic": "/tʃˈiːzbɜːɡɐ/"
+  },
+  "cheesecake": {
+    "chinese": "芝士蛋糕",
+    "phonetic": "/tʃˈiːzkeɪk/"
+  },
+  "cherry": {
+    "chinese": "樱桃",
+    "phonetic": "/tʃˈɛɹi/"
+  },
+  "chewables": {
+    "chinese": "咀嚼片",
+    "phonetic": "/ˈtʃuːəbəlz/"
+  },
+  "chewy": {
+    "chinese": "有嚼劲的",
+    "phonetic": "/tʃjˈuːi/"
+  },
+  "chia": {
+    "chinese": "奇亚籽",
+    "phonetic": "/ˈtʃiə/"
+  },
+  "chicken": {
+    "chinese": "鸡；鸡肉",
+    "phonetic": "/tʃˈɪkɪn/"
+  },
+  "chickpeas": {
+    "chinese": "鹰嘴豆",
+    "phonetic": "/tʃˈɪkpiəz/"
+  },
+  "chilli": {
+    "chinese": "辣椒",
+    "phonetic": "/tʃˈɪli/"
+  },
+  "chillies": {
+    "chinese": "辣椒",
+    "phonetic": "/tʃˈɪliz/"
+  },
+  "chips": {
+    "chinese": "薯片；巧克力豆",
+    "phonetic": "/tʃˈɪps/"
+  },
+  "chives": {
+    "chinese": "细香葱",
+    "phonetic": "/tʃˈaɪvz/"
+  },
+  "choc": {
+    "chinese": "巧克力",
+    "phonetic": "/tʃˈɒk/"
+  },
+  "chocolate": {
+    "chinese": "巧克力",
+    "phonetic": "/tʃˈɒklət/"
+  },
+  "chops": {
+    "chinese": "排骨；肉排",
+    "phonetic": "/tʃˈɒps/"
+  },
+  "chorizo": {
+    "chinese": "西班牙辣香肠",
+    "phonetic": "/tʃɔɹˈiːzəʊ/"
+  },
+  "choy": {
+    "chinese": "菜；白菜",
+    "phonetic": "/ˈtʃɔɪ/"
+  },
+  "chrysanthemum": {
+    "chinese": "菊花",
+    "phonetic": "/kɹɪsˈɑːnθəməm/"
+  },
+  "chutney": {
+    "chinese": "酸甜果蔬酱",
+    "phonetic": "/tʃˈʌtni/"
+  },
+  "ciabatta": {
+    "chinese": "夏巴塔面包",
+    "phonetic": "/ˌtʃɑːbəˈtɑː/"
+  },
+  "cider": {
+    "chinese": "苹果酒",
+    "phonetic": "/sˈaɪdɐ/"
+  },
+  "cinnamon": {
+    "chinese": "肉桂",
+    "phonetic": "/sˈɪnəmən/"
+  },
+  "cleaner": {
+    "chinese": "清洁剂",
+    "phonetic": "/klˈiːnɐ/"
+  },
+  "cleaning": {
+    "chinese": "清洁用的",
+    "phonetic": "/klˈiːnɪŋ/"
+  },
+  "cleanser": {
+    "chinese": "洁面产品",
+    "phonetic": "/klˈɛnzɐ/"
+  },
+  "cling": {
+    "chinese": "紧贴；保鲜膜",
+    "phonetic": "/klˈɪŋ/"
+  },
+  "cloths": {
+    "chinese": "清洁布",
+    "phonetic": "/klˈɒθs/"
+  },
+  "cloves": {
+    "chinese": "丁香",
+    "phonetic": "/klˈəʊvz/"
+  },
+  "cockroach": {
+    "chinese": "蟑螂",
+    "phonetic": "/kˈɒkɹəʊtʃ/"
+  },
+  "cocoa": {
+    "chinese": "可可粉",
+    "phonetic": "/kˈəʊkəʊ/"
+  },
+  "coconut": {
+    "chinese": "椰子",
+    "phonetic": "/kˈəʊkənˌʌt/"
+  },
+  "coffee": {
+    "chinese": "咖啡",
+    "phonetic": "/kˈɒfi/"
+  },
+  "cognac": {
+    "chinese": "干邑白兰地",
+    "phonetic": "/kˈɒnjæk/"
+  },
+  "cola": {
+    "chinese": "可乐",
+    "phonetic": "/kˈəʊlɐ/"
+  },
+  "coleslaw": {
+    "chinese": "卷心菜丝沙拉",
+    "phonetic": "/kˈəʊlslɔː/"
+  },
+  "collagen": {
+    "chinese": "胶原蛋白",
+    "phonetic": "/kˈɒleɪdʒən/"
+  },
+  "collar": {
+    "chinese": "项圈",
+    "phonetic": "/kˈɒlɐ/"
+  },
+  "colour": {
+    "chinese": "颜色；染色",
+    "phonetic": "/kˈʌlɐ/"
+  },
+  "concealer": {
+    "chinese": "遮瑕膏",
+    "phonetic": "/kənsˈiːlɐ/"
+  },
+  "conditioner": {
+    "chinese": "护发素",
+    "phonetic": "/kəndˈɪʃənɐ/"
+  },
+  "container": {
+    "chinese": "储物盒",
+    "phonetic": "/kəntˈeɪnɐ/"
+  },
+  "control": {
+    "chinese": "控制；防治",
+    "phonetic": "/kəntɹˈəʊl/"
+  },
+  "cookie": {
+    "chinese": "曲奇饼干",
+    "phonetic": "/kˈʊki/"
+  },
+  "cookies": {
+    "chinese": "曲奇饼干",
+    "phonetic": "/kˈʊkɪz/"
+  },
+  "cordial": {
+    "chinese": "浓缩果味饮料",
+    "phonetic": "/kˈɔːdɪəl/"
+  },
+  "coriander": {
+    "chinese": "香菜",
+    "phonetic": "/kˌɒɹɪˈændɐ/"
+  },
+  "corn": {
+    "chinese": "玉米",
+    "phonetic": "/kˈɔːn/"
+  },
+  "cornflour": {
+    "chinese": "玉米淀粉",
+    "phonetic": "/kˈɔːnflaʊə/"
+  },
+  "cos": {
+    "chinese": "长叶生菜",
+    "phonetic": "/ˈkɔs/"
+  },
+  "cottage": {
+    "chinese": "农舍式的",
+    "phonetic": "/kˈɒtɪdʒ/"
+  },
+  "couscous": {
+    "chinese": "库斯库斯米",
+    "phonetic": "/kˈuːskuːs/"
+  },
+  "crab": {
+    "chinese": "螃蟹",
+    "phonetic": "/kɹˈæb/"
+  },
+  "crackers": {
+    "chinese": "薄脆饼干",
+    "phonetic": "/kɹˈækəz/"
+  },
+  "cranberry": {
+    "chinese": "蔓越莓",
+    "phonetic": "/kɹˈænbəɹi/"
+  },
+  "cream": {
+    "chinese": "奶油",
+    "phonetic": "/kɹˈiːm/"
+  },
+  "crispbread": {
+    "chinese": "脆面包",
+    "phonetic": "/kɹˈɪspbɹɛd/"
+  },
+  "croissants": {
+    "chinese": "可颂",
+    "phonetic": "/kwˈɑːsɑ̃s/"
+  },
+  "croquette": {
+    "chinese": "可乐饼",
+    "phonetic": "/kɹəkˈɛt/"
+  },
+  "croquettes": {
+    "chinese": "可乐饼",
+    "phonetic": "/kɹəkˈɛts/"
+  },
+  "croutons": {
+    "chinese": "面包丁",
+    "phonetic": "/ˈkɹutənz/"
+  },
+  "crumpet": {
+    "chinese": "英式酵母松饼",
+    "phonetic": "/kɹˈʌmpɪt/"
+  },
+  "cucumbers": {
+    "chinese": "黄瓜",
+    "phonetic": "/kjˈuːkʌmbəz/"
+  },
+  "cumin": {
+    "chinese": "孜然",
+    "phonetic": "/kjˈuːmɪn/"
+  },
+  "cup": {
+    "chinese": "杯子",
+    "phonetic": "/kˈʌp/"
+  },
+  "cupcakes": {
+    "chinese": "纸杯蛋糕",
+    "phonetic": "/kˈʌpkeɪks/"
+  },
+  "cups": {
+    "chinese": "杯子",
+    "phonetic": "/kˈʌps/"
+  },
+  "curry": {
+    "chinese": "咖喱",
+    "phonetic": "/kˈʌɹi/"
+  },
+  "custard": {
+    "chinese": "蛋奶酱",
+    "phonetic": "/kˈʌstəd/"
+  },
+  "cutlery": {
+    "chinese": "餐具",
+    "phonetic": "/kˈʌtləɹi/"
+  },
+  "cutlets": {
+    "chinese": "小块肉排",
+    "phonetic": "/kˈʌtləts/"
+  },
+  "danish": {
+    "chinese": "丹麦酥",
+    "phonetic": "/dˈeɪnɪʃ/"
+  },
+  "dates": {
+    "chinese": "椰枣",
+    "phonetic": "/dˈeɪts/"
+  },
+  "deep": {
+    "chinese": "深层的",
+    "phonetic": "/dˈiːp/"
+  },
+  "dental": {
+    "chinese": "牙齿的；口腔的",
+    "phonetic": "/dˈɛntəl/"
+  },
+  "deodorant": {
+    "chinese": "除臭剂",
+    "phonetic": "/diːˈəʊdəɹənt/"
+  },
+  "desiccated": {
+    "chinese": "干燥切碎的",
+    "phonetic": "/dˈɛsɪkˌeɪtɪd/"
+  },
+  "diced": {
+    "chinese": "切丁的",
+    "phonetic": "/dˈaɪst/"
+  },
+  "diffuser": {
+    "chinese": "香薰扩散器",
+    "phonetic": "/dɪfjˈuːsɐ/"
+  },
+  "dill": {
+    "chinese": "莳萝",
+    "phonetic": "/dˈɪl/"
+  },
+  "dim": {
+    "chinese": "点心的",
+    "phonetic": "/dˈɪm/"
+  },
+  "dishwasher": {
+    "chinese": "洗碗机",
+    "phonetic": "/dˈɪʃwɒʃɐ/"
+  },
+  "dishwashing": {
+    "chinese": "洗碗用的",
+    "phonetic": "/ˈdɪʃˌwɑʃɪŋ/"
+  },
+  "disinfectant": {
+    "chinese": "消毒剂",
+    "phonetic": "/dˌɪsɪnfˈɛktənt/"
+  },
+  "dog": {
+    "chinese": "狗；狗用的",
+    "phonetic": "/dˈɒɡ/"
+  },
+  "donuts": {
+    "chinese": "甜甜圈",
+    "phonetic": "/dˈəʊnʌts/"
+  },
+  "dragonfruit": {
+    "chinese": "火龙果",
+    "phonetic": "/ˈdræɡən fruːt/"
+  },
+  "drain": {
+    "chinese": "排水口；疏通剂",
+    "phonetic": "/dɹˈeɪn/"
+  },
+  "dried": {
+    "chinese": "干制的",
+    "phonetic": "/dɹˈaɪd/"
+  },
+  "drink": {
+    "chinese": "饮料",
+    "phonetic": "/dɹˈɪŋk/"
+  },
+  "drops": {
+    "chinese": "滴剂；小滴",
+    "phonetic": "/dɹˈɒps/"
+  },
+  "drumsticks": {
+    "chinese": "鸡小腿",
+    "phonetic": "/dɹˈʌmstɪks/"
+  },
+  "dry": {
+    "chinese": "干的；干性用的",
+    "phonetic": "/dɹˈaɪ/"
+  },
+  "duck": {
+    "chinese": "鸭肉",
+    "phonetic": "/dˈʌk/"
+  },
+  "dumpling": {
+    "chinese": "饺子",
+    "phonetic": "/dˈʌmplɪŋ/"
+  },
+  "dumplings": {
+    "chinese": "饺子",
+    "phonetic": "/dˈʌmplɪŋz/"
+  },
+  "eggplant": {
+    "chinese": "茄子",
+    "phonetic": "/ˈɛɡplænt/"
+  },
+  "elderflower": {
+    "chinese": "接骨木花",
+    "phonetic": "/ˈɛldəflˌaʊɐ/"
+  },
+  "energy": {
+    "chinese": "能量；能量饮料",
+    "phonetic": "/ˈɛnədʒi/"
+  },
+  "english": {
+    "chinese": "英式的；英语",
+    "phonetic": "/ˈɪŋɡlɪʃ/"
+  },
+  "extra": {
+    "chinese": "额外的；特级的",
+    "phonetic": "/ˈɛkstɹɐ/"
+  },
+  "extract": {
+    "chinese": "提取物；香精",
+    "phonetic": "/ˈɛkˌstɹækt/"
+  },
+  "eye": {
+    "chinese": "眼睛；中心部位",
+    "phonetic": "/ˈaɪ/"
+  },
+  "eyeliner": {
+    "chinese": "眼线笔",
+    "phonetic": "/ˈaɪlaɪnɐ/"
+  },
+  "fabric": {
+    "chinese": "织物",
+    "phonetic": "/fˈæbɹɪk/"
+  },
+  "facial": {
+    "chinese": "面部的；面巾纸",
+    "phonetic": "/fˈeɪʃəl/"
+  },
+  "fennel": {
+    "chinese": "茴香球茎",
+    "phonetic": "/fˈɛnəl/"
+  },
+  "feta": {
+    "chinese": "菲达奶酪",
+    "phonetic": "/fˈiːtɐ/"
+  },
+  "fettuccine": {
+    "chinese": "意式宽面",
+    "phonetic": "/fˈɛtuːtʃˌiːn/"
+  },
+  "fillet": {
+    "chinese": "去骨肉片；鱼片",
+    "phonetic": "/fəˈɫeɪ/"
+  },
+  "fillets": {
+    "chinese": "去骨肉片；鱼片",
+    "phonetic": "/fˈɪlɪts/"
+  },
+  "fingers": {
+    "chinese": "条状食品；手指",
+    "phonetic": "/fˈɪŋɡəz/"
+  },
+  "fish": {
+    "chinese": "鱼；鱼肉",
+    "phonetic": "/fˈɪʃ/"
+  },
+  "flakes": {
+    "chinese": "薄片；麦片",
+    "phonetic": "/flˈeɪks/"
+  },
+  "flatbread": {
+    "chinese": "扁面包",
+    "phonetic": "/ˈflæt bred/"
+  },
+  "flaxseed": {
+    "chinese": "亚麻籽",
+    "phonetic": "/flˈækssiːd/"
+  },
+  "floor": {
+    "chinese": "地板",
+    "phonetic": "/flˈɔː/"
+  },
+  "floss": {
+    "chinese": "牙线",
+    "phonetic": "/flˈɒs/"
+  },
+  "flour": {
+    "chinese": "面粉",
+    "phonetic": "/flˈaʊə/"
+  },
+  "foil": {
+    "chinese": "箔；铝箔",
+    "phonetic": "/fˈɔɪl/"
+  },
+  "food": {
+    "chinese": "食物",
+    "phonetic": "/fˈuːd/"
+  },
+  "formula": {
+    "chinese": "配方奶",
+    "phonetic": "/fˈɔːmjʊlɐ/"
+  },
+  "foundation": {
+    "chinese": "粉底",
+    "phonetic": "/faʊndˈeɪʃən/"
+  },
+  "free": {
+    "chinese": "不含……的；免费的",
+    "phonetic": "/fɹˈiː/"
+  },
+  "freezer": {
+    "chinese": "冷冻室；冷冻用的",
+    "phonetic": "/fɹˈiːzɐ/"
+  },
+  "freshener": {
+    "chinese": "清新剂",
+    "phonetic": "/fɹˈɛʃənɐ/"
+  },
+  "fried": {
+    "chinese": "油炸的；炒制的",
+    "phonetic": "/fɹˈaɪd/"
+  },
+  "fritters": {
+    "chinese": "煎饼；炸饼",
+    "phonetic": "/fɹˈɪtəz/"
+  },
+  "fruit": {
+    "chinese": "水果",
+    "phonetic": "/fɹˈuːt/"
+  },
+  "fry": {
+    "chinese": "油炸；炒",
+    "phonetic": "/fɹˈaɪ/"
+  },
+  "fudge": {
+    "chinese": "软糖块",
+    "phonetic": "/fˈʌdʒ/"
+  },
+  "full": {
+    "chinese": "全脂的；完整的",
+    "phonetic": "/fˈʊl/"
+  },
+  "fusilli": {
+    "chinese": "螺旋意面",
+    "phonetic": "/fjuˈsɪɫi/"
+  },
+  "garbage": {
+    "chinese": "垃圾",
+    "phonetic": "/ɡˈɑːbɪdʒ/"
+  },
+  "garlic": {
+    "chinese": "大蒜",
+    "phonetic": "/ɡˈɑːlɪk/"
+  },
+  "gel": {
+    "chinese": "凝胶",
+    "phonetic": "/ˈdʒɛɫ/"
+  },
+  "gelatine": {
+    "chinese": "明胶",
+    "phonetic": "/dʒˈɛlɐtˌiːn/"
+  },
+  "gelato": {
+    "chinese": "意式冰淇淋",
+    "phonetic": "/dʒəˈlɑːtoʊ/"
+  },
+  "gems": {
+    "chinese": "小块；宝石薯球",
+    "phonetic": "/dʒˈɛmz/"
+  },
+  "ghee": {
+    "chinese": "酥油",
+    "phonetic": "/ɡˈiː/"
+  },
+  "gherkins": {
+    "chinese": "酸黄瓜",
+    "phonetic": "/ɡˈɜːkɪnz/"
+  },
+  "gin": {
+    "chinese": "金酒",
+    "phonetic": "/dʒˈɪn/"
+  },
+  "ginger": {
+    "chinese": "姜",
+    "phonetic": "/dʒˈɪndʒɐ/"
+  },
+  "glass": {
+    "chinese": "玻璃；玻璃清洁剂",
+    "phonetic": "/ɡlˈɑːs/"
+  },
+  "globes": {
+    "chinese": "灯泡",
+    "phonetic": "/ɡlˈəʊbz/"
+  },
+  "gloves": {
+    "chinese": "手套",
+    "phonetic": "/ɡlˈʌvz/"
+  },
+  "glue": {
+    "chinese": "胶水",
+    "phonetic": "/ɡlˈuː/"
+  },
+  "gnocchi": {
+    "chinese": "意式土豆团子",
+    "phonetic": "/nˈɒkaɪ/"
+  },
+  "gochujang": {
+    "chinese": "韩式辣椒酱",
+    "phonetic": "/ˈɡoʊtʃuːdʒæŋ/"
+  },
+  "golden": {
+    "chinese": "金色的；金黄糖浆",
+    "phonetic": "/ɡˈəʊldən/"
+  },
+  "granola": {
+    "chinese": "烘烤麦片",
+    "phonetic": "/ɡɹænˈəʊlɐ/"
+  },
+  "grape": {
+    "chinese": "葡萄",
+    "phonetic": "/ɡɹˈeɪp/"
+  },
+  "grapefruit": {
+    "chinese": "葡萄柚／西柚",
+    "phonetic": "/ɡɹˈeɪpfɹuːt/"
+  },
+  "grapes": {
+    "chinese": "葡萄",
+    "phonetic": "/ɡɹˈeɪps/"
+  },
+  "gravy": {
+    "chinese": "肉汁酱",
+    "phonetic": "/ɡɹˈeɪvi/"
+  },
+  "green": {
+    "chinese": "绿色的；蔬菜",
+    "phonetic": "/ɡɹˈiːn/"
+  },
+  "greens": {
+    "chinese": "绿叶蔬菜",
+    "phonetic": "/ɡɹˈiːnz/"
+  },
+  "grigio": {
+    "chinese": "灰皮诺葡萄",
+    "phonetic": "/ˈɡriːdʒioʊ/"
+  },
+  "gris": {
+    "chinese": "灰皮诺葡萄",
+    "phonetic": "/ɡriː/"
+  },
+  "ground": {
+    "chinese": "研磨的；地面",
+    "phonetic": "/ɡɹˈaʊnd/"
+  },
+  "gua": {
+    "chinese": "刈包的",
+    "phonetic": "/ɡwɑː/"
+  },
+  "guacamole": {
+    "chinese": "牛油果酱",
+    "phonetic": "/ɡwˌɑːkɐmˈəʊliː/"
+  },
+  "guinea": {
+    "chinese": "豚鼠的",
+    "phonetic": "/ɡˈɪni/"
+  },
+  "gummy": {
+    "chinese": "软糖",
+    "phonetic": "/ɡˈʌmi/"
+  },
+  "gyoza": {
+    "chinese": "日式煎饺",
+    "phonetic": "/ˈɡjoʊzə/"
+  },
+  "hair": {
+    "chinese": "头发；护发的",
+    "phonetic": "/hˈeə/"
+  },
+  "halloumi": {
+    "chinese": "哈罗米奶酪",
+    "phonetic": "/həˈluːmi/"
+  },
+  "haloumi": {
+    "chinese": "哈罗米奶酪",
+    "phonetic": "/həˈluːmi/"
+  },
+  "ham": {
+    "chinese": "火腿",
+    "phonetic": "/hˈæm/"
+  },
+  "hand": {
+    "chinese": "手；手部用的",
+    "phonetic": "/hˈænd/"
+  },
+  "hargow": {
+    "chinese": "虾饺",
+    "phonetic": "/hɑːr ˈɡaʊ/"
+  },
+  "harissa": {
+    "chinese": "北非辣椒酱",
+    "phonetic": "/həˈriːsə/"
+  },
+  "hash": {
+    "chinese": "切碎煎制食品",
+    "phonetic": "/hˈæʃ/"
+  },
+  "havarti": {
+    "chinese": "哈瓦蒂奶酪",
+    "phonetic": "/həˈvɑːrti/"
+  },
+  "hazelnut": {
+    "chinese": "榛子",
+    "phonetic": "/hˈeɪzɪlnˌʌt/"
+  },
+  "highlighters": {
+    "chinese": "荧光笔",
+    "phonetic": "/hˈaɪlaɪtəz/"
+  },
+  "hoisin": {
+    "chinese": "海鲜酱",
+    "phonetic": "/ˈhɔɪsɪn/"
+  },
+  "hoki": {
+    "chinese": "蓝鳕鱼",
+    "phonetic": "/ˈhoʊki/"
+  },
+  "honey": {
+    "chinese": "蜂蜜",
+    "phonetic": "/hˈʌni/"
+  },
+  "honeydew": {
+    "chinese": "蜜瓜",
+    "phonetic": "/hˈʌnɪdjˌuː/"
+  },
+  "hot": {
+    "chinese": "热的；辣的",
+    "phonetic": "/hˈɒt/"
+  },
+  "hummus": {
+    "chinese": "鹰嘴豆泥",
+    "phonetic": "/hˈʌməs/"
+  },
+  "ibuprofen": {
+    "chinese": "布洛芬",
+    "phonetic": "/ˈaɪbəpɹˌəʊfən/"
+  },
+  "ice": {
+    "chinese": "冰",
+    "phonetic": "/ˈaɪs/"
+  },
+  "iceberg": {
+    "chinese": "球生菜",
+    "phonetic": "/ˈaɪsbɜːɡ/"
+  },
+  "iced": {
+    "chinese": "冰镇的",
+    "phonetic": "/ˈaɪst/"
+  },
+  "icing": {
+    "chinese": "糖霜；糖粉",
+    "phonetic": "/ˈaɪsɪŋ/"
+  },
+  "in": {
+    "chinese": "在……内",
+    "phonetic": "/ˈɪn/"
+  },
+  "infant": {
+    "chinese": "婴儿",
+    "phonetic": "/ˈɪnfənt/"
+  },
+  "insect": {
+    "chinese": "昆虫",
+    "phonetic": "/ˈɪnsɛkt/"
+  },
+  "insoles": {
+    "chinese": "鞋垫",
+    "phonetic": "/ˈɪnsəʊlz/"
+  },
+  "instant": {
+    "chinese": "速食的；即食的",
+    "phonetic": "/ˈɪnstənt/"
+  },
+  "intimate": {
+    "chinese": "私密部位的",
+    "phonetic": "/ˈɪnəmət/"
+  },
+  "jalapeno": {
+    "chinese": "墨西哥辣椒",
+    "phonetic": "/ˌdʒæɫəˈpinoʊ/"
+  },
+  "jam": {
+    "chinese": "果酱",
+    "phonetic": "/dʒˈæm/"
+  },
+  "japanese": {
+    "chinese": "日式的；日本的",
+    "phonetic": "/ˌdʒæpəˈniz/"
+  },
+  "jasmine": {
+    "chinese": "茉莉香米",
+    "phonetic": "/dʒˈæzmɪn/"
+  },
+  "jelly": {
+    "chinese": "果冻",
+    "phonetic": "/dʒˈɛli/"
+  },
+  "juice": {
+    "chinese": "果汁",
+    "phonetic": "/dʒˈuːs/"
+  },
+  "kale": {
+    "chinese": "羽衣甘蓝",
+    "phonetic": "/kˈeɪl/"
+  },
+  "kangaroo": {
+    "chinese": "袋鼠肉",
+    "phonetic": "/kˈæŋɡɐɹˌuː/"
+  },
+  "kebabs": {
+    "chinese": "烤肉串",
+    "phonetic": "/kəbˈæbz/"
+  },
+  "kefir": {
+    "chinese": "开菲尔发酵乳",
+    "phonetic": "/kəˈfɪər/"
+  },
+  "kidney": {
+    "chinese": "肾形的；芸豆",
+    "phonetic": "/kˈɪdni/"
+  },
+  "killer": {
+    "chinese": "杀虫剂",
+    "phonetic": "/kˈɪlɐ/"
+  },
+  "kimchi": {
+    "chinese": "韩式泡菜",
+    "phonetic": "/ˈkɪmtʃi/"
+  },
+  "kit": {
+    "chinese": "套装；配料包",
+    "phonetic": "/kˈɪt/"
+  },
+  "kiwifruit": {
+    "chinese": "猕猴桃／奇异果",
+    "phonetic": "/kˈɪwɪfɹˌuːt/"
+  },
+  "knives": {
+    "chinese": "刀",
+    "phonetic": "/nˈaɪvz/"
+  },
+  "kombucha": {
+    "chinese": "康普茶",
+    "phonetic": "/kɒmˈbuːtʃə/"
+  },
+  "kung": {
+    "chinese": "宫保式的",
+    "phonetic": "/ˈkəŋ/"
+  },
+  "kyiv": {
+    "chinese": "基辅式鸡肉卷",
+    "phonetic": "/ˈkiːjɪv/"
+  },
+  "lactose": {
+    "chinese": "乳糖",
+    "phonetic": "/lˈæktəʊz/"
+  },
+  "lager": {
+    "chinese": "拉格啤酒",
+    "phonetic": "/lˈɑːɡɐ/"
+  },
+  "laksa": {
+    "chinese": "叻沙",
+    "phonetic": "/ˈlɑːksə/"
+  },
+  "lamb": {
+    "chinese": "羊羔；羊肉",
+    "phonetic": "/lˈæm/"
+  },
+  "lasagne": {
+    "chinese": "千层面",
+    "phonetic": "/ləzˈænjɐ/"
+  },
+  "laundry": {
+    "chinese": "洗衣",
+    "phonetic": "/lˈɔːndɹi/"
+  },
+  "lean": {
+    "chinese": "瘦的；低脂的",
+    "phonetic": "/lˈiːn/"
+  },
+  "leave": {
+    "chinese": "留置；免洗的",
+    "phonetic": "/lˈiːv/"
+  },
+  "led": {
+    "chinese": "发光二极管",
+    "phonetic": "/lˈɛd/"
+  },
+  "leek": {
+    "chinese": "韭葱",
+    "phonetic": "/lˈiːk/"
+  },
+  "leeks": {
+    "chinese": "韭葱",
+    "phonetic": "/lˈiːks/"
+  },
+  "leg": {
+    "chinese": "腿；腿肉",
+    "phonetic": "/lˈɛɡ/"
+  },
+  "legs": {
+    "chinese": "腿；腿肉",
+    "phonetic": "/lˈɛɡz/"
+  },
+  "lemonade": {
+    "chinese": "柠檬汽水",
+    "phonetic": "/lˌɛmənˈeɪd/"
+  },
+  "lemongrass": {
+    "chinese": "柠檬草",
+    "phonetic": "/lˈɛməŋɡɹˌɑːs/"
+  },
+  "lemons": {
+    "chinese": "柠檬",
+    "phonetic": "/lˈɛmənz/"
+  },
+  "lentils": {
+    "chinese": "扁豆",
+    "phonetic": "/lˈɛntəlz/"
+  },
+  "lettuce": {
+    "chinese": "生菜",
+    "phonetic": "/lˈɛtɪs/"
+  },
+  "light": {
+    "chinese": "灯；轻的",
+    "phonetic": "/lˈaɪt/"
+  },
+  "lighter": {
+    "chinese": "点火器",
+    "phonetic": "/lˈaɪtɐ/"
+  },
+  "limes": {
+    "chinese": "青柠",
+    "phonetic": "/lˈaɪmz/"
+  },
+  "liner": {
+    "chinese": "衬袋；垃圾袋",
+    "phonetic": "/lˈaɪnɐ/"
+  },
+  "liners": {
+    "chinese": "护垫",
+    "phonetic": "/lˈaɪnəz/"
+  },
+  "linguine": {
+    "chinese": "意式扁细面",
+    "phonetic": "/lˈɪŋɡwaɪn/"
+  },
+  "lip": {
+    "chinese": "嘴唇；唇部用的",
+    "phonetic": "/lˈɪp/"
+  },
+  "liqueur": {
+    "chinese": "利口酒",
+    "phonetic": "/lɪkjˈɔː/"
+  },
+  "liquid": {
+    "chinese": "液体；液态的",
+    "phonetic": "/lˈɪkwɪd/"
+  },
+  "liquorice": {
+    "chinese": "甘草糖",
+    "phonetic": "/ˈlɪkərɪʃ/"
+  },
+  "litter": {
+    "chinese": "猫砂；垫料",
+    "phonetic": "/lˈɪtɐ/"
+  },
+  "loaf": {
+    "chinese": "一条面包",
+    "phonetic": "/lˈəʊf/"
+  },
+  "loin": {
+    "chinese": "腰脊肉",
+    "phonetic": "/lˈɔɪn/"
+  },
+  "lollies": {
+    "chinese": "糖果",
+    "phonetic": "/lˈɒliz/"
+  },
+  "lotion": {
+    "chinese": "乳液",
+    "phonetic": "/lˈəʊʃən/"
+  },
+  "mac": {
+    "chinese": "通心粉",
+    "phonetic": "/mˈæk/"
+  },
+  "macadamias": {
+    "chinese": "夏威夷果",
+    "phonetic": "/mˌækədˈeɪmiəz/"
+  },
+  "macaroni": {
+    "chinese": "通心粉",
+    "phonetic": "/mˌækɐɹˈəʊni/"
+  },
+  "machine": {
+    "chinese": "机器；洗衣机",
+    "phonetic": "/məʃˈiːn/"
+  },
+  "mackerel": {
+    "chinese": "鲭鱼",
+    "phonetic": "/mˈækəɹəl/"
+  },
+  "magnesium": {
+    "chinese": "镁补充剂",
+    "phonetic": "/mæɡnˈiːziəm/"
+  },
+  "mandarins": {
+    "chinese": "橘子",
+    "phonetic": "/mˈændəɹˌɪnz/"
+  },
+  "mango": {
+    "chinese": "芒果",
+    "phonetic": "/mˈæŋɡəʊ/"
+  },
+  "mangoes": {
+    "chinese": "芒果",
+    "phonetic": "/mˈæŋɡəʊz/"
+  },
+  "maple": {
+    "chinese": "枫树；枫糖",
+    "phonetic": "/mˈeɪpəl/"
+  },
+  "margarine": {
+    "chinese": "人造黄油",
+    "phonetic": "/mˈɑːdʒəɹˌiːn/"
+  },
+  "markers": {
+    "chinese": "记号笔",
+    "phonetic": "/mˈɑːkəz/"
+  },
+  "marmalade": {
+    "chinese": "柑橘果酱",
+    "phonetic": "/mˈɑːmɐlˌeɪd/"
+  },
+  "marshmallows": {
+    "chinese": "棉花糖",
+    "phonetic": "/mˈɑːʃmɐlˌəʊz/"
+  },
+  "mascara": {
+    "chinese": "睫毛膏",
+    "phonetic": "/mæskˈɑːɹɐ/"
+  },
+  "mascarpone": {
+    "chinese": "马斯卡彭奶酪",
+    "phonetic": "/ˌmæskɑːrˈpoʊneɪ/"
+  },
+  "mashies": {
+    "chinese": "土豆泥制品",
+    "phonetic": "/ˈmæʃiz/"
+  },
+  "massaman": {
+    "chinese": "马萨曼咖喱",
+    "phonetic": "/ˈmæsəmən/"
+  },
+  "matches": {
+    "chinese": "火柴",
+    "phonetic": "/mˈætʃɪz/"
+  },
+  "mayonnaise": {
+    "chinese": "蛋黄酱",
+    "phonetic": "/mˌeɪənˈeɪz/"
+  },
+  "meal": {
+    "chinese": "一餐；餐食",
+    "phonetic": "/mˈiːl/"
+  },
+  "meat": {
+    "chinese": "肉",
+    "phonetic": "/mˈiːt/"
+  },
+  "meatballs": {
+    "chinese": "肉丸",
+    "phonetic": "/mˈiːtbɔːlz/"
+  },
+  "melon": {
+    "chinese": "甜瓜",
+    "phonetic": "/mˈɛlən/"
+  },
+  "merlot": {
+    "chinese": "梅洛葡萄酒",
+    "phonetic": "/ˈmɝɫət/"
+  },
+  "microfibre": {
+    "chinese": "超细纤维",
+    "phonetic": "/ˈmaɪkroʊfaɪbər/"
+  },
+  "milk": {
+    "chinese": "牛奶",
+    "phonetic": "/mˈɪlk/"
+  },
+  "mince": {
+    "chinese": "肉末；绞碎",
+    "phonetic": "/mˈɪns/"
+  },
+  "mineral": {
+    "chinese": "矿物质；矿泉的",
+    "phonetic": "/mˈɪnəɹəl/"
+  },
+  "mint": {
+    "chinese": "薄荷",
+    "phonetic": "/mˈɪnt/"
+  },
+  "miso": {
+    "chinese": "味噌",
+    "phonetic": "/mɪsˈəʊ/"
+  },
+  "mist": {
+    "chinese": "喷雾",
+    "phonetic": "/mˈɪst/"
+  },
+  "mix": {
+    "chinese": "混合物；混合",
+    "phonetic": "/mˈɪks/"
+  },
+  "mixed": {
+    "chinese": "混合的",
+    "phonetic": "/mˈɪkst/"
+  },
+  "moisturiser": {
+    "chinese": "保湿霜",
+    "phonetic": "/mˈɔɪstʃəɹˌaɪzɐ/"
+  },
+  "molasses": {
+    "chinese": "糖蜜",
+    "phonetic": "/məlˈæsɪz/"
+  },
+  "mop": {
+    "chinese": "拖把",
+    "phonetic": "/mˈɒp/"
+  },
+  "mortadella": {
+    "chinese": "意式大肉肠",
+    "phonetic": "/ˌmɔːrtəˈdɛlə/"
+  },
+  "moscato": {
+    "chinese": "莫斯卡托葡萄酒",
+    "phonetic": "/moʊˈskɑtoʊ/"
+  },
+  "mosquito": {
+    "chinese": "蚊子",
+    "phonetic": "/məskˈiːtəʊ/"
+  },
+  "mouthwash": {
+    "chinese": "漱口水",
+    "phonetic": "/mˈaʊθwɒʃ/"
+  },
+  "mozzarella": {
+    "chinese": "马苏里拉奶酪",
+    "phonetic": "/mˌɒzəɹˈɛlɐ/"
+  },
+  "muesli": {
+    "chinese": "混合麦片",
+    "phonetic": "/mjˈuːsli/"
+  },
+  "muffins": {
+    "chinese": "玛芬蛋糕",
+    "phonetic": "/mˈʌfɪnz/"
+  },
+  "mug": {
+    "chinese": "马克杯",
+    "phonetic": "/mˈʌɡ/"
+  },
+  "multipurpose": {
+    "chinese": "多用途的",
+    "phonetic": "/mˌʌltɪpˈɜːpəs/"
+  },
+  "multivitamin": {
+    "chinese": "复合维生素",
+    "phonetic": "/mˌʌltɪvˈɪtəmɪn/"
+  },
+  "mushrooms": {
+    "chinese": "蘑菇",
+    "phonetic": "/mˈʌʃɹuːmz/"
+  },
+  "mussels": {
+    "chinese": "青口贝",
+    "phonetic": "/mˈʌsəlz/"
+  },
+  "mustard": {
+    "chinese": "芥末酱",
+    "phonetic": "/mˈʌstəd/"
+  },
+  "nail": {
+    "chinese": "指甲；美甲的",
+    "phonetic": "/nˈeɪl/"
+  },
+  "nappies": {
+    "chinese": "纸尿裤",
+    "phonetic": "/nˈæpɪz/"
+  },
+  "nappy": {
+    "chinese": "尿布",
+    "phonetic": "/nˈæpi/"
+  },
+  "nashi": {
+    "chinese": "亚洲梨；丰水梨",
+    "phonetic": "/ˈnɑːʃi/"
+  },
+  "noir": {
+    "chinese": "黑皮诺；黑色",
+    "phonetic": "/ˈnɔɪɹ/"
+  },
+  "noodle": {
+    "chinese": "面条",
+    "phonetic": "/nˈuːdəl/"
+  },
+  "noodles": {
+    "chinese": "面条",
+    "phonetic": "/nˈuːdəlz/"
+  },
+  "nori": {
+    "chinese": "海苔",
+    "phonetic": "/ˈnɔːri/"
+  },
+  "notebook": {
+    "chinese": "笔记本",
+    "phonetic": "/nˈəʊtbʊk/"
+  },
+  "notes": {
+    "chinese": "便签；笔记",
+    "phonetic": "/nˈəʊts/"
+  },
+  "nougat": {
+    "chinese": "牛轧糖",
+    "phonetic": "/nˈuːɡæt/"
+  },
+  "nuggets": {
+    "chinese": "块；鸡块",
+    "phonetic": "/nˈʌɡɪts/"
+  },
+  "nursing": {
+    "chinese": "哺乳用的",
+    "phonetic": "/nˈɜːsɪŋ/"
+  },
+  "nutmeg": {
+    "chinese": "肉豆蔻",
+    "phonetic": "/nˈʌtmɛɡ/"
+  },
+  "nuts": {
+    "chinese": "坚果",
+    "phonetic": "/nˈʌts/"
+  },
+  "oat": {
+    "chinese": "燕麦",
+    "phonetic": "/ˈəʊt/"
+  },
+  "oats": {
+    "chinese": "燕麦",
+    "phonetic": "/ˈəʊts/"
+  },
+  "octopus": {
+    "chinese": "章鱼",
+    "phonetic": "/ˈɒktəpəs/"
+  },
+  "oil": {
+    "chinese": "油",
+    "phonetic": "/ˈɔɪl/"
+  },
+  "oils": {
+    "chinese": "油；香薰油",
+    "phonetic": "/ˈɔɪlz/"
+  },
+  "olive": {
+    "chinese": "橄榄",
+    "phonetic": "/ˈɒlɪv/"
+  },
+  "olives": {
+    "chinese": "橄榄",
+    "phonetic": "/ˈɒlɪvz/"
+  },
+  "onion": {
+    "chinese": "洋葱",
+    "phonetic": "/ˈʌniən/"
+  },
+  "onions": {
+    "chinese": "洋葱",
+    "phonetic": "/ˈʌniənz/"
+  },
+  "orange": {
+    "chinese": "橙子；橙味的",
+    "phonetic": "/ˈɒɹɪndʒ/"
+  },
+  "oranges": {
+    "chinese": "橙子",
+    "phonetic": "/ˈɒɹɪndʒɪz/"
+  },
+  "oregano": {
+    "chinese": "牛至",
+    "phonetic": "/ˌɒɹɪɡˈɑːnəʊ/"
+  },
+  "oven": {
+    "chinese": "烤箱",
+    "phonetic": "/ˈʌvən/"
+  },
+  "oyster": {
+    "chinese": "牡蛎；蚝",
+    "phonetic": "/ˈɔɪstɐ/"
+  },
+  "pad": {
+    "chinese": "泰式炒制的；垫",
+    "phonetic": "/ˈpæd/"
+  },
+  "padlock": {
+    "chinese": "挂锁",
+    "phonetic": "/pˈædlɒk/"
+  },
+  "pads": {
+    "chinese": "卫生巾",
+    "phonetic": "/pˈædz/"
+  },
+  "pale": {
+    "chinese": "浅色的；淡色艾尔",
+    "phonetic": "/pˈeɪl/"
+  },
+  "pancakes": {
+    "chinese": "薄煎饼",
+    "phonetic": "/pˈænkeɪks/"
+  },
+  "pancetta": {
+    "chinese": "意式腌猪腹肉",
+    "phonetic": "/pænˈtʃɛtə/"
+  },
+  "pants": {
+    "chinese": "裤子；拉拉裤",
+    "phonetic": "/pˈɑːnts/"
+  },
+  "panty": {
+    "chinese": "内裤的",
+    "phonetic": "/pˈɑːnti/"
+  },
+  "pao": {
+    "chinese": "宫保式的",
+    "phonetic": "/ˈpaʊ/"
+  },
+  "papaya": {
+    "chinese": "木瓜",
+    "phonetic": "/pɐpˈaɪɐ/"
+  },
+  "paper": {
+    "chinese": "纸；米纸",
+    "phonetic": "/pˈeɪpɐ/"
+  },
+  "pappadums": {
+    "chinese": "印度脆饼",
+    "phonetic": "/ˈpæpədəmz/"
+  },
+  "paprika": {
+    "chinese": "红椒粉",
+    "phonetic": "/pˈæpɹɪkɐ/"
+  },
+  "paracetamol": {
+    "chinese": "对乙酰氨基酚",
+    "phonetic": "/pˈæɹəsˌɛtɐmˌɒl/"
+  },
+  "parma": {
+    "chinese": "帕尔马式的",
+    "phonetic": "/ˈpɑɹmə/"
+  },
+  "parmesan": {
+    "chinese": "帕尔马干酪",
+    "phonetic": "/ˈpɑɹməˌzɑn/"
+  },
+  "parsley": {
+    "chinese": "欧芹",
+    "phonetic": "/pˈɑːsli/"
+  },
+  "passionfruit": {
+    "chinese": "百香果",
+    "phonetic": "/ˈpæʃənfruːt/"
+  },
+  "pasta": {
+    "chinese": "意大利面",
+    "phonetic": "/pˈɑːstɐ/"
+  },
+  "paste": {
+    "chinese": "酱；糊",
+    "phonetic": "/pˈeɪst/"
+  },
+  "pastrami": {
+    "chinese": "香料腌熏肉",
+    "phonetic": "/pɑːstɹˈɑːmi/"
+  },
+  "pastry": {
+    "chinese": "酥皮面团",
+    "phonetic": "/pˈeɪstɹi/"
+  },
+  "peanut": {
+    "chinese": "花生",
+    "phonetic": "/pˈiːnʌt/"
+  },
+  "pears": {
+    "chinese": "梨",
+    "phonetic": "/ˈpɛɹz/"
+  },
+  "peas": {
+    "chinese": "豌豆",
+    "phonetic": "/pˈiːz/"
+  },
+  "pee": {
+    "chinese": "尿液；排尿",
+    "phonetic": "/pˈiː/"
+  },
+  "peking": {
+    "chinese": "北京式的",
+    "phonetic": "/ˈpiˈkɪŋ/"
+  },
+  "pencils": {
+    "chinese": "铅笔",
+    "phonetic": "/pˈɛnsəlz/"
+  },
+  "penne": {
+    "chinese": "通心斜管面",
+    "phonetic": "/ˈpɛneɪ/"
+  },
+  "pens": {
+    "chinese": "笔",
+    "phonetic": "/pˈɛnz/"
+  },
+  "peppercorns": {
+    "chinese": "胡椒粒",
+    "phonetic": "/pˈɛpəkˌɔːnz/"
+  },
+  "peppermint": {
+    "chinese": "胡椒薄荷",
+    "phonetic": "/pˈɛpəmˌɪnt/"
+  },
+  "pepperoni": {
+    "chinese": "意式辣香肠",
+    "phonetic": "/pˌɛpəɹˈəʊni/"
+  },
+  "peptides": {
+    "chinese": "肽",
+    "phonetic": "/pˈɛptaɪdz/"
+  },
+  "pesto": {
+    "chinese": "青酱",
+    "phonetic": "/pˈɛstəʊ/"
+  },
+  "pick-up": {
+    "chinese": "手拿式的；即取的",
+    "phonetic": "/ˈpɪˌkəp/"
+  },
+  "pickles": {
+    "chinese": "腌菜",
+    "phonetic": "/pˈɪkəlz/"
+  },
+  "pie": {
+    "chinese": "馅饼；派",
+    "phonetic": "/pˈaɪ/"
+  },
+  "pies": {
+    "chinese": "馅饼；派",
+    "phonetic": "/pˈaɪz/"
+  },
+  "pig": {
+    "chinese": "猪；豚鼠",
+    "phonetic": "/pˈɪɡ/"
+  },
+  "pikelets": {
+    "chinese": "澳式小煎饼",
+    "phonetic": "/ˈpaɪkləts/"
+  },
+  "pineapple": {
+    "chinese": "菠萝",
+    "phonetic": "/pˈaɪnæpəl/"
+  },
+  "pinot": {
+    "chinese": "皮诺葡萄",
+    "phonetic": "/ˈpɪnət/"
+  },
+  "pistachios": {
+    "chinese": "开心果",
+    "phonetic": "/pɪstˈæʃɪˌəʊz/"
+  },
+  "pita": {
+    "chinese": "皮塔饼",
+    "phonetic": "/pˈiːtɐ/"
+  },
+  "pizza": {
+    "chinese": "披萨",
+    "phonetic": "/pˈiːtsɐ/"
+  },
+  "plain": {
+    "chinese": "原味的；普通的",
+    "phonetic": "/plˈeɪn/"
+  },
+  "plasters": {
+    "chinese": "创可贴",
+    "phonetic": "/plˈɑːstəz/"
+  },
+  "plate": {
+    "chinese": "盘子",
+    "phonetic": "/plˈeɪt/"
+  },
+  "plates": {
+    "chinese": "盘子",
+    "phonetic": "/plˈeɪts/"
+  },
+  "polenta": {
+    "chinese": "玉米糁",
+    "phonetic": "/pəʊlˈɛntɐ/"
+  },
+  "polish": {
+    "chinese": "指甲油；抛光",
+    "phonetic": "/ˈpɑɫɪʃ/"
+  },
+  "pomegranate": {
+    "chinese": "石榴",
+    "phonetic": "/pˈɒmɪɡɹˌæneɪt/"
+  },
+  "popcorn": {
+    "chinese": "爆米花",
+    "phonetic": "/pˈɒpkɔːn/"
+  },
+  "pork": {
+    "chinese": "猪肉",
+    "phonetic": "/pˈɔːk/"
+  },
+  "porridge": {
+    "chinese": "燕麦粥",
+    "phonetic": "/pˈɒɹɪdʒ/"
+  },
+  "porterhouse": {
+    "chinese": "上等腰肉牛排",
+    "phonetic": "/pˈɔːtəhˌaʊs/"
+  },
+  "potato": {
+    "chinese": "土豆",
+    "phonetic": "/pətˈeɪtəʊ/"
+  },
+  "potatoes": {
+    "chinese": "土豆",
+    "phonetic": "/pətˈeɪtəʊz/"
+  },
+  "pouch": {
+    "chinese": "袋装食品；小袋",
+    "phonetic": "/pˈaʊtʃ/"
+  },
+  "powder": {
+    "chinese": "粉末",
+    "phonetic": "/pˈaʊdɐ/"
+  },
+  "prawns": {
+    "chinese": "虾",
+    "phonetic": "/pɹˈɔːnz/"
+  },
+  "pressed": {
+    "chinese": "压制的",
+    "phonetic": "/pɹˈɛst/"
+  },
+  "pretzels": {
+    "chinese": "椒盐脆饼",
+    "phonetic": "/pɹˈɛtsəlz/"
+  },
+  "probiotic": {
+    "chinese": "益生菌",
+    "phonetic": "/ˌproʊbaɪˈɒtɪk/"
+  },
+  "prosciutto": {
+    "chinese": "意式生火腿",
+    "phonetic": "/pɹəsɪˈʌtəʊ/"
+  },
+  "prosecco": {
+    "chinese": "普罗塞克起泡酒",
+    "phonetic": "/prəˈsɛkoʊ/"
+  },
+  "protein": {
+    "chinese": "蛋白质",
+    "phonetic": "/pɹˈəʊtiːn/"
+  },
+  "pudding": {
+    "chinese": "布丁",
+    "phonetic": "/pˈʊdɪŋ/"
+  },
+  "puff": {
+    "chinese": "酥皮；泡芙",
+    "phonetic": "/pˈʌf/"
+  },
+  "puffs": {
+    "chinese": "泡芙；蓬松块",
+    "phonetic": "/pˈʌfs/"
+  },
+  "pumpkin": {
+    "chinese": "南瓜",
+    "phonetic": "/pˈʌmpkɪn/"
+  },
+  "puree": {
+    "chinese": "果蔬泥",
+    "phonetic": "/pjˈɔːɹeɪ/"
+  },
+  "quiche": {
+    "chinese": "法式咸派",
+    "phonetic": "/kˈiːʃ/"
+  },
+  "quinoa": {
+    "chinese": "藜麦",
+    "phonetic": "/ˌkiˈnoʊə/"
+  },
+  "radish": {
+    "chinese": "小萝卜",
+    "phonetic": "/ɹˈædɪʃ/"
+  },
+  "raising": {
+    "chinese": "发酵用的；膨松的",
+    "phonetic": "/ɹˈeɪzɪŋ/"
+  },
+  "raisins": {
+    "chinese": "葡萄干",
+    "phonetic": "/ɹˈeɪzənz/"
+  },
+  "ramen": {
+    "chinese": "拉面",
+    "phonetic": "/ɹˈeɪmɛn/"
+  },
+  "raspberries": {
+    "chinese": "覆盆子／树莓",
+    "phonetic": "/ɹˈɑːsbəɹɪz/"
+  },
+  "ravioli": {
+    "chinese": "意式馅饺",
+    "phonetic": "/ɹˌævɪˈəʊli/"
+  },
+  "razor": {
+    "chinese": "剃须刀",
+    "phonetic": "/ɹˈeɪzɐ/"
+  },
+  "red": {
+    "chinese": "红色的",
+    "phonetic": "/ɹˈɛd/"
+  },
+  "reed": {
+    "chinese": "藤条；香薰挥发棒",
+    "phonetic": "/ɹˈiːd/"
+  },
+  "refill": {
+    "chinese": "补充装",
+    "phonetic": "/ˈɹifɪɫ/"
+  },
+  "regular": {
+    "chinese": "普通的；常规的",
+    "phonetic": "/ɹˈɛɡjuːlɐ/"
+  },
+  "relish": {
+    "chinese": "碎蔬菜调味酱",
+    "phonetic": "/ɹˈɛlɪʃ/"
+  },
+  "remover": {
+    "chinese": "去除剂",
+    "phonetic": "/ɹɪmˈuːvɐ/"
+  },
+  "repellent": {
+    "chinese": "驱虫剂",
+    "phonetic": "/ɹɪpˈɛlənt/"
+  },
+  "rhubarb": {
+    "chinese": "食用大黄",
+    "phonetic": "/ɹˈuːbɑːb/"
+  },
+  "ribs": {
+    "chinese": "肋排",
+    "phonetic": "/ɹˈɪbz/"
+  },
+  "rice": {
+    "chinese": "米饭",
+    "phonetic": "/ɹˈaɪs/"
+  },
+  "ricotta": {
+    "chinese": "乳清奶酪",
+    "phonetic": "/ɹˈɪkɒtɐ/"
+  },
+  "riesling": {
+    "chinese": "雷司令葡萄酒",
+    "phonetic": "/ˈɹizɫɪŋ/"
+  },
+  "rigatoni": {
+    "chinese": "粗管意面",
+    "phonetic": "/ɹˌɪɡɐtˈəʊni/"
+  },
+  "rinse": {
+    "chinese": "漂洗；漂洗剂",
+    "phonetic": "/ɹˈɪns/"
+  },
+  "roast": {
+    "chinese": "烤制的；烤肉",
+    "phonetic": "/ɹˈəʊst/"
+  },
+  "rocket": {
+    "chinese": "芝麻菜",
+    "phonetic": "/ɹˈɒkɪt/"
+  },
+  "rockmelon": {
+    "chinese": "哈密瓜／网纹甜瓜",
+    "phonetic": "/ˈrɒkmɛlən/"
+  },
+  "roll": {
+    "chinese": "卷",
+    "phonetic": "/ɹˈəʊl/"
+  },
+  "rolled": {
+    "chinese": "压片的；卷制的",
+    "phonetic": "/ɹˈəʊld/"
+  },
+  "rolls": {
+    "chinese": "面包卷",
+    "phonetic": "/ɹˈəʊlz/"
+  },
+  "rose": {
+    "chinese": "玫瑰",
+    "phonetic": "/ˈɹoʊz/"
+  },
+  "rosemary": {
+    "chinese": "迷迭香",
+    "phonetic": "/ɹˈəʊzməɹi/"
+  },
+  "roti": {
+    "chinese": "印度薄饼",
+    "phonetic": "/ˈɹoʊti/"
+  },
+  "rubber": {
+    "chinese": "橡胶",
+    "phonetic": "/ɹˈʌbɐ/"
+  },
+  "rum": {
+    "chinese": "朗姆酒",
+    "phonetic": "/ɹˈʌm/"
+  },
+  "rump": {
+    "chinese": "臀部；臀肉",
+    "phonetic": "/ɹˈʌmp/"
+  },
+  "rusk": {
+    "chinese": "脆饼；磨牙饼",
+    "phonetic": "/ɹˈʌsk/"
+  },
+  "rusks": {
+    "chinese": "磨牙饼",
+    "phonetic": "/ɹˈʌsks/"
+  },
+  "sage": {
+    "chinese": "鼠尾草",
+    "phonetic": "/sˈeɪdʒ/"
+  },
+  "salad": {
+    "chinese": "沙拉",
+    "phonetic": "/sˈæləd/"
+  },
+  "salami": {
+    "chinese": "萨拉米香肠",
+    "phonetic": "/sɐlˈɑːmi/"
+  },
+  "salmon": {
+    "chinese": "三文鱼",
+    "phonetic": "/sˈæmən/"
+  },
+  "salt": {
+    "chinese": "盐",
+    "phonetic": "/sˈɒlt/"
+  },
+  "samosa": {
+    "chinese": "咖喱角",
+    "phonetic": "/sæmˈəʊsɐ/"
+  },
+  "sandwich": {
+    "chinese": "三明治",
+    "phonetic": "/sˈændwɪtʃ/"
+  },
+  "sardines": {
+    "chinese": "沙丁鱼",
+    "phonetic": "/sɑːdˈiːnz/"
+  },
+  "satay": {
+    "chinese": "沙嗲",
+    "phonetic": "/sˈæteɪ/"
+  },
+  "sauce": {
+    "chinese": "调味酱",
+    "phonetic": "/sˈɔːs/"
+  },
+  "sauerkraut": {
+    "chinese": "德式酸菜",
+    "phonetic": "/sˈaʊəkɹˌaʊt/"
+  },
+  "sausage": {
+    "chinese": "香肠",
+    "phonetic": "/sˈɒsɪdʒ/"
+  },
+  "sausages": {
+    "chinese": "香肠",
+    "phonetic": "/sˈɒsɪdʒɪz/"
+  },
+  "sauvignon": {
+    "chinese": "长相思葡萄",
+    "phonetic": "/ˌsɔˈvɪnjɑn/"
+  },
+  "savoy": {
+    "chinese": "皱叶甘蓝",
+    "phonetic": "/sɐvˈɔɪ/"
+  },
+  "scented": {
+    "chinese": "带香味的",
+    "phonetic": "/sˈɛntɪd/"
+  },
+  "schnitzel": {
+    "chinese": "炸肉排",
+    "phonetic": "/ʃnˈɪtsəl/"
+  },
+  "scissors": {
+    "chinese": "剪刀",
+    "phonetic": "/sˈɪsəz/"
+  },
+  "scones": {
+    "chinese": "司康",
+    "phonetic": "/skˈəʊnz/"
+  },
+  "scotch": {
+    "chinese": "苏格兰式的；肋眼肉",
+    "phonetic": "/skˈɒtʃ/"
+  },
+  "scourers": {
+    "chinese": "百洁布",
+    "phonetic": "/skˈaʊəɹəz/"
+  },
+  "scrolls": {
+    "chinese": "卷状面包",
+    "phonetic": "/skɹˈəʊlz/"
+  },
+  "scrub": {
+    "chinese": "磨砂膏；擦洗",
+    "phonetic": "/skɹˈʌb/"
+  },
+  "sea": {
+    "chinese": "海；海产的",
+    "phonetic": "/sˈiː/"
+  },
+  "seasoning": {
+    "chinese": "调味料",
+    "phonetic": "/sˈiːzənɪŋ/"
+  },
+  "seaweed": {
+    "chinese": "海藻",
+    "phonetic": "/sˈiːwiːd/"
+  },
+  "seed": {
+    "chinese": "种子；鸟食",
+    "phonetic": "/sˈiːd/"
+  },
+  "seeds": {
+    "chinese": "种子",
+    "phonetic": "/sˈiːdz/"
+  },
+  "self": {
+    "chinese": "自身；自发的",
+    "phonetic": "/sˈɛlf/"
+  },
+  "serum": {
+    "chinese": "精华液",
+    "phonetic": "/sˈɛɹəm/"
+  },
+  "sesame": {
+    "chinese": "芝麻",
+    "phonetic": "/sˈɛsɐmˌi/"
+  },
+  "shallots": {
+    "chinese": "红葱头",
+    "phonetic": "/ʃˈælɒts/"
+  },
+  "shampoo": {
+    "chinese": "洗发水",
+    "phonetic": "/ʃæmpˈuː/"
+  },
+  "shanks": {
+    "chinese": "腿胫肉",
+    "phonetic": "/ʃˈæŋks/"
+  },
+  "shave": {
+    "chinese": "剃须",
+    "phonetic": "/ʃˈeɪv/"
+  },
+  "shaving": {
+    "chinese": "剃须用的",
+    "phonetic": "/ʃˈeɪvɪŋ/"
+  },
+  "sheets": {
+    "chinese": "片；薄片",
+    "phonetic": "/ʃˈiːts/"
+  },
+  "shells": {
+    "chinese": "壳；贝壳形面食",
+    "phonetic": "/ʃˈɛlz/"
+  },
+  "shiitake": {
+    "chinese": "香菇",
+    "phonetic": "/ˌʃiːˈtɑːki/"
+  },
+  "shiraz": {
+    "chinese": "设拉子葡萄酒",
+    "phonetic": "/ʃɪˈrɑːz/"
+  },
+  "shortbread": {
+    "chinese": "黄油酥饼",
+    "phonetic": "/ʃˈɔːtbɹɛd/"
+  },
+  "shortcrust": {
+    "chinese": "酥脆馅饼皮",
+    "phonetic": "/ʃˈɔːtkɹʌst/"
+  },
+  "shower": {
+    "chinese": "淋浴",
+    "phonetic": "/ˈʃaʊɝ/"
+  },
+  "silverbeet": {
+    "chinese": "叶用甜菜",
+    "phonetic": "/ˈsɪlvərbiːt/"
+  },
+  "silverside": {
+    "chinese": "腌制牛后腿肉",
+    "phonetic": "/sˈɪlvəsˌaɪd/"
+  },
+  "sims": {
+    "chinese": "烧卖",
+    "phonetic": "/ˈsɪmz/"
+  },
+  "singapore": {
+    "chinese": "新加坡式的",
+    "phonetic": "/ˈsɪŋəˌpɔɹ/"
+  },
+  "sippy": {
+    "chinese": "学饮用的",
+    "phonetic": "/ˈsɪpi/"
+  },
+  "skim": {
+    "chinese": "脱脂的",
+    "phonetic": "/skˈɪm/"
+  },
+  "sliders": {
+    "chinese": "迷你汉堡",
+    "phonetic": "/slˈaɪdəz/"
+  },
+  "smoked": {
+    "chinese": "烟熏的",
+    "phonetic": "/smˈəʊkt/"
+  },
+  "smoothie": {
+    "chinese": "思慕雪／水果奶昔",
+    "phonetic": "/smˈuːði/"
+  },
+  "snack": {
+    "chinese": "零食",
+    "phonetic": "/snˈæk/"
+  },
+  "snacks": {
+    "chinese": "零食",
+    "phonetic": "/snˈæks/"
+  },
+  "snap": {
+    "chinese": "脆嫩的；豌豆荚",
+    "phonetic": "/snˈæp/"
+  },
+  "soap": {
+    "chinese": "香皂",
+    "phonetic": "/sˈəʊp/"
+  },
+  "soba": {
+    "chinese": "荞麦面",
+    "phonetic": "/sˈəʊbɐ/"
+  },
+  "socks": {
+    "chinese": "袜子",
+    "phonetic": "/sˈɒks/"
+  },
+  "soda": {
+    "chinese": "苏打",
+    "phonetic": "/sˈəʊdɐ/"
+  },
+  "soft": {
+    "chinese": "软的；无酒精的",
+    "phonetic": "/sˈɒft/"
+  },
+  "softener": {
+    "chinese": "柔顺剂",
+    "phonetic": "/sˈɒfənɐ/"
+  },
+  "soother": {
+    "chinese": "安抚奶嘴",
+    "phonetic": "/sˈuːðɐ/"
+  },
+  "sorbet": {
+    "chinese": "雪葩",
+    "phonetic": "/sˈɔːbeɪ/"
+  },
+  "soup": {
+    "chinese": "汤",
+    "phonetic": "/sˈuːp/"
+  },
+  "sour": {
+    "chinese": "酸的；酸奶油",
+    "phonetic": "/sˈaʊə/"
+  },
+  "sourdough": {
+    "chinese": "酸种面包",
+    "phonetic": "/sˈaʊədəʊ/"
+  },
+  "southern": {
+    "chinese": "南方的",
+    "phonetic": "/sˈʌðən/"
+  },
+  "soy": {
+    "chinese": "大豆",
+    "phonetic": "/sˈɔɪ/"
+  },
+  "spaghetti": {
+    "chinese": "意大利长直面",
+    "phonetic": "/spɐɡˈɛti/"
+  },
+  "sparkling": {
+    "chinese": "起泡酒",
+    "phonetic": "/spˈɑːklɪŋ/"
+  },
+  "spatula": {
+    "chinese": "锅铲",
+    "phonetic": "/spˈætjʊlɐ/"
+  },
+  "spice": {
+    "chinese": "香料",
+    "phonetic": "/spˈaɪs/"
+  },
+  "spinach": {
+    "chinese": "菠菜",
+    "phonetic": "/spˈɪnɪtʃ/"
+  },
+  "split": {
+    "chinese": "去皮分瓣的",
+    "phonetic": "/splˈɪt/"
+  },
+  "sponges": {
+    "chinese": "海绵",
+    "phonetic": "/spˈʌndʒɪz/"
+  },
+  "sports": {
+    "chinese": "运动的",
+    "phonetic": "/spˈɔːts/"
+  },
+  "spray": {
+    "chinese": "喷雾",
+    "phonetic": "/spɹˈeɪ/"
+  },
+  "spread": {
+    "chinese": "涂抹酱",
+    "phonetic": "/spɹˈɛd/"
+  },
+  "spring": {
+    "chinese": "春季的；嫩的",
+    "phonetic": "/spɹˈɪŋ/"
+  },
+  "sprouts": {
+    "chinese": "芽菜；抱子甘蓝",
+    "phonetic": "/spɹˈaʊts/"
+  },
+  "squeaker": {
+    "chinese": "发声玩具",
+    "phonetic": "/skwˈiːkɐ/"
+  },
+  "sriracha": {
+    "chinese": "是拉差辣椒酱",
+    "phonetic": "/sɪˈrɑːtʃə/"
+  },
+  "stain": {
+    "chinese": "污渍",
+    "phonetic": "/stˈeɪn/"
+  },
+  "stapler": {
+    "chinese": "订书机",
+    "phonetic": "/stˈeɪplɐ/"
+  },
+  "star": {
+    "chinese": "星形；明星",
+    "phonetic": "/stˈɑː/"
+  },
+  "steak": {
+    "chinese": "肉排",
+    "phonetic": "/stˈeɪk/"
+  },
+  "steaks": {
+    "chinese": "肉排",
+    "phonetic": "/stˈeɪks/"
+  },
+  "sticks": {
+    "chinese": "条；棒",
+    "phonetic": "/stˈɪks/"
+  },
+  "sticky": {
+    "chinese": "有黏性的",
+    "phonetic": "/stˈɪki/"
+  },
+  "stir": {
+    "chinese": "搅拌；翻炒",
+    "phonetic": "/stˈɜː/"
+  },
+  "stock": {
+    "chinese": "高汤",
+    "phonetic": "/stˈɒk/"
+  },
+  "storage": {
+    "chinese": "储存；收纳",
+    "phonetic": "/stˈɔːɹɪdʒ/"
+  },
+  "stout": {
+    "chinese": "世涛啤酒",
+    "phonetic": "/stˈaʊt/"
+  },
+  "strainer": {
+    "chinese": "滤网",
+    "phonetic": "/stɹˈeɪnɐ/"
+  },
+  "straw": {
+    "chinese": "吸管",
+    "phonetic": "/stɹˈɔː/"
+  },
+  "strawberries": {
+    "chinese": "草莓",
+    "phonetic": "/stɹˈɔːbəɹɪz/"
+  },
+  "straws": {
+    "chinese": "吸管",
+    "phonetic": "/stɹˈɔːz/"
+  },
+  "strips": {
+    "chinese": "条；肉条",
+    "phonetic": "/stɹˈɪps/"
+  },
+  "sugar": {
+    "chinese": "糖",
+    "phonetic": "/ʃˈʊɡɐ/"
+  },
+  "sultanas": {
+    "chinese": "浅色葡萄干",
+    "phonetic": "/sʌltˈɑːnəz/"
+  },
+  "sum": {
+    "chinese": "菜心",
+    "phonetic": "/sˈʌm/"
+  },
+  "sunflower": {
+    "chinese": "向日葵",
+    "phonetic": "/sˈʌnflaʊɐ/"
+  },
+  "sunscreen": {
+    "chinese": "防晒霜",
+    "phonetic": "/sˈʌnskɹiːn/"
+  },
+  "surface": {
+    "chinese": "表面",
+    "phonetic": "/sˈɜːfɪs/"
+  },
+  "sushi": {
+    "chinese": "寿司",
+    "phonetic": "/sˈuːʃi/"
+  },
+  "swedes": {
+    "chinese": "芜菁甘蓝",
+    "phonetic": "/swˈiːdz/"
+  },
+  "sweet": {
+    "chinese": "甜的；甜食",
+    "phonetic": "/swˈiːt/"
+  },
+  "swim": {
+    "chinese": "游泳；游泳用的",
+    "phonetic": "/swˈɪm/"
+  },
+  "syrup": {
+    "chinese": "糖浆",
+    "phonetic": "/sˈɪɹʌp/"
+  },
+  "tablets": {
+    "chinese": "片剂；清洁片",
+    "phonetic": "/tˈæbləts/"
+  },
+  "taco": {
+    "chinese": "墨西哥玉米卷",
+    "phonetic": "/tˈɑːkəʊ/"
+  },
+  "tahini": {
+    "chinese": "芝麻酱",
+    "phonetic": "/tæhˈiːni/"
+  },
+  "tamarind": {
+    "chinese": "罗望子",
+    "phonetic": "/tˈæməɹˌɪnd/"
+  },
+  "tampons": {
+    "chinese": "卫生棉条",
+    "phonetic": "/tˈæmpɒnz/"
+  },
+  "tarts": {
+    "chinese": "挞；小馅饼",
+    "phonetic": "/tˈɑːts/"
+  },
+  "tea": {
+    "chinese": "茶",
+    "phonetic": "/tˈiː/"
+  },
+  "teaspoons": {
+    "chinese": "茶匙",
+    "phonetic": "/tˈiːspuːnz/"
+  },
+  "teats": {
+    "chinese": "奶嘴",
+    "phonetic": "/tˈiːts/"
+  },
+  "teether": {
+    "chinese": "牙胶",
+    "phonetic": "/ˈtiːðər/"
+  },
+  "tempeh": {
+    "chinese": "天贝",
+    "phonetic": "/tˈɛmpeɪ/"
+  },
+  "tenderloins": {
+    "chinese": "里脊肉",
+    "phonetic": "/tˈɛndəlˌɔɪnz/"
+  },
+  "tequila": {
+    "chinese": "龙舌兰酒",
+    "phonetic": "/təkˈiːlɐ/"
+  },
+  "thai": {
+    "chinese": "泰式的；泰国的",
+    "phonetic": "/ˈtaɪ/"
+  },
+  "thickened": {
+    "chinese": "增稠的",
+    "phonetic": "/θˈɪkənd/"
+  },
+  "thigh": {
+    "chinese": "大腿；腿肉",
+    "phonetic": "/θˈaɪ/"
+  },
+  "thyme": {
+    "chinese": "百里香",
+    "phonetic": "/tˈaɪm/"
+  },
+  "tissue": {
+    "chinese": "纸巾",
+    "phonetic": "/tˈɪʃuː/"
+  },
+  "tissues": {
+    "chinese": "纸巾",
+    "phonetic": "/tˈɪʃuːz/"
+  },
+  "to": {
+    "chinese": "到；用于",
+    "phonetic": "/tˈuː/"
+  },
+  "toddler": {
+    "chinese": "幼儿",
+    "phonetic": "/tˈɒdlɐ/"
+  },
+  "toe": {
+    "chinese": "脚趾",
+    "phonetic": "/tˈəʊ/"
+  },
+  "toffee": {
+    "chinese": "太妃糖",
+    "phonetic": "/tˈɒfiː/"
+  },
+  "tofu": {
+    "chinese": "豆腐",
+    "phonetic": "/tˈəʊfuː/"
+  },
+  "toilet": {
+    "chinese": "马桶；厕所",
+    "phonetic": "/tˈɔɪlət/"
+  },
+  "tomato": {
+    "chinese": "番茄",
+    "phonetic": "/təmˈɑːtəʊ/"
+  },
+  "tomatoes": {
+    "chinese": "番茄",
+    "phonetic": "/təmˈɑːtəʊz/"
+  },
+  "toner": {
+    "chinese": "爽肤水",
+    "phonetic": "/tˈəʊnɐ/"
+  },
+  "tongs": {
+    "chinese": "夹子",
+    "phonetic": "/tˈɒŋz/"
+  },
+  "tonic": {
+    "chinese": "汤力水；滋补品",
+    "phonetic": "/tˈɒnɪk/"
+  },
+  "toothbrush": {
+    "chinese": "牙刷",
+    "phonetic": "/tˈuːθbɹʌʃ/"
+  },
+  "toothpaste": {
+    "chinese": "牙膏",
+    "phonetic": "/tˈuːθpeɪst/"
+  },
+  "top": {
+    "chinese": "顶部；上身",
+    "phonetic": "/tˈɒp/"
+  },
+  "tortellini": {
+    "chinese": "意式环形馅饺",
+    "phonetic": "/tˌɔːtɪlˈiːni/"
+  },
+  "tortilla": {
+    "chinese": "墨西哥薄饼",
+    "phonetic": "/tɔːtˈiːɐ/"
+  },
+  "towel": {
+    "chinese": "毛巾；厨房纸",
+    "phonetic": "/tˈaʊəl/"
+  },
+  "toy": {
+    "chinese": "玩具",
+    "phonetic": "/tˈɔɪ/"
+  },
+  "trail": {
+    "chinese": "什锦坚果的",
+    "phonetic": "/tɹˈeɪl/"
+  },
+  "travel": {
+    "chinese": "旅行；旅行装的",
+    "phonetic": "/tɹˈævəl/"
+  },
+  "tray": {
+    "chinese": "托盘",
+    "phonetic": "/tɹˈeɪ/"
+  },
+  "treats": {
+    "chinese": "零食；奖励食品",
+    "phonetic": "/tɹˈiːts/"
+  },
+  "tropical": {
+    "chinese": "热带的",
+    "phonetic": "/tɹˈɒpɪkəl/"
+  },
+  "trout": {
+    "chinese": "鳟鱼",
+    "phonetic": "/tɹˈaʊt/"
+  },
+  "tuna": {
+    "chinese": "金枪鱼",
+    "phonetic": "/tjˈuːnɐ/"
+  },
+  "turkey": {
+    "chinese": "火鸡肉",
+    "phonetic": "/tˈɜːki/"
+  },
+  "turmeric": {
+    "chinese": "姜黄",
+    "phonetic": "/tɜːmˈɛɹɪk/"
+  },
+  "turnips": {
+    "chinese": "芜菁",
+    "phonetic": "/tˈɜːnɪps/"
+  },
+  "turnover": {
+    "chinese": "折叠馅酥饼",
+    "phonetic": "/tˈɜːnəʊvɐ/"
+  },
+  "twiggy": {
+    "chinese": "细条状的",
+    "phonetic": "/twˈɪɡi/"
+  },
+  "udon": {
+    "chinese": "乌冬面",
+    "phonetic": "/ˈuːdɒn/"
+  },
+  "uht": {
+    "chinese": "超高温灭菌的",
+    "phonetic": "/ˌjuː eɪtʃ ˈtiː/"
+  },
+  "usb": {
+    "chinese": "通用串行总线接口",
+    "phonetic": "/ˈjuˈɛsˈbi/"
+  },
+  "vanilla": {
+    "chinese": "香草",
+    "phonetic": "/vɐnˈɪlɐ/"
+  },
+  "veal": {
+    "chinese": "小牛肉",
+    "phonetic": "/vˈiːl/"
+  },
+  "vegetable": {
+    "chinese": "蔬菜；植物的",
+    "phonetic": "/vˈɛdʒɪtəbəl/"
+  },
+  "vegetables": {
+    "chinese": "蔬菜",
+    "phonetic": "/vˈɛdʒɪtəbəlz/"
+  },
+  "veggie": {
+    "chinese": "蔬菜；素食的",
+    "phonetic": "/vˈɛdʒi/"
+  },
+  "vienna": {
+    "chinese": "维也纳面包",
+    "phonetic": "/viˈɛnə/"
+  },
+  "vietnamese": {
+    "chinese": "越南的",
+    "phonetic": "/viˌɛtnɑˈmis/"
+  },
+  "vinegar": {
+    "chinese": "醋",
+    "phonetic": "/vˈɪnɪɡɐ/"
+  },
+  "vodka": {
+    "chinese": "伏特加",
+    "phonetic": "/vˈɒdkɐ/"
+  },
+  "wafer": {
+    "chinese": "威化饼",
+    "phonetic": "/wˈeɪfɐ/"
+  },
+  "waffle": {
+    "chinese": "华夫饼",
+    "phonetic": "/wˈɒfəl/"
+  },
+  "walnut": {
+    "chinese": "核桃",
+    "phonetic": "/wˈɒlnʌt/"
+  },
+  "warmer": {
+    "chinese": "加热器",
+    "phonetic": "/wˈɔːmɐ/"
+  },
+  "wasabi": {
+    "chinese": "日式山葵酱",
+    "phonetic": "/wɐsˈɑːbi/"
+  },
+  "wash": {
+    "chinese": "洗液；清洗",
+    "phonetic": "/wˈɒʃ/"
+  },
+  "washing": {
+    "chinese": "洗涤用的",
+    "phonetic": "/wˈɒʃɪŋ/"
+  },
+  "water": {
+    "chinese": "水",
+    "phonetic": "/wˈɔːtɐ/"
+  },
+  "watercress": {
+    "chinese": "西洋菜",
+    "phonetic": "/wˈɔːtəkɹˌɛs/"
+  },
+  "watermelon": {
+    "chinese": "西瓜",
+    "phonetic": "/wˈɔːtəmˌɛlən/"
+  },
+  "waterproof": {
+    "chinese": "防水的",
+    "phonetic": "/wˈɔːtəpɹˌuːf/"
+  },
+  "wax": {
+    "chinese": "蜡",
+    "phonetic": "/wˈæks/"
+  },
+  "wet": {
+    "chinese": "湿的；湿粮",
+    "phonetic": "/wˈɛt/"
+  },
+  "whey": {
+    "chinese": "乳清",
+    "phonetic": "/wˈeɪ/"
+  },
+  "whiskey": {
+    "chinese": "威士忌",
+    "phonetic": "/wˈɪski/"
+  },
+  "whisky": {
+    "chinese": "威士忌",
+    "phonetic": "/wˈɪski/"
+  },
+  "whiting": {
+    "chinese": "无须鳕；白肉鱼",
+    "phonetic": "/wˈaɪtɪŋ/"
+  },
+  "whole": {
+    "chinese": "完整的；整只的",
+    "phonetic": "/hˈəʊl/"
+  },
+  "wings": {
+    "chinese": "翅膀；鸡翅",
+    "phonetic": "/wˈɪŋz/"
+  },
+  "wipes": {
+    "chinese": "清洁湿巾",
+    "phonetic": "/wˈaɪps/"
+  },
+  "wombok": {
+    "chinese": "大白菜",
+    "phonetic": "/ˈwɒmbɒk/"
+  },
+  "wontons": {
+    "chinese": "馄饨",
+    "phonetic": "/wˈɒntənz/"
+  },
+  "worcestershire": {
+    "chinese": "伍斯特郡酱的",
+    "phonetic": "/ˈwʊstəʃɝ/"
+  },
+  "wrap": {
+    "chinese": "包裹；保鲜膜",
+    "phonetic": "/ɹˈæp/"
+  },
+  "wraps": {
+    "chinese": "卷饼",
+    "phonetic": "/ɹˈæps/"
+  },
+  "yeast": {
+    "chinese": "酵母",
+    "phonetic": "/jˈiːst/"
+  },
+  "yoghurt": {
+    "chinese": "酸奶",
+    "phonetic": "/jˈɒɡət/"
+  },
+  "yogurt": {
+    "chinese": "酸奶",
+    "phonetic": "/jˈɒɡɜːt/"
+  },
+  "zucchini": {
+    "chinese": "西葫芦",
+    "phonetic": "/zʌkˈiːni/"
+  }
 }

@@ -70,8 +70,8 @@ try {
   const vocabulary=await evaluate('({hidden:document.getElementById("words-panel").hidden,groups:document.querySelectorAll(".category-group").length,summary:document.getElementById("vocabulary-summary").textContent})');
   if(vocabulary.hidden||vocabulary.groups<1||!vocabulary.summary.includes('个词条'))throw Error('Vocabulary navigation failed');
   await evaluate('document.getElementById("tab-study").click();document.querySelector(".word-token").click()');
-  const dictionary=await evaluate('({hidden:document.getElementById("dictionary-overlay").hidden,word:document.getElementById("dictionary-word").textContent,meaning:document.getElementById("dictionary-meaning").textContent})');
-  if(dictionary.hidden||!dictionary.word||!dictionary.meaning)throw Error('Word dictionary failed');
+  const dictionary=await evaluate('({hidden:document.getElementById("dictionary-overlay").hidden,word:document.getElementById("dictionary-word").textContent,phonetic:document.getElementById("dictionary-phonetic").textContent,meaning:document.getElementById("dictionary-meaning").textContent,speak:document.getElementById("dictionary-speak").getBoundingClientRect().height})');
+  if(dictionary.hidden||!dictionary.word||!dictionary.phonetic||!dictionary.meaning||!dictionary.speak)throw Error('Word dictionary failed');
   await evaluate('document.getElementById("dictionary-close").click()');
   await evaluate('document.dispatchEvent(new KeyboardEvent("keydown",{key:"2",bubbles:true}));document.getElementById("tab-study").click()');
   if(await evaluate('document.getElementById("word").textContent')!==second.word)throw Error('Profile shortcut changed study card');
