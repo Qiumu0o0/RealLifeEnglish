@@ -5,6 +5,9 @@ const categories = catalog.categories.slice();
 const wordDictionary = catalog.wordDictionary || {};
 const guestStorageKey = "real-life-english-fruit-v1";
 let storageKey=guestStorageKey+(window.Cloud&&window.Cloud.userId()?":user:"+window.Cloud.userId():"");
+const speechAccentKey="real-life-english-speech-accent-v1";
+let speechAccent=localStorage.getItem(speechAccentKey)||"auto";
+if(!["auto","en-AU","en-US","en-GB","en-CA"].includes(speechAccent))speechAccent="auto";
 const wordForms = {apple:"apples",avocado:"avocados",banana:"bananas",lemon:"lemons",orange:"oranges",pear:"pears",cookies:"cookie",scroll:"scrolls",croquettes:"croquette",yogurt:"yoghurt","dog treat":"dog treats"};
 const normalize = english => wordForms[english.trim().toLowerCase()] || english.trim().toLowerCase();
 const wordKey = word => normalize(word.english)+"::"+word.chinese.trim();
@@ -94,20 +97,21 @@ function openDictionary(token,card){
   $("dictionary-phonetic").textContent=entry.phonetic||"";
   $("dictionary-meaning").textContent=entry.chinese;
   $("dictionary-audio-status").textContent="";
-  if(window.AndroidApp&&typeof window.AndroidApp.speechLocale==="function")showSpeechStatus(window.AndroidApp.speechLocale());
+  if(window.AndroidApp&&typeof window.AndroidApp.speechLocale==="function")showSpeechStatus(window.AndroidApp.speechLocale(speechAccent));
   $("dictionary-speak").onclick=()=>speakWord(token);
   $("dictionary-overlay").hidden=false;
 }
 function speechLabel(tag){const labels={"en-AU":"澳洲英语","en-US":"美式英语","en-GB":"英式英语","en-CA":"加拿大英语"};return labels[tag]||tag||"英语";}
 function showSpeechStatus(result){
   const messages={loading:"语音引擎尚未就绪，请稍后重试。",missing:"未找到英语语音包，请在系统文字转语音设置中安装。",unsupported:"当前语音引擎不支持英语。",invalid:"无法朗读该单词。"};
+  if(result&&result.startsWith("fallback|")){const parts=result.split("|");$("dictionary-audio-status").textContent=speechLabel(parts[1])+"不可用，已使用"+speechLabel(parts[2])+"。";return;}
   $("dictionary-audio-status").textContent=result&&result.startsWith("ok|")?"发音："+speechLabel(result.slice(3)):messages[result]||"";
 }
 function speakWord(word){
   if(window.AndroidApp&&typeof window.AndroidApp.speak==="function"){
-    showSpeechStatus(window.AndroidApp.speak(word));return;
+    showSpeechStatus(window.AndroidApp.speak(word,speechAccent));return;
   }
-  if("speechSynthesis" in window){window.speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(word);utterance.lang="en-AU";window.speechSynthesis.speak(utterance);return;}
+  if("speechSynthesis" in window){window.speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(word);utterance.lang=speechAccent==="auto"?"en-AU":speechAccent;window.speechSynthesis.speak(utterance);return;}
   $("dictionary-audio-status").textContent="当前设备不支持语音播放。";
 }
 function renderCardWord(card){
@@ -199,6 +203,8 @@ function renderVocabularyList(){
 }
 window.refreshVocabularyList=renderVocabularyList;
 rebuildCards();fillCategories();buildDeck();persist();
+$("speech-accent").value=speechAccent;
+$("speech-accent").onchange=()=>{speechAccent=$("speech-accent").value;localStorage.setItem(speechAccentKey,speechAccent);$("speech-accent-status").textContent="已保存："+($("speech-accent").selectedOptions&&$("speech-accent").selectedOptions[0]?$("speech-accent").selectedOptions[0].textContent:speechLabel(speechAccent));};
 $("category").onchange=()=>{selected=$("category").value;mode="all";$("status").textContent="";$("search").value="";buildDeck();persist();};
 $("card").onclick=()=>{if(deck.length&&!loadingCard){flipped=!flipped;render();}};
 $("card").onkeydown=event=>{if((event.key==="Enter"||event.key===" ")&&event.target===$("card")){event.preventDefault();$("card").click();}};

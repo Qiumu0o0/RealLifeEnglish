@@ -62,8 +62,8 @@ try {
   if(!/^\d+ /.test(second.count)||!second.image)throw Error('Category image failed');
   if(first.frame!==second.frame||Math.abs(first.card-second.card)>1)throw Error('Card layout shifted');
   await evaluate('document.getElementById("tab-profile").click()');
-  const profile=await evaluate('({hidden:document.getElementById("study-panel").hidden,update:document.getElementById("update").getBoundingClientRect().height,progress:document.getElementById("profile-progress").textContent})');
-  if(!profile.hidden||!profile.update||!profile.progress.includes('已掌握'))throw Error('Profile navigation failed');
+  const profile=await evaluate('({hidden:document.getElementById("study-panel").hidden,update:document.getElementById("update").getBoundingClientRect().height,progress:document.getElementById("profile-progress").textContent,accent:document.getElementById("speech-accent").value})');
+  if(!profile.hidden||!profile.update||!profile.progress.includes('已掌握')||profile.accent!=="auto")throw Error('Profile navigation failed');
   const profileShot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:false},sessionId);
   await fs.writeFile(path.join(output,'profile-smoke.png'),Buffer.from(profileShot.data,'base64'));
   await evaluate('document.getElementById("tab-words").click()');

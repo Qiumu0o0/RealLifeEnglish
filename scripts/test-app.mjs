@@ -40,6 +40,7 @@ assert.equal(app.get('dictionary-word').textContent,'Avocados');
 assert(app.get('dictionary-meaning').textContent.includes('牛油果'));
 assert(app.get('dictionary-phonetic').textContent.startsWith('/'));
 app.get('dictionary-speak').onclick();assert(app.get('dictionary-audio-status').textContent.includes('英式英语'));
+app.get('speech-accent').value='en-AU';app.get('speech-accent').onchange();assert.equal(app.get('speech-accent').value,'en-AU');
 app.get('dictionary-close').onclick();assert.equal(app.get('dictionary-overlay').hidden,true);
 app.get('remember').onclick();assert.equal(app.context.test.deck.length,fruitCount-1);
 app.choose('meat-seafood');assert.equal(app.context.test.deck.length,meatCount);

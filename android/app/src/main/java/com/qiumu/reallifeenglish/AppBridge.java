@@ -26,20 +26,28 @@ public class AppBridge {
         });
     }
     @JavascriptInterface public void checkUpdates() { updater.checkUpdates(); }
-    private Locale selectEnglishLocale(){
+    private String localeName(Locale locale){return locale==null?"":locale.toLanguageTag();}
+    private Locale selectEnglishLocale(String preferredTag){
         Locale[] preferred={new Locale("en","AU"),Locale.US,Locale.UK,Locale.CANADA,Locale.ENGLISH};
+        if(preferredTag!=null&&!"auto".equals(preferredTag)){
+            Locale requested=Locale.forLanguageTag(preferredTag);
+            if("en".equals(requested.getLanguage())&&textToSpeech.isLanguageAvailable(requested)>=TextToSpeech.LANG_AVAILABLE&&textToSpeech.setLanguage(requested)>=TextToSpeech.LANG_AVAILABLE)return requested;
+        }
         for(Locale locale:preferred){if(textToSpeech.isLanguageAvailable(locale)>=TextToSpeech.LANG_AVAILABLE&&textToSpeech.setLanguage(locale)>=TextToSpeech.LANG_AVAILABLE)return locale;}
         Set<Locale> available=textToSpeech.getAvailableLanguages();
         if(available!=null)for(Locale locale:available){if("en".equals(locale.getLanguage())&&textToSpeech.setLanguage(locale)>=TextToSpeech.LANG_AVAILABLE)return locale;}
         return null;
     }
-    @JavascriptInterface public String speechLocale(){
+    @JavascriptInterface public String speechLocale(String preferredTag){
         if(!speechReady)return "loading";
-        Locale locale=selectEnglishLocale();return locale==null?"missing":"ok|"+locale.toLanguageTag();
+        Locale locale=selectEnglishLocale(preferredTag);
+        if(locale==null)return "missing";
+        if(preferredTag!=null&&!"auto".equals(preferredTag)&&!preferredTag.equalsIgnoreCase(localeName(locale)))return "fallback|"+preferredTag+"|"+localeName(locale);
+        return "ok|"+localeName(locale);
     }
-    @JavascriptInterface public String speak(String word) {
+    @JavascriptInterface public String speak(String word,String preferredTag) {
         if(word==null||!word.matches("[A-Za-z'-]+"))return "invalid";
-        String status=speechLocale();if(!status.startsWith("ok|"))return status;
+        String status=speechLocale(preferredTag);if(!status.startsWith("ok|")&&!status.startsWith("fallback|"))return status;
         activity.runOnUiThread(new Runnable(){@Override public void run(){textToSpeech.speak(word,TextToSpeech.QUEUE_FLUSH,null,"word");}});
         return status;
     }
