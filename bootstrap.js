@@ -6,17 +6,19 @@
   }
   window.addEventListener('error', function () { if (!window.APP_READY) showError(); }, true);
   document.addEventListener('DOMContentLoaded', function () {
-    function selectPanel(profile) {
-      document.getElementById('study-panel').hidden = profile;
-      document.getElementById('profile-panel').hidden = !profile;
-      document.getElementById('tab-study').classList.toggle('primary', !profile);
-      document.getElementById('tab-profile').classList.toggle('primary', profile);
-      document.getElementById(profile ? 'tab-study' : 'tab-profile').removeAttribute('aria-current');
-      document.getElementById(profile ? 'tab-profile' : 'tab-study').setAttribute('aria-current', 'page');
-      if (window.refreshProfile) window.refreshProfile();
+    function selectPanel(name) {
+      for (var panel of ['study','words','profile']) {
+        document.getElementById(panel+'-panel').hidden = panel !== name;
+        document.getElementById('tab-'+panel).classList.toggle('primary', panel === name);
+        document.getElementById('tab-'+panel).removeAttribute('aria-current');
+      }
+      document.getElementById('tab-'+name).setAttribute('aria-current', 'page');
+      if (name === 'profile' && window.refreshProfile) window.refreshProfile();
+      if (name === 'words' && window.refreshVocabularyList) window.refreshVocabularyList();
     }
-    document.getElementById('tab-study').onclick = function () { selectPanel(false); };
-    document.getElementById('tab-profile').onclick = function () { selectPanel(true); };
+    document.getElementById('tab-study').onclick = function () { selectPanel('study'); };
+    document.getElementById('tab-words').onclick = function () { selectPanel('words'); };
+    document.getElementById('tab-profile').onclick = function () { selectPanel('profile'); };
     if (window.APP_READY) return;
     showError();
     var button = document.getElementById('update');

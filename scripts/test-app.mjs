@@ -5,11 +5,12 @@ const bundle=fs.readFileSync(new URL('../data/app/catalog.js',import.meta.url),'
 const code=fs.readFileSync(new URL('../app.js',import.meta.url),'utf8');
 function boot(saved=null,native=false,legacy=false,controlled=null,cloud=false){
   const nodes={};let stored=saved?JSON.stringify(saved):null,reads=0;
-  const get=id=>nodes[id]||(nodes[id]={textContent:'',value:'',children:[],dataset:{},classList:{toggle(){}},setAttribute(name,value){this[name]=value;},getAttribute(name){return this[name];},removeAttribute(name){delete this[name];},replaceChildren:legacy?undefined:function(){this.children=[];},append(child){this.children.push(child);}});
+  const element=()=>({textContent:'',value:'',children:[],dataset:{},classList:{toggle(){}},setAttribute(name,value){this[name]=value;},getAttribute(name){return this[name];},removeAttribute(name){delete this[name];},replaceChildren:legacy?undefined:function(){this.children=[];this.textContent='';},append(child){this.children.push(child);this.textContent+=child.textContent||'';}});
+  const get=id=>nodes[id]||(nodes[id]=element());
   const window=native?{AndroidApp:{getImageData(path){reads++;return 'data:image/jpeg;base64,'+path;},checkUpdates(){}}}:{};
   const stores=new Map(saved?[['real-life-english-fruit-v1',stored]]:[]);
   if(cloud)window.Cloud={userId:()=>null,changed(){},mount(adapter){this.adapter=adapter;}};
-  const context={window,document:{getElementById:get,createElement:()=>({append(){}}),addEventListener(){}},localStorage:{getItem:key=>stores.get(key)||null,setItem:(k,v)=>{stored=v;stores.set(k,v);}},confirm:()=>true};
+  const context={window,document:{getElementById:get,createElement:element,createTextNode:text=>({textContent:text}),addEventListener(){}},localStorage:{getItem:key=>stores.get(key)||null,setItem:(k,v)=>{stored=v;stores.set(k,v);}},confirm:()=>true};
   if(controlled)context.Image=function(){controlled.push(this);};
   vm.createContext(context);if(legacy)vm.runInContext('Array.prototype.flatMap=undefined;',context);vm.runInContext(bundle,context);
   if(native){window.APP_IMAGE_DATA={};for(const category of window.APP_CATALOG.categories)for(const image of Object.values(category.images))window.APP_IMAGE_DATA[image]='data:image/jpeg;base64,'+image;}
@@ -30,6 +31,12 @@ assert.equal(app.context.test.deck.length,fruitCount);
 assert(app.get('picture').src.startsWith('data:image/jpeg;base64,data/app/images/'));
 const reads=app.reads;app.get('card').onclick();assert.equal(app.reads,reads);
 assert.equal(app.get('word').textContent,'牛油果／鳄梨');
+app.get('card').onclick();
+assert(app.get('word').children.length>0);
+app.get('word').children[0].onclick({stopPropagation(){}});
+assert.equal(app.get('dictionary-word').textContent,'Avocados');
+assert(app.get('dictionary-meaning').textContent.includes('牛油果'));
+app.get('dictionary-close').onclick();assert.equal(app.get('dictionary-overlay').hidden,true);
 app.get('remember').onclick();assert.equal(app.context.test.deck.length,fruitCount-1);
 app.choose('meat-seafood');assert.equal(app.context.test.deck.length,meatCount);
 app.choose('fruit-vegetables');assert.equal(app.context.test.deck.length,fruitCount-1);
@@ -71,7 +78,7 @@ console.log('Missing flatMap/replaceChildren, custom imports and empty-review ca
 const listeners={};let updates=0;
 const recovery={window:{AndroidApp:{checkUpdates(){updates++;}},addEventListener(name,callback){listeners[name]=callback;}},document:{getElementById:id=>({status:{},update:{}}[id]),addEventListener(name,callback){listeners[name]=callback;}}};
 const recoveryNodes={status:{textContent:''},update:{}};
-for(const id of ['study-panel','profile-panel','tab-study','tab-profile'])recoveryNodes[id]={classList:{toggle(){}},removeAttribute(){},setAttribute(){}};
+for(const id of ['study-panel','words-panel','profile-panel','tab-study','tab-words','tab-profile'])recoveryNodes[id]={classList:{toggle(){}},removeAttribute(){},setAttribute(){}};
 recovery.document.getElementById=id=>recoveryNodes[id];
 vm.createContext(recovery);vm.runInContext(fs.readFileSync(new URL('../bootstrap.js',import.meta.url),'utf8'),recovery);
 listeners.DOMContentLoaded();assert(recoveryNodes.status.textContent.includes('异常'));
@@ -79,6 +86,8 @@ recoveryNodes.update.onclick();assert.equal(updates,1);
 recoveryNodes['tab-profile'].onclick();assert.equal(recoveryNodes['study-panel'].hidden,true);
 recoveryNodes['tab-study'].onclick();assert.equal(recoveryNodes['profile-panel'].hidden,true);
 app.context.window.refreshProfile();assert(app.get('profile-progress').textContent.includes('已掌握'));
+app.context.window.refreshVocabularyList();assert(app.get('vocabulary-summary').textContent.includes('个词条'));
+app.get('filter-known').onclick();assert(!app.get('vocabulary-summary').textContent.includes('共 0 个词条'));
 console.log('Startup failure message and independent native update recovery: OK');
 const pending=[];const delayed=boot(null,false,false,pending);
 assert.equal(delayed.get('word').textContent,'');

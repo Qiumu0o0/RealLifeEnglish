@@ -2,6 +2,7 @@
 const $ = id => document.getElementById(id);
 const catalog = window.APP_CATALOG;
 const categories = catalog.categories.slice();
+const wordDictionary = catalog.wordDictionary || {};
 const guestStorageKey = "real-life-english-fruit-v1";
 let storageKey=guestStorageKey+(window.Cloud&&window.Cloud.userId()?":user:"+window.Cloud.userId():"");
 const wordForms = {apple:"apples",avocado:"avocados",banana:"bananas",lemon:"lemons",orange:"oranges",pear:"pears",cookies:"cookie",scroll:"scrolls",croquettes:"croquette",yogurt:"yoghurt","dog treat":"dog treats"};
@@ -16,6 +17,7 @@ let selected = saved.category || "fruit-vegetables";
 let mode = saved.mode === "review" ? "review" : "all";
 let customVocabulary = null, cards = [], deck = [], index = 0, flipped = false;
 let renderTicket=0, loadingCard=false;
+let vocabularyFilter="all";
 const imageCache=new Map();
 function loadImage(path,callback) {
   if(!path){callback(null);return;}
@@ -82,6 +84,27 @@ function deduplicate(items) {
   return [...unique.values()];
 }
 function currentCards() { return deduplicate(cards.filter(c=>selected==="all-categories"||c.category===selected)); }
+function tokenMeaning(token,card){
+  const key=token.toLowerCase(),base=key.replace(/(?:ies|es|s)$/i,ending=>ending==="ies"?"y":"");
+  return wordDictionary[key]||wordDictionary[base]||"暂无独立释义；在“"+card.english+"”中表示："+card.chinese;
+}
+function openDictionary(token,card){
+  $("dictionary-word").textContent=token;
+  $("dictionary-meaning").textContent=tokenMeaning(token,card);
+  $("dictionary-overlay").hidden=false;
+}
+function renderCardWord(card){
+  const root=$("word");root.textContent="";
+  if(!card){root.textContent=currentCards().length?"这一轮完成了":"该分类暂无词条";return;}
+  if(flipped){root.textContent=card.chinese;return;}
+  const parts=card.english.match(/[A-Za-z]+(?:[-'][A-Za-z]+)*|[^A-Za-z]+/g)||[card.english];
+  for(const part of parts){
+    if(!/^[A-Za-z]/.test(part)){root.append(document.createTextNode?document.createTextNode(part):{textContent:part});continue;}
+    const token=document.createElement("button");token.type="button";token.className="word-token";token.textContent=part;
+    token.setAttribute("aria-label","查询 "+part+" 的释义");
+    token.onclick=event=>{event.stopPropagation();openDictionary(part,card);};root.append(token);
+  }
+}
 window.refreshProfile=()=>{
   const all=deduplicate(cards),known=all.filter(c=>marks[c.key]==="known").length;
   $("profile-progress").textContent="已掌握 "+known+" / "+all.length+" 个词（全部分类）";
@@ -108,7 +131,7 @@ function render() {
   loadImage(c?c.image:null,source=>{
     if(ticket!==renderTicket)return;
     loadingCard=false;$("image-loading").hidden=true;$("card").setAttribute("aria-busy","false");
-    $("word").textContent=c?(flipped?c.chinese:c.english):(current.length?"这一轮完成了":"该分类暂无词条");
+    renderCardWord(c);
     const picture=$("picture");picture.hidden=!source;
     if(source&&picture.getAttribute("src")!==source)picture.src=source;
     if(!source)picture.removeAttribute("src");
@@ -130,7 +153,7 @@ function mark(value) {
   marks[c.key]=value;markTimes[c.key]=Math.max(Date.now(),Number(markTimes[c.key]||0)+1);if(window.Cloud)window.Cloud.changed();$("status").textContent=c.english+(value==="known"?" 已标记掌握。":" 已加入待记。");
   if(value==="known"){deck.splice(index,1);index=Math.min(index,Math.max(0,deck.length-1));}
   else if(index<deck.length-1)index++;
-  flipped=false;persist();render();renderList();
+  flipped=false;persist();render();renderList();if(!$("words-panel").hidden)renderVocabularyList();
 }
 function renderList() {
   const q=$("search").value.trim().toLowerCase();$("list").textContent="";
@@ -140,15 +163,38 @@ function renderList() {
     $("list").append(li);
   }
 }
+function renderVocabularyList(){
+  const q=$("vocabulary-search").value.trim().toLowerCase(),groups=$("vocabulary-groups");groups.textContent="";
+  let shown=0;
+  for(const category of categories){
+    const words=deduplicate(cards.filter(card=>card.category===category.id)).filter(card=>{
+      const known=marks[card.key]==="known";
+      return (vocabularyFilter==="all"||(vocabularyFilter==="known"?known:!known))&&(card.english+" "+card.chinese).toLowerCase().includes(q);
+    });
+    if(!words.length)continue;shown+=words.length;
+    const group=document.createElement("details"),summary=document.createElement("summary"),list=document.createElement("ul");
+    group.className="category-group";group.open=!!q;summary.textContent=category.label+" · "+words.length;group.append(summary);
+    for(const card of words){const row=document.createElement("li"),english=document.createElement("span"),chinese=document.createElement("span");row.className="vocabulary-row";english.textContent=card.english;chinese.textContent=card.chinese+(marks[card.key]==="known"?" · 已学":" · 未学");row.append(english);row.append(chinese);list.append(row);}
+    group.append(list);groups.append(group);
+  }
+  $("vocabulary-summary").textContent="共 "+shown+" 个词条";
+  if(!shown){const empty=document.createElement("p");empty.className="empty-list";empty.textContent="没有符合条件的词条。";groups.append(empty);}
+}
+window.refreshVocabularyList=renderVocabularyList;
 rebuildCards();fillCategories();buildDeck();persist();
 $("category").onchange=()=>{selected=$("category").value;mode="all";$("status").textContent="";$("search").value="";buildDeck();persist();};
 $("card").onclick=()=>{if(deck.length&&!loadingCard){flipped=!flipped;render();}};
+$("card").onkeydown=event=>{if((event.key==="Enter"||event.key===" ")&&event.target===$("card")){event.preventDefault();$("card").click();}};
 $("previous").onclick=()=>move(-1);$("next").onclick=()=>move(1);
 $("again").onclick=()=>mark("again");$("remember").onclick=()=>mark("known");
 $("all").onclick=()=>{mode="all";buildDeck();persist();};$("review").onclick=()=>{mode="review";buildDeck();persist();};
 $("shuffle").onclick=()=>{for(let i=deck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}index=0;flipped=false;render();};
 $("reset").onclick=()=>{if(confirm("重置当前所选分类的学习进度？")){for(const c of currentCards()){marks[c.key]='unlearned';markTimes[c.key]=Math.max(Date.now(),Number(markTimes[c.key]||0)+1);}persist();if(window.Cloud)window.Cloud.changed();buildDeck();$("status").textContent="当前分类进度已重置。";}};
 $("search").oninput=renderList;
+for(const filter of ["all","known","unlearned"]){$("filter-"+filter).onclick=()=>{vocabularyFilter=filter;for(const item of ["all","known","unlearned"])$("filter-"+item).classList.toggle("primary",item===filter);renderVocabularyList();};}
+$("vocabulary-search").oninput=renderVocabularyList;
+$("dictionary-close").onclick=()=>{$("dictionary-overlay").hidden=true;};
+$("dictionary-overlay").onclick=event=>{if(event.target===$("dictionary-overlay"))$("dictionary-overlay").hidden=true;};
 $("import").onchange=async event=>{
   const file=event.target.files[0];if(!file)return;
   try {
@@ -190,7 +236,7 @@ if(window.Cloud)window.Cloud.mount({
         marks[row.word_key]=row.state;markTimes[row.word_key]=row.changed_at;
       }
     }
-    persist();if(changed)buildDeck();window.refreshProfile();
+    persist();if(changed)buildDeck();window.refreshProfile();if(!$("words-panel").hidden)renderVocabularyList();
   },
   scope(userId){
     persist();storageKey=guestStorageKey+(userId?':user:'+userId:'');

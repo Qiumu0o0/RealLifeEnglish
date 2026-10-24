@@ -13,11 +13,12 @@ button:focus-visible{outline:2px solid #285c3c;outline-offset:3px}
 @media(max-width:480px){.actions{gap:8px}.actions button{padding:10px 8px;font-size:14px;white-space:nowrap}}
 .image-slot{display:flex;align-items:center;justify-content:center;width:230px;height:246px;flex:none}.image-slot [hidden]{display:none}#image-placeholder{font-size:14px;color:#718473}.word{min-height:1.3em}@media(max-width:480px){.image-slot{width:190px;height:206px}}
 .card:disabled{opacity:1}.image-slot{position:relative}.word{min-height:2.6em;display:flex;align-items:center;justify-content:center}#image-loading{position:absolute;bottom:0;font-size:12px;color:#718473}
+.word-token{font:inherit;font-weight:inherit;border:0;border-bottom:2px dotted #718473;border-radius:0;padding:0 2px;margin:0 3px;background:transparent}.word-token:hover{background:#eaf0e5}.dictionary-overlay{position:fixed;inset:0;background:#20392c66;z-index:30;display:flex;align-items:center;justify-content:center;padding:20px}.dictionary-card{width:min(420px,100%);background:white;border-radius:20px;padding:24px;box-shadow:0 20px 60px #0003}.dictionary-card h2{margin:0 0 10px}.dictionary-card button{margin-top:12px}.word-filters{display:flex;gap:8px;flex-wrap:wrap}.category-group{background:white;border:1px solid #dbe2d7;border-radius:16px;padding:0 18px;margin:14px 0}.category-group summary{padding:16px 0;font-weight:650}.vocabulary-row{display:flex;justify-content:space-between;gap:16px}.vocabulary-row span:last-child{text-align:right;color:#64766a}.empty-list{color:#718473}
 </style>
 <style>
 [hidden]{display:none!important}main{padding-bottom:100px}.bottom-nav{position:fixed;bottom:0;left:0;right:0;display:flex;justify-content:center;gap:12px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:#f5f7f1;border-top:1px solid #dbe2d7;z-index:10}.bottom-nav button{flex:1;max-width:350px}.profile-card{background:white;border:1px solid #dbe2d7;border-radius:20px;padding:24px;margin:24px 0}.profile-card h2{margin-top:0;font-size:20px}.profile-card p{margin-bottom:0}@media(max-width:480px){main{padding-bottom:100px}}
 </style>
-<script src="bootstrap.js?v=1.4.0"></script>
+<script src="bootstrap.js?v=1.5.0"></script>
 </head>
 <body>
 <main>
@@ -28,13 +29,20 @@ button:focus-visible{outline:2px solid #285c3c;outline-offset:3px}
 <div class="stats"><span id="count"></span><span id="known"></span></div>
 <progress id="progress" value="0" max="1" aria-label="已掌握比例"></progress>
 <p id="position"></p>
-<button id="card" class="card" aria-label="显示中文答案">
+<div id="card" class="card" role="button" tabindex="0" aria-label="显示中文答案">
 <span class="label" id="label">ENGLISH</span><span class="image-slot"><img id="picture" class="product-image" alt="" hidden><span id="image-placeholder" hidden>暂无图片</span><span id="image-loading" hidden>图片加载中…</span></span><span id="word" class="word"></span><span id="context" class="context"></span><span id="hint" class="hint">点击卡片查看中文 · 空格翻面</span>
-</button>
+</div>
 <div class="actions"><button id="previous">上一张</button><button id="again">还需记忆</button><button id="remember" class="primary">已掌握</button><button id="next">下一张</button></div>
 <p id="status" class="status" role="status" aria-live="polite"></p>
 <details><summary>查看词库</summary><input id="search" type="search" placeholder="搜索英文或中文" aria-label="搜索词库"><ul id="list"></ul></details>
 <footer>学习记录保存在当前设备。同词同义共享掌握状态。</footer>
+</section>
+<section id="words-panel" aria-label="词表" hidden>
+<h1>词表</h1>
+<p>按 Coles 商品分类整理全部词条。</p>
+<div class="word-filters"><button id="filter-all" class="primary">全部</button><button id="filter-known">已学过</button><button id="filter-unlearned">未学过</button></div>
+<input id="vocabulary-search" type="search" placeholder="搜索英文或中文" aria-label="搜索全部词条">
+<p id="vocabulary-summary" class="status"></p><div id="vocabulary-groups"></div>
 </section>
 <section id="profile-panel" aria-label="我的" hidden>
 <h1>我的</h1>
@@ -43,12 +51,13 @@ button:focus-visible{outline:2px solid #285c3c;outline-offset:3px}
 <div id="account-actions" hidden><p><button id="sync-now">立即同步</button> <button id="sign-out">退出登录</button></p><p><button id="import-local">导入本机未登录进度</button></p></div>
 <p>登录后同步词条学习状态；未登录记录仅保存在本机。注册密码至少 8 位，邮箱验证后再登录。</p><p id="auth-status" class="status" role="status" aria-live="polite"></p></div>
 <div class="profile-card"><h2>学习进度</h2><p id="profile-progress"></p></div>
-<div class="profile-card"><h2>应用更新</h2><p>当前版本：1.4.0</p><button id="update">检查更新</button><p id="update-status" class="status" role="status" aria-live="polite"></p></div>
+<div class="profile-card"><h2>应用更新</h2><p>当前版本：1.5.0</p><button id="update">检查更新</button><p id="update-status" class="status" role="status" aria-live="polite"></p></div>
 </section>
 </main>
-<nav class="bottom-nav" aria-label="主导航"><button id="tab-study" class="primary" aria-current="page">学习</button><button id="tab-profile">我的</button></nav>
-<script src="data/app/catalog.js?v=1.4.0"></script>
-<script src="cloud.js?v=1.4.0"></script>
-<script src="app.js?v=1.4.0"></script>
+<div id="dictionary-overlay" class="dictionary-overlay" hidden><div class="dictionary-card" role="dialog" aria-modal="true" aria-labelledby="dictionary-word"><h2 id="dictionary-word"></h2><p id="dictionary-meaning"></p><button id="dictionary-close">关闭</button></div></div>
+<nav class="bottom-nav" aria-label="主导航"><button id="tab-study" class="primary" aria-current="page">学习</button><button id="tab-words">词表</button><button id="tab-profile">我的</button></nav>
+<script src="data/app/catalog.js?v=1.5.0"></script>
+<script src="cloud.js?v=1.5.0"></script>
+<script src="app.js?v=1.5.0"></script>
 </body>
 </html>
