@@ -4,109 +4,109 @@
       "category": "meat-seafood",
       "chinese": "肉类与海鲜",
       "vocabulary": "categories/meat-seafood/vocabulary.json",
-      "images": "categories/meat-seafood/images.json"
+      "links": "categories/meat-seafood/links.json"
     },
     {
       "category": "fruit-vegetables",
       "chinese": "果蔬",
       "vocabulary": "categories/fruit-vegetables/vocabulary.json",
-      "images": "categories/fruit-vegetables/images.json"
+      "links": "categories/fruit-vegetables/links.json"
     },
     {
       "category": "dairy-eggs-fridge",
       "chinese": "乳制品、蛋与冷藏食品",
       "vocabulary": "categories/dairy-eggs-fridge/vocabulary.json",
-      "images": "categories/dairy-eggs-fridge/images.json"
+      "links": "categories/dairy-eggs-fridge/links.json"
     },
     {
       "category": "bakery",
       "chinese": "烘焙",
       "vocabulary": "categories/bakery/vocabulary.json",
-      "images": "categories/bakery/images.json"
+      "links": "categories/bakery/links.json"
     },
     {
       "category": "deli",
       "chinese": "熟食",
       "vocabulary": "categories/deli/vocabulary.json",
-      "images": "categories/deli/images.json"
+      "links": "categories/deli/links.json"
     },
     {
       "category": "pantry",
       "chinese": "食品杂货",
       "vocabulary": "categories/pantry/vocabulary.json",
-      "images": "categories/pantry/images.json"
+      "links": "categories/pantry/links.json"
     },
     {
       "category": "chips-chocolates-snacks",
       "chinese": "薯片、巧克力与零食",
       "vocabulary": "categories/chips-chocolates-snacks/vocabulary.json",
-      "images": "categories/chips-chocolates-snacks/images.json"
+      "links": "categories/chips-chocolates-snacks/links.json"
     },
     {
       "category": "international-foods",
       "chinese": "国际食品",
       "vocabulary": "categories/international-foods/vocabulary.json",
-      "images": "categories/international-foods/images.json"
+      "links": "categories/international-foods/links.json"
     },
     {
       "category": "health-dietary",
       "chinese": "健康及特殊饮食",
       "vocabulary": "categories/health-dietary/vocabulary.json",
-      "images": "categories/health-dietary/images.json"
+      "links": "categories/health-dietary/links.json"
     },
     {
       "category": "drinks",
       "chinese": "饮料",
       "vocabulary": "categories/drinks/vocabulary.json",
-      "images": "categories/drinks/images.json"
+      "links": "categories/drinks/links.json"
     },
     {
       "category": "liquorland",
       "chinese": "酒类",
       "vocabulary": "categories/liquorland/vocabulary.json",
-      "images": "categories/liquorland/images.json"
+      "links": "categories/liquorland/links.json"
     },
     {
       "category": "frozen",
       "chinese": "冷冻食品",
       "vocabulary": "categories/frozen/vocabulary.json",
-      "images": "categories/frozen/images.json"
+      "links": "categories/frozen/links.json"
     },
     {
       "category": "cleaning-laundry",
       "chinese": "清洁与洗衣",
       "vocabulary": "categories/cleaning-laundry/vocabulary.json",
-      "images": "categories/cleaning-laundry/images.json"
+      "links": "categories/cleaning-laundry/links.json"
     },
     {
       "category": "health-beauty",
       "chinese": "保健与美妆",
       "vocabulary": "categories/health-beauty/vocabulary.json",
-      "images": "categories/health-beauty/images.json"
+      "links": "categories/health-beauty/links.json"
     },
     {
       "category": "baby",
       "chinese": "母婴",
       "vocabulary": "categories/baby/vocabulary.json",
-      "images": "categories/baby/images.json"
+      "links": "categories/baby/links.json"
     },
     {
       "category": "pet",
       "chinese": "宠物",
       "vocabulary": "categories/pet/vocabulary.json",
-      "images": "categories/pet/images.json"
+      "links": "categories/pet/links.json"
     },
     {
       "category": "home-garden",
       "chinese": "家居与园艺",
       "vocabulary": "categories/home-garden/vocabulary.json",
-      "images": "categories/home-garden/images.json"
+      "links": "categories/home-garden/links.json"
     },
     {
       "category": "tobacco",
       "chinese": "烟草",
       "vocabulary": "categories/tobacco/vocabulary.json",
-      "images": "categories/tobacco/images.json"
+      "links": "categories/tobacco/links.json"
     }
   ]
 }

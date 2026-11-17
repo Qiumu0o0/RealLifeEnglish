@@ -5,8 +5,6 @@ param(
 $ErrorActionPreference = 'Stop'
 $projectDir = Split-Path -Parent $PSScriptRoot
 $assetsDir = Join-Path $PSScriptRoot ('app\build\web-assets-' + [guid]::NewGuid().ToString('N'))
-& python (Join-Path $projectDir 'scripts\build-image-assets.py')
-if ($LASTEXITCODE -ne 0) { throw 'Image asset build failed' }
 & node (Join-Path $projectDir 'scripts\build-catalog.mjs')
 if ($LASTEXITCODE -ne 0) { throw 'Catalog build failed' }
 New-Item -ItemType Directory -Path $assetsDir -Force | Out-Null
@@ -17,9 +15,6 @@ foreach ($scriptPath in @('bootstrap.js','data/app/catalog.js','cloud.js','app.j
     $replacement = '<script>' + $scriptText + '</script>'
     $html = [regex]::Replace($html, $tagPattern, [System.Text.RegularExpressions.MatchEvaluator]{ param($match) $replacement })
 }
-[IO.File]::WriteAllText((Join-Path $assetsDir 'index.html'), $html, (New-Object Text.UTF8Encoding($false)))
-$imageScript = [IO.File]::ReadAllText((Join-Path $projectDir 'data\app\images.js'))
-$html = $html.Replace('</head>', ('<script>' + $imageScript + '</script></head>'))
 [IO.File]::WriteAllText((Join-Path $assetsDir 'index.html'), $html, (New-Object Text.UTF8Encoding($false)))
 [IO.File]::WriteAllText((Join-Path $PSScriptRoot 'app\build\apk-startup-test.html'), $html, (New-Object Text.UTF8Encoding($false)))
 $assetData = Join-Path $assetsDir 'data'

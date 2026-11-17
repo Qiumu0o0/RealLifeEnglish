@@ -12,6 +12,11 @@ public class NetworkPolicyTest {
         check(!NetworkPolicy.allowsCloud("https", host, 444, "/auth/v1/token"));
         check(!NetworkPolicy.allowsCloud("https", host, -1, "/storage/v1/object"));
         check(!NetworkPolicy.allowsCloud(null, null, -1, null));
-        System.out.println("Cloud HTTPS allowlist: allowed APIs and blocked host/scheme/port/path tests OK");
+        check(NetworkPolicy.allowsExternalColes("https", "www.coles.com.au", -1));
+        check(NetworkPolicy.allowsExternalColes("https", "www.coles.com.au", 443));
+        check(!NetworkPolicy.allowsExternalColes("http", "www.coles.com.au", -1));
+        check(!NetworkPolicy.allowsExternalColes("https", "coles.com.au.evil.test", -1));
+        check(!NetworkPolicy.allowsExternalColes("https", "www.coles.com.au", 444));
+        System.out.println("Cloud API and external Coles HTTPS allowlists: OK");
     }
 }

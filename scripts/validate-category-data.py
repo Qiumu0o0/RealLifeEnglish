@@ -1,26 +1,24 @@
-"""Validate category vocabulary records and their local image assets."""
+"""Validate category vocabulary records and their Coles links."""
 import json
 from pathlib import Path
-from PIL import Image
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1] / "data" / "app"
 index = json.loads((ROOT / "index.json").read_text(encoding="utf-8"))
 total = 0
-images = set()
+links = set()
 for category in index["categories"]:
     folder = ROOT / "categories" / category["category"]
     words = json.loads((folder / "vocabulary.json").read_text(encoding="utf-8"))
-    mapping = json.loads((folder / "images.json").read_text(encoding="utf-8"))
+    mapping = json.loads((folder / "links.json").read_text(encoding="utf-8"))
     assert len(words) == len({(w["english"].lower(), w["chinese"]) for w in words}), folder
     for word in words:
         assert set(word) == {"english", "chinese"}, word
         assert word["english"].strip() and word["chinese"].strip(), word
-        filename = (folder / mapping[word["english"].lower()]).resolve()
-        assert filename.is_relative_to(folder.resolve()), filename
-        assert filename.is_file(), filename
-        if filename not in images:
-            with Image.open(filename) as image:
-                image.verify()
-            images.add(filename)
+        link = mapping[word["english"].lower()]
+        parsed = urlparse(link)
+        assert parsed.scheme == "https" and parsed.hostname == "www.coles.com.au", link
+        assert parsed.path.startswith("/product/") or parsed.path == "/search", link
+        links.add(link)
     total += len(words)
-print(f"Validated {total} word records and {len(images)} local images.")
+print(f"Validated {total} word records and {len(links)} Coles links.")

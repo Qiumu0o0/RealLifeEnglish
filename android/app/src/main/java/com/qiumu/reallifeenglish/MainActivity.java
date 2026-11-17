@@ -60,7 +60,13 @@ public class MainActivity extends Activity {
                 catch (IOException error) { return new WebResourceResponse("text/plain", "UTF-8", 404, "Not Found", null, new ByteArrayInputStream(new byte[0])); }
             }
             @Override public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
-                return !HOST.equals(request.getUrl().getHost());
+                Uri uri = request.getUrl();
+                if (HOST.equals(uri.getHost())) return false;
+                if (request.isForMainFrame() && NetworkPolicy.allowsExternalColes(uri.getScheme(), uri.getHost(), uri.getPort())) {
+                    try { startActivity(new Intent(Intent.ACTION_VIEW, uri)); }
+                    catch (android.content.ActivityNotFoundException ignored) {}
+                }
+                return true;
             }
         });
         webView.setWebChromeClient(new WebChromeClient() {

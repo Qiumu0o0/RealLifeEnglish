@@ -32,14 +32,7 @@ try {
     await send('Page.addScriptToEvaluateOnNewDocument',{source:'Array.prototype.flatMap=undefined;Element.prototype.replaceChildren=undefined;'},sessionId);
   }
   if(process.env.MOCK_NATIVE){
-    const catalogText=await fs.readFile(path.join(root,'data/app/catalog.js'),'utf8');
-    const catalog=JSON.parse(catalogText.match(/window.APP_CATALOG=(.*);/)[1]);
-    const images={};
-    for(const id of ['fruit-vegetables','meat-seafood']){
-      const category=catalog.categories.find(c=>c.id===id),image=category.images[category.words[0].english.toLowerCase()];
-      images[image]='data:image/jpeg;base64,'+(await fs.readFile(path.join(root,image))).toString('base64');
-    }
-    await send('Page.addScriptToEvaluateOnNewDocument',{source:'window.testImages='+JSON.stringify(images)+';window.AndroidApp={getImageData:function(path){return window.testImages[path]||"";},checkUpdates:function(){}};'},sessionId);
+    await send('Page.addScriptToEvaluateOnNewDocument',{source:'window.AndroidApp={checkUpdates:function(){}};'},sessionId);
   }
   await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true},sessionId);
   await send('Page.navigate',{url:pathToFileURL(process.env.APP_TEST_HTML||(process.argv.includes('--apk')?path.join(root,'android/app/build/apk-startup-test.html'):path.join(root,'index.html'))).href},sessionId);
@@ -49,18 +42,17 @@ try {
     if(Date.now()>deadline)throw Error('Page load timeout');
     await new Promise(resolve=>setTimeout(resolve,50));
   }
-  async function waitCard(){await evaluate('new Promise(function(resolve,reject){var end=Date.now()+8000;var timer=setInterval(function(){if(document.getElementById("card").getAttribute("aria-busy")==="false"){clearInterval(timer);resolve(true);}else if(Date.now()>end){clearInterval(timer);reject(Error("Card load timeout"));}},20);})');await evaluate('document.getElementById("picture").decode()');}
+  async function waitCard(){await evaluate('new Promise(function(resolve,reject){var end=Date.now()+8000;var timer=setInterval(function(){if(document.getElementById("word").textContent){clearInterval(timer);resolve(true);}else if(Date.now()>end){clearInterval(timer);reject(Error("Card load timeout"));}},20);})');}
   await waitCard();
-  const first=await evaluate('({ready:window.APP_READY,options:document.getElementById("category").options.length,count:document.getElementById("count").textContent,width:innerWidth,scroll:document.documentElement.scrollWidth,frame:document.querySelector(".image-slot").getBoundingClientRect().height,card:document.getElementById("card").getBoundingClientRect().height})');
+  const first=await evaluate('({ready:window.APP_READY,options:document.getElementById("category").options.length,count:document.getElementById("count").textContent,width:innerWidth,scroll:document.documentElement.scrollWidth,link:document.getElementById("product-link").href,card:document.getElementById("card").getBoundingClientRect().height})');
   if(!first.ready)throw Error('Application did not initialize');
   if(first.options!==19||first.scroll>first.width)throw Error('Mobile layout or catalog mismatch: '+JSON.stringify(first));
   const screenshot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:false},sessionId);
   await fs.writeFile(path.join(output,'mobile-smoke.png'),Buffer.from(screenshot.data,'base64'));
   await evaluate('document.getElementById("category").value="meat-seafood";document.getElementById("category").dispatchEvent(new Event("change"));');
   await waitCard();
-  const second=await evaluate('({count:document.getElementById("count").textContent,word:document.getElementById("word").textContent,image:document.getElementById("picture").naturalWidth,frame:document.querySelector(".image-slot").getBoundingClientRect().height,card:document.getElementById("card").getBoundingClientRect().height})');
-  if(!/^\d+ /.test(second.count)||!second.image)throw Error('Category image failed');
-  if(first.frame!==second.frame||Math.abs(first.card-second.card)>1)throw Error('Card layout shifted');
+  const second=await evaluate('({count:document.getElementById("count").textContent,word:document.getElementById("word").textContent,link:document.getElementById("product-link").href,card:document.getElementById("card").getBoundingClientRect().height})');
+  if(!/^\d+ /.test(second.count)||!second.link.startsWith('https://www.coles.com.au/'))throw Error('Category Coles link failed');
   await evaluate('document.getElementById("tab-profile").click()');
   const profile=await evaluate('({hidden:document.getElementById("study-panel").hidden,update:document.getElementById("update").getBoundingClientRect().height,progress:document.getElementById("profile-progress").textContent,voice:document.getElementById("speech-voice").value,autoSpeak:document.getElementById("auto-speak").checked})');
   if(!profile.hidden||!profile.update||!profile.progress.includes('已掌握')||profile.voice!=="auto"||!profile.autoSpeak)throw Error('Profile navigation failed');

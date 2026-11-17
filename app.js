@@ -22,24 +22,7 @@ let markTimes=saved.markTimes&&typeof saved.markTimes==='object'?{...saved.markT
 let selected = saved.category || "fruit-vegetables";
 let mode = saved.mode === "review" ? "review" : "all";
 let customVocabulary = null, cards = [], deck = [], index = 0, flipped = false;
-let renderTicket=0, loadingCard=false;
 let vocabularyFilter="all";
-const imageCache=new Map();
-function loadImage(path,callback) {
-  if(!path){callback(null);return;}
-  const source=window.APP_IMAGE_DATA&&window.APP_IMAGE_DATA[path]||path;
-  if(typeof Image==='undefined'){callback(source);return;}
-  const existing=imageCache.get(path);
-  if(existing){if(existing.done)callback(existing.source);else existing.waiters.push(callback);return;}
-  const entry={done:false,source:null,waiters:[callback]},image=new Image();
-  imageCache.set(path,entry);
-  function finish(ok){
-    entry.done=true;entry.source=ok?source:null;
-    const callbacks=entry.waiters.splice(0);callbacks.forEach(fn=>fn(entry.source));
-    if(imageCache.size>12){for(const [key,value] of imageCache){if(key!==path&&value.done){imageCache.delete(key);break;}}}
-  }
-  image.onload=()=>finish(true);image.onerror=()=>finish(false);image.src=source;
-}
 
 function parseVocabulary(data) {
   if (!Array.isArray(data) || !data.length) throw Error("词库应为非空数组，每项包含 english 和 chinese。");
@@ -59,9 +42,9 @@ function setCustomCategory(words) {
   for (const word of words) {
     const match = flatMap(categories.filter(c=>c.id!=="imported"),c=>c.words.map(w=>({category:c,word:w})))
       .find(x=>normalize(x.word.english)===normalize(word.english)&&x.word.chinese===word.chinese);
-    if (match) mapped[word.english.toLowerCase()] = match.category.images[match.word.english.toLowerCase()];
+    if (match) mapped[word.english.toLowerCase()] = match.category.links[match.word.english.toLowerCase()];
   }
-  const custom = {id:"imported",label:"导入词库",words,images:mapped};
+  const custom = {id:"imported",label:"导入词库",words,links:mapped};
   const position = categories.findIndex(c=>c.id==="imported");
   if (position < 0) categories.push(custom); else categories[position]=custom;
 }
@@ -70,7 +53,7 @@ if (selected!=="all-categories"&&!categories.some(c=>c.id===selected)) selected=
 function rebuildCards() {
   cards=flatMap(categories,category=>category.words.map(word=>({
     ...word,key:wordKey(word),category:category.id,
-    categoryLabel:category.label,image:category.images[word.english.toLowerCase()]||null
+    categoryLabel:category.label,productUrl:category.links[word.english.toLowerCase()]||null
   })));
 }
 function fillCategories() {
@@ -144,38 +127,25 @@ function buildDeck() {
 }
 function render() {
   const current=currentCards(),mastered=current.filter(c=>marks[c.key]==="known").length,c=deck[index];
-  const ticket=++renderTicket;
   $("count").textContent=current.length+" 个核心词";$("known").textContent="已掌握 "+mastered+" / "+current.length;
   $("progress").max=current.length||1;$("progress").value=mastered;
   $("all").classList.toggle("primary",mode==="all");$("review").classList.toggle("primary",mode==="review");
   $("position").textContent=c?(mode==="review"?"待记复习":"学习未掌握")+" · "+(index+1)+" / "+deck.length:"当前没有待学词卡";
   $("label").textContent=flipped?"中文释义":"ENGLISH";
-  loadingCard=!!c;
-  $("image-loading").hidden=!loadingCard;
-  $("card").setAttribute("aria-busy",String(loadingCard));
-  loadImage(c?c.image:null,source=>{
-    if(ticket!==renderTicket)return;
-    loadingCard=false;$("image-loading").hidden=true;$("card").setAttribute("aria-busy","false");
-    renderCardWord(c);
-    const picture=$("picture");picture.hidden=!source;
-    if(source&&picture.getAttribute("src")!==source)picture.src=source;
-    if(!source)picture.removeAttribute("src");
-    picture.alt=c?c.chinese+"商品图片":"";
-    $("image-placeholder").hidden=!!source||!c;
-    for(const id of ["again","remember","card"])$(id).disabled=!c;
-    if(c&&!flipped&&autoSpeak&&lastAutoSpokenKey!==c.key){lastAutoSpokenKey=c.key;speakText(c.english,false);}
-    for(let offset=1;offset<=3;offset++){const next=deck[index+offset];if(next)loadImage(next.image,()=>{});}
-  });
+  renderCardWord(c);
+  const productLink=$("product-link");productLink.hidden=!c||!c.productUrl;
+  if(c&&c.productUrl)productLink.href=c.productUrl;else productLink.removeAttribute("href");
+  if(c&&!flipped&&autoSpeak&&lastAutoSpokenKey!==c.key){lastAutoSpokenKey=c.key;speakText(c.english,false);}
   $("context").textContent=c?c.categoryLabel:(!current.length?"请选择其他分类。":"已掌握词不会重复出现，可选择其他分类继续学习。");
   $("hint").textContent=c?(flipped?"按 1 标记待记 · 按 2 标记掌握":"点击卡片查看中文 · 空格翻面"):"";
-  $("card").disabled=!c||loadingCard;$("card").setAttribute("aria-label",flipped?"显示英文单词":"显示中文答案");
-  for(const id of ["again","remember"])$(id).disabled=!c||loadingCard;
+  $("card").disabled=!c;$("card").setAttribute("aria-label",flipped?"显示英文单词":"显示中文答案");
+  for(const id of ["again","remember"])$(id).disabled=!c;
   $("shuffle").disabled=!c;
   $("previous").disabled=!c||index===0;$("next").disabled=!c||index===deck.length-1;
 }
 function move(delta) { index=Math.max(0,Math.min(deck.length-1,index+delta));flipped=false;render(); }
 function mark(value) {
-  const c=deck[index];if(!c||loadingCard)return;
+  const c=deck[index];if(!c)return;
   marks[c.key]=value;markTimes[c.key]=Math.max(Date.now(),Number(markTimes[c.key]||0)+1);if(window.Cloud)window.Cloud.changed();$("status").textContent=c.english+(value==="known"?" 已标记掌握。":" 已加入待记。");
   if(value==="known"){deck.splice(index,1);index=Math.min(index,Math.max(0,deck.length-1));}
   else if(index<deck.length-1)index++;
@@ -237,7 +207,8 @@ if(window.AndroidApp&&typeof window.AndroidApp.refreshSpeechData==="function"){$
 $("auto-speak").checked=autoSpeak;
 $("auto-speak").onchange=()=>{autoSpeak=$("auto-speak").checked;localStorage.setItem(autoSpeakKey,String(autoSpeak));$("auto-speak-status").textContent=autoSpeak?"已开启：进入新卡片时自动朗读完整词组。":"已关闭自动朗读。";};
 $("category").onchange=()=>{selected=$("category").value;mode="all";$("status").textContent="";$("search").value="";buildDeck();persist();};
-$("card").onclick=()=>{if(deck.length&&!loadingCard){flipped=!flipped;render();}};
+$("card").onclick=()=>{if(deck.length){flipped=!flipped;render();}};
+$("product-link").onclick=event=>event.stopPropagation();
 $("card").onkeydown=event=>{if((event.key==="Enter"||event.key===" ")&&event.target===$("card")){event.preventDefault();$("card").click();}};
 $("previous").onclick=()=>move(-1);$("next").onclick=()=>move(1);
 $("again").onclick=()=>mark("again");$("remember").onclick=()=>mark("known");
@@ -274,7 +245,7 @@ $("update").onclick=async()=>{
 document.addEventListener("keydown",event=>{
   if($("study-panel").hidden)return;
   if(event.target.matches("input,textarea,button,select")||event.ctrlKey||event.altKey||event.metaKey)return;
-  if(event.code==="Space"){event.preventDefault();if(deck.length&&!loadingCard){flipped=!flipped;render();}}
+  if(event.code==="Space"){event.preventDefault();if(deck.length){flipped=!flipped;render();}}
   if(event.key==="ArrowRight")move(1);if(event.key==="ArrowLeft")move(-1);
   if(event.key==="1")mark("again");if(event.key==="2")mark("known");
 });
